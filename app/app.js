@@ -1,5 +1,6 @@
 const AWS = require("aws-sdk");
 const fs = require("fs");
+const zlib = require("zlib");
 
 exports.handler = async (event, context) => {
   console.log(JSON.stringify(event));
@@ -16,7 +17,7 @@ exports.handler = async (event, context) => {
         isBase64Encoded: false,
         statusCode: 200,
         headers: { "content-type": "application/json" },
-        body: JSON.stringify(JSON.parse(metadata.toString())),
+        body: JSON.stringify(zlib.gzipSync(metadata).toString("base64")),
       };
     } catch (e) {
       console.log(JSON.stringify(e, ["name", "message", "stack"]));
