@@ -16,8 +16,11 @@ exports.handler = async (event, context) => {
         cookies: [],
         isBase64Encoded: false,
         statusCode: 200,
-        headers: { "content-type": "application/json" },
-        body: JSON.stringify(zlib.gzipSync(metadata).toString("base64")),
+        headers: {
+          "content-type": "application/json",
+          "content-encoding": "gzip",
+        },
+        body: zlib.gzipSync(metadata).toString("base64"),
       };
     } catch (e) {
       console.log(JSON.stringify(e, ["name", "message", "stack"]));
