@@ -32,7 +32,7 @@ jobs:
 
       - name: Terraform Init ✨
         id: init
-        run: terraform init -upgrade -var 'library_api_key=${{ secrets.LIBRARY_API_KEY }}'
+        run: terraform init -upgrade
         working-directory: ./terraform
 
       - name: Save Lambda function name to Environment Variables 💾
