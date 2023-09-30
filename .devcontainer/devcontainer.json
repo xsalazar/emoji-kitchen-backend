@@ -1,0 +1,18 @@
+{
+  "image": "node:18",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "esbenp.prettier-vscode",
+        "hashicorp.terraform",
+        "streetsidesoftware.code-spell-checker",
+        "GitHub.vscode-github-actions"
+      ]
+    }
+  },
+  "features": {
+    "ghcr.io/devcontainers/features/terraform": {
+      "version": "1.1.2"
+    }
+  }
+}
