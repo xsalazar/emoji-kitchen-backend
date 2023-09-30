@@ -14,7 +14,7 @@ exports.handler = async (event, context) => {
     try {
       return {
         cookies: [],
-        isBase64Encoded: false,
+        isBase64Encoded: true,
         statusCode: 200,
         headers: {
           "content-type": "application/json",
