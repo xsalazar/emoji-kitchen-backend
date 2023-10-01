@@ -17,7 +17,7 @@ exports.handler = async (event, context) => {
     event.requestContext.http.method === "GET"
   ) {
     // Get image from internet
-    var response = await axios.get(imageSource, {
+    var response = await axios.get(event.queryStringParameters.imageSource, {
       responseType: "arraybuffer",
     });
 
