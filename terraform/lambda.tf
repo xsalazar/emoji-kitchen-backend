@@ -4,8 +4,8 @@ resource "aws_lambda_function" "instance" {
   role          = aws_iam_role.instance.arn
   handler       = "app.handler"
   runtime       = "nodejs18.x"
-  timeout       = 60  // seconds
-  memory_size   = 512 // MB
+  timeout       = 60   // seconds
+  memory_size   = 2048 // MB
 
   // Since CI/CD will deploy this application externally, these do not need to be tracked after creation
   lifecycle {
