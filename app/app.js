@@ -7,26 +7,34 @@ exports.handler = async (event, context) => {
   console.log(JSON.stringify(event));
   const bucketName = "xsalazar-emoji-kitchen-data";
 
-  // Handle bulk download requests
+  // Handle search queries
   if (
     event.queryStringParameters &&
-    event.queryStringParameters.imageSource &&
-    event.queryStringParameters.imageSource.startsWith(
-      "https://www.gstatic.com/android/keyboard/emojikitchen"
-    ) &&
+    event.queryStringParameters.q &&
     event.requestContext.http.method === "GET"
   ) {
-    // Get image from internet
-    var response = await axios.get(event.queryStringParameters.imageSource, {
-      responseType: "arraybuffer",
-    });
+    const query = event.queryStringParameters.q;
+
+    // Some sanity checks
+    if (!query || query.trim() === 0) {
+      return;
+    }
+
+    const metadata = fs.readFileSync(`./metadata.json`);
+
+    const results = metadata.data.filter(
+      (e) =>
+        e.alt.contains(query) || // If alt contains the query
+        e.emoji.contains(query) || // Is emoji
+        e.keywords.some((keyword) => keyword.contains(query)) // Any keywords contains query
+    );
 
     return {
       cookies: [],
       isBase64Encoded: true,
       statusCode: 200,
-      headers: { "content-type": "application/octet-stream" },
-      body: Buffer.from(response.data, "binary").toString("base64"),
+      headers: { "content-type": "application/json" },
+      body: JSON.stringify(results),
     };
   }
 
