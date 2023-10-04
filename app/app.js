@@ -22,12 +22,15 @@ exports.handler = async (event, context) => {
 
     const metadata = JSON.parse(fs.readFileSync(`./metadata.json`));
 
-    const results = metadata.data.filter(
-      (e) =>
-        e.alt.contains(query) || // If alt contains the query
-        e.emoji.contains(query) || // Is emoji
-        e.keywords.some((keyword) => keyword.contains(query)) // Any keywords contains query
-    );
+    const emojis = Object.values(metadata.data);
+    const results = emojis
+      .filter(
+        (e) =>
+          e.alt.includes(query) || // If alt contains the query
+          e.emoji.includes(query) || // Is emoji
+          e.keywords.some((keyword) => keyword.includes(query)) // Any keywords contains query
+      )
+      .map((r) => r.emojiCodepoint);
 
     return {
       cookies: [],
