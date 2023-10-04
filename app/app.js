@@ -20,7 +20,7 @@ exports.handler = async (event, context) => {
       return;
     }
 
-    const metadata = fs.readFileSync(`./metadata.json`);
+    const metadata = JSON.parse(fs.readFileSync(`./metadata.json`));
 
     const results = metadata.data.filter(
       (e) =>
