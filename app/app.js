@@ -16,7 +16,7 @@ exports.handler = async (event, context) => {
     const query = event.queryStringParameters.q;
 
     // Some sanity checks
-    if (!query || query.trim() === 0) {
+    if (!query || query.trim() === 0 || query.length > 128) {
       return;
     }
 
