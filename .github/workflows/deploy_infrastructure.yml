@@ -25,7 +25,7 @@ jobs:
           aws-region: us-west-2
 
       - name: Setup Terraform 🏗
-        uses: hashicorp/setup-terraform@v2.0.3
+        uses: hashicorp/setup-terraform@v3.0.0
         with:
           terraform_version: 1.1.2
           terraform_wrapper: false # Necessary to access output
