@@ -1,11 +1,8 @@
-const AWS = require("aws-sdk");
-const axios = require("axios");
 const fs = require("fs");
 const zlib = require("zlib");
 
 exports.handler = async (event, context) => {
   console.log(JSON.stringify(event));
-  const bucketName = "xsalazar-emoji-kitchen-data";
 
   // Handle search queries
   if (
@@ -20,7 +17,7 @@ exports.handler = async (event, context) => {
       return;
     }
 
-    const metadata = JSON.parse(fs.readFileSync(`./metadata.json`));
+    const metadata = JSON.parse(fs.readFileSync(`./keywords.json`));
 
     const emojis = Object.values(metadata.data);
     const results = emojis
@@ -42,8 +39,6 @@ exports.handler = async (event, context) => {
   }
 
   if (event.requestContext.http.method === "GET") {
-    const s3 = new AWS.S3();
-
     const metadata = fs.readFileSync(`./metadata.json`);
 
     try {
