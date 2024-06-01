@@ -37,31 +37,4 @@ exports.handler = async (event, context) => {
       body: JSON.stringify(results),
     };
   }
-
-  if (event.requestContext.http.method === "GET") {
-    const metadata = fs.readFileSync(`./metadata.json`);
-
-    try {
-      return {
-        cookies: [],
-        isBase64Encoded: true,
-        statusCode: 200,
-        headers: {
-          "content-type": "application/json",
-          "content-encoding": "gzip",
-        },
-        body: zlib.gzipSync(metadata).toString("base64"),
-      };
-    } catch (e) {
-      console.log(JSON.stringify(e, ["name", "message", "stack"]));
-
-      return {
-        cookies: [],
-        isBase64Encoded: false,
-        statusCode: 500,
-        headers: {},
-        body: "",
-      };
-    }
-  }
 };
