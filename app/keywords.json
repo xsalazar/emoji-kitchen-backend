@@ -148,7 +148,6 @@
         "1f49e",
         "1f495",
         "1f48c",
-        "1f49f",
         "2763-fe0f",
         "2764-fe0f-200d-1fa79",
         "1f494",
@@ -395,7 +394,6 @@
         "26fd",
         "1f6df",
         "2693",
-        "1f687",
         "1f6a6",
         "1f6f4",
         "1f6b2",
@@ -409,8 +407,6 @@
         "1f68c",
         "1f682",
         "1f6f6",
-        "1f6a0",
-        "1f6a1",
         "1f6f8",
         "1f680",
         "2708-fe0f",
@@ -508,12 +504,8 @@
         "1fa97",
         "1f3a4",
         "1f3a7",
-        "1f39a-fe0f",
-        "1f39b-fe0f",
         "1f399-fe0f",
-        "1f4fb",
         "1f4fa",
-        "1f4fc",
         "1f39e-fe0f",
         "1f3ac",
         "1f3ad",
@@ -538,8 +530,6 @@
         "1f6cb-fe0f",
         "1f9f9",
         "1f9fc",
-        "1fa92",
-        "1faae",
         "1f9fa",
         "1f9e6",
         "1f455",
@@ -562,7 +552,6 @@
         "1f52c",
         "1f9f2",
         "1f6e0-fe0f",
-        "26cf-fe0f",
         "2699-fe0f",
         "26d3-fe0f",
         "1f587-fe0f",
@@ -626,17 +615,9 @@
         "1f197",
         "1f192",
         "1f522",
-        "1f6ae",
         "262e-fe0f",
         "262f-fe0f",
         "267e-fe0f",
-        "2716-fe0f",
-        "2795",
-        "2796",
-        "2797",
-        "27b0",
-        "27bf",
-        "3030-fe0f",
         "a9-fe0f",
         "ae-fe0f",
         "2122-fe0f",
@@ -817,54 +798,6 @@
             ],
             "category": "symbols",
             "subcategory": "punctuation"
-        },
-        "2795": {
-            "alt": "heavy_plus_sign",
-            "emoji": "➕",
-            "emojiCodepoint": "2795",
-            "gBoardOrder": 631,
-            "keywords": [
-                "plus_sign",
-                "math",
-                "calculation",
-                "addition",
-                "more",
-                "increase",
-                "heavy_plus_sign"
-            ],
-            "category": "symbols",
-            "subcategory": "math"
-        },
-        "2796": {
-            "alt": "heavy_minus_sign",
-            "emoji": "➖",
-            "emojiCodepoint": "2796",
-            "gBoardOrder": 632,
-            "keywords": [
-                "minus_sign",
-                "math",
-                "calculation",
-                "subtract",
-                "less",
-                "heavy_minus_sign"
-            ],
-            "category": "symbols",
-            "subcategory": "math"
-        },
-        "2797": {
-            "alt": "heavy_division_sign",
-            "emoji": "➗",
-            "emojiCodepoint": "2797",
-            "gBoardOrder": 633,
-            "keywords": [
-                "division_sign",
-                "divide",
-                "math",
-                "calculation",
-                "heavy_division_sign"
-            ],
-            "category": "symbols",
-            "subcategory": "math"
         },
         "1f307": {
             "alt": "city_sunrise",
@@ -1749,20 +1682,6 @@
                 "like",
                 "affection",
                 "valentines"
-            ],
-            "category": "smileys & emotion",
-            "subcategory": "heart"
-        },
-        "1f49f": {
-            "alt": "heart_decoration",
-            "emoji": "💟",
-            "emojiCodepoint": "1f49f",
-            "gBoardOrder": 148,
-            "keywords": [
-                "heart_decoration",
-                "purple-square",
-                "love",
-                "like"
             ],
             "category": "smileys & emotion",
             "subcategory": "heart"
@@ -4987,30 +4906,6 @@
             "category": "objects",
             "subcategory": "music"
         },
-        "1f39a-fe0f": {
-            "alt": "level_slider",
-            "emoji": "🎚️",
-            "emojiCodepoint": "1f39a-fe0f",
-            "gBoardOrder": 508,
-            "keywords": [
-                "level_slider",
-                "scale"
-            ],
-            "category": "objects",
-            "subcategory": "music"
-        },
-        "1f39b-fe0f": {
-            "alt": "control_knobs",
-            "emoji": "🎛️",
-            "emojiCodepoint": "1f39b-fe0f",
-            "gBoardOrder": 509,
-            "keywords": [
-                "control_knobs",
-                "dial"
-            ],
-            "category": "objects",
-            "subcategory": "music"
-        },
         "1f39e-fe0f": {
             "alt": "film_frames",
             "emoji": "🎞️",
@@ -6230,38 +6125,6 @@
             "category": "objects",
             "subcategory": "light & video"
         },
-        "1f4fb": {
-            "alt": "radio",
-            "emoji": "📻",
-            "emojiCodepoint": "1f4fb",
-            "gBoardOrder": 511,
-            "keywords": [
-                "radio",
-                "communication",
-                "music",
-                "podcast",
-                "program"
-            ],
-            "category": "objects",
-            "subcategory": "music"
-        },
-        "1f4fc": {
-            "alt": "vhs",
-            "emoji": "📼",
-            "emojiCodepoint": "1f4fc",
-            "gBoardOrder": 513,
-            "keywords": [
-                "videocassette",
-                "record",
-                "video",
-                "oldschool",
-                "90s",
-                "80s",
-                "vhs"
-            ],
-            "category": "objects",
-            "subcategory": "light & video"
-        },
         "1f508": {
             "alt": "speaker",
             "emoji": "🔈",
@@ -6621,22 +6484,6 @@
             ],
             "category": "travel & places",
             "subcategory": "transport-ground"
-        },
-        "1f6ae": {
-            "alt": "put_litter_in_its_place",
-            "emoji": "🚮",
-            "emojiCodepoint": "1f6ae",
-            "gBoardOrder": 626,
-            "keywords": [
-                "litter_in_bin_sign",
-                "blue-square",
-                "sign",
-                "human",
-                "info",
-                "put_litter_in_its_place"
-            ],
-            "category": "symbols",
-            "subcategory": "transport-sign"
         },
         "1f6cb-fe0f": {
             "alt": "couch_and_lamp",
@@ -7917,18 +7764,6 @@
             "category": "travel & places",
             "subcategory": "sky & weather"
         },
-        "1fa92": {
-            "alt": "razor",
-            "emoji": "🪒",
-            "emojiCodepoint": "1fa92",
-            "gBoardOrder": 538,
-            "keywords": [
-                "razor",
-                "cut"
-            ],
-            "category": "objects",
-            "subcategory": "household"
-        },
         "1fa95": {
             "alt": "banjo",
             "emoji": "🪕",
@@ -8020,20 +7855,6 @@
             ],
             "category": "objects",
             "subcategory": "computer"
-        },
-        "1faae": {
-            "alt": "hair_pick",
-            "emoji": "🪮",
-            "emojiCodepoint": "1faae",
-            "gBoardOrder": 539,
-            "keywords": [
-                "hair pick",
-                "afro",
-                "comb",
-                "hair_pick"
-            ],
-            "category": "objects",
-            "subcategory": "clothing"
         },
         "1fab2": {
             "alt": "beetle",
@@ -8819,19 +8640,6 @@
             "category": "symbols",
             "subcategory": "zodiac"
         },
-        "26cf-fe0f": {
-            "alt": "pick",
-            "emoji": "⛏️",
-            "emojiCodepoint": "26cf-fe0f",
-            "gBoardOrder": 562,
-            "keywords": [
-                "pick",
-                "tools",
-                "dig"
-            ],
-            "category": "objects",
-            "subcategory": "tool"
-        },
         "26d3-fe0f": {
             "alt": "chains",
             "emoji": "⛓️",
@@ -8935,20 +8743,6 @@
             "category": "objects",
             "subcategory": "writing"
         },
-        "2716-fe0f": {
-            "alt": "heavy_multiplication_x",
-            "emoji": "✖️",
-            "emojiCodepoint": "2716-fe0f",
-            "gBoardOrder": 630,
-            "keywords": [
-                "multiplication_sign",
-                "math",
-                "calculation",
-                "heavy_multiplication_x"
-            ],
-            "category": "symbols",
-            "subcategory": "math"
-        },
         "2764-fe0f": {
             "alt": "heart",
             "emoji": "❤️",
@@ -8963,52 +8757,6 @@
             ],
             "category": "smileys & emotion",
             "subcategory": "heart"
-        },
-        "27b0": {
-            "alt": "curly_loop",
-            "emoji": "➰",
-            "emojiCodepoint": "27b0",
-            "gBoardOrder": 634,
-            "keywords": [
-                "curly_loop",
-                "scribble",
-                "draw",
-                "shape",
-                "squiggle"
-            ],
-            "category": "symbols",
-            "subcategory": "other-symbol"
-        },
-        "27bf": {
-            "alt": "loop",
-            "emoji": "➿",
-            "emojiCodepoint": "27bf",
-            "gBoardOrder": 635,
-            "keywords": [
-                "double_curly_loop",
-                "tape",
-                "cassette",
-                "loop"
-            ],
-            "category": "symbols",
-            "subcategory": "other-symbol"
-        },
-        "3030-fe0f": {
-            "alt": "wavy_dash",
-            "emoji": "〰️",
-            "emojiCodepoint": "3030-fe0f",
-            "gBoardOrder": 636,
-            "keywords": [
-                "wavy_dash",
-                "draw",
-                "line",
-                "moustache",
-                "mustache",
-                "squiggle",
-                "scribble"
-            ],
-            "category": "symbols",
-            "subcategory": "punctuation"
         },
         "1f3b0": {
             "alt": "slot_machine",
@@ -9521,22 +9269,6 @@
             "category": "travel & places",
             "subcategory": "transport-ground"
         },
-        "1f687": {
-            "alt": "metro",
-            "emoji": "🚇",
-            "emojiCodepoint": "1f687",
-            "gBoardOrder": 395,
-            "keywords": [
-                "metro",
-                "transportation",
-                "blue-square",
-                "mrt",
-                "underground",
-                "tube"
-            ],
-            "category": "travel & places",
-            "subcategory": "transport-ground"
-        },
         "1f6a6": {
             "alt": "vertical_traffic_light",
             "emoji": "🚦",
@@ -9638,34 +9370,6 @@
             ],
             "category": "travel & places",
             "subcategory": "transport-ground"
-        },
-        "1f6a0": {
-            "alt": "mountain_cableway",
-            "emoji": "🚠",
-            "emojiCodepoint": "1f6a0",
-            "gBoardOrder": 409,
-            "keywords": [
-                "mountain_cableway",
-                "transportation",
-                "vehicle",
-                "ski"
-            ],
-            "category": "travel & places",
-            "subcategory": "transport-air"
-        },
-        "1f6a1": {
-            "alt": "aerial_tramway",
-            "emoji": "🚡",
-            "emojiCodepoint": "1f6a1",
-            "gBoardOrder": 410,
-            "keywords": [
-                "aerial_tramway",
-                "transportation",
-                "vehicle",
-                "ski"
-            ],
-            "category": "travel & places",
-            "subcategory": "transport-air"
         },
         "1f3a0": {
             "alt": "carousel_horse",
