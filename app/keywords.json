@@ -242,8 +242,10 @@
         "1f984",
         "1f409",
         "1f422",
+        "1f40d",
         "1f438",
         "1f429",
+        "1f40e",
         "1f410",
         "1f98c",
         "1f999",
@@ -10050,6 +10052,37 @@
             ],
             "category": "travel & places",
             "subcategory": "place-other"
+        },
+        "1f40e": {
+            "alt": "racehorse",
+            "emoji": "🐎",
+            "emojiCodepoint": "1f40e",
+            "gBoardOrder": 245,
+            "keywords": [
+                "horse",
+                "animal",
+                "gamble",
+                "luck",
+                "racehorse"
+            ],
+            "category": "animals & nature",
+            "subcategory": "animal-mammal"
+        },
+        "1f40d": {
+            "alt": "snake",
+            "emoji": "🐍",
+            "emojiCodepoint": "1f40d",
+            "gBoardOrder": 242,
+            "keywords": [
+                "snake",
+                "animal",
+                "evil",
+                "nature",
+                "hiss",
+                "python"
+            ],
+            "category": "animals & nature",
+            "subcategory": "animal-reptile"
         }
     }
 }
