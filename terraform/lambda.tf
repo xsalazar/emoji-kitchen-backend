@@ -10,9 +10,7 @@ resource "aws_lambda_function" "instance" {
   // Since CI/CD will deploy this application externally, these do not need to be tracked after creation
   lifecycle {
     ignore_changes = [
-      last_modified,
       source_code_hash,
-      source_code_size
     ]
   }
 }
