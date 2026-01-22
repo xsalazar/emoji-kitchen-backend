@@ -1,5 +1,4 @@
 const fs = require("fs");
-const zlib = require("zlib");
 
 exports.handler = async (event, context) => {
   console.log(JSON.stringify(event));
@@ -17,6 +16,8 @@ exports.handler = async (event, context) => {
       return;
     }
 
+    console.log(`__extra_query=${query.trim()}`);
+
     const metadata = JSON.parse(fs.readFileSync(`./keywords.json`));
 
     const emojis = Object.values(metadata.data);
@@ -25,7 +26,7 @@ exports.handler = async (event, context) => {
         (e) =>
           e.alt.includes(query) || // If alt contains the query
           e.emoji.includes(query) || // Is emoji
-          e.keywords.some((keyword) => keyword.includes(query)) // Any keywords contains query
+          e.keywords.some((keyword) => keyword.includes(query)), // Any keywords contains query
       )
       .map((r) => r.emojiCodepoint);
 
