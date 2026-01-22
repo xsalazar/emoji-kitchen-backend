@@ -16,10 +16,6 @@ exports.handler = async (event, context) => {
       return;
     }
 
-    console.log(JSON.stringify({
-      "query": query.trim()
-    }));
-
     const metadata = JSON.parse(fs.readFileSync(`./keywords.json`));
 
     const emojis = Object.values(metadata.data);
