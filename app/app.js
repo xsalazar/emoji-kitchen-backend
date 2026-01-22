@@ -16,7 +16,9 @@ exports.handler = async (event, context) => {
       return;
     }
 
-    console.log(`__extra_query=${query.trim()}`);
+    console.log(JSON.stringify({
+      "query": query.trim()
+    }));
 
     const metadata = JSON.parse(fs.readFileSync(`./keywords.json`));
 
