@@ -26,6 +26,10 @@ output "lambda_function" {
   value = aws_lambda_function.instance.function_name
 }
 
+output "search_api_lambda_function" {
+  value = aws_lambda_function.search_api.function_name
+}
+
 output "supported_emoji_api_lambda_function" {
   value = aws_lambda_function.supported_emoji_api.function_name
 }

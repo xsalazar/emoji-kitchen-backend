@@ -59,6 +59,21 @@ resource "aws_lambda_permission" "lambda_proxy_permission" {
   source_arn    = "${aws_apigatewayv2_api.instance.execution_arn}/*/*/*"
 }
 
+// GET /search permissions
+resource "aws_lambda_permission" "search_api_root_permission" {
+  action        = "lambda:InvokeFunction"
+  function_name = aws_lambda_function.search_api.function_name
+  principal     = "apigateway.amazonaws.com"
+  source_arn    = "${aws_apigatewayv2_api.instance.execution_arn}/*/*/"
+}
+
+resource "aws_lambda_permission" "search_api_proxy_permission" {
+  action        = "lambda:InvokeFunction"
+  function_name = aws_lambda_function.search_api.function_name
+  principal     = "apigateway.amazonaws.com"
+  source_arn    = "${aws_apigatewayv2_api.instance.execution_arn}/*/*/*"
+}
+
 // GET /supportedEmoji permissions
 resource "aws_lambda_permission" "supported_emoji_api_root_permission" {
   action        = "lambda:InvokeFunction"
