@@ -28,13 +28,6 @@ data "aws_iam_policy_document" "lambda_access_policy_document" {
     ]
     resources = ["*"]
   }
-
-  // For S3 access
-  statement {
-    effect    = "Allow"
-    actions   = ["s3:*"]
-    resources = ["${aws_s3_bucket.instance.arn}", "${aws_s3_bucket.instance.arn}/*"]
-  }
 }
 
 resource "aws_iam_role" "instance" {
