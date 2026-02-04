@@ -38,7 +38,7 @@ resource "aws_lambda_function" "supported_emoji" {
   }
 }
 
-resource "aws_cloudwatch_log_group" "instance" {
+resource "aws_cloudwatch_log_group" "supported_emoji_cloudwatch_log_group" {
   name              = "/aws/lambda/${aws_lambda_function.supported_emoji.function_name}"
   retention_in_days = 30 // days
 }
