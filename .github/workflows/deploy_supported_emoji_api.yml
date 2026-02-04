@@ -1,4 +1,4 @@
-name: Deploy Supported Emoji
+name: Deploy Supported Emoji API
 
 on:
   push:
@@ -10,7 +10,7 @@ on:
 
 jobs:
   job:
-    name: Deploy Supported Emoji
+    name: Deploy Supported Emoji API
     runs-on: ubuntu-latest
 
     steps:
@@ -36,7 +36,7 @@ jobs:
         working-directory: ./terraform
 
       - name: Save Lambda function name to Environment Variables 💾
-        run: echo "LAMBDA_FUNCTION_NAME=$(terraform output -raw supported_emoji_lambda_function)" >> $GITHUB_ENV
+        run: echo "LAMBDA_FUNCTION_NAME=$(terraform output -raw supported_emoji_api_lambda_function)" >> $GITHUB_ENV
         working-directory: ./terraform
 
       - name: Setup Node 🏗

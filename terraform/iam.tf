@@ -67,16 +67,16 @@ resource "aws_lambda_permission" "lambda_proxy_permission" {
 }
 
 // GET /supportedEmoji permissions
-resource "aws_lambda_permission" "supported_emoji_root_permission" {
+resource "aws_lambda_permission" "supported_emoji_api_root_permission" {
   action        = "lambda:InvokeFunction"
-  function_name = aws_lambda_function.supported_emoji.function_name
+  function_name = aws_lambda_function.supported_emoji_api.function_name
   principal     = "apigateway.amazonaws.com"
   source_arn    = "${aws_apigatewayv2_api.instance.execution_arn}/*/*/"
 }
 
-resource "aws_lambda_permission" "supported_emoji_proxy_permission" {
+resource "aws_lambda_permission" "supported_emoji_api_proxy_permission" {
   action        = "lambda:InvokeFunction"
-  function_name = aws_lambda_function.supported_emoji.function_name
+  function_name = aws_lambda_function.supported_emoji_api.function_name
   principal     = "apigateway.amazonaws.com"
   source_arn    = "${aws_apigatewayv2_api.instance.execution_arn}/*/*/*"
 }

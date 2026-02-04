@@ -21,8 +21,8 @@ resource "aws_cloudwatch_log_group" "instance" {
 }
 
 // Lambda handler for GET /supportedEmoji
-resource "aws_lambda_function" "supported_emoji" {
-  function_name = "emoji-kitchen-supported-emoji"
+resource "aws_lambda_function" "supported_emoji_api" {
+  function_name = "emoji-kitchen-supported-emoji-api"
   filename      = "${path.module}/dummy-lambda-package/lambda.zip" // Simple hello world application
   role          = aws_iam_role.instance.arn
   handler       = "app.handler"
@@ -38,8 +38,8 @@ resource "aws_lambda_function" "supported_emoji" {
   }
 }
 
-resource "aws_cloudwatch_log_group" "supported_emoji_cloudwatch_log_group" {
-  name              = "/aws/lambda/${aws_lambda_function.supported_emoji.function_name}"
+resource "aws_cloudwatch_log_group" "supported_emoji_api_cloudwatch_log_group" {
+  name              = "/aws/lambda/${aws_lambda_function.supported_emoji_api.function_name}"
   retention_in_days = 30 // days
 }
 
