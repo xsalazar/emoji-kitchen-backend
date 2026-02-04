@@ -1,0 +1,3727 @@
+{
+  "alt": "beetle",
+  "emoji": "🪲",
+  "emojiCodepoint": "1fab2",
+  "gBoardOrder": 276,
+  "keywords": [
+    "beetle",
+    "insect",
+    "bug"
+  ],
+  "category": "animals & nature",
+  "subcategory": "animal-bug",
+  "combinations": {
+    "2615": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u2615/u2615_u1fab2.png",
+        "alt": "coffee-beetle",
+        "leftEmoji": "☕",
+        "leftEmojiCodepoint": "2615",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 378
+      }
+    ],
+    "2705": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u2705/u2705_u1fab2.png",
+        "alt": "white_check_mark-beetle",
+        "leftEmoji": "✅",
+        "leftEmojiCodepoint": "2705",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 619
+      }
+    ],
+    "2753": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u2753/u2753_u1fab2.png",
+        "alt": "question-beetle",
+        "leftEmoji": "❓",
+        "leftEmojiCodepoint": "2753",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 608
+      }
+    ],
+    "2757": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240610/u2757/u2757_u1fab2.png",
+        "alt": "exclamation-beetle",
+        "leftEmoji": "❗",
+        "leftEmojiCodepoint": "2757",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240610",
+        "isLatest": true,
+        "gBoardOrder": 607
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u2757/u2757_u1fab2.png",
+        "alt": "exclamation-beetle",
+        "leftEmoji": "❗",
+        "leftEmojiCodepoint": "2757",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240206",
+        "isLatest": false,
+        "gBoardOrder": 607
+      }
+    ],
+    "1fa84": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220506/u1fa84/u1fa84_u1fab2.png",
+        "alt": "magic_wand-beetle",
+        "leftEmoji": "🪄",
+        "leftEmojiCodepoint": "1fa84",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20220506",
+        "isLatest": true,
+        "gBoardOrder": 0
+      }
+    ],
+    "1f602": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230301/u1f602/u1f602_u1fab2.png",
+        "alt": "joy-beetle",
+        "leftEmoji": "😂",
+        "leftEmojiCodepoint": "1f602",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20230301",
+        "isLatest": true,
+        "gBoardOrder": 7
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220506/u1f602/u1f602_u1fab2.png",
+        "alt": "joy-beetle",
+        "leftEmoji": "😂",
+        "leftEmojiCodepoint": "1f602",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20220506",
+        "isLatest": false,
+        "gBoardOrder": 7
+      }
+    ],
+    "1f618": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230301/u1f618/u1f618_u1fab2.png",
+        "alt": "kissing_heart-beetle",
+        "leftEmoji": "😘",
+        "leftEmojiCodepoint": "1f618",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20230301",
+        "isLatest": true,
+        "gBoardOrder": 14
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220506/u1f618/u1f618_u1fab2.png",
+        "alt": "kissing_heart-beetle",
+        "leftEmoji": "😘",
+        "leftEmojiCodepoint": "1f618",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20220506",
+        "isLatest": false,
+        "gBoardOrder": 14
+      }
+    ],
+    "1f970": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230301/u1f970/u1f970_u1fab2.png",
+        "alt": "smiling_face_with_3_hearts-beetle",
+        "leftEmoji": "🥰",
+        "leftEmojiCodepoint": "1f970",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20230301",
+        "isLatest": true,
+        "gBoardOrder": 15
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220506/u1f970/u1f970_u1fab2.png",
+        "alt": "smiling_face_with_3_hearts-beetle",
+        "leftEmoji": "🥰",
+        "leftEmojiCodepoint": "1f970",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20220506",
+        "isLatest": false,
+        "gBoardOrder": 15
+      }
+    ],
+    "1f60d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230301/u1f60d/u1f60d_u1fab2.png",
+        "alt": "heart_eyes-beetle",
+        "leftEmoji": "😍",
+        "leftEmojiCodepoint": "1f60d",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20230301",
+        "isLatest": true,
+        "gBoardOrder": 16
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220506/u1f60d/u1f60d_u1fab2.png",
+        "alt": "heart_eyes-beetle",
+        "leftEmoji": "😍",
+        "leftEmojiCodepoint": "1f60d",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20220506",
+        "isLatest": false,
+        "gBoardOrder": 16
+      }
+    ],
+    "1f614": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230301/u1f614/u1f614_u1fab2.png",
+        "alt": "pensive-beetle",
+        "leftEmoji": "😔",
+        "leftEmojiCodepoint": "1f614",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20230301",
+        "isLatest": true,
+        "gBoardOrder": 33
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220506/u1f614/u1f614_u1fab2.png",
+        "alt": "pensive-beetle",
+        "leftEmoji": "😔",
+        "leftEmojiCodepoint": "1f614",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20220506",
+        "isLatest": false,
+        "gBoardOrder": 33
+      }
+    ],
+    "1f97a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230301/u1f97a/u1f97a_u1fab2.png",
+        "alt": "pleading_face-beetle",
+        "leftEmoji": "🥺",
+        "leftEmojiCodepoint": "1f97a",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20230301",
+        "isLatest": true,
+        "gBoardOrder": 55
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220506/u1f97a/u1f97a_u1fab2.png",
+        "alt": "pleading_face-beetle",
+        "leftEmoji": "🥺",
+        "leftEmojiCodepoint": "1f97a",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20220506",
+        "isLatest": false,
+        "gBoardOrder": 55
+      }
+    ],
+    "1f60e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220815/u1f60e/u1f60e_u1fab2.png",
+        "alt": "sunglasses-beetle",
+        "leftEmoji": "😎",
+        "leftEmojiCodepoint": "1f60e",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20220815",
+        "isLatest": true,
+        "gBoardOrder": 103
+      }
+    ],
+    "1f47b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230216/u1f47b/u1f47b_u1fab2.png",
+        "alt": "ghost-beetle",
+        "leftEmoji": "👻",
+        "leftEmojiCodepoint": "1f47b",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20230216",
+        "isLatest": true,
+        "gBoardOrder": 108
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220506/u1f47b/u1f47b_u1fab2.png",
+        "alt": "ghost-beetle",
+        "leftEmoji": "👻",
+        "leftEmojiCodepoint": "1f47b",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20220506",
+        "isLatest": false,
+        "gBoardOrder": 108
+      }
+    ],
+    "1f916": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f916/u1f916_u1fab2.png",
+        "alt": "robot_face-beetle",
+        "leftEmoji": "🤖",
+        "leftEmojiCodepoint": "1f916",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 112
+      }
+    ],
+    "1f525": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f525/u1f525_u1fab2.png",
+        "alt": "fire-beetle",
+        "leftEmoji": "🔥",
+        "leftEmojiCodepoint": "1f525",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 118
+      }
+    ],
+    "2b50": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240610/u2b50/u2b50_u1fab2.png",
+        "alt": "star-beetle",
+        "leftEmoji": "⭐",
+        "leftEmojiCodepoint": "2b50",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240610",
+        "isLatest": true,
+        "gBoardOrder": 120
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u2b50/u2b50_u1fab2.png",
+        "alt": "star-beetle",
+        "leftEmoji": "⭐",
+        "leftEmojiCodepoint": "2b50",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20231113",
+        "isLatest": false,
+        "gBoardOrder": 120
+      }
+    ],
+    "1f31f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220506/u1f31f/u1f31f_u1fab2.png",
+        "alt": "star2-beetle",
+        "leftEmoji": "🌟",
+        "leftEmojiCodepoint": "1f31f",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20220506",
+        "isLatest": true,
+        "gBoardOrder": 121
+      }
+    ],
+    "1f4a5": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f4a5/u1f4a5_u1fab2.png",
+        "alt": "boom-beetle",
+        "leftEmoji": "💥",
+        "leftEmojiCodepoint": "1f4a5",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 122
+      }
+    ],
+    "1f4af": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f4af/u1f4af_u1fab2.png",
+        "alt": "100-beetle",
+        "leftEmoji": "💯",
+        "leftEmojiCodepoint": "1f4af",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 123
+      }
+    ],
+    "1f573-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f573-ufe0f/u1f573-ufe0f_u1fab2.png",
+        "alt": "hole-beetle",
+        "leftEmoji": "🕳️",
+        "leftEmojiCodepoint": "1f573-fe0f",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 125
+      }
+    ],
+    "1f38a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230127/u1f38a/u1f38a_u1fab2.png",
+        "alt": "confetti_ball-beetle",
+        "leftEmoji": "🎊",
+        "leftEmojiCodepoint": "1f38a",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20230127",
+        "isLatest": true,
+        "gBoardOrder": 126
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220506/u1f38a/u1f38a_u1fab2.png",
+        "alt": "confetti_ball-beetle",
+        "leftEmoji": "🎊",
+        "leftEmojiCodepoint": "1f38a",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20220506",
+        "isLatest": false,
+        "gBoardOrder": 126
+      }
+    ],
+    "2665-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220506/u2665-ufe0f/u2665-ufe0f_u1fab2.png",
+        "alt": "hearts-beetle",
+        "leftEmoji": "♥️",
+        "leftEmojiCodepoint": "2665-fe0f",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20220506",
+        "isLatest": true,
+        "gBoardOrder": 139
+      }
+    ],
+    "1f498": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220506/u1f498/u1f498_u1fab2.png",
+        "alt": "cupid-beetle",
+        "leftEmoji": "💘",
+        "leftEmojiCodepoint": "1f498",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20220506",
+        "isLatest": true,
+        "gBoardOrder": 140
+      }
+    ],
+    "1f497": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f497/u1f497_u1fab2.png",
+        "alt": "heartpulse-beetle",
+        "leftEmoji": "💗",
+        "leftEmojiCodepoint": "1f497",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 143
+      }
+    ],
+    "1f493": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220506/u1f493/u1f493_u1fab2.png",
+        "alt": "heartbeat-beetle",
+        "leftEmoji": "💓",
+        "leftEmojiCodepoint": "1f493",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20220506",
+        "isLatest": true,
+        "gBoardOrder": 144
+      }
+    ],
+    "1f49e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f49e/u1f49e_u1fab2.png",
+        "alt": "revolving_hearts-beetle",
+        "leftEmoji": "💞",
+        "leftEmojiCodepoint": "1f49e",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 145
+      }
+    ],
+    "1f495": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220506/u1f495/u1f495_u1fab2.png",
+        "alt": "two_hearts-beetle",
+        "leftEmoji": "💕",
+        "leftEmojiCodepoint": "1f495",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20220506",
+        "isLatest": true,
+        "gBoardOrder": 146
+      }
+    ],
+    "1f48c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f48c/u1f48c_u1fab2.png",
+        "alt": "love_letter-beetle",
+        "leftEmoji": "💌",
+        "leftEmojiCodepoint": "1f48c",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 147
+      }
+    ],
+    "2763-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220506/u2763-ufe0f/u2763-ufe0f_u1fab2.png",
+        "alt": "heavy_heart_exclamation_mark_ornament-beetle",
+        "leftEmoji": "❣️",
+        "leftEmojiCodepoint": "2763-fe0f",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20220506",
+        "isLatest": true,
+        "gBoardOrder": 149
+      }
+    ],
+    "1f48b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220815/u1f48b/u1f48b_u1fab2.png",
+        "alt": "kiss-beetle",
+        "leftEmoji": "💋",
+        "leftEmojiCodepoint": "1f48b",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20220815",
+        "isLatest": true,
+        "gBoardOrder": 152
+      }
+    ],
+    "1f441-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230418/u1f441-ufe0f/u1f441-ufe0f_u1fab2.png",
+        "alt": "eye-beetle",
+        "leftEmoji": "👁️",
+        "leftEmojiCodepoint": "1f441-fe0f",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20230418",
+        "isLatest": true,
+        "gBoardOrder": 167
+      }
+    ],
+    "1f44d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231128/u1f44d/u1f44d_u1fab2.png",
+        "alt": "+1-beetle",
+        "leftEmoji": "👍",
+        "leftEmojiCodepoint": "1f44d",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20231128",
+        "isLatest": true,
+        "gBoardOrder": 170
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f44d/u1f44d_u1fab2.png",
+        "alt": "+1-beetle",
+        "leftEmoji": "👍",
+        "leftEmojiCodepoint": "1f44d",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20230803",
+        "isLatest": false,
+        "gBoardOrder": 170
+      }
+    ],
+    "1f937": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220815/u1f937/u1f937_u1fab2.png",
+        "alt": "shrug-beetle",
+        "leftEmoji": "🤷",
+        "leftEmojiCodepoint": "1f937",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20220815",
+        "isLatest": true,
+        "gBoardOrder": 171
+      }
+    ],
+    "1fa82": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1fa82/u1fa82_u1fab2.png",
+        "alt": "parachute-beetle",
+        "leftEmoji": "🪂",
+        "leftEmojiCodepoint": "1fa82",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 172
+      }
+    ],
+    "1f4ae": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f4ae/u1f4ae_u1fab2.png",
+        "alt": "white_flower-beetle",
+        "leftEmoji": "💮",
+        "leftEmojiCodepoint": "1f4ae",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 180
+      }
+    ],
+    "1f30a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230418/u1f30a/u1f30a_u1fab2.png",
+        "alt": "ocean-beetle",
+        "leftEmoji": "🌊",
+        "leftEmojiCodepoint": "1f30a",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20230418",
+        "isLatest": true,
+        "gBoardOrder": 204
+      }
+    ],
+    "1f32a-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f32a-ufe0f/u1f32a-ufe0f_u1fab2.png",
+        "alt": "tornado-beetle",
+        "leftEmoji": "🌪️",
+        "leftEmojiCodepoint": "1f32a-fe0f",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 207
+      }
+    ],
+    "1f30b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f30b/u1f30b_u1fab2.png",
+        "alt": "volcano-beetle",
+        "leftEmoji": "🌋",
+        "leftEmojiCodepoint": "1f30b",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 208
+      }
+    ],
+    "1f304": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f304/u1f304_u1fab2.png",
+        "alt": "sunrise_over_mountains-beetle",
+        "leftEmoji": "🌄",
+        "leftEmojiCodepoint": "1f304",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 211
+      }
+    ],
+    "2601-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231128/u2601-ufe0f/u2601-ufe0f_u1fab2.png",
+        "alt": "cloud-beetle",
+        "leftEmoji": "☁️",
+        "leftEmojiCodepoint": "2601-fe0f",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20231128",
+        "isLatest": true,
+        "gBoardOrder": 213
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220506/u2601-ufe0f/u2601-ufe0f_u1fab2.png",
+        "alt": "cloud-beetle",
+        "leftEmoji": "☁️",
+        "leftEmojiCodepoint": "2601-fe0f",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20220506",
+        "isLatest": false,
+        "gBoardOrder": 213
+      }
+    ],
+    "1f327-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20221101/u1f327-ufe0f/u1f327-ufe0f_u1fab2.png",
+        "alt": "rain_cloud-beetle",
+        "leftEmoji": "🌧️",
+        "leftEmojiCodepoint": "1f327-fe0f",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20221101",
+        "isLatest": true,
+        "gBoardOrder": 214
+      }
+    ],
+    "2602-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u2602-ufe0f/u2602-ufe0f_u1fab2.png",
+        "alt": "umbrella-beetle",
+        "leftEmoji": "☂️",
+        "leftEmojiCodepoint": "2602-fe0f",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 217
+      }
+    ],
+    "1f984": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f984/u1f984_u1fab2.png",
+        "alt": "unicorn_face-beetle",
+        "leftEmoji": "🦄",
+        "leftEmojiCodepoint": "1f984",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 240
+      }
+    ],
+    "1f365": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f365/u1f365_u1fab2.png",
+        "alt": "fish_cake-beetle",
+        "leftEmoji": "🍥",
+        "leftEmojiCodepoint": "1f365",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 351
+      }
+    ],
+    "1f9ca": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f9ca/u1f9ca_u1fab2.png",
+        "alt": "ice_cube-beetle",
+        "leftEmoji": "🧊",
+        "leftEmojiCodepoint": "1f9ca",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 371
+      }
+    ],
+    "1f9c3": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f9c3/u1f9c3_u1fab2.png",
+        "alt": "beverage_box-beetle",
+        "leftEmoji": "🧃",
+        "leftEmojiCodepoint": "1f9c3",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 374
+      }
+    ],
+    "1f37d-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230418/u1f37d-ufe0f/u1f37d-ufe0f_u1fab2.png",
+        "alt": "knife_fork_plate-beetle",
+        "leftEmoji": "🍽️",
+        "leftEmojiCodepoint": "1f37d-fe0f",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20230418",
+        "isLatest": true,
+        "gBoardOrder": 388
+      }
+    ],
+    "1f6d1": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f6d1/u1f6d1_u1fab2.png",
+        "alt": "octagonal_sign-beetle",
+        "leftEmoji": "🛑",
+        "leftEmojiCodepoint": "1f6d1",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 389
+      }
+    ],
+    "26fd": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u26fd/u26fd_u1fab2.png",
+        "alt": "fuelpump-beetle",
+        "leftEmoji": "⛽",
+        "leftEmojiCodepoint": "26fd",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 392
+      }
+    ],
+    "1f6f8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230418/u1f6f8/u1f6f8_u1fab2.png",
+        "alt": "flying_saucer-beetle",
+        "leftEmoji": "🛸",
+        "leftEmojiCodepoint": "1f6f8",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20230418",
+        "isLatest": true,
+        "gBoardOrder": 411
+      }
+    ],
+    "1f381": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230127/u1f381/u1f381_u1fab2.png",
+        "alt": "gift-beetle",
+        "leftEmoji": "🎁",
+        "leftEmojiCodepoint": "1f381",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20230127",
+        "isLatest": true,
+        "gBoardOrder": 432
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220506/u1f381/u1f381_u1fab2.png",
+        "alt": "gift-beetle",
+        "leftEmoji": "🎁",
+        "leftEmojiCodepoint": "1f381",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20220506",
+        "isLatest": false,
+        "gBoardOrder": 432
+      }
+    ],
+    "1f386": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230418/u1f386/u1f386_u1fab2.png",
+        "alt": "fireworks-beetle",
+        "leftEmoji": "🎆",
+        "leftEmojiCodepoint": "1f386",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20230418",
+        "isLatest": true,
+        "gBoardOrder": 433
+      }
+    ],
+    "1f947": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f947/u1f947_u1fab2.png",
+        "alt": "first_place_medal-beetle",
+        "leftEmoji": "🥇",
+        "leftEmojiCodepoint": "1f947",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 437
+      }
+    ],
+    "1f948": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f948/u1f948_u1fab2.png",
+        "alt": "second_place_medal-beetle",
+        "leftEmoji": "🥈",
+        "leftEmojiCodepoint": "1f948",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 438
+      }
+    ],
+    "1f949": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f949/u1f949_u1fab2.png",
+        "alt": "third_place_medal-beetle",
+        "leftEmoji": "🥉",
+        "leftEmojiCodepoint": "1f949",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 439
+      }
+    ],
+    "1f3c0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f3c0/u1f3c0_u1fab2.png",
+        "alt": "basketball-beetle",
+        "leftEmoji": "🏀",
+        "leftEmojiCodepoint": "1f3c0",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 446
+      }
+    ],
+    "1f3c8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f3c8/u1f3c8_u1fab2.png",
+        "alt": "football-beetle",
+        "leftEmoji": "🏈",
+        "leftEmojiCodepoint": "1f3c8",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 448
+      }
+    ],
+    "1f945": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230418/u1f945/u1f945_u1fab2.png",
+        "alt": "goal_net-beetle",
+        "leftEmoji": "🥅",
+        "leftEmojiCodepoint": "1f945",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20230418",
+        "isLatest": true,
+        "gBoardOrder": 451
+      }
+    ],
+    "1f3f8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230418/u1f3f8/u1f3f8_u1fab2.png",
+        "alt": "badminton_racquet_and_shuttlecock-beetle",
+        "leftEmoji": "🏸",
+        "leftEmojiCodepoint": "1f3f8",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20230418",
+        "isLatest": true,
+        "gBoardOrder": 452
+      }
+    ],
+    "1f3a3": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f3a3/u1f3a3_u1fab2.png",
+        "alt": "fishing_pole_and_fish-beetle",
+        "leftEmoji": "🎣",
+        "leftEmojiCodepoint": "1f3a3",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 470
+      }
+    ],
+    "1f3b3": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f3b3/u1f3b3_u1fab2.png",
+        "alt": "bowling-beetle",
+        "leftEmoji": "🎳",
+        "leftEmojiCodepoint": "1f3b3",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 477
+      }
+    ],
+    "1f9e9": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9e9/u1f9e9_u1fab2.png",
+        "alt": "jigsaw-beetle",
+        "leftEmoji": "🧩",
+        "leftEmojiCodepoint": "1f9e9",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 480
+      }
+    ],
+    "1f3b0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230126/u1f3b0/u1f3b0_u1fab2.png",
+        "alt": "slot_machine-beetle",
+        "leftEmoji": "🎰",
+        "leftEmojiCodepoint": "1f3b0",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20230126",
+        "isLatest": true,
+        "gBoardOrder": 483
+      }
+    ],
+    "1f5bc-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f5bc-ufe0f/u1f5bc-ufe0f_u1fab2.png",
+        "alt": "frame_with_picture-beetle",
+        "leftEmoji": "🖼️",
+        "leftEmojiCodepoint": "1f5bc-fe0f",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 488
+      }
+    ],
+    "1f58d-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f58d-ufe0f/u1f58d-ufe0f_u1fab2.png",
+        "alt": "lower_left_crayon-beetle",
+        "leftEmoji": "🖍️",
+        "leftEmojiCodepoint": "1f58d-fe0f",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 491
+      }
+    ],
+    "1f3ac": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f3ac/u1f3ac_u1fab2.png",
+        "alt": "clapper-beetle",
+        "leftEmoji": "🎬",
+        "leftEmojiCodepoint": "1f3ac",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 515
+      }
+    ],
+    "1f39f-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f39f-ufe0f/u1f39f-ufe0f_u1fab2.png",
+        "alt": "admission_tickets-beetle",
+        "leftEmoji": "🎟️",
+        "leftEmojiCodepoint": "1f39f-fe0f",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 517
+      }
+    ],
+    "1f4df": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f4df/u1f4df_u1fab2.png",
+        "alt": "pager-beetle",
+        "leftEmoji": "📟",
+        "leftEmojiCodepoint": "1f4df",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 520
+      }
+    ],
+    "1f4e0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240610/u1f4e0/u1f4e0_u1fab2.png",
+        "alt": "fax-beetle",
+        "leftEmoji": "📠",
+        "leftEmojiCodepoint": "1f4e0",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240610",
+        "isLatest": true,
+        "gBoardOrder": 521
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f4e0/u1f4e0_u1fab2.png",
+        "alt": "fax-beetle",
+        "leftEmoji": "📠",
+        "leftEmojiCodepoint": "1f4e0",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240206",
+        "isLatest": false,
+        "gBoardOrder": 521
+      }
+    ],
+    "1f4be": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f4be/u1f4be_u1fab2.png",
+        "alt": "floppy_disk-beetle",
+        "leftEmoji": "💾",
+        "leftEmojiCodepoint": "1f4be",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 525
+      }
+    ],
+    "1f4bb": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f4bb/u1f4bb_u1fab2.png",
+        "alt": "computer-beetle",
+        "leftEmoji": "💻",
+        "leftEmojiCodepoint": "1f4bb",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 527
+      }
+    ],
+    "1f4a1": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f4a1/u1f4a1_u1fab2.png",
+        "alt": "bulb-beetle",
+        "leftEmoji": "💡",
+        "leftEmojiCodepoint": "1f4a1",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 533
+      }
+    ],
+    "1f4f0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f4f0/u1f4f0_u1fab2.png",
+        "alt": "newspaper-beetle",
+        "leftEmoji": "📰",
+        "leftEmojiCodepoint": "1f4f0",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 577
+      }
+    ],
+    "1f52e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230301/u1f52e/u1f52e_u1fab2.png",
+        "alt": "crystal_ball-beetle",
+        "leftEmoji": "🔮",
+        "leftEmojiCodepoint": "1f52e",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20230301",
+        "isLatest": true,
+        "gBoardOrder": 588
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220506/u1f52e/u1f52e_u1fab2.png",
+        "alt": "crystal_ball-beetle",
+        "leftEmoji": "🔮",
+        "leftEmojiCodepoint": "1f52e",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20220506",
+        "isLatest": false,
+        "gBoardOrder": 588
+      }
+    ],
+    "1f3fa": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f3fa/u1f3fa_u1fab2.png",
+        "alt": "amphora-beetle",
+        "leftEmoji": "🏺",
+        "leftEmojiCodepoint": "1f3fa",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 590
+      }
+    ],
+    "1faa4": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230418/u1faa4/u1faa4_u1fab2.png",
+        "alt": "mouse_trap-beetle",
+        "leftEmoji": "🪤",
+        "leftEmojiCodepoint": "1faa4",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20230418",
+        "isLatest": true,
+        "gBoardOrder": 591
+      }
+    ],
+    "26a0-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230418/u26a0-ufe0f/u26a0-ufe0f_u1fab2.png",
+        "alt": "warning-beetle",
+        "leftEmoji": "⚠️",
+        "leftEmojiCodepoint": "26a0-fe0f",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20230418",
+        "isLatest": true,
+        "gBoardOrder": 617
+      }
+    ],
+    "1f5ef-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230418/u1f5ef-ufe0f/u1f5ef-ufe0f_u1fab2.png",
+        "alt": "right_anger_bubble-beetle",
+        "leftEmoji": "🗯️",
+        "leftEmojiCodepoint": "1f5ef-fe0f",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20230418",
+        "isLatest": true,
+        "gBoardOrder": 641
+      }
+    ],
+    "1f4ac": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f4ac/u1f4ac_u1fab2.png",
+        "alt": "speech_balloon-beetle",
+        "leftEmoji": "💬",
+        "leftEmojiCodepoint": "1f4ac",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 642
+      }
+    ],
+    "1f923": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f923/u1f923_u1fab2.png",
+        "alt": "rolling_on_the_floor_laughing-beetle",
+        "leftEmoji": "🤣",
+        "leftEmojiCodepoint": "1f923",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 8
+      }
+    ],
+    "1f973": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f973/u1f973_u1fab2.png",
+        "alt": "partying_face-beetle",
+        "leftEmoji": "🥳",
+        "leftEmojiCodepoint": "1f973",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 18
+      }
+    ],
+    "1f607": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f607/u1f607_u1fab2.png",
+        "alt": "innocent-beetle",
+        "leftEmoji": "😇",
+        "leftEmojiCodepoint": "1f607",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 28
+      }
+    ],
+    "1f631": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f631/u1f631_u1fab2.png",
+        "alt": "scream-beetle",
+        "leftEmoji": "😱",
+        "leftEmojiCodepoint": "1f631",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 45
+      }
+    ],
+    "1f621": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f621/u1f621_u1fab2.png",
+        "alt": "rage-beetle",
+        "leftEmoji": "😡",
+        "leftEmojiCodepoint": "1f621",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 53
+      }
+    ],
+    "1f630": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f630/u1f630_u1fab2.png",
+        "alt": "cold_sweat-beetle",
+        "leftEmoji": "😰",
+        "leftEmojiCodepoint": "1f630",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 64
+      }
+    ],
+    "1f628": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f628/u1f628_u1fab2.png",
+        "alt": "fearful-beetle",
+        "leftEmoji": "😨",
+        "leftEmojiCodepoint": "1f628",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 65
+      }
+    ],
+    "1f92f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f92f/u1f92f_u1fab2.png",
+        "alt": "exploding_head-beetle",
+        "leftEmoji": "🤯",
+        "leftEmojiCodepoint": "1f92f",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 72
+      }
+    ],
+    "1f31c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f31c/u1f31c_u1fab2.png",
+        "alt": "last_quarter_moon_with_face-beetle",
+        "leftEmoji": "🌜",
+        "leftEmojiCodepoint": "1f31c",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 86
+      }
+    ],
+    "1fae0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fae0/u1fae0_u1fab2.png",
+        "alt": "melting_face-beetle",
+        "leftEmoji": "🫠",
+        "leftEmojiCodepoint": "1fae0",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 90
+      }
+    ],
+    "1f636-200d-1f32b-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f636-u200d-u1f32b-ufe0f/u1f636-u200d-u1f32b-ufe0f_u1fab2.png",
+        "alt": "face_in_clouds-beetle",
+        "leftEmoji": "😶‍🌫️",
+        "leftEmojiCodepoint": "1f636-200d-1f32b-fe0f",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 91
+      }
+    ],
+    "1f975": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f975/u1f975_u1fab2.png",
+        "alt": "hot_face-beetle",
+        "leftEmoji": "🥵",
+        "leftEmojiCodepoint": "1f975",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 93
+      }
+    ],
+    "1f976": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f976/u1f976_u1fab2.png",
+        "alt": "cold_face-beetle",
+        "leftEmoji": "🥶",
+        "leftEmojiCodepoint": "1f976",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 94
+      }
+    ],
+    "1f922": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f922/u1f922_u1fab2.png",
+        "alt": "nauseated_face-beetle",
+        "leftEmoji": "🤢",
+        "leftEmojiCodepoint": "1f922",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 95
+      }
+    ],
+    "1f915": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f915/u1f915_u1fab2.png",
+        "alt": "face_with_head_bandage-beetle",
+        "leftEmoji": "🤕",
+        "leftEmojiCodepoint": "1f915",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 99
+      }
+    ],
+    "1f637": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f637/u1f637_u1fab2.png",
+        "alt": "mask-beetle",
+        "leftEmoji": "😷",
+        "leftEmojiCodepoint": "1f637",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 100
+      }
+    ],
+    "1f920": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f920/u1f920_u1fab2.png",
+        "alt": "face_with_cowboy_hat-beetle",
+        "leftEmoji": "🤠",
+        "leftEmojiCodepoint": "1f920",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 101
+      }
+    ],
+    "1f978": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f978/u1f978_u1fab2.png",
+        "alt": "disguised_face-beetle",
+        "leftEmoji": "🥸",
+        "leftEmojiCodepoint": "1f978",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 105
+      }
+    ],
+    "1f925": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f925/u1f925_u1fab2.png",
+        "alt": "lying_face-beetle",
+        "leftEmoji": "🤥",
+        "leftEmojiCodepoint": "1f925",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 106
+      }
+    ],
+    "1f921": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f921/u1f921_u1fab2.png",
+        "alt": "clown_face-beetle",
+        "leftEmoji": "🤡",
+        "leftEmojiCodepoint": "1f921",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 107
+      }
+    ],
+    "1f608": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f608/u1f608_u1fab2.png",
+        "alt": "smiling_imp-beetle",
+        "leftEmoji": "😈",
+        "leftEmojiCodepoint": "1f608",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 116
+      }
+    ],
+    "1f47f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f47f/u1f47f_u1fab2.png",
+        "alt": "imp-beetle",
+        "leftEmoji": "👿",
+        "leftEmojiCodepoint": "1f47f",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 117
+      }
+    ],
+    "2764-fe0f-200d-1fa79": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u2764-ufe0f-u200d-u1fa79/u2764-ufe0f-u200d-u1fa79_u1fab2.png",
+        "alt": "mending_heart-beetle",
+        "leftEmoji": "❤️‍🩹",
+        "leftEmojiCodepoint": "2764-fe0f-200d-1fa79",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 150
+      }
+    ],
+    "1f494": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f494/u1f494_u1fab2.png",
+        "alt": "broken_heart-beetle",
+        "leftEmoji": "💔",
+        "leftEmojiCodepoint": "1f494",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 151
+      }
+    ],
+    "1f463": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f463/u1f463_u1fab2.png",
+        "alt": "footprints-beetle",
+        "leftEmoji": "👣",
+        "leftEmojiCodepoint": "1f463",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 157
+      }
+    ],
+    "1f337": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f337/u1f337_u1fab2.png",
+        "alt": "tulip-beetle",
+        "leftEmoji": "🌷",
+        "leftEmojiCodepoint": "1f337",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 177
+      }
+    ],
+    "2604-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u2604-ufe0f/u2604-ufe0f_u1fab2.png",
+        "alt": "comet-beetle",
+        "leftEmoji": "☄️",
+        "leftEmojiCodepoint": "2604-fe0f",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 220
+      }
+    ],
+    "1f433": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f433/u1f433_u1fab2.png",
+        "alt": "whale-beetle",
+        "leftEmoji": "🐳",
+        "leftEmojiCodepoint": "1f433",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 259
+      }
+    ],
+    "1f600": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f600.png",
+        "alt": "beetle-grinning",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "😀",
+        "rightEmojiCodepoint": "1f600",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 1
+      }
+    ],
+    "1f603": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f603.png",
+        "alt": "beetle-smiley",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "😃",
+        "rightEmojiCodepoint": "1f603",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 2
+      }
+    ],
+    "1f604": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f604.png",
+        "alt": "beetle-smile",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "😄",
+        "rightEmojiCodepoint": "1f604",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 3
+      }
+    ],
+    "1f601": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f601.png",
+        "alt": "beetle-grin",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "😁",
+        "rightEmojiCodepoint": "1f601",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 4
+      }
+    ],
+    "1f606": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f606.png",
+        "alt": "beetle-laughing",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "😆",
+        "rightEmojiCodepoint": "1f606",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 5
+      }
+    ],
+    "1f605": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f605.png",
+        "alt": "beetle-sweat_smile",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "😅",
+        "rightEmojiCodepoint": "1f605",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 6
+      }
+    ],
+    "1f62d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f62d.png",
+        "alt": "beetle-sob",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "😭",
+        "rightEmojiCodepoint": "1f62d",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 9
+      }
+    ],
+    "1f609": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f609.png",
+        "alt": "beetle-wink",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "😉",
+        "rightEmojiCodepoint": "1f609",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 10
+      }
+    ],
+    "1f617": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f617.png",
+        "alt": "beetle-kissing",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "😗",
+        "rightEmojiCodepoint": "1f617",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 11
+      }
+    ],
+    "1f619": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f619.png",
+        "alt": "beetle-kissing_smiling_eyes",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "😙",
+        "rightEmojiCodepoint": "1f619",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 12
+      }
+    ],
+    "1f61a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f61a.png",
+        "alt": "beetle-kissing_closed_eyes",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "😚",
+        "rightEmojiCodepoint": "1f61a",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 13
+      }
+    ],
+    "1f929": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f929.png",
+        "alt": "beetle-star_struck",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "🤩",
+        "rightEmojiCodepoint": "1f929",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 17
+      }
+    ],
+    "1f643": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f643.png",
+        "alt": "beetle-upside_down_face",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "🙃",
+        "rightEmojiCodepoint": "1f643",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 19
+      }
+    ],
+    "1f642": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f642.png",
+        "alt": "beetle-slightly_smiling_face",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "🙂",
+        "rightEmojiCodepoint": "1f642",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 20
+      }
+    ],
+    "1f972": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f972.png",
+        "alt": "beetle-smiling_face_with_tear",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "🥲",
+        "rightEmojiCodepoint": "1f972",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 21
+      }
+    ],
+    "1f979": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f979.png",
+        "alt": "beetle-face_holding_back_tears",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "🥹",
+        "rightEmojiCodepoint": "1f979",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 22
+      }
+    ],
+    "1f60b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f60b.png",
+        "alt": "beetle-yum",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "😋",
+        "rightEmojiCodepoint": "1f60b",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 23
+      }
+    ],
+    "1f61b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f61b.png",
+        "alt": "beetle-stuck_out_tongue",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "😛",
+        "rightEmojiCodepoint": "1f61b",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 24
+      }
+    ],
+    "1f61d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f61d.png",
+        "alt": "beetle-stuck_out_tongue_closed_eyes",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "😝",
+        "rightEmojiCodepoint": "1f61d",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 25
+      }
+    ],
+    "1f61c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f61c.png",
+        "alt": "beetle-stuck_out_tongue_winking_eye",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "😜",
+        "rightEmojiCodepoint": "1f61c",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 26
+      }
+    ],
+    "1f92a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f92a.png",
+        "alt": "beetle-zany_face",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "🤪",
+        "rightEmojiCodepoint": "1f92a",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 27
+      }
+    ],
+    "1f60a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f60a.png",
+        "alt": "beetle-blush",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "😊",
+        "rightEmojiCodepoint": "1f60a",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 29
+      }
+    ],
+    "263a-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u263a-ufe0f.png",
+        "alt": "beetle-relaxed",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "☺️",
+        "rightEmojiCodepoint": "263a-fe0f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 30
+      }
+    ],
+    "1f60f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f60f.png",
+        "alt": "beetle-smirk",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "😏",
+        "rightEmojiCodepoint": "1f60f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 31
+      }
+    ],
+    "1f60c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f60c.png",
+        "alt": "beetle-relieved",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "😌",
+        "rightEmojiCodepoint": "1f60c",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 32
+      }
+    ],
+    "1f611": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f611.png",
+        "alt": "beetle-expressionless",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "😑",
+        "rightEmojiCodepoint": "1f611",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 34
+      }
+    ],
+    "1f610": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f610.png",
+        "alt": "beetle-neutral_face",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "😐",
+        "rightEmojiCodepoint": "1f610",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 35
+      }
+    ],
+    "1f636": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f636.png",
+        "alt": "beetle-no_mouth",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "😶",
+        "rightEmojiCodepoint": "1f636",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 36
+      }
+    ],
+    "1f928": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f928.png",
+        "alt": "beetle-face_with_raised_eyebrow",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "🤨",
+        "rightEmojiCodepoint": "1f928",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 46
+      }
+    ],
+    "1f9d0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f9d0.png",
+        "alt": "beetle-face_with_monocle",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "🧐",
+        "rightEmojiCodepoint": "1f9d0",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 47
+      }
+    ],
+    "1f612": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f612.png",
+        "alt": "beetle-unamused",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "😒",
+        "rightEmojiCodepoint": "1f612",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 48
+      }
+    ],
+    "1f644": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f644.png",
+        "alt": "beetle-face_with_rolling_eyes",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "🙄",
+        "rightEmojiCodepoint": "1f644",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 49
+      }
+    ],
+    "1f62e-200d-1f4a8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f62e-u200d-u1f4a8.png",
+        "alt": "beetle-face_exhaling",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "😮‍💨",
+        "rightEmojiCodepoint": "1f62e-200d-1f4a8",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 50
+      }
+    ],
+    "1f624": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f624.png",
+        "alt": "beetle-triumph",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "😤",
+        "rightEmojiCodepoint": "1f624",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 51
+      }
+    ],
+    "1f620": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f620.png",
+        "alt": "beetle-angry",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "😠",
+        "rightEmojiCodepoint": "1f620",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 52
+      }
+    ],
+    "1f61f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f61f.png",
+        "alt": "beetle-worried",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "😟",
+        "rightEmojiCodepoint": "1f61f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 56
+      }
+    ],
+    "1f625": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f625.png",
+        "alt": "beetle-disappointed_relieved",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "😥",
+        "rightEmojiCodepoint": "1f625",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 57
+      }
+    ],
+    "1f622": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f622.png",
+        "alt": "beetle-cry",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "😢",
+        "rightEmojiCodepoint": "1f622",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 58
+      }
+    ],
+    "2639-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u2639-ufe0f.png",
+        "alt": "beetle-white_frowning_face",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "☹️",
+        "rightEmojiCodepoint": "2639-fe0f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 59
+      }
+    ],
+    "1f641": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f641.png",
+        "alt": "beetle-slightly_frowning_face",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "🙁",
+        "rightEmojiCodepoint": "1f641",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 60
+      }
+    ],
+    "1fae4": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1fae4.png",
+        "alt": "beetle-face_with_diagonal_mouth",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "🫤",
+        "rightEmojiCodepoint": "1fae4",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 61
+      }
+    ],
+    "1f615": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f615.png",
+        "alt": "beetle-confused",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "😕",
+        "rightEmojiCodepoint": "1f615",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 62
+      }
+    ],
+    "1f910": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f910.png",
+        "alt": "beetle-zipper_mouth_face",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "🤐",
+        "rightEmojiCodepoint": "1f910",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 63
+      }
+    ],
+    "1f627": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f627.png",
+        "alt": "beetle-anguished",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "😧",
+        "rightEmojiCodepoint": "1f627",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 66
+      }
+    ],
+    "1f626": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f626.png",
+        "alt": "beetle-frowning",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "😦",
+        "rightEmojiCodepoint": "1f626",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 67
+      }
+    ],
+    "1f62e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f62e.png",
+        "alt": "beetle-open_mouth",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "😮",
+        "rightEmojiCodepoint": "1f62e",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 68
+      }
+    ],
+    "1f62f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f62f.png",
+        "alt": "beetle-hushed",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "😯",
+        "rightEmojiCodepoint": "1f62f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 69
+      }
+    ],
+    "1f632": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f632.png",
+        "alt": "beetle-astonished",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "😲",
+        "rightEmojiCodepoint": "1f632",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 70
+      }
+    ],
+    "1f633": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f633.png",
+        "alt": "beetle-flushed",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "😳",
+        "rightEmojiCodepoint": "1f633",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 71
+      }
+    ],
+    "1f62c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f62c.png",
+        "alt": "beetle-grimacing",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "😬",
+        "rightEmojiCodepoint": "1f62c",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 73
+      }
+    ],
+    "1f613": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f613.png",
+        "alt": "beetle-sweat",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "😓",
+        "rightEmojiCodepoint": "1f613",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 74
+      }
+    ],
+    "1f61e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f61e.png",
+        "alt": "beetle-disappointed",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "😞",
+        "rightEmojiCodepoint": "1f61e",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 75
+      }
+    ],
+    "1f616": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f616.png",
+        "alt": "beetle-confounded",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "😖",
+        "rightEmojiCodepoint": "1f616",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 76
+      }
+    ],
+    "1f623": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f623.png",
+        "alt": "beetle-persevere",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "😣",
+        "rightEmojiCodepoint": "1f623",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 77
+      }
+    ],
+    "1f629": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f629.png",
+        "alt": "beetle-weary",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "😩",
+        "rightEmojiCodepoint": "1f629",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 78
+      }
+    ],
+    "1f62b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f62b.png",
+        "alt": "beetle-tired_face",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "😫",
+        "rightEmojiCodepoint": "1f62b",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 79
+      }
+    ],
+    "1f635": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f635.png",
+        "alt": "beetle-dizzy_face",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "😵",
+        "rightEmojiCodepoint": "1f635",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 80
+      }
+    ],
+    "1f62a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f62a.png",
+        "alt": "beetle-sleepy",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "😪",
+        "rightEmojiCodepoint": "1f62a",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 83
+      }
+    ],
+    "1f924": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f924.png",
+        "alt": "beetle-drooling_face",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "🤤",
+        "rightEmojiCodepoint": "1f924",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 84
+      }
+    ],
+    "1f974": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f974.png",
+        "alt": "beetle-woozy_face",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "🥴",
+        "rightEmojiCodepoint": "1f974",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 92
+      }
+    ],
+    "1f92e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f92e.png",
+        "alt": "beetle-face_vomiting",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "🤮",
+        "rightEmojiCodepoint": "1f92e",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 96
+      }
+    ],
+    "1f927": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f927.png",
+        "alt": "beetle-sneezing_face",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "🤧",
+        "rightEmojiCodepoint": "1f927",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 97
+      }
+    ],
+    "1f912": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f912.png",
+        "alt": "beetle-face_with_thermometer",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "🤒",
+        "rightEmojiCodepoint": "1f912",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 98
+      }
+    ],
+    "1f911": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f911.png",
+        "alt": "beetle-money_mouth_face",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "🤑",
+        "rightEmojiCodepoint": "1f911",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 102
+      }
+    ],
+    "1f913": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1f913.png",
+        "alt": "beetle-nerd_face",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "🤓",
+        "rightEmojiCodepoint": "1f913",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 104
+      }
+    ],
+    "1fae6": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab2/u1fab2_u1fae6.png",
+        "alt": "beetle-biting_lip",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "🫦",
+        "rightEmojiCodepoint": "1fae6",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 169
+      }
+    ],
+    "1f960": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f960/u1f960_u1fab2.png",
+        "alt": "fortune_cookie-beetle",
+        "leftEmoji": "🥠",
+        "leftEmojiCodepoint": "1f960",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 353
+      }
+    ],
+    "1f382": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f382/u1f382_u1fab2.png",
+        "alt": "birthday-beetle",
+        "leftEmoji": "🎂",
+        "leftEmojiCodepoint": "1f382",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 360
+      }
+    ],
+    "1f6a8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6a8/u1f6a8_u1fab2.png",
+        "alt": "rotating_light-beetle",
+        "leftEmoji": "🚨",
+        "leftEmojiCodepoint": "1f6a8",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 391
+      }
+    ],
+    "1f6a6": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6a6/u1f6a6_u1fab2.png",
+        "alt": "vertical_traffic_light-beetle",
+        "leftEmoji": "🚦",
+        "leftEmojiCodepoint": "1f6a6",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 396
+      }
+    ],
+    "1f69a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f69a/u1f69a_u1fab2.png",
+        "alt": "truck-beetle",
+        "leftEmoji": "🚚",
+        "leftEmojiCodepoint": "1f69a",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 401
+      }
+    ],
+    "1f3c6": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f3c6/u1f3c6_u1fab2.png",
+        "alt": "trophy-beetle",
+        "leftEmoji": "🏆",
+        "leftEmojiCodepoint": "1f3c6",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 442
+      }
+    ],
+    "26f3": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u26f3/u26f3_u1fab2.png",
+        "alt": "golf-beetle",
+        "leftEmoji": "⛳",
+        "leftEmojiCodepoint": "26f3",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 464
+      }
+    ],
+    "1f3af": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f3af/u1f3af_u1fab2.png",
+        "alt": "dart-beetle",
+        "leftEmoji": "🎯",
+        "leftEmojiCodepoint": "1f3af",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 465
+      }
+    ],
+    "1f0cf": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f0cf/u1f0cf_u1fab2.png",
+        "alt": "black_joker-beetle",
+        "leftEmoji": "🃏",
+        "leftEmojiCodepoint": "1f0cf",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 486
+      }
+    ],
+    "1f3a7": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f3a7/u1f3a7_u1fab2.png",
+        "alt": "headphones-beetle",
+        "leftEmoji": "🎧",
+        "leftEmojiCodepoint": "1f3a7",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 507
+      }
+    ],
+    "1f39e-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f39e-ufe0f/u1f39e-ufe0f_u1fab2.png",
+        "alt": "film_frames-beetle",
+        "leftEmoji": "🎞️",
+        "leftEmojiCodepoint": "1f39e-fe0f",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 514
+      }
+    ],
+    "1f6d2": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6d2/u1f6d2_u1fab2.png",
+        "alt": "shopping_trolley-beetle",
+        "leftEmoji": "🛒",
+        "leftEmojiCodepoint": "1f6d2",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 531
+      }
+    ],
+    "1f455": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f455/u1f455_u1fab2.png",
+        "alt": "shirt-beetle",
+        "leftEmoji": "👕",
+        "leftEmojiCodepoint": "1f455",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 542
+      }
+    ],
+    "1f48e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f48e/u1f48e_u1fab2.png",
+        "alt": "gem-beetle",
+        "leftEmoji": "💎",
+        "leftEmojiCodepoint": "1f48e",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 550
+      }
+    ],
+    "1f460": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f460/u1f460_u1fab2.png",
+        "alt": "high_heel-beetle",
+        "leftEmoji": "👠",
+        "leftEmojiCodepoint": "1f460",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 551
+      }
+    ],
+    "1f9f2": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250204/u1f9f2/u1f9f2_u1fab2.png",
+        "alt": "magnet-beetle",
+        "leftEmoji": "🧲",
+        "leftEmojiCodepoint": "1f9f2",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20250204",
+        "isLatest": true,
+        "gBoardOrder": 560
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f9f2/u1f9f2_u1fab2.png",
+        "alt": "magnet-beetle",
+        "leftEmoji": "🧲",
+        "leftEmojiCodepoint": "1f9f2",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": false,
+        "gBoardOrder": 560
+      }
+    ],
+    "1f5d1-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f5d1-ufe0f/u1f5d1-ufe0f_u1fab2.png",
+        "alt": "wastebasket-beetle",
+        "leftEmoji": "🗑️",
+        "leftEmojiCodepoint": "1f5d1-fe0f",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 567
+      }
+    ],
+    "1f4c8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f4c8/u1f4c8_u1fab2.png",
+        "alt": "chart_with_upwards_trend-beetle",
+        "leftEmoji": "📈",
+        "leftEmojiCodepoint": "1f4c8",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 574
+      }
+    ],
+    "1f4c9": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f4c9/u1f4c9_u1fab2.png",
+        "alt": "chart_with_downwards_trend-beetle",
+        "leftEmoji": "📉",
+        "leftEmojiCodepoint": "1f4c9",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 575
+      }
+    ],
+    "2702-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u2702-ufe0f/u2702-ufe0f_u1fab2.png",
+        "alt": "scissors-beetle",
+        "leftEmoji": "✂️",
+        "leftEmojiCodepoint": "2702-fe0f",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 576
+      }
+    ],
+    "1f5f3-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f5f3-ufe0f/u1f5f3-ufe0f_u1fab2.png",
+        "alt": "ballot_box_with_ballot-beetle",
+        "leftEmoji": "🗳️",
+        "leftEmojiCodepoint": "1f5f3-fe0f",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 579
+      }
+    ],
+    "231a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u231a/u231a_u1fab2.png",
+        "alt": "watch-beetle",
+        "leftEmoji": "⌚",
+        "leftEmojiCodepoint": "231a",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 580
+      }
+    ],
+    "1f514": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f514/u1f514_u1fab2.png",
+        "alt": "bell-beetle",
+        "leftEmoji": "🔔",
+        "leftEmojiCodepoint": "1f514",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 585
+      }
+    ],
+    "1f3b6": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f3b6/u1f3b6_u1fab2.png",
+        "alt": "notes-beetle",
+        "leftEmoji": "🎶",
+        "leftEmojiCodepoint": "1f3b6",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 614
+      }
+    ],
+    "2622-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u2622-ufe0f/u2622-ufe0f_u1fab2.png",
+        "alt": "radioactive_sign-beetle",
+        "leftEmoji": "☢️",
+        "leftEmojiCodepoint": "2622-fe0f",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 615
+      }
+    ],
+    "1f92c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240715/u1f92c/u1f92c_u1fab2.png",
+        "alt": "face_with_symbols_on_mouth-beetle",
+        "leftEmoji": "🤬",
+        "leftEmojiCodepoint": "1f92c",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20240715",
+        "isLatest": true,
+        "gBoardOrder": 54
+      }
+    ],
+    "1fae1": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1fae1/u1fae1_u1fab2.png",
+        "alt": "saluting_face-beetle",
+        "leftEmoji": "🫡",
+        "leftEmojiCodepoint": "1fae1",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 37
+      }
+    ],
+    "1f914": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f914/u1f914_u1fab2.png",
+        "alt": "thinking_face-beetle",
+        "leftEmoji": "🤔",
+        "leftEmojiCodepoint": "1f914",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 38
+      }
+    ],
+    "1f92b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f92b/u1f92b_u1fab2.png",
+        "alt": "shushing_face-beetle",
+        "leftEmoji": "🤫",
+        "leftEmojiCodepoint": "1f92b",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 39
+      }
+    ],
+    "1f971": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f971/u1f971_u1fab2.png",
+        "alt": "yawning_face-beetle",
+        "leftEmoji": "🥱",
+        "leftEmojiCodepoint": "1f971",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 42
+      }
+    ],
+    "1f917": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f917/u1f917_u1fab2.png",
+        "alt": "hugging_face-beetle",
+        "leftEmoji": "🤗",
+        "leftEmojiCodepoint": "1f917",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 43
+      }
+    ],
+    "1fae3": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1fae3/u1fae3_u1fab2.png",
+        "alt": "face_with_peeking_eye-beetle",
+        "leftEmoji": "🫣",
+        "leftEmojiCodepoint": "1fae3",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 44
+      }
+    ],
+    "1fae5": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1fae5/u1fae5_u1fab2.png",
+        "alt": "dotted_line_face-beetle",
+        "leftEmoji": "🫥",
+        "leftEmojiCodepoint": "1fae5",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 81
+      }
+    ],
+    "1f4ab": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f4ab/u1f4ab_u1fab2.png",
+        "alt": "dizzy-beetle",
+        "leftEmoji": "💫",
+        "leftEmojiCodepoint": "1f4ab",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 119
+      }
+    ],
+    "1f49d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f49d/u1f49d_u1fab2.png",
+        "alt": "gift_heart-beetle",
+        "leftEmoji": "💝",
+        "leftEmojiCodepoint": "1f49d",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 141
+      }
+    ],
+    "1f496": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f496/u1f496_u1fab2.png",
+        "alt": "sparkling_heart-beetle",
+        "leftEmoji": "💖",
+        "leftEmojiCodepoint": "1f496",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 142
+      }
+    ],
+    "1f5e3-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f5e3-ufe0f/u1f5e3-ufe0f_u1fab2.png",
+        "alt": "speaking_head_in_silhouette-beetle",
+        "leftEmoji": "🗣️",
+        "leftEmojiCodepoint": "1f5e3-fe0f",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 156
+      }
+    ],
+    "1f440": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f440/u1f440_u1fab2.png",
+        "alt": "eyes-beetle",
+        "leftEmoji": "👀",
+        "leftEmojiCodepoint": "1f440",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 166
+      }
+    ],
+    "1f33a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f33a/u1f33a_u1fab2.png",
+        "alt": "hibiscus-beetle",
+        "leftEmoji": "🌺",
+        "leftEmojiCodepoint": "1f33a",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 176
+      }
+    ],
+    "1f32c-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f32c-ufe0f/u1f32c-ufe0f_u1fab2.png",
+        "alt": "wind_blowing_face-beetle",
+        "leftEmoji": "🌬️",
+        "leftEmojiCodepoint": "1f32c-fe0f",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 205
+      }
+    ],
+    "1f300": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f300/u1f300_u1fab2.png",
+        "alt": "cyclone-beetle",
+        "leftEmoji": "🌀",
+        "leftEmojiCodepoint": "1f300",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 206
+      }
+    ],
+    "1f99d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f99d/u1f99d_u1fab2.png",
+        "alt": "raccoon-beetle",
+        "leftEmoji": "🦝",
+        "leftEmojiCodepoint": "1f99d",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 237
+      }
+    ],
+    "1f409": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f409/u1f409_u1fab2.png",
+        "alt": "dragon-beetle",
+        "leftEmoji": "🐉",
+        "leftEmojiCodepoint": "1f409",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 241
+      }
+    ],
+    "1f987": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f987/u1f987_u1fab2.png",
+        "alt": "bat-beetle",
+        "leftEmoji": "🦇",
+        "leftEmojiCodepoint": "1f987",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 250
+      }
+    ],
+    "1f988": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f988/u1f988_u1fab2.png",
+        "alt": "shark-beetle",
+        "leftEmoji": "🦈",
+        "leftEmojiCodepoint": "1f988",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 258
+      }
+    ],
+    "1f41f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f41f/u1f41f_u1fab2.png",
+        "alt": "fish-beetle",
+        "leftEmoji": "🐟",
+        "leftEmojiCodepoint": "1f41f",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 260
+      }
+    ],
+    "1f352": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f352/u1f352_u1fab2.png",
+        "alt": "cherries-beetle",
+        "leftEmoji": "🍒",
+        "leftEmojiCodepoint": "1f352",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 278
+      }
+    ],
+    "1f355": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f355/u1f355_u1fab2.png",
+        "alt": "pizza-beetle",
+        "leftEmoji": "🍕",
+        "leftEmojiCodepoint": "1f355",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 324
+      }
+    ],
+    "1f37e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f37e/u1f37e_u1fab2.png",
+        "alt": "champagne-beetle",
+        "leftEmoji": "🍾",
+        "leftEmojiCodepoint": "1f37e",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 382
+      }
+    ],
+    "1f3a2": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f3a2/u1f3a2_u1fab2.png",
+        "alt": "roller_coaster-beetle",
+        "leftEmoji": "🎢",
+        "leftEmojiCodepoint": "1f3a2",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 414
+      }
+    ],
+    "1f9f3": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f9f3/u1f9f3_u1fab2.png",
+        "alt": "luggage-beetle",
+        "leftEmoji": "🧳",
+        "leftEmojiCodepoint": "1f9f3",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 429
+      }
+    ],
+    "26be": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u26be/u26be_u1fab2.png",
+        "alt": "baseball-beetle",
+        "leftEmoji": "⚾",
+        "leftEmojiCodepoint": "26be",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 444
+      }
+    ],
+    "1f3a8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f3a8/u1f3a8_u1fab2.png",
+        "alt": "art-beetle",
+        "leftEmoji": "🎨",
+        "leftEmojiCodepoint": "1f3a8",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 489
+      }
+    ],
+    "1f4f1": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f4f1/u1f4f1_u1fab2.png",
+        "alt": "iphone-beetle",
+        "leftEmoji": "📱",
+        "leftEmojiCodepoint": "1f4f1",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 518
+      }
+    ],
+    "1f50b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f50b/u1f50b_u1fab2.png",
+        "alt": "battery-beetle",
+        "leftEmoji": "🔋",
+        "leftEmojiCodepoint": "1f50b",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 523
+      }
+    ],
+    "1faab": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1faab/u1faab_u1fab2.png",
+        "alt": "low_battery-beetle",
+        "leftEmoji": "🪫",
+        "leftEmojiCodepoint": "1faab",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 524
+      }
+    ],
+    "1f6cd-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6cd-ufe0f/u1f6cd-ufe0f_u1fab2.png",
+        "alt": "shopping_bags-beetle",
+        "leftEmoji": "🛍️",
+        "leftEmojiCodepoint": "1f6cd-fe0f",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 532
+      }
+    ],
+    "1f9ec": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f9ec/u1f9ec_u1fab2.png",
+        "alt": "dna-beetle",
+        "leftEmoji": "🧬",
+        "leftEmojiCodepoint": "1f9ec",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 557
+      }
+    ],
+    "26d3-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u26d3-ufe0f/u26d3-ufe0f_u1fab2.png",
+        "alt": "chains-beetle",
+        "leftEmoji": "⛓️",
+        "leftEmojiCodepoint": "26d3-fe0f",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 564
+      }
+    ],
+    "1f587-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f587-ufe0f/u1f587-ufe0f_u1fab2.png",
+        "alt": "linked_paperclips-beetle",
+        "leftEmoji": "🖇️",
+        "leftEmojiCodepoint": "1f587-fe0f",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 565
+      }
+    ],
+    "1f4e6": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f4e6/u1f4e6_u1fab2.png",
+        "alt": "package-beetle",
+        "leftEmoji": "📦",
+        "leftEmojiCodepoint": "1f4e6",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 578
+      }
+    ],
+    "23f0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u23f0/u23f0_u1fab2.png",
+        "alt": "alarm_clock-beetle",
+        "leftEmoji": "⏰",
+        "leftEmojiCodepoint": "23f0",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 584
+      }
+    ],
+    "1f4f4": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f4f4/u1f4f4_u1fab2.png",
+        "alt": "mobile_phone_off-beetle",
+        "leftEmoji": "📴",
+        "leftEmojiCodepoint": "1f4f4",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 612
+      }
+    ],
+    "267b-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u267b-ufe0f/u267b-ufe0f_u1fab2.png",
+        "alt": "recycle-beetle",
+        "leftEmoji": "♻️",
+        "leftEmojiCodepoint": "267b-fe0f",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 618
+      }
+    ],
+    "1f199": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f199/u1f199_u1fab2.png",
+        "alt": "up-beetle",
+        "leftEmoji": "🆙",
+        "leftEmojiCodepoint": "1f199",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 622
+      }
+    ],
+    "1f197": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f197/u1f197_u1fab2.png",
+        "alt": "ok-beetle",
+        "leftEmoji": "🆗",
+        "leftEmojiCodepoint": "1f197",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 623
+      }
+    ],
+    "1f192": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f192/u1f192_u1fab2.png",
+        "alt": "cool-beetle",
+        "leftEmoji": "🆒",
+        "leftEmojiCodepoint": "1f192",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 624
+      }
+    ],
+    "262f-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u262f-ufe0f/u262f-ufe0f_u1fab2.png",
+        "alt": "yin_yang-beetle",
+        "leftEmoji": "☯️",
+        "leftEmojiCodepoint": "262f-fe0f",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 628
+      }
+    ],
+    "267e-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u267e-ufe0f/u267e-ufe0f_u1fab2.png",
+        "alt": "infinity-beetle",
+        "leftEmoji": "♾️",
+        "leftEmojiCodepoint": "267e-fe0f",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 629
+      }
+    ],
+    "1f383": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f383/u1f383_u1fab2.png",
+        "alt": "jack_o_lantern-beetle",
+        "leftEmoji": "🎃",
+        "leftEmojiCodepoint": "1f383",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 115
+      }
+    ],
+    "1f33c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f33c/u1f33c_u1fab2.png",
+        "alt": "blossom-beetle",
+        "leftEmoji": "🌼",
+        "leftEmojiCodepoint": "1f33c",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 184
+      }
+    ],
+    "1f308": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f308/u1f308_u1fab2.png",
+        "alt": "rainbow-beetle",
+        "leftEmoji": "🌈",
+        "leftEmojiCodepoint": "1f308",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 219
+      }
+    ],
+    "1f30c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f30c/u1f30c_u1fab2.png",
+        "alt": "milky_way-beetle",
+        "leftEmoji": "🌌",
+        "leftEmojiCodepoint": "1f30c",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 221
+      }
+    ],
+    "1f648": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f648/u1f648_u1fab2.png",
+        "alt": "see_no_evil-beetle",
+        "leftEmoji": "🙈",
+        "leftEmojiCodepoint": "1f648",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 224
+      }
+    ],
+    "1f42e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f42e/u1f42e_u1fab2.png",
+        "alt": "cow-beetle",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 238
+      }
+    ],
+    "1f40e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f40e/u1f40e_u1fab2.png",
+        "alt": "racehorse-beetle",
+        "leftEmoji": "🐎",
+        "leftEmojiCodepoint": "1f40e",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 245
+      }
+    ],
+    "1f414": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f414/u1f414_u1fab2.png",
+        "alt": "chicken-beetle",
+        "leftEmoji": "🐔",
+        "leftEmojiCodepoint": "1f414",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 253
+      }
+    ],
+    "1f577-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f577-ufe0f/u1f577-ufe0f_u1fab2.png",
+        "alt": "spider-beetle",
+        "leftEmoji": "🕷️",
+        "leftEmojiCodepoint": "1f577-fe0f",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 267
+      }
+    ],
+    "1fae2": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1fab2/u1fab2_u1fae2.png",
+        "alt": "beetle-face_with_open_eyes_and_hand_over_mouth",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "🫢",
+        "rightEmojiCodepoint": "1fae2",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 40
+      }
+    ],
+    "1f92d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1fab2/u1fab2_u1f92d.png",
+        "alt": "beetle-face_with_hand_over_mouth",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "🤭",
+        "rightEmojiCodepoint": "1f92d",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 41
+      }
+    ],
+    "1f634": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1fab2/u1fab2_u1f634.png",
+        "alt": "beetle-sleeping",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "😴",
+        "rightEmojiCodepoint": "1f634",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 82
+      }
+    ],
+    "1f339": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1fab2/u1fab2_u1f339.png",
+        "alt": "beetle-rose",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "🌹",
+        "rightEmojiCodepoint": "1f339",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 174
+      }
+    ],
+    "1f345": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f345/u1f345_u1fab2.png",
+        "alt": "tomato-beetle",
+        "leftEmoji": "🍅",
+        "leftEmojiCodepoint": "1f345",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 293
+      }
+    ],
+    "1f373": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f373/u1f373_u1fab2.png",
+        "alt": "fried_egg-beetle",
+        "leftEmoji": "🍳",
+        "leftEmojiCodepoint": "1f373",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 317
+      }
+    ],
+    "1f695": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f695/u1f695_u1fab2.png",
+        "alt": "taxi-beetle",
+        "leftEmoji": "🚕",
+        "leftEmojiCodepoint": "1f695",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 405
+      }
+    ],
+    "1f6e3-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1fab2.png",
+        "alt": "motorway-beetle",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 428
+      }
+    ],
+    "1f388": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f388/u1f388_u1fab2.png",
+        "alt": "balloon-beetle",
+        "leftEmoji": "🎈",
+        "leftEmojiCodepoint": "1f388",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 430
+      }
+    ],
+    "1f94a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f94a/u1f94a_u1fab2.png",
+        "alt": "boxing_glove-beetle",
+        "leftEmoji": "🥊",
+        "leftEmojiCodepoint": "1f94a",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 474
+      }
+    ],
+    "2696-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u2696-ufe0f/u2696-ufe0f_u1fab2.png",
+        "alt": "scales-beetle",
+        "leftEmoji": "⚖️",
+        "leftEmojiCodepoint": "2696-fe0f",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 530
+      }
+    ],
+    "1f393": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f393/u1f393_u1fab2.png",
+        "alt": "mortar_board-beetle",
+        "leftEmoji": "🎓",
+        "leftEmojiCodepoint": "1f393",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 544
+      }
+    ],
+    "1f50e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f50e/u1f50e_u1fab2.png",
+        "alt": "mag_right-beetle",
+        "leftEmoji": "🔎",
+        "leftEmojiCodepoint": "1f50e",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 587
+      }
+    ],
+    "2049-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u2049-ufe0f/u2049-ufe0f_u1fab2.png",
+        "alt": "interrobang-beetle",
+        "leftEmoji": "⁉️",
+        "leftEmojiCodepoint": "2049-fe0f",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 609
+      }
+    ],
+    "1fae9": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1fab2/u1fab2_u1fae9.png",
+        "alt": "beetle-face_with_bags_under_eyes",
+        "leftEmoji": "🪲",
+        "leftEmojiCodepoint": "1fab2",
+        "rightEmoji": "🫩",
+        "rightEmojiCodepoint": "1fae9",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 96
+      }
+    ],
+    "1f329-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250430/u1f329-ufe0f/u1f329-ufe0f_u1fab2.png",
+        "alt": "lightning-beetle",
+        "leftEmoji": "🌩️",
+        "leftEmojiCodepoint": "1f329-fe0f",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20250430",
+        "isLatest": true,
+        "gBoardOrder": 215
+      }
+    ],
+    "270f-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250430/u270f-ufe0f/u270f-ufe0f_u1fab2.png",
+        "alt": "pencil2-beetle",
+        "leftEmoji": "✏️",
+        "leftEmojiCodepoint": "270f-fe0f",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20250430",
+        "isLatest": true,
+        "gBoardOrder": 570
+      }
+    ],
+    "1f642-200d-2195-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f642-u200d-u2195-ufe0f/u1f642-u200d-u2195-ufe0f_u1fab2.png",
+        "alt": "head_shaking_vertically-beetle",
+        "leftEmoji": "🙂‍↕️",
+        "leftEmojiCodepoint": "1f642-200d-2195-fe0f",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 19
+      }
+    ],
+    "1f642-200d-2194-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f642-u200d-u2194-ufe0f/u1f642-u200d-u2194-ufe0f_u1fab2.png",
+        "alt": "head_shaking_horizontally-beetle",
+        "leftEmoji": "🙂‍↔️",
+        "leftEmojiCodepoint": "1f642-200d-2194-fe0f",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 20
+      }
+    ],
+    "1fac2": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20251029/u1fac2/u1fac2_u1fab2.png",
+        "alt": "people_hugging-beetle",
+        "leftEmoji": "🫂",
+        "leftEmojiCodepoint": "1fac2",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20251029",
+        "isLatest": true,
+        "gBoardOrder": 154
+      }
+    ],
+    "26c5": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20251029/u26c5/u26c5_u1fab2.png",
+        "alt": "partly_sunny-beetle",
+        "leftEmoji": "⛅",
+        "leftEmojiCodepoint": "26c5",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20251029",
+        "isLatest": true,
+        "gBoardOrder": 215
+      }
+    ]
+  }
+}

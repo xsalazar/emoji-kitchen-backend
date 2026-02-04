@@ -1,0 +1,4829 @@
+{
+  "alt": "sloth",
+  "emoji": "🦥",
+  "emojiCodepoint": "1f9a5",
+  "gBoardOrder": 253,
+  "keywords": [
+    "sloth",
+    "animal",
+    "lazy",
+    "slow"
+  ],
+  "category": "animals & nature",
+  "subcategory": "animal-mammal",
+  "combinations": {
+    "2615": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f9a5/u1f9a5_u2615.png",
+        "alt": "sloth-coffee",
+        "leftEmoji": "🦥",
+        "leftEmojiCodepoint": "1f9a5",
+        "rightEmoji": "☕",
+        "rightEmojiCodepoint": "2615",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 378
+      }
+    ],
+    "2705": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u2705/u2705_u1f9a5.png",
+        "alt": "white_check_mark-sloth",
+        "leftEmoji": "✅",
+        "leftEmojiCodepoint": "2705",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 619
+      }
+    ],
+    "2753": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u2753/u2753_u1f9a5.png",
+        "alt": "question-sloth",
+        "leftEmoji": "❓",
+        "leftEmojiCodepoint": "2753",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 608
+      }
+    ],
+    "2757": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u2757/u2757_u1f9a5.png",
+        "alt": "exclamation-sloth",
+        "leftEmoji": "❗",
+        "leftEmojiCodepoint": "2757",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 607
+      }
+    ],
+    "1fa84": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20210521/u1fa84/u1fa84_u1f9a5.png",
+        "alt": "magic_wand-sloth",
+        "leftEmoji": "🪄",
+        "leftEmojiCodepoint": "1fa84",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20210521",
+        "isLatest": true,
+        "gBoardOrder": 0
+      }
+    ],
+    "1f600": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f600/u1f600_u1f9a5.png",
+        "alt": "grinning-sloth",
+        "leftEmoji": "😀",
+        "leftEmojiCodepoint": "1f600",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 1
+      }
+    ],
+    "1f603": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f603/u1f603_u1f9a5.png",
+        "alt": "smiley-sloth",
+        "leftEmoji": "😃",
+        "leftEmojiCodepoint": "1f603",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 2
+      }
+    ],
+    "1f604": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f604/u1f604_u1f9a5.png",
+        "alt": "smile-sloth",
+        "leftEmoji": "😄",
+        "leftEmojiCodepoint": "1f604",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 3
+      }
+    ],
+    "1f601": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f601/u1f601_u1f9a5.png",
+        "alt": "grin-sloth",
+        "leftEmoji": "😁",
+        "leftEmojiCodepoint": "1f601",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 4
+      }
+    ],
+    "1f606": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230301/u1f606/u1f606_u1f9a5.png",
+        "alt": "laughing-sloth",
+        "leftEmoji": "😆",
+        "leftEmojiCodepoint": "1f606",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20230301",
+        "isLatest": true,
+        "gBoardOrder": 5
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f606/u1f606_u1f9a5.png",
+        "alt": "laughing-sloth",
+        "leftEmoji": "😆",
+        "leftEmojiCodepoint": "1f606",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": false,
+        "gBoardOrder": 5
+      }
+    ],
+    "1f605": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f605/u1f605_u1f9a5.png",
+        "alt": "sweat_smile-sloth",
+        "leftEmoji": "😅",
+        "leftEmojiCodepoint": "1f605",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 6
+      }
+    ],
+    "1f602": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f602/u1f602_u1f9a5.png",
+        "alt": "joy-sloth",
+        "leftEmoji": "😂",
+        "leftEmojiCodepoint": "1f602",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 7
+      }
+    ],
+    "1f923": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f923/u1f923_u1f9a5.png",
+        "alt": "rolling_on_the_floor_laughing-sloth",
+        "leftEmoji": "🤣",
+        "leftEmojiCodepoint": "1f923",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 8
+      }
+    ],
+    "1f62d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f62d/u1f62d_u1f9a5.png",
+        "alt": "sob-sloth",
+        "leftEmoji": "😭",
+        "leftEmojiCodepoint": "1f62d",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 9
+      }
+    ],
+    "1f609": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f609/u1f609_u1f9a5.png",
+        "alt": "wink-sloth",
+        "leftEmoji": "😉",
+        "leftEmojiCodepoint": "1f609",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 10
+      }
+    ],
+    "1f617": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f617/u1f617_u1f9a5.png",
+        "alt": "kissing-sloth",
+        "leftEmoji": "😗",
+        "leftEmojiCodepoint": "1f617",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 11
+      }
+    ],
+    "1f619": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f619/u1f619_u1f9a5.png",
+        "alt": "kissing_smiling_eyes-sloth",
+        "leftEmoji": "😙",
+        "leftEmojiCodepoint": "1f619",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 12
+      }
+    ],
+    "1f61a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f61a/u1f61a_u1f9a5.png",
+        "alt": "kissing_closed_eyes-sloth",
+        "leftEmoji": "😚",
+        "leftEmojiCodepoint": "1f61a",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 13
+      }
+    ],
+    "1f618": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f618/u1f618_u1f9a5.png",
+        "alt": "kissing_heart-sloth",
+        "leftEmoji": "😘",
+        "leftEmojiCodepoint": "1f618",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 14
+      }
+    ],
+    "1f970": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f970/u1f970_u1f9a5.png",
+        "alt": "smiling_face_with_3_hearts-sloth",
+        "leftEmoji": "🥰",
+        "leftEmojiCodepoint": "1f970",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 15
+      }
+    ],
+    "1f60d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f60d/u1f60d_u1f9a5.png",
+        "alt": "heart_eyes-sloth",
+        "leftEmoji": "😍",
+        "leftEmojiCodepoint": "1f60d",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 16
+      }
+    ],
+    "1f929": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f929/u1f929_u1f9a5.png",
+        "alt": "star_struck-sloth",
+        "leftEmoji": "🤩",
+        "leftEmojiCodepoint": "1f929",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 17
+      }
+    ],
+    "1f973": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f973/u1f973_u1f9a5.png",
+        "alt": "partying_face-sloth",
+        "leftEmoji": "🥳",
+        "leftEmojiCodepoint": "1f973",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 18
+      }
+    ],
+    "1f643": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f643/u1f643_u1f9a5.png",
+        "alt": "upside_down_face-sloth",
+        "leftEmoji": "🙃",
+        "leftEmojiCodepoint": "1f643",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 19
+      }
+    ],
+    "1f642": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f642/u1f642_u1f9a5.png",
+        "alt": "slightly_smiling_face-sloth",
+        "leftEmoji": "🙂",
+        "leftEmojiCodepoint": "1f642",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 20
+      }
+    ],
+    "1f972": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f9a5/u1f9a5_u1f972.png",
+        "alt": "sloth-smiling_face_with_tear",
+        "leftEmoji": "🦥",
+        "leftEmojiCodepoint": "1f9a5",
+        "rightEmoji": "🥲",
+        "rightEmojiCodepoint": "1f972",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 21
+      }
+    ],
+    "1f979": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f979/u1f979_u1f9a5.png",
+        "alt": "face_holding_back_tears-sloth",
+        "leftEmoji": "🥹",
+        "leftEmojiCodepoint": "1f979",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 22
+      }
+    ],
+    "1f60b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f60b/u1f60b_u1f9a5.png",
+        "alt": "yum-sloth",
+        "leftEmoji": "😋",
+        "leftEmojiCodepoint": "1f60b",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 23
+      }
+    ],
+    "1f61b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f61b/u1f61b_u1f9a5.png",
+        "alt": "stuck_out_tongue-sloth",
+        "leftEmoji": "😛",
+        "leftEmojiCodepoint": "1f61b",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 24
+      }
+    ],
+    "1f61d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f61d/u1f61d_u1f9a5.png",
+        "alt": "stuck_out_tongue_closed_eyes-sloth",
+        "leftEmoji": "😝",
+        "leftEmojiCodepoint": "1f61d",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 25
+      }
+    ],
+    "1f61c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f61c/u1f61c_u1f9a5.png",
+        "alt": "stuck_out_tongue_winking_eye-sloth",
+        "leftEmoji": "😜",
+        "leftEmojiCodepoint": "1f61c",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 26
+      }
+    ],
+    "1f92a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f92a/u1f92a_u1f9a5.png",
+        "alt": "zany_face-sloth",
+        "leftEmoji": "🤪",
+        "leftEmojiCodepoint": "1f92a",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 27
+      }
+    ],
+    "1f607": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f607/u1f607_u1f9a5.png",
+        "alt": "innocent-sloth",
+        "leftEmoji": "😇",
+        "leftEmojiCodepoint": "1f607",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 28
+      }
+    ],
+    "1f60a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f60a/u1f60a_u1f9a5.png",
+        "alt": "blush-sloth",
+        "leftEmoji": "😊",
+        "leftEmojiCodepoint": "1f60a",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 29
+      }
+    ],
+    "263a-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u263a-ufe0f/u263a-ufe0f_u1f9a5.png",
+        "alt": "relaxed-sloth",
+        "leftEmoji": "☺️",
+        "leftEmojiCodepoint": "263a-fe0f",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 30
+      }
+    ],
+    "1f60f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f60f/u1f60f_u1f9a5.png",
+        "alt": "smirk-sloth",
+        "leftEmoji": "😏",
+        "leftEmojiCodepoint": "1f60f",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 31
+      }
+    ],
+    "1f60c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f60c/u1f60c_u1f9a5.png",
+        "alt": "relieved-sloth",
+        "leftEmoji": "😌",
+        "leftEmojiCodepoint": "1f60c",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 32
+      }
+    ],
+    "1f614": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f614/u1f614_u1f9a5.png",
+        "alt": "pensive-sloth",
+        "leftEmoji": "😔",
+        "leftEmojiCodepoint": "1f614",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 33
+      }
+    ],
+    "1f611": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f611/u1f611_u1f9a5.png",
+        "alt": "expressionless-sloth",
+        "leftEmoji": "😑",
+        "leftEmojiCodepoint": "1f611",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 34
+      }
+    ],
+    "1f610": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f610/u1f610_u1f9a5.png",
+        "alt": "neutral_face-sloth",
+        "leftEmoji": "😐",
+        "leftEmojiCodepoint": "1f610",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 35
+      }
+    ],
+    "1f636": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f636/u1f636_u1f9a5.png",
+        "alt": "no_mouth-sloth",
+        "leftEmoji": "😶",
+        "leftEmojiCodepoint": "1f636",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 36
+      }
+    ],
+    "1fae1": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1fae1/u1fae1_u1f9a5.png",
+        "alt": "saluting_face-sloth",
+        "leftEmoji": "🫡",
+        "leftEmojiCodepoint": "1fae1",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 37
+      }
+    ],
+    "1f914": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f914/u1f914_u1f9a5.png",
+        "alt": "thinking_face-sloth",
+        "leftEmoji": "🤔",
+        "leftEmojiCodepoint": "1f914",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 38
+      }
+    ],
+    "1f92b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f92b/u1f92b_u1f9a5.png",
+        "alt": "shushing_face-sloth",
+        "leftEmoji": "🤫",
+        "leftEmojiCodepoint": "1f92b",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 39
+      }
+    ],
+    "1fae2": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1fae2/u1fae2_u1f9a5.png",
+        "alt": "face_with_open_eyes_and_hand_over_mouth-sloth",
+        "leftEmoji": "🫢",
+        "leftEmojiCodepoint": "1fae2",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 40
+      }
+    ],
+    "1f92d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f92d/u1f92d_u1f9a5.png",
+        "alt": "face_with_hand_over_mouth-sloth",
+        "leftEmoji": "🤭",
+        "leftEmojiCodepoint": "1f92d",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 41
+      }
+    ],
+    "1f971": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f971/u1f971_u1f9a5.png",
+        "alt": "yawning_face-sloth",
+        "leftEmoji": "🥱",
+        "leftEmojiCodepoint": "1f971",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 42
+      }
+    ],
+    "1f917": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f917/u1f917_u1f9a5.png",
+        "alt": "hugging_face-sloth",
+        "leftEmoji": "🤗",
+        "leftEmojiCodepoint": "1f917",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 43
+      }
+    ],
+    "1fae3": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1fae3/u1fae3_u1f9a5.png",
+        "alt": "face_with_peeking_eye-sloth",
+        "leftEmoji": "🫣",
+        "leftEmojiCodepoint": "1fae3",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 44
+      }
+    ],
+    "1f631": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f631/u1f631_u1f9a5.png",
+        "alt": "scream-sloth",
+        "leftEmoji": "😱",
+        "leftEmojiCodepoint": "1f631",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 45
+      }
+    ],
+    "1f928": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f928/u1f928_u1f9a5.png",
+        "alt": "face_with_raised_eyebrow-sloth",
+        "leftEmoji": "🤨",
+        "leftEmojiCodepoint": "1f928",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 46
+      }
+    ],
+    "1f9d0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f9d0/u1f9d0_u1f9a5.png",
+        "alt": "face_with_monocle-sloth",
+        "leftEmoji": "🧐",
+        "leftEmojiCodepoint": "1f9d0",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 47
+      }
+    ],
+    "1f612": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f612/u1f612_u1f9a5.png",
+        "alt": "unamused-sloth",
+        "leftEmoji": "😒",
+        "leftEmojiCodepoint": "1f612",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 48
+      }
+    ],
+    "1f644": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f644/u1f644_u1f9a5.png",
+        "alt": "face_with_rolling_eyes-sloth",
+        "leftEmoji": "🙄",
+        "leftEmojiCodepoint": "1f644",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 49
+      }
+    ],
+    "1f62e-200d-1f4a8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20210218/u1f62e-u200d-u1f4a8/u1f62e-u200d-u1f4a8_u1f9a5.png",
+        "alt": "face_exhaling-sloth",
+        "leftEmoji": "😮‍💨",
+        "leftEmojiCodepoint": "1f62e-200d-1f4a8",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20210218",
+        "isLatest": true,
+        "gBoardOrder": 50
+      }
+    ],
+    "1f624": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f624/u1f624_u1f9a5.png",
+        "alt": "triumph-sloth",
+        "leftEmoji": "😤",
+        "leftEmojiCodepoint": "1f624",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 51
+      }
+    ],
+    "1f620": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f620/u1f620_u1f9a5.png",
+        "alt": "angry-sloth",
+        "leftEmoji": "😠",
+        "leftEmojiCodepoint": "1f620",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 52
+      }
+    ],
+    "1f621": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f621/u1f621_u1f9a5.png",
+        "alt": "rage-sloth",
+        "leftEmoji": "😡",
+        "leftEmojiCodepoint": "1f621",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 53
+      }
+    ],
+    "1f92c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230301/u1f92c/u1f92c_u1f9a5.png",
+        "alt": "face_with_symbols_on_mouth-sloth",
+        "leftEmoji": "🤬",
+        "leftEmojiCodepoint": "1f92c",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20230301",
+        "isLatest": true,
+        "gBoardOrder": 54
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f92c/u1f92c_u1f9a5.png",
+        "alt": "face_with_symbols_on_mouth-sloth",
+        "leftEmoji": "🤬",
+        "leftEmojiCodepoint": "1f92c",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": false,
+        "gBoardOrder": 54
+      }
+    ],
+    "1f97a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f97a/u1f97a_u1f9a5.png",
+        "alt": "pleading_face-sloth",
+        "leftEmoji": "🥺",
+        "leftEmojiCodepoint": "1f97a",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 55
+      }
+    ],
+    "1f61f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f61f/u1f61f_u1f9a5.png",
+        "alt": "worried-sloth",
+        "leftEmoji": "😟",
+        "leftEmojiCodepoint": "1f61f",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 56
+      }
+    ],
+    "1f625": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f625/u1f625_u1f9a5.png",
+        "alt": "disappointed_relieved-sloth",
+        "leftEmoji": "😥",
+        "leftEmojiCodepoint": "1f625",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 57
+      }
+    ],
+    "1f622": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f622/u1f622_u1f9a5.png",
+        "alt": "cry-sloth",
+        "leftEmoji": "😢",
+        "leftEmojiCodepoint": "1f622",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 58
+      }
+    ],
+    "2639-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u2639-ufe0f/u2639-ufe0f_u1f9a5.png",
+        "alt": "white_frowning_face-sloth",
+        "leftEmoji": "☹️",
+        "leftEmojiCodepoint": "2639-fe0f",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 59
+      }
+    ],
+    "1f641": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f641/u1f641_u1f9a5.png",
+        "alt": "slightly_frowning_face-sloth",
+        "leftEmoji": "🙁",
+        "leftEmojiCodepoint": "1f641",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 60
+      }
+    ],
+    "1fae4": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1fae4/u1fae4_u1f9a5.png",
+        "alt": "face_with_diagonal_mouth-sloth",
+        "leftEmoji": "🫤",
+        "leftEmojiCodepoint": "1fae4",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 61
+      }
+    ],
+    "1f615": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f615/u1f615_u1f9a5.png",
+        "alt": "confused-sloth",
+        "leftEmoji": "😕",
+        "leftEmojiCodepoint": "1f615",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 62
+      }
+    ],
+    "1f910": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f910/u1f910_u1f9a5.png",
+        "alt": "zipper_mouth_face-sloth",
+        "leftEmoji": "🤐",
+        "leftEmojiCodepoint": "1f910",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 63
+      }
+    ],
+    "1f630": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f630/u1f630_u1f9a5.png",
+        "alt": "cold_sweat-sloth",
+        "leftEmoji": "😰",
+        "leftEmojiCodepoint": "1f630",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 64
+      }
+    ],
+    "1f628": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f628/u1f628_u1f9a5.png",
+        "alt": "fearful-sloth",
+        "leftEmoji": "😨",
+        "leftEmojiCodepoint": "1f628",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 65
+      }
+    ],
+    "1f627": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f627/u1f627_u1f9a5.png",
+        "alt": "anguished-sloth",
+        "leftEmoji": "😧",
+        "leftEmojiCodepoint": "1f627",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 66
+      }
+    ],
+    "1f626": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f626/u1f626_u1f9a5.png",
+        "alt": "frowning-sloth",
+        "leftEmoji": "😦",
+        "leftEmojiCodepoint": "1f626",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 67
+      }
+    ],
+    "1f62e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f62e/u1f62e_u1f9a5.png",
+        "alt": "open_mouth-sloth",
+        "leftEmoji": "😮",
+        "leftEmojiCodepoint": "1f62e",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 68
+      }
+    ],
+    "1f62f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f62f/u1f62f_u1f9a5.png",
+        "alt": "hushed-sloth",
+        "leftEmoji": "😯",
+        "leftEmojiCodepoint": "1f62f",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 69
+      }
+    ],
+    "1f632": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f632/u1f632_u1f9a5.png",
+        "alt": "astonished-sloth",
+        "leftEmoji": "😲",
+        "leftEmojiCodepoint": "1f632",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 70
+      }
+    ],
+    "1f633": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f633/u1f633_u1f9a5.png",
+        "alt": "flushed-sloth",
+        "leftEmoji": "😳",
+        "leftEmojiCodepoint": "1f633",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 71
+      }
+    ],
+    "1f92f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f92f/u1f92f_u1f9a5.png",
+        "alt": "exploding_head-sloth",
+        "leftEmoji": "🤯",
+        "leftEmojiCodepoint": "1f92f",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 72
+      }
+    ],
+    "1f62c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f62c/u1f62c_u1f9a5.png",
+        "alt": "grimacing-sloth",
+        "leftEmoji": "😬",
+        "leftEmojiCodepoint": "1f62c",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 73
+      }
+    ],
+    "1f613": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f613/u1f613_u1f9a5.png",
+        "alt": "sweat-sloth",
+        "leftEmoji": "😓",
+        "leftEmojiCodepoint": "1f613",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 74
+      }
+    ],
+    "1f61e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f61e/u1f61e_u1f9a5.png",
+        "alt": "disappointed-sloth",
+        "leftEmoji": "😞",
+        "leftEmojiCodepoint": "1f61e",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 75
+      }
+    ],
+    "1f616": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f616/u1f616_u1f9a5.png",
+        "alt": "confounded-sloth",
+        "leftEmoji": "😖",
+        "leftEmojiCodepoint": "1f616",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 76
+      }
+    ],
+    "1f623": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f623/u1f623_u1f9a5.png",
+        "alt": "persevere-sloth",
+        "leftEmoji": "😣",
+        "leftEmojiCodepoint": "1f623",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 77
+      }
+    ],
+    "1f629": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f629/u1f629_u1f9a5.png",
+        "alt": "weary-sloth",
+        "leftEmoji": "😩",
+        "leftEmojiCodepoint": "1f629",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 78
+      }
+    ],
+    "1f62b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f62b/u1f62b_u1f9a5.png",
+        "alt": "tired_face-sloth",
+        "leftEmoji": "😫",
+        "leftEmojiCodepoint": "1f62b",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 79
+      }
+    ],
+    "1f635": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f635/u1f635_u1f9a5.png",
+        "alt": "dizzy_face-sloth",
+        "leftEmoji": "😵",
+        "leftEmojiCodepoint": "1f635",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 80
+      }
+    ],
+    "1fae5": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1fae5/u1fae5_u1f9a5.png",
+        "alt": "dotted_line_face-sloth",
+        "leftEmoji": "🫥",
+        "leftEmojiCodepoint": "1fae5",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 81
+      }
+    ],
+    "1f634": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230301/u1f634/u1f634_u1f9a5.png",
+        "alt": "sleeping-sloth",
+        "leftEmoji": "😴",
+        "leftEmojiCodepoint": "1f634",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20230301",
+        "isLatest": true,
+        "gBoardOrder": 82
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f634/u1f634_u1f9a5.png",
+        "alt": "sleeping-sloth",
+        "leftEmoji": "😴",
+        "leftEmojiCodepoint": "1f634",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": false,
+        "gBoardOrder": 82
+      }
+    ],
+    "1f62a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f62a/u1f62a_u1f9a5.png",
+        "alt": "sleepy-sloth",
+        "leftEmoji": "😪",
+        "leftEmojiCodepoint": "1f62a",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 83
+      }
+    ],
+    "1f924": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f924/u1f924_u1f9a5.png",
+        "alt": "drooling_face-sloth",
+        "leftEmoji": "🤤",
+        "leftEmojiCodepoint": "1f924",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 84
+      }
+    ],
+    "1f31c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f9a5/u1f9a5_u1f31c.png",
+        "alt": "sloth-last_quarter_moon_with_face",
+        "leftEmoji": "🦥",
+        "leftEmojiCodepoint": "1f9a5",
+        "rightEmoji": "🌜",
+        "rightEmojiCodepoint": "1f31c",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 86
+      }
+    ],
+    "1f31e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230127/u1f31e/u1f31e_u1f9a5.png",
+        "alt": "sun_with_face-sloth",
+        "leftEmoji": "🌞",
+        "leftEmojiCodepoint": "1f31e",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20230127",
+        "isLatest": true,
+        "gBoardOrder": 89
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f31e/u1f31e_u1f9a5.png",
+        "alt": "sun_with_face-sloth",
+        "leftEmoji": "🌞",
+        "leftEmojiCodepoint": "1f31e",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": false,
+        "gBoardOrder": 89
+      }
+    ],
+    "1fae0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1fae0/u1fae0_u1f9a5.png",
+        "alt": "melting_face-sloth",
+        "leftEmoji": "🫠",
+        "leftEmojiCodepoint": "1fae0",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 90
+      }
+    ],
+    "1f636-200d-1f32b-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20210218/u1f636-u200d-u1f32b-ufe0f/u1f636-u200d-u1f32b-ufe0f_u1f9a5.png",
+        "alt": "face_in_clouds-sloth",
+        "leftEmoji": "😶‍🌫️",
+        "leftEmojiCodepoint": "1f636-200d-1f32b-fe0f",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20210218",
+        "isLatest": true,
+        "gBoardOrder": 91
+      }
+    ],
+    "1f974": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f974/u1f974_u1f9a5.png",
+        "alt": "woozy_face-sloth",
+        "leftEmoji": "🥴",
+        "leftEmojiCodepoint": "1f974",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 92
+      }
+    ],
+    "1f975": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f975/u1f975_u1f9a5.png",
+        "alt": "hot_face-sloth",
+        "leftEmoji": "🥵",
+        "leftEmojiCodepoint": "1f975",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 93
+      }
+    ],
+    "1f976": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f976/u1f976_u1f9a5.png",
+        "alt": "cold_face-sloth",
+        "leftEmoji": "🥶",
+        "leftEmojiCodepoint": "1f976",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 94
+      }
+    ],
+    "1f922": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f922/u1f922_u1f9a5.png",
+        "alt": "nauseated_face-sloth",
+        "leftEmoji": "🤢",
+        "leftEmojiCodepoint": "1f922",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 95
+      }
+    ],
+    "1f92e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f92e/u1f92e_u1f9a5.png",
+        "alt": "face_vomiting-sloth",
+        "leftEmoji": "🤮",
+        "leftEmojiCodepoint": "1f92e",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 96
+      }
+    ],
+    "1f927": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f927/u1f927_u1f9a5.png",
+        "alt": "sneezing_face-sloth",
+        "leftEmoji": "🤧",
+        "leftEmojiCodepoint": "1f927",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 97
+      }
+    ],
+    "1f912": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f912/u1f912_u1f9a5.png",
+        "alt": "face_with_thermometer-sloth",
+        "leftEmoji": "🤒",
+        "leftEmojiCodepoint": "1f912",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 98
+      }
+    ],
+    "1f915": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f915/u1f915_u1f9a5.png",
+        "alt": "face_with_head_bandage-sloth",
+        "leftEmoji": "🤕",
+        "leftEmojiCodepoint": "1f915",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 99
+      }
+    ],
+    "1f637": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f637/u1f637_u1f9a5.png",
+        "alt": "mask-sloth",
+        "leftEmoji": "😷",
+        "leftEmojiCodepoint": "1f637",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 100
+      }
+    ],
+    "1f920": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f920/u1f920_u1f9a5.png",
+        "alt": "face_with_cowboy_hat-sloth",
+        "leftEmoji": "🤠",
+        "leftEmojiCodepoint": "1f920",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 101
+      }
+    ],
+    "1f911": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f911/u1f911_u1f9a5.png",
+        "alt": "money_mouth_face-sloth",
+        "leftEmoji": "🤑",
+        "leftEmojiCodepoint": "1f911",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 102
+      }
+    ],
+    "1f60e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f60e/u1f60e_u1f9a5.png",
+        "alt": "sunglasses-sloth",
+        "leftEmoji": "😎",
+        "leftEmojiCodepoint": "1f60e",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 103
+      }
+    ],
+    "1f913": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230301/u1f913/u1f913_u1f9a5.png",
+        "alt": "nerd_face-sloth",
+        "leftEmoji": "🤓",
+        "leftEmojiCodepoint": "1f913",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20230301",
+        "isLatest": true,
+        "gBoardOrder": 104
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f913/u1f913_u1f9a5.png",
+        "alt": "nerd_face-sloth",
+        "leftEmoji": "🤓",
+        "leftEmojiCodepoint": "1f913",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": false,
+        "gBoardOrder": 104
+      }
+    ],
+    "1f978": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f9a5/u1f9a5_u1f978.png",
+        "alt": "sloth-disguised_face",
+        "leftEmoji": "🦥",
+        "leftEmojiCodepoint": "1f9a5",
+        "rightEmoji": "🥸",
+        "rightEmojiCodepoint": "1f978",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 105
+      }
+    ],
+    "1f925": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f925/u1f925_u1f9a5.png",
+        "alt": "lying_face-sloth",
+        "leftEmoji": "🤥",
+        "leftEmojiCodepoint": "1f925",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 106
+      }
+    ],
+    "1f921": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f921/u1f921_u1f9a5.png",
+        "alt": "clown_face-sloth",
+        "leftEmoji": "🤡",
+        "leftEmojiCodepoint": "1f921",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 107
+      }
+    ],
+    "1f47b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f47b/u1f47b_u1f9a5.png",
+        "alt": "ghost-sloth",
+        "leftEmoji": "👻",
+        "leftEmojiCodepoint": "1f47b",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 108
+      }
+    ],
+    "1f4a9": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230216/u1f4a9/u1f4a9_u1f9a5.png",
+        "alt": "hankey-sloth",
+        "leftEmoji": "💩",
+        "leftEmojiCodepoint": "1f4a9",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20230216",
+        "isLatest": true,
+        "gBoardOrder": 109
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f4a9/u1f4a9_u1f9a5.png",
+        "alt": "hankey-sloth",
+        "leftEmoji": "💩",
+        "leftEmojiCodepoint": "1f4a9",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": false,
+        "gBoardOrder": 109
+      }
+    ],
+    "1f47d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f47d/u1f47d_u1f9a5.png",
+        "alt": "alien-sloth",
+        "leftEmoji": "👽",
+        "leftEmojiCodepoint": "1f47d",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 110
+      }
+    ],
+    "1f47e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f47e/u1f47e_u1f9a5.png",
+        "alt": "space_invader-sloth",
+        "leftEmoji": "👾",
+        "leftEmojiCodepoint": "1f47e",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 111
+      }
+    ],
+    "1f916": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f916/u1f916_u1f9a5.png",
+        "alt": "robot_face-sloth",
+        "leftEmoji": "🤖",
+        "leftEmojiCodepoint": "1f916",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 112
+      }
+    ],
+    "1f383": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f9a5/u1f9a5_u1f383.png",
+        "alt": "sloth-jack_o_lantern",
+        "leftEmoji": "🦥",
+        "leftEmojiCodepoint": "1f9a5",
+        "rightEmoji": "🎃",
+        "rightEmojiCodepoint": "1f383",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 115
+      }
+    ],
+    "1f608": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f608/u1f608_u1f9a5.png",
+        "alt": "smiling_imp-sloth",
+        "leftEmoji": "😈",
+        "leftEmojiCodepoint": "1f608",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 116
+      }
+    ],
+    "1f47f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f47f/u1f47f_u1f9a5.png",
+        "alt": "imp-sloth",
+        "leftEmoji": "👿",
+        "leftEmojiCodepoint": "1f47f",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 117
+      }
+    ],
+    "1f525": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f9a5/u1f9a5_u1f525.png",
+        "alt": "sloth-fire",
+        "leftEmoji": "🦥",
+        "leftEmojiCodepoint": "1f9a5",
+        "rightEmoji": "🔥",
+        "rightEmojiCodepoint": "1f525",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 118
+      }
+    ],
+    "1f4ab": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230216/u1f4ab/u1f4ab_u1f9a5.png",
+        "alt": "dizzy-sloth",
+        "leftEmoji": "💫",
+        "leftEmojiCodepoint": "1f4ab",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20230216",
+        "isLatest": true,
+        "gBoardOrder": 119
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f4ab/u1f4ab_u1f9a5.png",
+        "alt": "dizzy-sloth",
+        "leftEmoji": "💫",
+        "leftEmojiCodepoint": "1f4ab",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": false,
+        "gBoardOrder": 119
+      }
+    ],
+    "2b50": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f9a5/u1f9a5_u2b50.png",
+        "alt": "sloth-star",
+        "leftEmoji": "🦥",
+        "leftEmojiCodepoint": "1f9a5",
+        "rightEmoji": "⭐",
+        "rightEmojiCodepoint": "2b50",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 120
+      }
+    ],
+    "1f31f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f31f/u1f31f_u1f9a5.png",
+        "alt": "star2-sloth",
+        "leftEmoji": "🌟",
+        "leftEmojiCodepoint": "1f31f",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 121
+      }
+    ],
+    "1f4a5": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f4a5/u1f4a5_u1f9a5.png",
+        "alt": "boom-sloth",
+        "leftEmoji": "💥",
+        "leftEmojiCodepoint": "1f4a5",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 122
+      }
+    ],
+    "1f4af": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220815/u1f4af/u1f4af_u1f9a5.png",
+        "alt": "100-sloth",
+        "leftEmoji": "💯",
+        "leftEmojiCodepoint": "1f4af",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20220815",
+        "isLatest": true,
+        "gBoardOrder": 123
+      }
+    ],
+    "1f573-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f9a5/u1f9a5_u1f573-ufe0f.png",
+        "alt": "sloth-hole",
+        "leftEmoji": "🦥",
+        "leftEmojiCodepoint": "1f9a5",
+        "rightEmoji": "🕳️",
+        "rightEmojiCodepoint": "1f573-fe0f",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 125
+      }
+    ],
+    "1f38a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f38a/u1f38a_u1f9a5.png",
+        "alt": "confetti_ball-sloth",
+        "leftEmoji": "🎊",
+        "leftEmojiCodepoint": "1f38a",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 126
+      }
+    ],
+    "2665-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u2665-ufe0f/u2665-ufe0f_u1f9a5.png",
+        "alt": "hearts-sloth",
+        "leftEmoji": "♥️",
+        "leftEmojiCodepoint": "2665-fe0f",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 139
+      }
+    ],
+    "1f498": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f498/u1f498_u1f9a5.png",
+        "alt": "cupid-sloth",
+        "leftEmoji": "💘",
+        "leftEmojiCodepoint": "1f498",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 140
+      }
+    ],
+    "1f49d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241023/u1f49d/u1f49d_u1f9a5.png",
+        "alt": "gift_heart-sloth",
+        "leftEmoji": "💝",
+        "leftEmojiCodepoint": "1f49d",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20241023",
+        "isLatest": true,
+        "gBoardOrder": 141
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f49d/u1f49d_u1f9a5.png",
+        "alt": "gift_heart-sloth",
+        "leftEmoji": "💝",
+        "leftEmojiCodepoint": "1f49d",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": false,
+        "gBoardOrder": 141
+      }
+    ],
+    "1f496": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241023/u1f496/u1f496_u1f9a5.png",
+        "alt": "sparkling_heart-sloth",
+        "leftEmoji": "💖",
+        "leftEmojiCodepoint": "1f496",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20241023",
+        "isLatest": true,
+        "gBoardOrder": 142
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f496/u1f496_u1f9a5.png",
+        "alt": "sparkling_heart-sloth",
+        "leftEmoji": "💖",
+        "leftEmojiCodepoint": "1f496",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": false,
+        "gBoardOrder": 142
+      }
+    ],
+    "1f497": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230818/u1f497/u1f497_u1f9a5.png",
+        "alt": "heartpulse-sloth",
+        "leftEmoji": "💗",
+        "leftEmojiCodepoint": "1f497",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20230818",
+        "isLatest": true,
+        "gBoardOrder": 143
+      }
+    ],
+    "1f493": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f493/u1f493_u1f9a5.png",
+        "alt": "heartbeat-sloth",
+        "leftEmoji": "💓",
+        "leftEmojiCodepoint": "1f493",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 144
+      }
+    ],
+    "1f49e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f49e/u1f49e_u1f9a5.png",
+        "alt": "revolving_hearts-sloth",
+        "leftEmoji": "💞",
+        "leftEmojiCodepoint": "1f49e",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 145
+      }
+    ],
+    "1f495": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f495/u1f495_u1f9a5.png",
+        "alt": "two_hearts-sloth",
+        "leftEmoji": "💕",
+        "leftEmojiCodepoint": "1f495",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 146
+      }
+    ],
+    "1f48c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f48c/u1f48c_u1f9a5.png",
+        "alt": "love_letter-sloth",
+        "leftEmoji": "💌",
+        "leftEmojiCodepoint": "1f48c",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 147
+      }
+    ],
+    "2763-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u2763-ufe0f/u2763-ufe0f_u1f9a5.png",
+        "alt": "heavy_heart_exclamation_mark_ornament-sloth",
+        "leftEmoji": "❣️",
+        "leftEmojiCodepoint": "2763-fe0f",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 149
+      }
+    ],
+    "2764-fe0f-200d-1fa79": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240610/u2764-ufe0f-u200d-u1fa79/u2764-ufe0f-u200d-u1fa79_u1f9a5.png",
+        "alt": "mending_heart-sloth",
+        "leftEmoji": "❤️‍🩹",
+        "leftEmojiCodepoint": "2764-fe0f-200d-1fa79",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20240610",
+        "isLatest": true,
+        "gBoardOrder": 150
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20210218/u2764-ufe0f-u200d-u1fa79/u2764-ufe0f-u200d-u1fa79_u1f9a5.png",
+        "alt": "mending_heart-sloth",
+        "leftEmoji": "❤️‍🩹",
+        "leftEmojiCodepoint": "2764-fe0f-200d-1fa79",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20210218",
+        "isLatest": false,
+        "gBoardOrder": 150
+      }
+    ],
+    "1f494": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f494/u1f494_u1f9a5.png",
+        "alt": "broken_heart-sloth",
+        "leftEmoji": "💔",
+        "leftEmojiCodepoint": "1f494",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 151
+      }
+    ],
+    "1f48b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f48b/u1f48b_u1f9a5.png",
+        "alt": "kiss-sloth",
+        "leftEmoji": "💋",
+        "leftEmojiCodepoint": "1f48b",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 152
+      }
+    ],
+    "1f9a0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f9a5/u1f9a5_u1f9a0.png",
+        "alt": "sloth-microbe",
+        "leftEmoji": "🦥",
+        "leftEmojiCodepoint": "1f9a5",
+        "rightEmoji": "🦠",
+        "rightEmojiCodepoint": "1f9a0",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 162
+      }
+    ],
+    "1f480": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f480/u1f480_u1f9a5.png",
+        "alt": "skull-sloth",
+        "leftEmoji": "💀",
+        "leftEmojiCodepoint": "1f480",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 165
+      }
+    ],
+    "1f441-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f9a5/u1f9a5_u1f441-ufe0f.png",
+        "alt": "sloth-eye",
+        "leftEmoji": "🦥",
+        "leftEmojiCodepoint": "1f9a5",
+        "rightEmoji": "👁️",
+        "rightEmojiCodepoint": "1f441-fe0f",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 167
+      }
+    ],
+    "1fae6": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220203/u1fae6/u1fae6_u1f9a5.png",
+        "alt": "biting_lip-sloth",
+        "leftEmoji": "🫦",
+        "leftEmojiCodepoint": "1fae6",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20220203",
+        "isLatest": true,
+        "gBoardOrder": 169
+      }
+    ],
+    "1f44d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231128/u1f44d/u1f44d_u1f9a5.png",
+        "alt": "+1-sloth",
+        "leftEmoji": "👍",
+        "leftEmojiCodepoint": "1f44d",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20231128",
+        "isLatest": true,
+        "gBoardOrder": 170
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230216/u1f44d/u1f44d_u1f9a5.png",
+        "alt": "+1-sloth",
+        "leftEmoji": "👍",
+        "leftEmojiCodepoint": "1f44d",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20230216",
+        "isLatest": false,
+        "gBoardOrder": 170
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220815/u1f44d/u1f44d_u1f9a5.png",
+        "alt": "+1-sloth",
+        "leftEmoji": "👍",
+        "leftEmojiCodepoint": "1f44d",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20220815",
+        "isLatest": false,
+        "gBoardOrder": 170
+      }
+    ],
+    "1f937": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220815/u1f937/u1f937_u1f9a5.png",
+        "alt": "shrug-sloth",
+        "leftEmoji": "🤷",
+        "leftEmojiCodepoint": "1f937",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20220815",
+        "isLatest": true,
+        "gBoardOrder": 171
+      }
+    ],
+    "1fa82": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1fa82/u1fa82_u1f9a5.png",
+        "alt": "parachute-sloth",
+        "leftEmoji": "🪂",
+        "leftEmojiCodepoint": "1fa82",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 172
+      }
+    ],
+    "1f490": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231128/u1f9a5/u1f9a5_u1f490.png",
+        "alt": "sloth-bouquet",
+        "leftEmoji": "🦥",
+        "leftEmojiCodepoint": "1f9a5",
+        "rightEmoji": "💐",
+        "rightEmojiCodepoint": "1f490",
+        "date": "20231128",
+        "isLatest": true,
+        "gBoardOrder": 173
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f9a5/u1f9a5_u1f490.png",
+        "alt": "sloth-bouquet",
+        "leftEmoji": "🦥",
+        "leftEmojiCodepoint": "1f9a5",
+        "rightEmoji": "💐",
+        "rightEmojiCodepoint": "1f490",
+        "date": "20201001",
+        "isLatest": false,
+        "gBoardOrder": 173
+      }
+    ],
+    "1f339": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230127/u1f339/u1f339_u1f9a5.png",
+        "alt": "rose-sloth",
+        "leftEmoji": "🌹",
+        "leftEmojiCodepoint": "1f339",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20230127",
+        "isLatest": true,
+        "gBoardOrder": 174
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f339/u1f339_u1f9a5.png",
+        "alt": "rose-sloth",
+        "leftEmoji": "🌹",
+        "leftEmojiCodepoint": "1f339",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": false,
+        "gBoardOrder": 174
+      }
+    ],
+    "1f337": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230127/u1f337/u1f337_u1f9a5.png",
+        "alt": "tulip-sloth",
+        "leftEmoji": "🌷",
+        "leftEmojiCodepoint": "1f337",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20230127",
+        "isLatest": true,
+        "gBoardOrder": 177
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f337/u1f337_u1f9a5.png",
+        "alt": "tulip-sloth",
+        "leftEmoji": "🌷",
+        "leftEmojiCodepoint": "1f337",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": false,
+        "gBoardOrder": 177
+      }
+    ],
+    "1f338": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230127/u1f338/u1f338_u1f9a5.png",
+        "alt": "cherry_blossom-sloth",
+        "leftEmoji": "🌸",
+        "leftEmojiCodepoint": "1f338",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20230127",
+        "isLatest": true,
+        "gBoardOrder": 178
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20210218/u1f338/u1f338_u1f9a5.png",
+        "alt": "cherry_blossom-sloth",
+        "leftEmoji": "🌸",
+        "leftEmojiCodepoint": "1f338",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20210218",
+        "isLatest": false,
+        "gBoardOrder": 178
+      }
+    ],
+    "1f4ae": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f4ae/u1f4ae_u1f9a5.png",
+        "alt": "white_flower-sloth",
+        "leftEmoji": "💮",
+        "leftEmojiCodepoint": "1f4ae",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 180
+      }
+    ],
+    "1f33c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f9a5/u1f9a5_u1f33c.png",
+        "alt": "sloth-blossom",
+        "leftEmoji": "🦥",
+        "leftEmojiCodepoint": "1f9a5",
+        "rightEmoji": "🌼",
+        "rightEmojiCodepoint": "1f33c",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 184
+      }
+    ],
+    "1f344": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220406/u1f344/u1f344_u1f9a5.png",
+        "alt": "mushroom-sloth",
+        "leftEmoji": "🍄",
+        "leftEmojiCodepoint": "1f344",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20220406",
+        "isLatest": true,
+        "gBoardOrder": 187
+      }
+    ],
+    "1f335": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230127/u1f335/u1f335_u1f9a5.png",
+        "alt": "cactus-sloth",
+        "leftEmoji": "🌵",
+        "leftEmojiCodepoint": "1f335",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20230127",
+        "isLatest": true,
+        "gBoardOrder": 194
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f335/u1f335_u1f9a5.png",
+        "alt": "cactus-sloth",
+        "leftEmoji": "🌵",
+        "leftEmojiCodepoint": "1f335",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": false,
+        "gBoardOrder": 194
+      }
+    ],
+    "1f332": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f9a5/u1f9a5_u1f332.png",
+        "alt": "sloth-evergreen_tree",
+        "leftEmoji": "🦥",
+        "leftEmojiCodepoint": "1f9a5",
+        "rightEmoji": "🌲",
+        "rightEmojiCodepoint": "1f332",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 197
+      }
+    ],
+    "1fab5": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1fab5/u1fab5_u1f9a5.png",
+        "alt": "wood-sloth",
+        "leftEmoji": "🪵",
+        "leftEmojiCodepoint": "1fab5",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 201
+      }
+    ],
+    "1faa8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220406/u1faa8/u1faa8_u1f9a5.png",
+        "alt": "rock-sloth",
+        "leftEmoji": "🪨",
+        "leftEmojiCodepoint": "1faa8",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20220406",
+        "isLatest": true,
+        "gBoardOrder": 202
+      }
+    ],
+    "26c4": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f9a5/u1f9a5_u26c4.png",
+        "alt": "sloth-snowman_without_snow",
+        "leftEmoji": "🦥",
+        "leftEmojiCodepoint": "1f9a5",
+        "rightEmoji": "⛄",
+        "rightEmojiCodepoint": "26c4",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 203
+      }
+    ],
+    "1f30a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230418/u1f30a/u1f30a_u1f9a5.png",
+        "alt": "ocean-sloth",
+        "leftEmoji": "🌊",
+        "leftEmojiCodepoint": "1f30a",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20230418",
+        "isLatest": true,
+        "gBoardOrder": 204
+      }
+    ],
+    "1f32a-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230127/u1f32a-ufe0f/u1f32a-ufe0f_u1f9a5.png",
+        "alt": "tornado-sloth",
+        "leftEmoji": "🌪️",
+        "leftEmojiCodepoint": "1f32a-fe0f",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20230127",
+        "isLatest": true,
+        "gBoardOrder": 207
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f32a-ufe0f/u1f32a-ufe0f_u1f9a5.png",
+        "alt": "tornado-sloth",
+        "leftEmoji": "🌪️",
+        "leftEmojiCodepoint": "1f32a-fe0f",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": false,
+        "gBoardOrder": 207
+      }
+    ],
+    "1f30b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f30b/u1f30b_u1f9a5.png",
+        "alt": "volcano-sloth",
+        "leftEmoji": "🌋",
+        "leftEmojiCodepoint": "1f30b",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 208
+      }
+    ],
+    "1f304": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f304/u1f304_u1f9a5.png",
+        "alt": "sunrise_over_mountains-sloth",
+        "leftEmoji": "🌄",
+        "leftEmojiCodepoint": "1f304",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 211
+      }
+    ],
+    "2601-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f9a5/u1f9a5_u2601-ufe0f.png",
+        "alt": "sloth-cloud",
+        "leftEmoji": "🦥",
+        "leftEmojiCodepoint": "1f9a5",
+        "rightEmoji": "☁️",
+        "rightEmojiCodepoint": "2601-fe0f",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 213
+      }
+    ],
+    "1f327-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20221101/u1f327-ufe0f/u1f327-ufe0f_u1f9a5.png",
+        "alt": "rain_cloud-sloth",
+        "leftEmoji": "🌧️",
+        "leftEmojiCodepoint": "1f327-fe0f",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20221101",
+        "isLatest": true,
+        "gBoardOrder": 214
+      }
+    ],
+    "2602-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u2602-ufe0f/u2602-ufe0f_u1f9a5.png",
+        "alt": "umbrella-sloth",
+        "leftEmoji": "☂️",
+        "leftEmojiCodepoint": "2602-fe0f",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 217
+      }
+    ],
+    "1f308": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f9a5/u1f9a5_u1f308.png",
+        "alt": "sloth-rainbow",
+        "leftEmoji": "🦥",
+        "leftEmojiCodepoint": "1f9a5",
+        "rightEmoji": "🌈",
+        "rightEmojiCodepoint": "1f308",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 219
+      }
+    ],
+    "1f30d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f9a5/u1f9a5_u1f30d.png",
+        "alt": "sloth-earth_africa",
+        "leftEmoji": "🦥",
+        "leftEmojiCodepoint": "1f9a5",
+        "rightEmoji": "🌍",
+        "rightEmojiCodepoint": "1f30d",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 222
+      }
+    ],
+    "1f648": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f9a5/u1f9a5_u1f648.png",
+        "alt": "sloth-see_no_evil",
+        "leftEmoji": "🦥",
+        "leftEmojiCodepoint": "1f9a5",
+        "rightEmoji": "🙈",
+        "rightEmojiCodepoint": "1f648",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 224
+      }
+    ],
+    "1f435": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f435/u1f435_u1f9a5.png",
+        "alt": "monkey_face-sloth",
+        "leftEmoji": "🐵",
+        "leftEmojiCodepoint": "1f435",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 225
+      }
+    ],
+    "1f981": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f9a5/u1f9a5_u1f981.png",
+        "alt": "sloth-lion_face",
+        "leftEmoji": "🦥",
+        "leftEmojiCodepoint": "1f9a5",
+        "rightEmoji": "🦁",
+        "rightEmojiCodepoint": "1f981",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 226
+      }
+    ],
+    "1f42f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220110/u1f42f/u1f42f_u1f9a5.png",
+        "alt": "tiger-sloth",
+        "leftEmoji": "🐯",
+        "leftEmojiCodepoint": "1f42f",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20220110",
+        "isLatest": true,
+        "gBoardOrder": 227
+      }
+    ],
+    "1f431": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f431/u1f431_u1f9a5.png",
+        "alt": "cat-sloth",
+        "leftEmoji": "🐱",
+        "leftEmojiCodepoint": "1f431",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 228
+      }
+    ],
+    "1f436": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f436/u1f436_u1f9a5.png",
+        "alt": "dog-sloth",
+        "leftEmoji": "🐶",
+        "leftEmojiCodepoint": "1f436",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 229
+      }
+    ],
+    "1f43a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20221101/u1f43a/u1f43a_u1f9a5.png",
+        "alt": "wolf-sloth",
+        "leftEmoji": "🐺",
+        "leftEmojiCodepoint": "1f43a",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20221101",
+        "isLatest": true,
+        "gBoardOrder": 230
+      }
+    ],
+    "1f43b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20210831/u1f43b/u1f43b_u1f9a5.png",
+        "alt": "bear-sloth",
+        "leftEmoji": "🐻",
+        "leftEmojiCodepoint": "1f43b",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20210831",
+        "isLatest": true,
+        "gBoardOrder": 231
+      }
+    ],
+    "1f428": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f428/u1f428_u1f9a5.png",
+        "alt": "koala-sloth",
+        "leftEmoji": "🐨",
+        "leftEmojiCodepoint": "1f428",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 232
+      }
+    ],
+    "1f43c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230216/u1f43c/u1f43c_u1f9a5.png",
+        "alt": "panda_face-sloth",
+        "leftEmoji": "🐼",
+        "leftEmojiCodepoint": "1f43c",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20230216",
+        "isLatest": true,
+        "gBoardOrder": 233
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f43c/u1f43c_u1f9a5.png",
+        "alt": "panda_face-sloth",
+        "leftEmoji": "🐼",
+        "leftEmojiCodepoint": "1f43c",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": false,
+        "gBoardOrder": 233
+      }
+    ],
+    "1f42d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f42d/u1f42d_u1f9a5.png",
+        "alt": "mouse-sloth",
+        "leftEmoji": "🐭",
+        "leftEmojiCodepoint": "1f42d",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 234
+      }
+    ],
+    "1f430": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f430/u1f430_u1f9a5.png",
+        "alt": "rabbit-sloth",
+        "leftEmoji": "🐰",
+        "leftEmojiCodepoint": "1f430",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 235
+      }
+    ],
+    "1f98a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20221101/u1f98a/u1f98a_u1f9a5.png",
+        "alt": "fox_face-sloth",
+        "leftEmoji": "🦊",
+        "leftEmojiCodepoint": "1f98a",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20221101",
+        "isLatest": true,
+        "gBoardOrder": 236
+      }
+    ],
+    "1f99d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f99d/u1f99d_u1f9a5.png",
+        "alt": "raccoon-sloth",
+        "leftEmoji": "🦝",
+        "leftEmojiCodepoint": "1f99d",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 237
+      }
+    ],
+    "1f42e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f9a5.png",
+        "alt": "cow-sloth",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 238
+      }
+    ],
+    "1f437": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f437/u1f437_u1f9a5.png",
+        "alt": "pig-sloth",
+        "leftEmoji": "🐷",
+        "leftEmojiCodepoint": "1f437",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 239
+      }
+    ],
+    "1f984": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20210831/u1f984/u1f984_u1f9a5.png",
+        "alt": "unicorn_face-sloth",
+        "leftEmoji": "🦄",
+        "leftEmojiCodepoint": "1f984",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20210831",
+        "isLatest": true,
+        "gBoardOrder": 240
+      }
+    ],
+    "1f422": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f422/u1f422_u1f9a5.png",
+        "alt": "turtle-sloth",
+        "leftEmoji": "🐢",
+        "leftEmojiCodepoint": "1f422",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 242
+      }
+    ],
+    "1f438": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f438/u1f438_u1f9a5.png",
+        "alt": "frog-sloth",
+        "leftEmoji": "🐸",
+        "leftEmojiCodepoint": "1f438",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 243
+      }
+    ],
+    "1f429": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f429/u1f429_u1f9a5.png",
+        "alt": "poodle-sloth",
+        "leftEmoji": "🐩",
+        "leftEmojiCodepoint": "1f429",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 244
+      }
+    ],
+    "1f410": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20210831/u1f410/u1f410_u1f9a5.png",
+        "alt": "goat-sloth",
+        "leftEmoji": "🐐",
+        "leftEmojiCodepoint": "1f410",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20210831",
+        "isLatest": true,
+        "gBoardOrder": 245
+      }
+    ],
+    "1f98c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f98c/u1f98c_u1f9a5.png",
+        "alt": "deer-sloth",
+        "leftEmoji": "🦌",
+        "leftEmojiCodepoint": "1f98c",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 246
+      }
+    ],
+    "1f999": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f999/u1f999_u1f9a5.png",
+        "alt": "llama-sloth",
+        "leftEmoji": "🦙",
+        "leftEmojiCodepoint": "1f999",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 247
+      }
+    ],
+    "1f9a5": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f9a5/u1f9a5_u1f9a5.png",
+        "alt": "sloth-sloth",
+        "leftEmoji": "🦥",
+        "leftEmojiCodepoint": "1f9a5",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 248
+      }
+    ],
+    "1f994": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f994/u1f994_u1f9a5.png",
+        "alt": "hedgehog-sloth",
+        "leftEmoji": "🦔",
+        "leftEmojiCodepoint": "1f994",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 249
+      }
+    ],
+    "1f987": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f987/u1f987_u1f9a5.png",
+        "alt": "bat-sloth",
+        "leftEmoji": "🦇",
+        "leftEmojiCodepoint": "1f987",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 250
+      }
+    ],
+    "1f989": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20210831/u1f989/u1f989_u1f9a5.png",
+        "alt": "owl-sloth",
+        "leftEmoji": "🦉",
+        "leftEmojiCodepoint": "1f989",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20210831",
+        "isLatest": true,
+        "gBoardOrder": 251
+      }
+    ],
+    "1f426": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20210831/u1f426/u1f426_u1f9a5.png",
+        "alt": "bird-sloth",
+        "leftEmoji": "🐦",
+        "leftEmojiCodepoint": "1f426",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20210831",
+        "isLatest": true,
+        "gBoardOrder": 252
+      }
+    ],
+    "1f414": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230126/u1f414/u1f414_u1f9a5.png",
+        "alt": "chicken-sloth",
+        "leftEmoji": "🐔",
+        "leftEmojiCodepoint": "1f414",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20230126",
+        "isLatest": true,
+        "gBoardOrder": 253
+      }
+    ],
+    "1fabf": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20221101/u1fabf/u1fabf_u1f9a5.png",
+        "alt": "goose-sloth",
+        "leftEmoji": "🪿",
+        "leftEmojiCodepoint": "1fabf",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20221101",
+        "isLatest": true,
+        "gBoardOrder": 254
+      }
+    ],
+    "1f54a-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f9a5.png",
+        "alt": "dove_of_peace-sloth",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 255
+      }
+    ],
+    "1f427": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f9a5.png",
+        "alt": "penguin-sloth",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 257
+      }
+    ],
+    "1f988": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230418/u1f988/u1f988_u1f9a5.png",
+        "alt": "shark-sloth",
+        "leftEmoji": "🦈",
+        "leftEmojiCodepoint": "1f988",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20230418",
+        "isLatest": true,
+        "gBoardOrder": 258
+      }
+    ],
+    "1f433": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230418/u1f433/u1f433_u1f9a5.png",
+        "alt": "whale-sloth",
+        "leftEmoji": "🐳",
+        "leftEmojiCodepoint": "1f433",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20230418",
+        "isLatest": true,
+        "gBoardOrder": 259
+      }
+    ],
+    "1f41f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241023/u1f41f/u1f41f_u1f9a5.png",
+        "alt": "fish-sloth",
+        "leftEmoji": "🐟",
+        "leftEmojiCodepoint": "1f41f",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20241023",
+        "isLatest": true,
+        "gBoardOrder": 260
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20210831/u1f41f/u1f41f_u1f9a5.png",
+        "alt": "fish-sloth",
+        "leftEmoji": "🐟",
+        "leftEmojiCodepoint": "1f41f",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20210831",
+        "isLatest": false,
+        "gBoardOrder": 260
+      }
+    ],
+    "1f419": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f419/u1f419_u1f9a5.png",
+        "alt": "octopus-sloth",
+        "leftEmoji": "🐙",
+        "leftEmojiCodepoint": "1f419",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 263
+      }
+    ],
+    "1f982": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20210218/u1f982/u1f982_u1f9a5.png",
+        "alt": "scorpion-sloth",
+        "leftEmoji": "🦂",
+        "leftEmojiCodepoint": "1f982",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20210218",
+        "isLatest": true,
+        "gBoardOrder": 266
+      }
+    ],
+    "1f577-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f9a5/u1f9a5_u1f577-ufe0f.png",
+        "alt": "sloth-spider",
+        "leftEmoji": "🦥",
+        "leftEmojiCodepoint": "1f9a5",
+        "rightEmoji": "🕷️",
+        "rightEmojiCodepoint": "1f577-fe0f",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 267
+      }
+    ],
+    "1f40c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20210218/u1f40c/u1f40c_u1f9a5.png",
+        "alt": "snail-sloth",
+        "leftEmoji": "🐌",
+        "leftEmojiCodepoint": "1f40c",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20210218",
+        "isLatest": true,
+        "gBoardOrder": 269
+      }
+    ],
+    "1f41d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f41d/u1f41d_u1f9a5.png",
+        "alt": "bee-sloth",
+        "leftEmoji": "🐝",
+        "leftEmojiCodepoint": "1f41d",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 273
+      }
+    ],
+    "1f353": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230127/u1f353/u1f353_u1f9a5.png",
+        "alt": "strawberry-sloth",
+        "leftEmoji": "🍓",
+        "leftEmojiCodepoint": "1f353",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20230127",
+        "isLatest": true,
+        "gBoardOrder": 277
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20210831/u1f353/u1f353_u1f9a5.png",
+        "alt": "strawberry-sloth",
+        "leftEmoji": "🍓",
+        "leftEmojiCodepoint": "1f353",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20210831",
+        "isLatest": false,
+        "gBoardOrder": 277
+      }
+    ],
+    "1f352": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220406/u1f352/u1f352_u1f9a5.png",
+        "alt": "cherries-sloth",
+        "leftEmoji": "🍒",
+        "leftEmojiCodepoint": "1f352",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20220406",
+        "isLatest": true,
+        "gBoardOrder": 278
+      }
+    ],
+    "1f349": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220406/u1f349/u1f349_u1f9a5.png",
+        "alt": "watermelon-sloth",
+        "leftEmoji": "🍉",
+        "leftEmojiCodepoint": "1f349",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20220406",
+        "isLatest": true,
+        "gBoardOrder": 280
+      }
+    ],
+    "1f34a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f34a/u1f34a_u1f9a5.png",
+        "alt": "tangerine-sloth",
+        "leftEmoji": "🍊",
+        "leftEmojiCodepoint": "1f34a",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 281
+      }
+    ],
+    "1f34d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f9a5/u1f9a5_u1f34d.png",
+        "alt": "sloth-pineapple",
+        "leftEmoji": "🦥",
+        "leftEmojiCodepoint": "1f9a5",
+        "rightEmoji": "🍍",
+        "rightEmojiCodepoint": "1f34d",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 283
+      }
+    ],
+    "1f34c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f34c/u1f34c_u1f9a5.png",
+        "alt": "banana-sloth",
+        "leftEmoji": "🍌",
+        "leftEmojiCodepoint": "1f34c",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 284
+      }
+    ],
+    "1f34b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230127/u1f34b/u1f34b_u1f9a5.png",
+        "alt": "lemon-sloth",
+        "leftEmoji": "🍋",
+        "leftEmojiCodepoint": "1f34b",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20230127",
+        "isLatest": true,
+        "gBoardOrder": 285
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20210521/u1f34b/u1f34b_u1f9a5.png",
+        "alt": "lemon-sloth",
+        "leftEmoji": "🍋",
+        "leftEmojiCodepoint": "1f34b",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20210521",
+        "isLatest": false,
+        "gBoardOrder": 285
+      }
+    ],
+    "1f336-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f9a5/u1f9a5_u1f336-ufe0f.png",
+        "alt": "sloth-hot_pepper",
+        "leftEmoji": "🦥",
+        "leftEmojiCodepoint": "1f9a5",
+        "rightEmoji": "🌶️",
+        "rightEmojiCodepoint": "1f336-fe0f",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 294
+      }
+    ],
+    "1f951": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f9a5/u1f9a5_u1f951.png",
+        "alt": "sloth-avocado",
+        "leftEmoji": "🦥",
+        "leftEmojiCodepoint": "1f9a5",
+        "rightEmoji": "🥑",
+        "rightEmojiCodepoint": "1f951",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 305
+      }
+    ],
+    "1f35e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230127/u1f35e/u1f35e_u1f9a5.png",
+        "alt": "bread-sloth",
+        "leftEmoji": "🍞",
+        "leftEmojiCodepoint": "1f35e",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20230127",
+        "isLatest": true,
+        "gBoardOrder": 311
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20210831/u1f35e/u1f35e_u1f9a5.png",
+        "alt": "bread-sloth",
+        "leftEmoji": "🍞",
+        "leftEmojiCodepoint": "1f35e",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20210831",
+        "isLatest": false,
+        "gBoardOrder": 311
+      }
+    ],
+    "1f9c0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f9a5/u1f9a5_u1f9c0.png",
+        "alt": "sloth-cheese_wedge",
+        "leftEmoji": "🦥",
+        "leftEmojiCodepoint": "1f9a5",
+        "rightEmoji": "🧀",
+        "rightEmojiCodepoint": "1f9c0",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 318
+      }
+    ],
+    "1f32d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f9a5/u1f9a5_u1f32d.png",
+        "alt": "sloth-hotdog",
+        "leftEmoji": "🦥",
+        "leftEmojiCodepoint": "1f9a5",
+        "rightEmoji": "🌭",
+        "rightEmojiCodepoint": "1f32d",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 324
+      }
+    ],
+    "1f96b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250731/u1f96b/u1f96b_u1f9a5.png",
+        "alt": "canned_food-sloth",
+        "leftEmoji": "🥫",
+        "leftEmojiCodepoint": "1f96b",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20250731",
+        "isLatest": true,
+        "gBoardOrder": 335
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f96b/u1f96b_u1f9a5.png",
+        "alt": "canned_food-sloth",
+        "leftEmoji": "🥫",
+        "leftEmojiCodepoint": "1f96b",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20240206",
+        "isLatest": false,
+        "gBoardOrder": 335
+      }
+    ],
+    "1f365": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f365/u1f365_u1f9a5.png",
+        "alt": "fish_cake-sloth",
+        "leftEmoji": "🍥",
+        "leftEmojiCodepoint": "1f365",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 351
+      }
+    ],
+    "1f382": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f9a5/u1f9a5_u1f382.png",
+        "alt": "sloth-birthday",
+        "leftEmoji": "🦥",
+        "leftEmojiCodepoint": "1f9a5",
+        "rightEmoji": "🎂",
+        "rightEmojiCodepoint": "1f382",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 360
+      }
+    ],
+    "1f9c1": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f9a5/u1f9a5_u1f9c1.png",
+        "alt": "sloth-cupcake",
+        "leftEmoji": "🦥",
+        "leftEmojiCodepoint": "1f9a5",
+        "rightEmoji": "🧁",
+        "rightEmojiCodepoint": "1f9c1",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 361
+      }
+    ],
+    "1f36c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230127/u1f36c/u1f36c_u1f9a5.png",
+        "alt": "candy-sloth",
+        "leftEmoji": "🍬",
+        "leftEmojiCodepoint": "1f36c",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20230127",
+        "isLatest": true,
+        "gBoardOrder": 363
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220815/u1f36c/u1f36c_u1f9a5.png",
+        "alt": "candy-sloth",
+        "leftEmoji": "🍬",
+        "leftEmojiCodepoint": "1f36c",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20220815",
+        "isLatest": false,
+        "gBoardOrder": 363
+      }
+    ],
+    "1f9ca": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f9ca/u1f9ca_u1f9a5.png",
+        "alt": "ice_cube-sloth",
+        "leftEmoji": "🧊",
+        "leftEmojiCodepoint": "1f9ca",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 371
+      }
+    ],
+    "1f9c3": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f9c3/u1f9c3_u1f9a5.png",
+        "alt": "beverage_box-sloth",
+        "leftEmoji": "🧃",
+        "leftEmojiCodepoint": "1f9c3",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 374
+      }
+    ],
+    "1f37d-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f9a5/u1f9a5_u1f37d-ufe0f.png",
+        "alt": "sloth-knife_fork_plate",
+        "leftEmoji": "🦥",
+        "leftEmojiCodepoint": "1f9a5",
+        "rightEmoji": "🍽️",
+        "rightEmojiCodepoint": "1f37d-fe0f",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 388
+      }
+    ],
+    "1f6d1": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f6d1/u1f6d1_u1f9a5.png",
+        "alt": "octagonal_sign-sloth",
+        "leftEmoji": "🛑",
+        "leftEmojiCodepoint": "1f6d1",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 389
+      }
+    ],
+    "26fd": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u26fd/u26fd_u1f9a5.png",
+        "alt": "fuelpump-sloth",
+        "leftEmoji": "⛽",
+        "leftEmojiCodepoint": "26fd",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 392
+      }
+    ],
+    "1f6f8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f6f8/u1f6f8_u1f9a5.png",
+        "alt": "flying_saucer-sloth",
+        "leftEmoji": "🛸",
+        "leftEmojiCodepoint": "1f6f8",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 411
+      }
+    ],
+    "1f307": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230127/u1f307/u1f307_u1f9a5.png",
+        "alt": "city_sunrise-sloth",
+        "leftEmoji": "🌇",
+        "leftEmojiCodepoint": "1f307",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20230127",
+        "isLatest": true,
+        "gBoardOrder": 426
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20210831/u1f307/u1f307_u1f9a5.png",
+        "alt": "city_sunrise-sloth",
+        "leftEmoji": "🌇",
+        "leftEmojiCodepoint": "1f307",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20210831",
+        "isLatest": false,
+        "gBoardOrder": 426
+      }
+    ],
+    "1f388": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231128/u1f9a5/u1f9a5_u1f388.png",
+        "alt": "sloth-balloon",
+        "leftEmoji": "🦥",
+        "leftEmojiCodepoint": "1f9a5",
+        "rightEmoji": "🎈",
+        "rightEmojiCodepoint": "1f388",
+        "date": "20231128",
+        "isLatest": true,
+        "gBoardOrder": 430
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f9a5/u1f9a5_u1f388.png",
+        "alt": "sloth-balloon",
+        "leftEmoji": "🦥",
+        "leftEmojiCodepoint": "1f9a5",
+        "rightEmoji": "🎈",
+        "rightEmojiCodepoint": "1f388",
+        "date": "20201001",
+        "isLatest": false,
+        "gBoardOrder": 430
+      }
+    ],
+    "1f381": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f381/u1f381_u1f9a5.png",
+        "alt": "gift-sloth",
+        "leftEmoji": "🎁",
+        "leftEmojiCodepoint": "1f381",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 432
+      }
+    ],
+    "1f386": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f386/u1f386_u1f9a5.png",
+        "alt": "fireworks-sloth",
+        "leftEmoji": "🎆",
+        "leftEmojiCodepoint": "1f386",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 433
+      }
+    ],
+    "1f947": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f947/u1f947_u1f9a5.png",
+        "alt": "first_place_medal-sloth",
+        "leftEmoji": "🥇",
+        "leftEmojiCodepoint": "1f947",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 437
+      }
+    ],
+    "1f948": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f948/u1f948_u1f9a5.png",
+        "alt": "second_place_medal-sloth",
+        "leftEmoji": "🥈",
+        "leftEmojiCodepoint": "1f948",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 438
+      }
+    ],
+    "1f949": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f949/u1f949_u1f9a5.png",
+        "alt": "third_place_medal-sloth",
+        "leftEmoji": "🥉",
+        "leftEmojiCodepoint": "1f949",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 439
+      }
+    ],
+    "1f3c6": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240610/u1f3c6/u1f3c6_u1f9a5.png",
+        "alt": "trophy-sloth",
+        "leftEmoji": "🏆",
+        "leftEmojiCodepoint": "1f3c6",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20240610",
+        "isLatest": true,
+        "gBoardOrder": 442
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f3c6/u1f3c6_u1f9a5.png",
+        "alt": "trophy-sloth",
+        "leftEmoji": "🏆",
+        "leftEmojiCodepoint": "1f3c6",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20211115",
+        "isLatest": false,
+        "gBoardOrder": 442
+      }
+    ],
+    "26bd": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220406/u26bd/u26bd_u1f9a5.png",
+        "alt": "soccer-sloth",
+        "leftEmoji": "⚽",
+        "leftEmojiCodepoint": "26bd",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20220406",
+        "isLatest": true,
+        "gBoardOrder": 443
+      }
+    ],
+    "1f3c0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230126/u1f3c0/u1f3c0_u1f9a5.png",
+        "alt": "basketball-sloth",
+        "leftEmoji": "🏀",
+        "leftEmojiCodepoint": "1f3c0",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20230126",
+        "isLatest": true,
+        "gBoardOrder": 446
+      }
+    ],
+    "1f3c8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f3c8/u1f3c8_u1f9a5.png",
+        "alt": "football-sloth",
+        "leftEmoji": "🏈",
+        "leftEmojiCodepoint": "1f3c8",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 448
+      }
+    ],
+    "1f945": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f945/u1f945_u1f9a5.png",
+        "alt": "goal_net-sloth",
+        "leftEmoji": "🥅",
+        "leftEmojiCodepoint": "1f945",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 451
+      }
+    ],
+    "1f3bf": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f3bf/u1f3bf_u1f9a5.png",
+        "alt": "ski-sloth",
+        "leftEmoji": "🎿",
+        "leftEmojiCodepoint": "1f3bf",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 459
+      }
+    ],
+    "1f3a3": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f3a3/u1f3a3_u1f9a5.png",
+        "alt": "fishing_pole_and_fish-sloth",
+        "leftEmoji": "🎣",
+        "leftEmojiCodepoint": "1f3a3",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 470
+      }
+    ],
+    "1f3b1": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f3b1/u1f3b1_u1f9a5.png",
+        "alt": "8ball-sloth",
+        "leftEmoji": "🎱",
+        "leftEmojiCodepoint": "1f3b1",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 475
+      }
+    ],
+    "1f3b3": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f3b3/u1f3b3_u1f9a5.png",
+        "alt": "bowling-sloth",
+        "leftEmoji": "🎳",
+        "leftEmojiCodepoint": "1f3b3",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 477
+      }
+    ],
+    "1f9e9": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9e9/u1f9e9_u1f9a5.png",
+        "alt": "jigsaw-sloth",
+        "leftEmoji": "🧩",
+        "leftEmojiCodepoint": "1f9e9",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 480
+      }
+    ],
+    "1f3b0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f3b0/u1f3b0_u1f9a5.png",
+        "alt": "slot_machine-sloth",
+        "leftEmoji": "🎰",
+        "leftEmojiCodepoint": "1f3b0",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 483
+      }
+    ],
+    "1f5bc-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f5bc-ufe0f/u1f5bc-ufe0f_u1f9a5.png",
+        "alt": "frame_with_picture-sloth",
+        "leftEmoji": "🖼️",
+        "leftEmojiCodepoint": "1f5bc-fe0f",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 488
+      }
+    ],
+    "1f58d-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f58d-ufe0f/u1f58d-ufe0f_u1f9a5.png",
+        "alt": "lower_left_crayon-sloth",
+        "leftEmoji": "🖍️",
+        "leftEmojiCodepoint": "1f58d-fe0f",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 491
+      }
+    ],
+    "1f3a7": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230127/u1f3a7/u1f3a7_u1f9a5.png",
+        "alt": "headphones-sloth",
+        "leftEmoji": "🎧",
+        "leftEmojiCodepoint": "1f3a7",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20230127",
+        "isLatest": true,
+        "gBoardOrder": 507
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20210521/u1f3a7/u1f3a7_u1f9a5.png",
+        "alt": "headphones-sloth",
+        "leftEmoji": "🎧",
+        "leftEmojiCodepoint": "1f3a7",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20210521",
+        "isLatest": false,
+        "gBoardOrder": 507
+      }
+    ],
+    "1f3ac": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f3ac/u1f3ac_u1f9a5.png",
+        "alt": "clapper-sloth",
+        "leftEmoji": "🎬",
+        "leftEmojiCodepoint": "1f3ac",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 515
+      }
+    ],
+    "1f39f-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f39f-ufe0f/u1f39f-ufe0f_u1f9a5.png",
+        "alt": "admission_tickets-sloth",
+        "leftEmoji": "🎟️",
+        "leftEmojiCodepoint": "1f39f-fe0f",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 517
+      }
+    ],
+    "1f4df": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f4df/u1f4df_u1f9a5.png",
+        "alt": "pager-sloth",
+        "leftEmoji": "📟",
+        "leftEmojiCodepoint": "1f4df",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 520
+      }
+    ],
+    "1f4e0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240610/u1f4e0/u1f4e0_u1f9a5.png",
+        "alt": "fax-sloth",
+        "leftEmoji": "📠",
+        "leftEmojiCodepoint": "1f4e0",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20240610",
+        "isLatest": true,
+        "gBoardOrder": 521
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f4e0/u1f4e0_u1f9a5.png",
+        "alt": "fax-sloth",
+        "leftEmoji": "📠",
+        "leftEmojiCodepoint": "1f4e0",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20240206",
+        "isLatest": false,
+        "gBoardOrder": 521
+      }
+    ],
+    "1f4be": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f4be/u1f4be_u1f9a5.png",
+        "alt": "floppy_disk-sloth",
+        "leftEmoji": "💾",
+        "leftEmojiCodepoint": "1f4be",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 525
+      }
+    ],
+    "1f4bb": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f4bb/u1f4bb_u1f9a5.png",
+        "alt": "computer-sloth",
+        "leftEmoji": "💻",
+        "leftEmojiCodepoint": "1f4bb",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 527
+      }
+    ],
+    "1f4a1": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f4a1/u1f4a1_u1f9a5.png",
+        "alt": "bulb-sloth",
+        "leftEmoji": "💡",
+        "leftEmojiCodepoint": "1f4a1",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 533
+      }
+    ],
+    "1f451": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f9a5/u1f9a5_u1f451.png",
+        "alt": "sloth-crown",
+        "leftEmoji": "🦥",
+        "leftEmojiCodepoint": "1f9a5",
+        "rightEmoji": "👑",
+        "rightEmojiCodepoint": "1f451",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 546
+      }
+    ],
+    "1f48e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f9a5/u1f9a5_u1f48e.png",
+        "alt": "sloth-gem",
+        "leftEmoji": "🦥",
+        "leftEmojiCodepoint": "1f9a5",
+        "rightEmoji": "💎",
+        "rightEmojiCodepoint": "1f48e",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 550
+      }
+    ],
+    "1f5d1-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240610/u1f5d1-ufe0f/u1f5d1-ufe0f_u1f9a5.png",
+        "alt": "wastebasket-sloth",
+        "leftEmoji": "🗑️",
+        "leftEmojiCodepoint": "1f5d1-fe0f",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20240610",
+        "isLatest": true,
+        "gBoardOrder": 567
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f5d1-ufe0f/u1f5d1-ufe0f_u1f9a5.png",
+        "alt": "wastebasket-sloth",
+        "leftEmoji": "🗑️",
+        "leftEmojiCodepoint": "1f5d1-fe0f",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20231113",
+        "isLatest": false,
+        "gBoardOrder": 567
+      }
+    ],
+    "1f4da": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f4da/u1f4da_u1f9a5.png",
+        "alt": "books-sloth",
+        "leftEmoji": "📚",
+        "leftEmojiCodepoint": "1f4da",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 571
+      }
+    ],
+    "1f4f0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f9a5/u1f9a5_u1f4f0.png",
+        "alt": "sloth-newspaper",
+        "leftEmoji": "🦥",
+        "leftEmojiCodepoint": "1f9a5",
+        "rightEmoji": "📰",
+        "rightEmojiCodepoint": "1f4f0",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 577
+      }
+    ],
+    "1f52e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f9a5/u1f9a5_u1f52e.png",
+        "alt": "sloth-crystal_ball",
+        "leftEmoji": "🦥",
+        "leftEmojiCodepoint": "1f9a5",
+        "rightEmoji": "🔮",
+        "rightEmojiCodepoint": "1f52e",
+        "date": "20201001",
+        "isLatest": true,
+        "gBoardOrder": 588
+      }
+    ],
+    "1f3fa": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f3fa/u1f3fa_u1f9a5.png",
+        "alt": "amphora-sloth",
+        "leftEmoji": "🏺",
+        "leftEmojiCodepoint": "1f3fa",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 590
+      }
+    ],
+    "1faa4": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1faa4/u1faa4_u1f9a5.png",
+        "alt": "mouse_trap-sloth",
+        "leftEmoji": "🪤",
+        "leftEmojiCodepoint": "1faa4",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 591
+      }
+    ],
+    "26a0-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u26a0-ufe0f/u26a0-ufe0f_u1f9a5.png",
+        "alt": "warning-sloth",
+        "leftEmoji": "⚠️",
+        "leftEmojiCodepoint": "26a0-fe0f",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 617
+      }
+    ],
+    "1f5ef-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f5ef-ufe0f/u1f5ef-ufe0f_u1f9a5.png",
+        "alt": "right_anger_bubble-sloth",
+        "leftEmoji": "🗯️",
+        "leftEmojiCodepoint": "1f5ef-fe0f",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 641
+      }
+    ],
+    "1f4ac": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f4ac/u1f4ac_u1f9a5.png",
+        "alt": "speech_balloon-sloth",
+        "leftEmoji": "💬",
+        "leftEmojiCodepoint": "1f4ac",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 642
+      }
+    ],
+    "1f40d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f40d/u1f40d_u1f9a5.png",
+        "alt": "snake-sloth",
+        "leftEmoji": "🐍",
+        "leftEmojiCodepoint": "1f40d",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 242
+      }
+    ],
+    "1f463": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f463/u1f463_u1f9a5.png",
+        "alt": "footprints-sloth",
+        "leftEmoji": "👣",
+        "leftEmojiCodepoint": "1f463",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 157
+      }
+    ],
+    "26c5": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u26c5/u26c5_u1f9a5.png",
+        "alt": "partly_sunny-sloth",
+        "leftEmoji": "⛅",
+        "leftEmojiCodepoint": "26c5",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 212
+      }
+    ],
+    "1f30c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f30c/u1f30c_u1f9a5.png",
+        "alt": "milky_way-sloth",
+        "leftEmoji": "🌌",
+        "leftEmojiCodepoint": "1f30c",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 221
+      }
+    ],
+    "1f409": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f409/u1f409_u1f9a5.png",
+        "alt": "dragon-sloth",
+        "leftEmoji": "🐉",
+        "leftEmojiCodepoint": "1f409",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 241
+      }
+    ],
+    "1f960": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f960/u1f960_u1f9a5.png",
+        "alt": "fortune_cookie-sloth",
+        "leftEmoji": "🥠",
+        "leftEmojiCodepoint": "1f960",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 353
+      }
+    ],
+    "1f6a8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6a8/u1f6a8_u1f9a5.png",
+        "alt": "rotating_light-sloth",
+        "leftEmoji": "🚨",
+        "leftEmojiCodepoint": "1f6a8",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 391
+      }
+    ],
+    "1f6a6": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6a6/u1f6a6_u1f9a5.png",
+        "alt": "vertical_traffic_light-sloth",
+        "leftEmoji": "🚦",
+        "leftEmojiCodepoint": "1f6a6",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 396
+      }
+    ],
+    "1f69a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f69a/u1f69a_u1f9a5.png",
+        "alt": "truck-sloth",
+        "leftEmoji": "🚚",
+        "leftEmojiCodepoint": "1f69a",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 401
+      }
+    ],
+    "1f3af": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f3af/u1f3af_u1f9a5.png",
+        "alt": "dart-sloth",
+        "leftEmoji": "🎯",
+        "leftEmojiCodepoint": "1f3af",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 465
+      }
+    ],
+    "1f0cf": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f0cf/u1f0cf_u1f9a5.png",
+        "alt": "black_joker-sloth",
+        "leftEmoji": "🃏",
+        "leftEmojiCodepoint": "1f0cf",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 486
+      }
+    ],
+    "1f39e-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f39e-ufe0f/u1f39e-ufe0f_u1f9a5.png",
+        "alt": "film_frames-sloth",
+        "leftEmoji": "🎞️",
+        "leftEmojiCodepoint": "1f39e-fe0f",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 514
+      }
+    ],
+    "1f455": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f455/u1f455_u1f9a5.png",
+        "alt": "shirt-sloth",
+        "leftEmoji": "👕",
+        "leftEmojiCodepoint": "1f455",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 542
+      }
+    ],
+    "1f460": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f460/u1f460_u1f9a5.png",
+        "alt": "high_heel-sloth",
+        "leftEmoji": "👠",
+        "leftEmojiCodepoint": "1f460",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 551
+      }
+    ],
+    "1f4c8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f4c8/u1f4c8_u1f9a5.png",
+        "alt": "chart_with_upwards_trend-sloth",
+        "leftEmoji": "📈",
+        "leftEmojiCodepoint": "1f4c8",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 574
+      }
+    ],
+    "1f4c9": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f4c9/u1f4c9_u1f9a5.png",
+        "alt": "chart_with_downwards_trend-sloth",
+        "leftEmoji": "📉",
+        "leftEmojiCodepoint": "1f4c9",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 575
+      }
+    ],
+    "2702-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u2702-ufe0f/u2702-ufe0f_u1f9a5.png",
+        "alt": "scissors-sloth",
+        "leftEmoji": "✂️",
+        "leftEmojiCodepoint": "2702-fe0f",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 576
+      }
+    ],
+    "231a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u231a/u231a_u1f9a5.png",
+        "alt": "watch-sloth",
+        "leftEmoji": "⌚",
+        "leftEmojiCodepoint": "231a",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 580
+      }
+    ],
+    "1f514": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f514/u1f514_u1f9a5.png",
+        "alt": "bell-sloth",
+        "leftEmoji": "🔔",
+        "leftEmojiCodepoint": "1f514",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 585
+      }
+    ],
+    "1f3b6": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f3b6/u1f3b6_u1f9a5.png",
+        "alt": "notes-sloth",
+        "leftEmoji": "🎶",
+        "leftEmojiCodepoint": "1f3b6",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 614
+      }
+    ],
+    "2622-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u2622-ufe0f/u2622-ufe0f_u1f9a5.png",
+        "alt": "radioactive_sign-sloth",
+        "leftEmoji": "☢️",
+        "leftEmojiCodepoint": "2622-fe0f",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 615
+      }
+    ],
+    "1f5e3-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f5e3-ufe0f/u1f5e3-ufe0f_u1f9a5.png",
+        "alt": "speaking_head_in_silhouette-sloth",
+        "leftEmoji": "🗣️",
+        "leftEmojiCodepoint": "1f5e3-fe0f",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 156
+      }
+    ],
+    "1f440": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f440/u1f440_u1f9a5.png",
+        "alt": "eyes-sloth",
+        "leftEmoji": "👀",
+        "leftEmojiCodepoint": "1f440",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 166
+      }
+    ],
+    "1f33a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f33a/u1f33a_u1f9a5.png",
+        "alt": "hibiscus-sloth",
+        "leftEmoji": "🌺",
+        "leftEmojiCodepoint": "1f33a",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 176
+      }
+    ],
+    "1f32c-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f32c-ufe0f/u1f32c-ufe0f_u1f9a5.png",
+        "alt": "wind_blowing_face-sloth",
+        "leftEmoji": "🌬️",
+        "leftEmojiCodepoint": "1f32c-fe0f",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 205
+      }
+    ],
+    "1f300": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f300/u1f300_u1f9a5.png",
+        "alt": "cyclone-sloth",
+        "leftEmoji": "🌀",
+        "leftEmojiCodepoint": "1f300",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 206
+      }
+    ],
+    "1f329-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f329-ufe0f/u1f329-ufe0f_u1f9a5.png",
+        "alt": "lightning-sloth",
+        "leftEmoji": "🌩️",
+        "leftEmojiCodepoint": "1f329-fe0f",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 215
+      }
+    ],
+    "1f9a9": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f9a9/u1f9a9_u1f9a5.png",
+        "alt": "flamingo-sloth",
+        "leftEmoji": "🦩",
+        "leftEmojiCodepoint": "1f9a9",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 256
+      }
+    ],
+    "1f373": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f373/u1f373_u1f9a5.png",
+        "alt": "fried_egg-sloth",
+        "leftEmoji": "🍳",
+        "leftEmojiCodepoint": "1f373",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 317
+      }
+    ],
+    "1f355": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f355/u1f355_u1f9a5.png",
+        "alt": "pizza-sloth",
+        "leftEmoji": "🍕",
+        "leftEmojiCodepoint": "1f355",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 324
+      }
+    ],
+    "1f69c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f69c/u1f69c_u1f9a5.png",
+        "alt": "tractor-sloth",
+        "leftEmoji": "🚜",
+        "leftEmojiCodepoint": "1f69c",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 403
+      }
+    ],
+    "1f3e0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f3e0/u1f3e0_u1f9a5.png",
+        "alt": "house-sloth",
+        "leftEmoji": "🏠",
+        "leftEmojiCodepoint": "1f3e0",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 424
+      }
+    ],
+    "1faa9": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1faa9/u1faa9_u1f9a5.png",
+        "alt": "mirror_ball-sloth",
+        "leftEmoji": "🪩",
+        "leftEmojiCodepoint": "1faa9",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 435
+      }
+    ],
+    "26be": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u26be/u26be_u1f9a5.png",
+        "alt": "baseball-sloth",
+        "leftEmoji": "⚾",
+        "leftEmojiCodepoint": "26be",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 444
+      }
+    ],
+    "1f3a8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f3a8/u1f3a8_u1f9a5.png",
+        "alt": "art-sloth",
+        "leftEmoji": "🎨",
+        "leftEmojiCodepoint": "1f3a8",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 489
+      }
+    ],
+    "1f3a4": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f3a4/u1f3a4_u1f9a5.png",
+        "alt": "microphone-sloth",
+        "leftEmoji": "🎤",
+        "leftEmojiCodepoint": "1f3a4",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 506
+      }
+    ],
+    "1f50b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f50b/u1f50b_u1f9a5.png",
+        "alt": "battery-sloth",
+        "leftEmoji": "🔋",
+        "leftEmojiCodepoint": "1f50b",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 523
+      }
+    ],
+    "1faab": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1faab/u1faab_u1f9a5.png",
+        "alt": "low_battery-sloth",
+        "leftEmoji": "🪫",
+        "leftEmojiCodepoint": "1faab",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 524
+      }
+    ],
+    "2696-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u2696-ufe0f/u2696-ufe0f_u1f9a5.png",
+        "alt": "scales-sloth",
+        "leftEmoji": "⚖️",
+        "leftEmojiCodepoint": "2696-fe0f",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 530
+      }
+    ],
+    "1f393": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f393/u1f393_u1f9a5.png",
+        "alt": "mortar_board-sloth",
+        "leftEmoji": "🎓",
+        "leftEmojiCodepoint": "1f393",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 544
+      }
+    ],
+    "1f9ea": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f9ea/u1f9ea_u1f9a5.png",
+        "alt": "test_tube-sloth",
+        "leftEmoji": "🧪",
+        "leftEmojiCodepoint": "1f9ea",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 554
+      }
+    ],
+    "1fa7a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1fa7a/u1fa7a_u1f9a5.png",
+        "alt": "stethoscope-sloth",
+        "leftEmoji": "🩺",
+        "leftEmojiCodepoint": "1fa7a",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 556
+      }
+    ],
+    "1f9ec": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f9ec/u1f9ec_u1f9a5.png",
+        "alt": "dna-sloth",
+        "leftEmoji": "🧬",
+        "leftEmojiCodepoint": "1f9ec",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 557
+      }
+    ],
+    "1f9f2": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f9f2/u1f9f2_u1f9a5.png",
+        "alt": "magnet-sloth",
+        "leftEmoji": "🧲",
+        "leftEmojiCodepoint": "1f9f2",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 560
+      }
+    ],
+    "1f6e0-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e0-ufe0f/u1f6e0-ufe0f_u1f9a5.png",
+        "alt": "hammer_and_wrench-sloth",
+        "leftEmoji": "🛠️",
+        "leftEmojiCodepoint": "1f6e0-fe0f",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 561
+      }
+    ],
+    "26d3-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u26d3-ufe0f/u26d3-ufe0f_u1f9a5.png",
+        "alt": "chains-sloth",
+        "leftEmoji": "⛓️",
+        "leftEmojiCodepoint": "26d3-fe0f",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 564
+      }
+    ],
+    "1f587-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f587-ufe0f/u1f587-ufe0f_u1f9a5.png",
+        "alt": "linked_paperclips-sloth",
+        "leftEmoji": "🖇️",
+        "leftEmojiCodepoint": "1f587-fe0f",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 565
+      }
+    ],
+    "1f4e6": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f4e6/u1f4e6_u1f9a5.png",
+        "alt": "package-sloth",
+        "leftEmoji": "📦",
+        "leftEmojiCodepoint": "1f4e6",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 578
+      }
+    ],
+    "1f5f3-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f5f3-ufe0f/u1f5f3-ufe0f_u1f9a5.png",
+        "alt": "ballot_box_with_ballot-sloth",
+        "leftEmoji": "🗳️",
+        "leftEmojiCodepoint": "1f5f3-fe0f",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 579
+      }
+    ],
+    "23f0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u23f0/u23f0_u1f9a5.png",
+        "alt": "alarm_clock-sloth",
+        "leftEmoji": "⏰",
+        "leftEmojiCodepoint": "23f0",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 584
+      }
+    ],
+    "1f198": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f198/u1f198_u1f9a5.png",
+        "alt": "sos-sloth",
+        "leftEmoji": "🆘",
+        "leftEmojiCodepoint": "1f198",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 610
+      }
+    ],
+    "2668-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u2668-ufe0f/u2668-ufe0f_u1f9a5.png",
+        "alt": "hotsprings-sloth",
+        "leftEmoji": "♨️",
+        "leftEmojiCodepoint": "2668-fe0f",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 611
+      }
+    ],
+    "1f4f4": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f4f4/u1f4f4_u1f9a5.png",
+        "alt": "mobile_phone_off-sloth",
+        "leftEmoji": "📴",
+        "leftEmojiCodepoint": "1f4f4",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 612
+      }
+    ],
+    "267b-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u267b-ufe0f/u267b-ufe0f_u1f9a5.png",
+        "alt": "recycle-sloth",
+        "leftEmoji": "♻️",
+        "leftEmojiCodepoint": "267b-fe0f",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 618
+      }
+    ],
+    "1f195": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f195/u1f195_u1f9a5.png",
+        "alt": "new-sloth",
+        "leftEmoji": "🆕",
+        "leftEmojiCodepoint": "1f195",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 620
+      }
+    ],
+    "1f193": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f193/u1f193_u1f9a5.png",
+        "alt": "free-sloth",
+        "leftEmoji": "🆓",
+        "leftEmojiCodepoint": "1f193",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 621
+      }
+    ],
+    "1f199": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f199/u1f199_u1f9a5.png",
+        "alt": "up-sloth",
+        "leftEmoji": "🆙",
+        "leftEmojiCodepoint": "1f199",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 622
+      }
+    ],
+    "1f197": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f197/u1f197_u1f9a5.png",
+        "alt": "ok-sloth",
+        "leftEmoji": "🆗",
+        "leftEmojiCodepoint": "1f197",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 623
+      }
+    ],
+    "1f192": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f192/u1f192_u1f9a5.png",
+        "alt": "cool-sloth",
+        "leftEmoji": "🆒",
+        "leftEmojiCodepoint": "1f192",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 624
+      }
+    ],
+    "262f-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u262f-ufe0f/u262f-ufe0f_u1f9a5.png",
+        "alt": "yin_yang-sloth",
+        "leftEmoji": "☯️",
+        "leftEmojiCodepoint": "262f-fe0f",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 628
+      }
+    ],
+    "267e-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u267e-ufe0f/u267e-ufe0f_u1f9a5.png",
+        "alt": "infinity-sloth",
+        "leftEmoji": "♾️",
+        "leftEmojiCodepoint": "267e-fe0f",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 629
+      }
+    ],
+    "1f331": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f331/u1f331_u1f9a5.png",
+        "alt": "seedling-sloth",
+        "leftEmoji": "🌱",
+        "leftEmojiCodepoint": "1f331",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 189
+      }
+    ],
+    "1fab3": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1fab3/u1fab3_u1f9a5.png",
+        "alt": "cockroach-sloth",
+        "leftEmoji": "🪳",
+        "leftEmojiCodepoint": "1fab3",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 272
+      }
+    ],
+    "1f41e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f41e/u1f41e_u1f9a5.png",
+        "alt": "ladybug-sloth",
+        "leftEmoji": "🐞",
+        "leftEmojiCodepoint": "1f41e",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 274
+      }
+    ],
+    "1f345": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f345/u1f345_u1f9a5.png",
+        "alt": "tomato-sloth",
+        "leftEmoji": "🍅",
+        "leftEmojiCodepoint": "1f345",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 293
+      }
+    ],
+    "1f3d0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f3d0/u1f3d0_u1f9a5.png",
+        "alt": "volleyball-sloth",
+        "leftEmoji": "🏐",
+        "leftEmojiCodepoint": "1f3d0",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 447
+      }
+    ],
+    "1fa70": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1fa70/u1fa70_u1f9a5.png",
+        "alt": "ballet_shoes-sloth",
+        "leftEmoji": "🩰",
+        "leftEmojiCodepoint": "1fa70",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 462
+      }
+    ],
+    "1f94a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f94a/u1f94a_u1f9a5.png",
+        "alt": "boxing_glove-sloth",
+        "leftEmoji": "🥊",
+        "leftEmojiCodepoint": "1f94a",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 474
+      }
+    ],
+    "1f4f1": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f4f1/u1f4f1_u1f9a5.png",
+        "alt": "iphone-sloth",
+        "leftEmoji": "📱",
+        "leftEmojiCodepoint": "1f4f1",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 518
+      }
+    ],
+    "2699-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u2699-ufe0f/u2699-ufe0f_u1f9a5.png",
+        "alt": "gear-sloth",
+        "leftEmoji": "⚙️",
+        "leftEmojiCodepoint": "2699-fe0f",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 563
+      }
+    ],
+    "1fae9": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1fae9/u1fae9_u1f9a5.png",
+        "alt": "face_with_bags_under_eyes-sloth",
+        "leftEmoji": "🫩",
+        "leftEmojiCodepoint": "1fae9",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 96
+      }
+    ],
+    "1fac2": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250430/u1fac2/u1fac2_u1f9a5.png",
+        "alt": "people_hugging-sloth",
+        "leftEmoji": "🫂",
+        "leftEmojiCodepoint": "1fac2",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20250430",
+        "isLatest": true,
+        "gBoardOrder": 153
+      }
+    ],
+    "1f98b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250430/u1f98b/u1f98b_u1f9a5.png",
+        "alt": "butterfly-sloth",
+        "leftEmoji": "🦋",
+        "leftEmojiCodepoint": "1f98b",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20250430",
+        "isLatest": true,
+        "gBoardOrder": 275
+      }
+    ],
+    "1f3a2": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250430/u1f3a2/u1f3a2_u1f9a5.png",
+        "alt": "roller_coaster-sloth",
+        "leftEmoji": "🎢",
+        "leftEmojiCodepoint": "1f3a2",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20250430",
+        "isLatest": true,
+        "gBoardOrder": 414
+      }
+    ],
+    "1f3ad": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250430/u1f3ad/u1f3ad_u1f9a5.png",
+        "alt": "performing_arts-sloth",
+        "leftEmoji": "🎭",
+        "leftEmojiCodepoint": "1f3ad",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20250430",
+        "isLatest": true,
+        "gBoardOrder": 516
+      }
+    ],
+    "2049-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250430/u2049-ufe0f/u2049-ufe0f_u1f9a5.png",
+        "alt": "interrobang-sloth",
+        "leftEmoji": "⁉️",
+        "leftEmojiCodepoint": "2049-fe0f",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20250430",
+        "isLatest": true,
+        "gBoardOrder": 609
+      }
+    ]
+  }
+}
