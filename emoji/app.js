@@ -14,7 +14,14 @@ exports.handler = async (event, context) => {
   ).knownSupportedEmoji;
 
   if (knownSupportedEmoji.includes(l)) {
-    const metadata = JSON.parse(fs.readFileSync(`./data/${l}.json`));
+    var metadata = JSON.parse(fs.readFileSync(`./data/${l}.json`));
+
+    // Check if we're getting a specific combo
+    if (event.queryStringParameters.r) {
+      const r = event.queryStringParameters.r;
+
+      metadata = metadata.combinations[r].filter((c) => c.isLatest)[0];
+    }
 
     return {
       cookies: [],
