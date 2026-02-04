@@ -80,3 +80,18 @@ resource "aws_lambda_permission" "supported_emoji_proxy_permission" {
   principal     = "apigateway.amazonaws.com"
   source_arn    = "${aws_apigatewayv2_api.instance.execution_arn}/*/*/*"
 }
+
+// GET /emoji permissions
+resource "aws_lambda_permission" "emoji_api_root_permission" {
+  action        = "lambda:InvokeFunction"
+  function_name = aws_lambda_function.emoji_api.function_name
+  principal     = "apigateway.amazonaws.com"
+  source_arn    = "${aws_apigatewayv2_api.instance.execution_arn}/*/*/"
+}
+
+resource "aws_lambda_permission" "emoji_api_proxy_permission" {
+  action        = "lambda:InvokeFunction"
+  function_name = aws_lambda_function.emoji_api.function_name
+  principal     = "apigateway.amazonaws.com"
+  source_arn    = "${aws_apigatewayv2_api.instance.execution_arn}/*/*/*"
+}
