@@ -20,7 +20,11 @@ exports.handler = async (event, context) => {
     if (event.queryStringParameters.r) {
       const r = event.queryStringParameters.r;
 
-      metadata = metadata.combinations[r].filter((c) => c.isLatest)[0];
+      // The r emoji needs to actually be supported
+      const supportedEmojiCombinations = Object.keys(metadata.combinations[r]);
+      if (supportedEmojiCombinations.includes(r)) {
+        metadata = metadata.combinations[r].filter((c) => c.isLatest)[0];
+      }
     }
 
     return {
