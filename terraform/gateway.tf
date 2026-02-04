@@ -68,3 +68,16 @@ resource "aws_apigatewayv2_route" "supported_emoji_route" {
   target    = "integrations/${aws_apigatewayv2_integration.supported_emoji_integration.id}"
 }
 
+// GET /emoji
+resource "aws_apigatewayv2_integration" "emoji_api_integration" {
+  api_id                 = aws_apigatewayv2_api.instance.id
+  integration_type       = "AWS_PROXY"
+  integration_uri        = aws_lambda_function.emoji_api.invoke_arn
+  payload_format_version = "2.0"
+}
+
+resource "aws_apigatewayv2_route" "emoji_api_route" {
+  api_id    = aws_apigatewayv2_api.instance.id
+  route_key = "GET /emoji"
+  target    = "integrations/${aws_apigatewayv2_integration.emoji_api_integration.id}"
+}

@@ -29,3 +29,7 @@ output "lambda_function" {
 output "supported_emoji_lambda_function" {
   value = aws_lambda_function.supported_emoji.function_name
 }
+
+output "emoji_api_lambda_function" {
+  value = aws_lambda_function.emoji_api.function_name
+}
