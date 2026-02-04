@@ -53,3 +53,18 @@ resource "aws_apigatewayv2_stage" "instance" {
     throttling_rate_limit  = 50
   }
 }
+
+// GET /supportedEmoji
+resource "aws_apigatewayv2_integration" "supported_emoji_integration" {
+  api_id                 = aws_apigatewayv2_api.instance.id
+  integration_type       = "AWS_PROXY"
+  integration_uri        = aws_lambda_function.supported_emoji.invoke_arn
+  payload_format_version = "2.0"
+}
+
+resource "aws_apigatewayv2_route" "supported_emoji_route" {
+  api_id    = aws_apigatewayv2_api.instance.id
+  route_key = "GET /supportedEmoji"
+  target    = "integrations/${aws_apigatewayv2_integration.supported_emoji_integration.id}"
+}
+

@@ -25,3 +25,7 @@ provider "aws" {
 output "lambda_function" {
   value = aws_lambda_function.instance.function_name
 }
+
+output "supported_emoji_lambda_function" {
+  value = aws_lambda_function.supported_emoji.function_name
+}
