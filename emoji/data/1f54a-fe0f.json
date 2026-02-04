@@ -1,0 +1,4843 @@
+{
+  "alt": "dove_of_peace",
+  "emoji": "🕊️",
+  "emojiCodepoint": "1f54a-fe0f",
+  "gBoardOrder": 260,
+  "keywords": [
+    "dove",
+    "animal",
+    "bird",
+    "fly",
+    "peace",
+    "dove_of_peace"
+  ],
+  "category": "animals & nature",
+  "subcategory": "animal-bird",
+  "combinations": {
+    "2615": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u2615.png",
+        "alt": "dove_of_peace-coffee",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "☕",
+        "rightEmojiCodepoint": "2615",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 378
+      }
+    ],
+    "2648": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f54a-ufe0f/u1f54a-ufe0f_u2648.png",
+        "alt": "dove_of_peace-aries",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "♈",
+        "rightEmojiCodepoint": "2648",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 594
+      }
+    ],
+    "2649": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f54a-ufe0f/u1f54a-ufe0f_u2649.png",
+        "alt": "dove_of_peace-taurus",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "♉",
+        "rightEmojiCodepoint": "2649",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 595
+      }
+    ],
+    "2650": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f54a-ufe0f/u1f54a-ufe0f_u2650.png",
+        "alt": "dove_of_peace-sagittarius",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "♐",
+        "rightEmojiCodepoint": "2650",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 602
+      }
+    ],
+    "2651": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f54a-ufe0f/u1f54a-ufe0f_u2651.png",
+        "alt": "dove_of_peace-capricorn",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "♑",
+        "rightEmojiCodepoint": "2651",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 603
+      }
+    ],
+    "2652": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f54a-ufe0f/u1f54a-ufe0f_u2652.png",
+        "alt": "dove_of_peace-aquarius",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "♒",
+        "rightEmojiCodepoint": "2652",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 604
+      }
+    ],
+    "2653": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f54a-ufe0f/u1f54a-ufe0f_u2653.png",
+        "alt": "dove_of_peace-pisces",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "♓",
+        "rightEmojiCodepoint": "2653",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 605
+      }
+    ],
+    "2705": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f54a-ufe0f/u1f54a-ufe0f_u2705.png",
+        "alt": "dove_of_peace-white_check_mark",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "✅",
+        "rightEmojiCodepoint": "2705",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 619
+      }
+    ],
+    "2753": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250204/u2753/u2753_u1f54a-ufe0f.png",
+        "alt": "question-dove_of_peace",
+        "leftEmoji": "❓",
+        "leftEmojiCodepoint": "2753",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20250204",
+        "isLatest": true,
+        "gBoardOrder": 608
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u2753/u2753_u1f54a-ufe0f.png",
+        "alt": "question-dove_of_peace",
+        "leftEmoji": "❓",
+        "leftEmojiCodepoint": "2753",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20241021",
+        "isLatest": false,
+        "gBoardOrder": 608
+      }
+    ],
+    "2757": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u2757/u2757_u1f54a-ufe0f.png",
+        "alt": "exclamation-dove_of_peace",
+        "leftEmoji": "❗",
+        "leftEmojiCodepoint": "2757",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 607
+      }
+    ],
+    "1fa84": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220815/u1fa84/u1fa84_u1f54a-ufe0f.png",
+        "alt": "magic_wand-dove_of_peace",
+        "leftEmoji": "🪄",
+        "leftEmojiCodepoint": "1fa84",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20220815",
+        "isLatest": true,
+        "gBoardOrder": 0
+      }
+    ],
+    "1f600": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f600.png",
+        "alt": "dove_of_peace-grinning",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😀",
+        "rightEmojiCodepoint": "1f600",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 1
+      }
+    ],
+    "1f603": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f603.png",
+        "alt": "dove_of_peace-smiley",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😃",
+        "rightEmojiCodepoint": "1f603",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 2
+      }
+    ],
+    "1f604": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f604.png",
+        "alt": "dove_of_peace-smile",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😄",
+        "rightEmojiCodepoint": "1f604",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 3
+      }
+    ],
+    "1f601": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f601.png",
+        "alt": "dove_of_peace-grin",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😁",
+        "rightEmojiCodepoint": "1f601",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 4
+      }
+    ],
+    "1f606": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f606.png",
+        "alt": "dove_of_peace-laughing",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😆",
+        "rightEmojiCodepoint": "1f606",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 5
+      }
+    ],
+    "1f605": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f605.png",
+        "alt": "dove_of_peace-sweat_smile",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😅",
+        "rightEmojiCodepoint": "1f605",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 6
+      }
+    ],
+    "1f602": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220815/u1f602/u1f602_u1f54a-ufe0f.png",
+        "alt": "joy-dove_of_peace",
+        "leftEmoji": "😂",
+        "leftEmojiCodepoint": "1f602",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20220815",
+        "isLatest": true,
+        "gBoardOrder": 7
+      }
+    ],
+    "1f923": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f923.png",
+        "alt": "dove_of_peace-rolling_on_the_floor_laughing",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🤣",
+        "rightEmojiCodepoint": "1f923",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 8
+      }
+    ],
+    "1f62d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f62d.png",
+        "alt": "dove_of_peace-sob",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😭",
+        "rightEmojiCodepoint": "1f62d",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 9
+      }
+    ],
+    "1f609": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f609.png",
+        "alt": "dove_of_peace-wink",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😉",
+        "rightEmojiCodepoint": "1f609",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 10
+      }
+    ],
+    "1f617": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f617.png",
+        "alt": "dove_of_peace-kissing",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😗",
+        "rightEmojiCodepoint": "1f617",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 11
+      }
+    ],
+    "1f619": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f619.png",
+        "alt": "dove_of_peace-kissing_smiling_eyes",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😙",
+        "rightEmojiCodepoint": "1f619",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 12
+      }
+    ],
+    "1f61a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f61a.png",
+        "alt": "dove_of_peace-kissing_closed_eyes",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😚",
+        "rightEmojiCodepoint": "1f61a",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 13
+      }
+    ],
+    "1f618": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230301/u1f618/u1f618_u1f54a-ufe0f.png",
+        "alt": "kissing_heart-dove_of_peace",
+        "leftEmoji": "😘",
+        "leftEmojiCodepoint": "1f618",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20230301",
+        "isLatest": true,
+        "gBoardOrder": 14
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220203/u1f618/u1f618_u1f54a-ufe0f.png",
+        "alt": "kissing_heart-dove_of_peace",
+        "leftEmoji": "😘",
+        "leftEmojiCodepoint": "1f618",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20220203",
+        "isLatest": false,
+        "gBoardOrder": 14
+      }
+    ],
+    "1f970": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230301/u1f970/u1f970_u1f54a-ufe0f.png",
+        "alt": "smiling_face_with_3_hearts-dove_of_peace",
+        "leftEmoji": "🥰",
+        "leftEmojiCodepoint": "1f970",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20230301",
+        "isLatest": true,
+        "gBoardOrder": 15
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220203/u1f970/u1f970_u1f54a-ufe0f.png",
+        "alt": "smiling_face_with_3_hearts-dove_of_peace",
+        "leftEmoji": "🥰",
+        "leftEmojiCodepoint": "1f970",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20220203",
+        "isLatest": false,
+        "gBoardOrder": 15
+      }
+    ],
+    "1f60d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220203/u1f60d/u1f60d_u1f54a-ufe0f.png",
+        "alt": "heart_eyes-dove_of_peace",
+        "leftEmoji": "😍",
+        "leftEmojiCodepoint": "1f60d",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20220203",
+        "isLatest": true,
+        "gBoardOrder": 16
+      }
+    ],
+    "1f929": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f929.png",
+        "alt": "dove_of_peace-star_struck",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🤩",
+        "rightEmojiCodepoint": "1f929",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 17
+      }
+    ],
+    "1f973": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f973.png",
+        "alt": "dove_of_peace-partying_face",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🥳",
+        "rightEmojiCodepoint": "1f973",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 18
+      }
+    ],
+    "1f643": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f643.png",
+        "alt": "dove_of_peace-upside_down_face",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🙃",
+        "rightEmojiCodepoint": "1f643",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 19
+      }
+    ],
+    "1f642": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f642.png",
+        "alt": "dove_of_peace-slightly_smiling_face",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🙂",
+        "rightEmojiCodepoint": "1f642",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 20
+      }
+    ],
+    "1f972": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f972.png",
+        "alt": "dove_of_peace-smiling_face_with_tear",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🥲",
+        "rightEmojiCodepoint": "1f972",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 21
+      }
+    ],
+    "1f979": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f979.png",
+        "alt": "dove_of_peace-face_holding_back_tears",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🥹",
+        "rightEmojiCodepoint": "1f979",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 22
+      }
+    ],
+    "1f60b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f60b.png",
+        "alt": "dove_of_peace-yum",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😋",
+        "rightEmojiCodepoint": "1f60b",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 23
+      }
+    ],
+    "1f61b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f61b.png",
+        "alt": "dove_of_peace-stuck_out_tongue",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😛",
+        "rightEmojiCodepoint": "1f61b",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 24
+      }
+    ],
+    "1f61d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f61d.png",
+        "alt": "dove_of_peace-stuck_out_tongue_closed_eyes",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😝",
+        "rightEmojiCodepoint": "1f61d",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 25
+      }
+    ],
+    "1f61c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f61c.png",
+        "alt": "dove_of_peace-stuck_out_tongue_winking_eye",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😜",
+        "rightEmojiCodepoint": "1f61c",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 26
+      }
+    ],
+    "1f92a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f92a.png",
+        "alt": "dove_of_peace-zany_face",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🤪",
+        "rightEmojiCodepoint": "1f92a",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 27
+      }
+    ],
+    "1f607": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f607.png",
+        "alt": "dove_of_peace-innocent",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😇",
+        "rightEmojiCodepoint": "1f607",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 28
+      }
+    ],
+    "1f60a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f60a.png",
+        "alt": "dove_of_peace-blush",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😊",
+        "rightEmojiCodepoint": "1f60a",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 29
+      }
+    ],
+    "263a-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u263a-ufe0f.png",
+        "alt": "dove_of_peace-relaxed",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "☺️",
+        "rightEmojiCodepoint": "263a-fe0f",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 30
+      }
+    ],
+    "1f60f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f60f.png",
+        "alt": "dove_of_peace-smirk",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😏",
+        "rightEmojiCodepoint": "1f60f",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 31
+      }
+    ],
+    "1f60c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f60c.png",
+        "alt": "dove_of_peace-relieved",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😌",
+        "rightEmojiCodepoint": "1f60c",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 32
+      }
+    ],
+    "1f614": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220815/u1f614/u1f614_u1f54a-ufe0f.png",
+        "alt": "pensive-dove_of_peace",
+        "leftEmoji": "😔",
+        "leftEmojiCodepoint": "1f614",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20220815",
+        "isLatest": true,
+        "gBoardOrder": 33
+      }
+    ],
+    "1f611": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f611.png",
+        "alt": "dove_of_peace-expressionless",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😑",
+        "rightEmojiCodepoint": "1f611",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 34
+      }
+    ],
+    "1f610": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f610.png",
+        "alt": "dove_of_peace-neutral_face",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😐",
+        "rightEmojiCodepoint": "1f610",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 35
+      }
+    ],
+    "1f636": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f636.png",
+        "alt": "dove_of_peace-no_mouth",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😶",
+        "rightEmojiCodepoint": "1f636",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 36
+      }
+    ],
+    "1fae1": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1fae1.png",
+        "alt": "dove_of_peace-saluting_face",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🫡",
+        "rightEmojiCodepoint": "1fae1",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 37
+      }
+    ],
+    "1f914": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f914.png",
+        "alt": "dove_of_peace-thinking_face",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🤔",
+        "rightEmojiCodepoint": "1f914",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 38
+      }
+    ],
+    "1f92b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f92b.png",
+        "alt": "dove_of_peace-shushing_face",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🤫",
+        "rightEmojiCodepoint": "1f92b",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 39
+      }
+    ],
+    "1fae2": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1fae2.png",
+        "alt": "dove_of_peace-face_with_open_eyes_and_hand_over_mouth",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🫢",
+        "rightEmojiCodepoint": "1fae2",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 40
+      }
+    ],
+    "1f92d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f92d.png",
+        "alt": "dove_of_peace-face_with_hand_over_mouth",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🤭",
+        "rightEmojiCodepoint": "1f92d",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 41
+      }
+    ],
+    "1f971": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f971.png",
+        "alt": "dove_of_peace-yawning_face",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🥱",
+        "rightEmojiCodepoint": "1f971",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 42
+      }
+    ],
+    "1f917": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f917.png",
+        "alt": "dove_of_peace-hugging_face",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🤗",
+        "rightEmojiCodepoint": "1f917",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 43
+      }
+    ],
+    "1fae3": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1fae3.png",
+        "alt": "dove_of_peace-face_with_peeking_eye",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🫣",
+        "rightEmojiCodepoint": "1fae3",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 44
+      }
+    ],
+    "1f631": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f631.png",
+        "alt": "dove_of_peace-scream",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😱",
+        "rightEmojiCodepoint": "1f631",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 45
+      }
+    ],
+    "1f928": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f928.png",
+        "alt": "dove_of_peace-face_with_raised_eyebrow",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🤨",
+        "rightEmojiCodepoint": "1f928",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 46
+      }
+    ],
+    "1f9d0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f9d0.png",
+        "alt": "dove_of_peace-face_with_monocle",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🧐",
+        "rightEmojiCodepoint": "1f9d0",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 47
+      }
+    ],
+    "1f612": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f612.png",
+        "alt": "dove_of_peace-unamused",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😒",
+        "rightEmojiCodepoint": "1f612",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 48
+      }
+    ],
+    "1f644": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f644.png",
+        "alt": "dove_of_peace-face_with_rolling_eyes",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🙄",
+        "rightEmojiCodepoint": "1f644",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 49
+      }
+    ],
+    "1f62e-200d-1f4a8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f62e-u200d-u1f4a8.png",
+        "alt": "dove_of_peace-face_exhaling",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😮‍💨",
+        "rightEmojiCodepoint": "1f62e-200d-1f4a8",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 50
+      }
+    ],
+    "1f624": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f624.png",
+        "alt": "dove_of_peace-triumph",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😤",
+        "rightEmojiCodepoint": "1f624",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 51
+      }
+    ],
+    "1f620": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f620.png",
+        "alt": "dove_of_peace-angry",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😠",
+        "rightEmojiCodepoint": "1f620",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 52
+      }
+    ],
+    "1f621": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f621.png",
+        "alt": "dove_of_peace-rage",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😡",
+        "rightEmojiCodepoint": "1f621",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 53
+      }
+    ],
+    "1f92c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f92c.png",
+        "alt": "dove_of_peace-face_with_symbols_on_mouth",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🤬",
+        "rightEmojiCodepoint": "1f92c",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 54
+      }
+    ],
+    "1f97a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220815/u1f97a/u1f97a_u1f54a-ufe0f.png",
+        "alt": "pleading_face-dove_of_peace",
+        "leftEmoji": "🥺",
+        "leftEmojiCodepoint": "1f97a",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20220815",
+        "isLatest": true,
+        "gBoardOrder": 55
+      }
+    ],
+    "1f61f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f61f.png",
+        "alt": "dove_of_peace-worried",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😟",
+        "rightEmojiCodepoint": "1f61f",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 56
+      }
+    ],
+    "1f625": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f625.png",
+        "alt": "dove_of_peace-disappointed_relieved",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😥",
+        "rightEmojiCodepoint": "1f625",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 57
+      }
+    ],
+    "1f622": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f622.png",
+        "alt": "dove_of_peace-cry",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😢",
+        "rightEmojiCodepoint": "1f622",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 58
+      }
+    ],
+    "2639-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u2639-ufe0f.png",
+        "alt": "dove_of_peace-white_frowning_face",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "☹️",
+        "rightEmojiCodepoint": "2639-fe0f",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 59
+      }
+    ],
+    "1f641": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f641.png",
+        "alt": "dove_of_peace-slightly_frowning_face",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🙁",
+        "rightEmojiCodepoint": "1f641",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 60
+      }
+    ],
+    "1fae4": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1fae4.png",
+        "alt": "dove_of_peace-face_with_diagonal_mouth",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🫤",
+        "rightEmojiCodepoint": "1fae4",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 61
+      }
+    ],
+    "1f615": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f615.png",
+        "alt": "dove_of_peace-confused",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😕",
+        "rightEmojiCodepoint": "1f615",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 62
+      }
+    ],
+    "1f910": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f910.png",
+        "alt": "dove_of_peace-zipper_mouth_face",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🤐",
+        "rightEmojiCodepoint": "1f910",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 63
+      }
+    ],
+    "1f630": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f630.png",
+        "alt": "dove_of_peace-cold_sweat",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😰",
+        "rightEmojiCodepoint": "1f630",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 64
+      }
+    ],
+    "1f628": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f628.png",
+        "alt": "dove_of_peace-fearful",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😨",
+        "rightEmojiCodepoint": "1f628",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 65
+      }
+    ],
+    "1f627": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f627.png",
+        "alt": "dove_of_peace-anguished",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😧",
+        "rightEmojiCodepoint": "1f627",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 66
+      }
+    ],
+    "1f626": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f626.png",
+        "alt": "dove_of_peace-frowning",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😦",
+        "rightEmojiCodepoint": "1f626",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 67
+      }
+    ],
+    "1f62e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f62e.png",
+        "alt": "dove_of_peace-open_mouth",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😮",
+        "rightEmojiCodepoint": "1f62e",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 68
+      }
+    ],
+    "1f62f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f62f.png",
+        "alt": "dove_of_peace-hushed",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😯",
+        "rightEmojiCodepoint": "1f62f",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 69
+      }
+    ],
+    "1f632": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f632.png",
+        "alt": "dove_of_peace-astonished",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😲",
+        "rightEmojiCodepoint": "1f632",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 70
+      }
+    ],
+    "1f633": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f633.png",
+        "alt": "dove_of_peace-flushed",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😳",
+        "rightEmojiCodepoint": "1f633",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 71
+      }
+    ],
+    "1f92f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f92f.png",
+        "alt": "dove_of_peace-exploding_head",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🤯",
+        "rightEmojiCodepoint": "1f92f",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 72
+      }
+    ],
+    "1f62c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f62c.png",
+        "alt": "dove_of_peace-grimacing",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😬",
+        "rightEmojiCodepoint": "1f62c",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 73
+      }
+    ],
+    "1f613": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f613.png",
+        "alt": "dove_of_peace-sweat",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😓",
+        "rightEmojiCodepoint": "1f613",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 74
+      }
+    ],
+    "1f61e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f61e.png",
+        "alt": "dove_of_peace-disappointed",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😞",
+        "rightEmojiCodepoint": "1f61e",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 75
+      }
+    ],
+    "1f616": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f616.png",
+        "alt": "dove_of_peace-confounded",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😖",
+        "rightEmojiCodepoint": "1f616",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 76
+      }
+    ],
+    "1f623": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f623.png",
+        "alt": "dove_of_peace-persevere",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😣",
+        "rightEmojiCodepoint": "1f623",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 77
+      }
+    ],
+    "1f629": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f629.png",
+        "alt": "dove_of_peace-weary",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😩",
+        "rightEmojiCodepoint": "1f629",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 78
+      }
+    ],
+    "1f62b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f62b.png",
+        "alt": "dove_of_peace-tired_face",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😫",
+        "rightEmojiCodepoint": "1f62b",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 79
+      }
+    ],
+    "1f635": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f635.png",
+        "alt": "dove_of_peace-dizzy_face",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😵",
+        "rightEmojiCodepoint": "1f635",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 80
+      }
+    ],
+    "1fae5": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1fae5.png",
+        "alt": "dove_of_peace-dotted_line_face",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🫥",
+        "rightEmojiCodepoint": "1fae5",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 81
+      }
+    ],
+    "1f634": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f634.png",
+        "alt": "dove_of_peace-sleeping",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😴",
+        "rightEmojiCodepoint": "1f634",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 82
+      }
+    ],
+    "1f62a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f62a.png",
+        "alt": "dove_of_peace-sleepy",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😪",
+        "rightEmojiCodepoint": "1f62a",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 83
+      }
+    ],
+    "1f924": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f924.png",
+        "alt": "dove_of_peace-drooling_face",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🤤",
+        "rightEmojiCodepoint": "1f924",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 84
+      }
+    ],
+    "1f31c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f31c.png",
+        "alt": "dove_of_peace-last_quarter_moon_with_face",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🌜",
+        "rightEmojiCodepoint": "1f31c",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 86
+      }
+    ],
+    "1f31e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f31e.png",
+        "alt": "dove_of_peace-sun_with_face",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🌞",
+        "rightEmojiCodepoint": "1f31e",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 89
+      }
+    ],
+    "1fae0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1fae0.png",
+        "alt": "dove_of_peace-melting_face",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🫠",
+        "rightEmojiCodepoint": "1fae0",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 90
+      }
+    ],
+    "1f636-200d-1f32b-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f636-u200d-u1f32b-ufe0f.png",
+        "alt": "dove_of_peace-face_in_clouds",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😶‍🌫️",
+        "rightEmojiCodepoint": "1f636-200d-1f32b-fe0f",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 91
+      }
+    ],
+    "1f974": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f974.png",
+        "alt": "dove_of_peace-woozy_face",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🥴",
+        "rightEmojiCodepoint": "1f974",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 92
+      }
+    ],
+    "1f975": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f975.png",
+        "alt": "dove_of_peace-hot_face",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🥵",
+        "rightEmojiCodepoint": "1f975",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 93
+      }
+    ],
+    "1f976": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f976.png",
+        "alt": "dove_of_peace-cold_face",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🥶",
+        "rightEmojiCodepoint": "1f976",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 94
+      }
+    ],
+    "1f922": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f922.png",
+        "alt": "dove_of_peace-nauseated_face",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🤢",
+        "rightEmojiCodepoint": "1f922",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 95
+      }
+    ],
+    "1f92e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f92e.png",
+        "alt": "dove_of_peace-face_vomiting",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🤮",
+        "rightEmojiCodepoint": "1f92e",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 96
+      }
+    ],
+    "1f927": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f927.png",
+        "alt": "dove_of_peace-sneezing_face",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🤧",
+        "rightEmojiCodepoint": "1f927",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 97
+      }
+    ],
+    "1f912": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f912.png",
+        "alt": "dove_of_peace-face_with_thermometer",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🤒",
+        "rightEmojiCodepoint": "1f912",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 98
+      }
+    ],
+    "1f915": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f915.png",
+        "alt": "dove_of_peace-face_with_head_bandage",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🤕",
+        "rightEmojiCodepoint": "1f915",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 99
+      }
+    ],
+    "1f637": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f637.png",
+        "alt": "dove_of_peace-mask",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😷",
+        "rightEmojiCodepoint": "1f637",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 100
+      }
+    ],
+    "1f920": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f920.png",
+        "alt": "dove_of_peace-face_with_cowboy_hat",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🤠",
+        "rightEmojiCodepoint": "1f920",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 101
+      }
+    ],
+    "1f911": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f911.png",
+        "alt": "dove_of_peace-money_mouth_face",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🤑",
+        "rightEmojiCodepoint": "1f911",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 102
+      }
+    ],
+    "1f60e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220815/u1f60e/u1f60e_u1f54a-ufe0f.png",
+        "alt": "sunglasses-dove_of_peace",
+        "leftEmoji": "😎",
+        "leftEmojiCodepoint": "1f60e",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20220815",
+        "isLatest": true,
+        "gBoardOrder": 103
+      }
+    ],
+    "1f913": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f913.png",
+        "alt": "dove_of_peace-nerd_face",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🤓",
+        "rightEmojiCodepoint": "1f913",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 104
+      }
+    ],
+    "1f978": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f978.png",
+        "alt": "dove_of_peace-disguised_face",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🥸",
+        "rightEmojiCodepoint": "1f978",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 105
+      }
+    ],
+    "1f925": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f925.png",
+        "alt": "dove_of_peace-lying_face",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🤥",
+        "rightEmojiCodepoint": "1f925",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 106
+      }
+    ],
+    "1f921": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f921.png",
+        "alt": "dove_of_peace-clown_face",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🤡",
+        "rightEmojiCodepoint": "1f921",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 107
+      }
+    ],
+    "1f47b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220815/u1f47b/u1f47b_u1f54a-ufe0f.png",
+        "alt": "ghost-dove_of_peace",
+        "leftEmoji": "👻",
+        "leftEmojiCodepoint": "1f47b",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20220815",
+        "isLatest": true,
+        "gBoardOrder": 108
+      }
+    ],
+    "1f4a9": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f4a9.png",
+        "alt": "dove_of_peace-hankey",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "💩",
+        "rightEmojiCodepoint": "1f4a9",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 109
+      }
+    ],
+    "1f47d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f47d.png",
+        "alt": "dove_of_peace-alien",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "👽",
+        "rightEmojiCodepoint": "1f47d",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 110
+      }
+    ],
+    "1f47e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f47e.png",
+        "alt": "dove_of_peace-space_invader",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "👾",
+        "rightEmojiCodepoint": "1f47e",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 111
+      }
+    ],
+    "1f916": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f916.png",
+        "alt": "dove_of_peace-robot_face",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🤖",
+        "rightEmojiCodepoint": "1f916",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 112
+      }
+    ],
+    "1f383": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f383.png",
+        "alt": "dove_of_peace-jack_o_lantern",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🎃",
+        "rightEmojiCodepoint": "1f383",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 115
+      }
+    ],
+    "1f608": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f608.png",
+        "alt": "dove_of_peace-smiling_imp",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "😈",
+        "rightEmojiCodepoint": "1f608",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 116
+      }
+    ],
+    "1f47f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f47f.png",
+        "alt": "dove_of_peace-imp",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "👿",
+        "rightEmojiCodepoint": "1f47f",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 117
+      }
+    ],
+    "1f525": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f525.png",
+        "alt": "dove_of_peace-fire",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🔥",
+        "rightEmojiCodepoint": "1f525",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 118
+      }
+    ],
+    "1f4ab": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f4ab.png",
+        "alt": "dove_of_peace-dizzy",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "💫",
+        "rightEmojiCodepoint": "1f4ab",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 119
+      }
+    ],
+    "2b50": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u2b50.png",
+        "alt": "dove_of_peace-star",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "⭐",
+        "rightEmojiCodepoint": "2b50",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 120
+      }
+    ],
+    "1f31f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220203/u1f31f/u1f31f_u1f54a-ufe0f.png",
+        "alt": "star2-dove_of_peace",
+        "leftEmoji": "🌟",
+        "leftEmojiCodepoint": "1f31f",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20220203",
+        "isLatest": true,
+        "gBoardOrder": 121
+      }
+    ],
+    "1f4a5": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f4a5/u1f4a5_u1f54a-ufe0f.png",
+        "alt": "boom-dove_of_peace",
+        "leftEmoji": "💥",
+        "leftEmojiCodepoint": "1f4a5",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 122
+      }
+    ],
+    "1f4af": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f4af.png",
+        "alt": "dove_of_peace-100",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "💯",
+        "rightEmojiCodepoint": "1f4af",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 123
+      }
+    ],
+    "1f573-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f573-ufe0f.png",
+        "alt": "dove_of_peace-hole",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🕳️",
+        "rightEmojiCodepoint": "1f573-fe0f",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 125
+      }
+    ],
+    "1f38a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220815/u1f38a/u1f38a_u1f54a-ufe0f.png",
+        "alt": "confetti_ball-dove_of_peace",
+        "leftEmoji": "🎊",
+        "leftEmojiCodepoint": "1f38a",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20220815",
+        "isLatest": true,
+        "gBoardOrder": 126
+      }
+    ],
+    "2665-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u2665-ufe0f.png",
+        "alt": "dove_of_peace-hearts",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "♥️",
+        "rightEmojiCodepoint": "2665-fe0f",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 139
+      }
+    ],
+    "1f498": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220203/u1f498/u1f498_u1f54a-ufe0f.png",
+        "alt": "cupid-dove_of_peace",
+        "leftEmoji": "💘",
+        "leftEmojiCodepoint": "1f498",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20220203",
+        "isLatest": true,
+        "gBoardOrder": 140
+      }
+    ],
+    "1f49d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f49d.png",
+        "alt": "dove_of_peace-gift_heart",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "💝",
+        "rightEmojiCodepoint": "1f49d",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 141
+      }
+    ],
+    "1f496": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f496/u1f496_u1f54a-ufe0f.png",
+        "alt": "sparkling_heart-dove_of_peace",
+        "leftEmoji": "💖",
+        "leftEmojiCodepoint": "1f496",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 142
+      }
+    ],
+    "1f497": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f497.png",
+        "alt": "dove_of_peace-heartpulse",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "💗",
+        "rightEmojiCodepoint": "1f497",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 143
+      }
+    ],
+    "1f493": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220203/u1f493/u1f493_u1f54a-ufe0f.png",
+        "alt": "heartbeat-dove_of_peace",
+        "leftEmoji": "💓",
+        "leftEmojiCodepoint": "1f493",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20220203",
+        "isLatest": true,
+        "gBoardOrder": 144
+      }
+    ],
+    "1f49e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f49e.png",
+        "alt": "dove_of_peace-revolving_hearts",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "💞",
+        "rightEmojiCodepoint": "1f49e",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 145
+      }
+    ],
+    "1f495": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220203/u1f495/u1f495_u1f54a-ufe0f.png",
+        "alt": "two_hearts-dove_of_peace",
+        "leftEmoji": "💕",
+        "leftEmojiCodepoint": "1f495",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20220203",
+        "isLatest": true,
+        "gBoardOrder": 146
+      }
+    ],
+    "1f48c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f48c.png",
+        "alt": "dove_of_peace-love_letter",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "💌",
+        "rightEmojiCodepoint": "1f48c",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 147
+      }
+    ],
+    "2763-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220203/u2763-ufe0f/u2763-ufe0f_u1f54a-ufe0f.png",
+        "alt": "heavy_heart_exclamation_mark_ornament-dove_of_peace",
+        "leftEmoji": "❣️",
+        "leftEmojiCodepoint": "2763-fe0f",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20220203",
+        "isLatest": true,
+        "gBoardOrder": 149
+      }
+    ],
+    "2764-fe0f-200d-1fa79": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u2764-ufe0f-u200d-u1fa79.png",
+        "alt": "dove_of_peace-mending_heart",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "❤️‍🩹",
+        "rightEmojiCodepoint": "2764-fe0f-200d-1fa79",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 150
+      }
+    ],
+    "1f494": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f494.png",
+        "alt": "dove_of_peace-broken_heart",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "💔",
+        "rightEmojiCodepoint": "1f494",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 151
+      }
+    ],
+    "1f48b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220815/u1f48b/u1f48b_u1f54a-ufe0f.png",
+        "alt": "kiss-dove_of_peace",
+        "leftEmoji": "💋",
+        "leftEmojiCodepoint": "1f48b",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20220815",
+        "isLatest": true,
+        "gBoardOrder": 152
+      }
+    ],
+    "1f9a0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f9a0.png",
+        "alt": "dove_of_peace-microbe",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🦠",
+        "rightEmojiCodepoint": "1f9a0",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 162
+      }
+    ],
+    "1f480": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f480.png",
+        "alt": "dove_of_peace-skull",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "💀",
+        "rightEmojiCodepoint": "1f480",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 165
+      }
+    ],
+    "1f441-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f441-ufe0f.png",
+        "alt": "dove_of_peace-eye",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "👁️",
+        "rightEmojiCodepoint": "1f441-fe0f",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 167
+      }
+    ],
+    "1fae6": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1fae6.png",
+        "alt": "dove_of_peace-biting_lip",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🫦",
+        "rightEmojiCodepoint": "1fae6",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 169
+      }
+    ],
+    "1f44d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231128/u1f44d/u1f44d_u1f54a-ufe0f.png",
+        "alt": "+1-dove_of_peace",
+        "leftEmoji": "👍",
+        "leftEmojiCodepoint": "1f44d",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20231128",
+        "isLatest": true,
+        "gBoardOrder": 170
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f44d/u1f44d_u1f54a-ufe0f.png",
+        "alt": "+1-dove_of_peace",
+        "leftEmoji": "👍",
+        "leftEmojiCodepoint": "1f44d",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20230803",
+        "isLatest": false,
+        "gBoardOrder": 170
+      }
+    ],
+    "1f937": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220815/u1f937/u1f937_u1f54a-ufe0f.png",
+        "alt": "shrug-dove_of_peace",
+        "leftEmoji": "🤷",
+        "leftEmojiCodepoint": "1f937",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20220815",
+        "isLatest": true,
+        "gBoardOrder": 171
+      }
+    ],
+    "1fa82": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1fa82/u1fa82_u1f54a-ufe0f.png",
+        "alt": "parachute-dove_of_peace",
+        "leftEmoji": "🪂",
+        "leftEmojiCodepoint": "1fa82",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 172
+      }
+    ],
+    "1f490": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f490.png",
+        "alt": "dove_of_peace-bouquet",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "💐",
+        "rightEmojiCodepoint": "1f490",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 173
+      }
+    ],
+    "1f339": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f339.png",
+        "alt": "dove_of_peace-rose",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🌹",
+        "rightEmojiCodepoint": "1f339",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 174
+      }
+    ],
+    "1f337": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f337.png",
+        "alt": "dove_of_peace-tulip",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🌷",
+        "rightEmojiCodepoint": "1f337",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 177
+      }
+    ],
+    "1f338": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f338.png",
+        "alt": "dove_of_peace-cherry_blossom",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🌸",
+        "rightEmojiCodepoint": "1f338",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 178
+      }
+    ],
+    "1f4ae": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f4ae/u1f4ae_u1f54a-ufe0f.png",
+        "alt": "white_flower-dove_of_peace",
+        "leftEmoji": "💮",
+        "leftEmojiCodepoint": "1f4ae",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 180
+      }
+    ],
+    "1f33c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f33c.png",
+        "alt": "dove_of_peace-blossom",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🌼",
+        "rightEmojiCodepoint": "1f33c",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 184
+      }
+    ],
+    "1f344": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f344.png",
+        "alt": "dove_of_peace-mushroom",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🍄",
+        "rightEmojiCodepoint": "1f344",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 187
+      }
+    ],
+    "1f335": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f335.png",
+        "alt": "dove_of_peace-cactus",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🌵",
+        "rightEmojiCodepoint": "1f335",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 194
+      }
+    ],
+    "1f332": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f332.png",
+        "alt": "dove_of_peace-evergreen_tree",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🌲",
+        "rightEmojiCodepoint": "1f332",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 197
+      }
+    ],
+    "1fab5": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1fab5.png",
+        "alt": "dove_of_peace-wood",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🪵",
+        "rightEmojiCodepoint": "1fab5",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 201
+      }
+    ],
+    "1faa8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1faa8.png",
+        "alt": "dove_of_peace-rock",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🪨",
+        "rightEmojiCodepoint": "1faa8",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 202
+      }
+    ],
+    "26c4": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u26c4.png",
+        "alt": "dove_of_peace-snowman_without_snow",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "⛄",
+        "rightEmojiCodepoint": "26c4",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 203
+      }
+    ],
+    "1f30a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230418/u1f30a/u1f30a_u1f54a-ufe0f.png",
+        "alt": "ocean-dove_of_peace",
+        "leftEmoji": "🌊",
+        "leftEmojiCodepoint": "1f30a",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20230418",
+        "isLatest": true,
+        "gBoardOrder": 204
+      }
+    ],
+    "1f32a-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f32a-ufe0f.png",
+        "alt": "dove_of_peace-tornado",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🌪️",
+        "rightEmojiCodepoint": "1f32a-fe0f",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 207
+      }
+    ],
+    "1f30b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f30b/u1f30b_u1f54a-ufe0f.png",
+        "alt": "volcano-dove_of_peace",
+        "leftEmoji": "🌋",
+        "leftEmojiCodepoint": "1f30b",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 208
+      }
+    ],
+    "1f304": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f304/u1f304_u1f54a-ufe0f.png",
+        "alt": "sunrise_over_mountains-dove_of_peace",
+        "leftEmoji": "🌄",
+        "leftEmojiCodepoint": "1f304",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 211
+      }
+    ],
+    "2601-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u2601-ufe0f.png",
+        "alt": "dove_of_peace-cloud",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "☁️",
+        "rightEmojiCodepoint": "2601-fe0f",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 213
+      }
+    ],
+    "1f327-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20221101/u1f327-ufe0f/u1f327-ufe0f_u1f54a-ufe0f.png",
+        "alt": "rain_cloud-dove_of_peace",
+        "leftEmoji": "🌧️",
+        "leftEmojiCodepoint": "1f327-fe0f",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20221101",
+        "isLatest": true,
+        "gBoardOrder": 214
+      }
+    ],
+    "2602-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u2602-ufe0f/u2602-ufe0f_u1f54a-ufe0f.png",
+        "alt": "umbrella-dove_of_peace",
+        "leftEmoji": "☂️",
+        "leftEmojiCodepoint": "2602-fe0f",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 217
+      }
+    ],
+    "1f308": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f308.png",
+        "alt": "dove_of_peace-rainbow",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🌈",
+        "rightEmojiCodepoint": "1f308",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 219
+      }
+    ],
+    "1f30d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f30d.png",
+        "alt": "dove_of_peace-earth_africa",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🌍",
+        "rightEmojiCodepoint": "1f30d",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 222
+      }
+    ],
+    "1f648": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f648.png",
+        "alt": "dove_of_peace-see_no_evil",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🙈",
+        "rightEmojiCodepoint": "1f648",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 224
+      }
+    ],
+    "1f435": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f435.png",
+        "alt": "dove_of_peace-monkey_face",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🐵",
+        "rightEmojiCodepoint": "1f435",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 225
+      }
+    ],
+    "1f981": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f981.png",
+        "alt": "dove_of_peace-lion_face",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🦁",
+        "rightEmojiCodepoint": "1f981",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 226
+      }
+    ],
+    "1f42f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f42f.png",
+        "alt": "dove_of_peace-tiger",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🐯",
+        "rightEmojiCodepoint": "1f42f",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 227
+      }
+    ],
+    "1f431": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f431.png",
+        "alt": "dove_of_peace-cat",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🐱",
+        "rightEmojiCodepoint": "1f431",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 228
+      }
+    ],
+    "1f436": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f436.png",
+        "alt": "dove_of_peace-dog",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🐶",
+        "rightEmojiCodepoint": "1f436",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 229
+      }
+    ],
+    "1f43a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f43a.png",
+        "alt": "dove_of_peace-wolf",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🐺",
+        "rightEmojiCodepoint": "1f43a",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 230
+      }
+    ],
+    "1f43b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f43b.png",
+        "alt": "dove_of_peace-bear",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🐻",
+        "rightEmojiCodepoint": "1f43b",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 231
+      }
+    ],
+    "1f428": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f428.png",
+        "alt": "dove_of_peace-koala",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🐨",
+        "rightEmojiCodepoint": "1f428",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 232
+      }
+    ],
+    "1f43c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f43c.png",
+        "alt": "dove_of_peace-panda_face",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🐼",
+        "rightEmojiCodepoint": "1f43c",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 233
+      }
+    ],
+    "1f42d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f42d.png",
+        "alt": "dove_of_peace-mouse",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🐭",
+        "rightEmojiCodepoint": "1f42d",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 234
+      }
+    ],
+    "1f430": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f430.png",
+        "alt": "dove_of_peace-rabbit",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🐰",
+        "rightEmojiCodepoint": "1f430",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 235
+      }
+    ],
+    "1f98a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f98a.png",
+        "alt": "dove_of_peace-fox_face",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🦊",
+        "rightEmojiCodepoint": "1f98a",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 236
+      }
+    ],
+    "1f99d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f99d.png",
+        "alt": "dove_of_peace-raccoon",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🦝",
+        "rightEmojiCodepoint": "1f99d",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 237
+      }
+    ],
+    "1f42e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f42e.png",
+        "alt": "dove_of_peace-cow",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 238
+      }
+    ],
+    "1f437": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f437.png",
+        "alt": "dove_of_peace-pig",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🐷",
+        "rightEmojiCodepoint": "1f437",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 239
+      }
+    ],
+    "1f984": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f984.png",
+        "alt": "dove_of_peace-unicorn_face",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🦄",
+        "rightEmojiCodepoint": "1f984",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 240
+      }
+    ],
+    "1f409": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f409.png",
+        "alt": "dove_of_peace-dragon",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🐉",
+        "rightEmojiCodepoint": "1f409",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 241
+      }
+    ],
+    "1f422": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f422.png",
+        "alt": "dove_of_peace-turtle",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🐢",
+        "rightEmojiCodepoint": "1f422",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 242
+      }
+    ],
+    "1f438": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f438.png",
+        "alt": "dove_of_peace-frog",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🐸",
+        "rightEmojiCodepoint": "1f438",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 243
+      }
+    ],
+    "1f429": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f429.png",
+        "alt": "dove_of_peace-poodle",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🐩",
+        "rightEmojiCodepoint": "1f429",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 244
+      }
+    ],
+    "1f410": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f410.png",
+        "alt": "dove_of_peace-goat",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🐐",
+        "rightEmojiCodepoint": "1f410",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 245
+      }
+    ],
+    "1f98c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f98c.png",
+        "alt": "dove_of_peace-deer",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🦌",
+        "rightEmojiCodepoint": "1f98c",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 246
+      }
+    ],
+    "1f999": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f999.png",
+        "alt": "dove_of_peace-llama",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🦙",
+        "rightEmojiCodepoint": "1f999",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 247
+      }
+    ],
+    "1f9a5": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f9a5.png",
+        "alt": "dove_of_peace-sloth",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 248
+      }
+    ],
+    "1f994": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f994.png",
+        "alt": "dove_of_peace-hedgehog",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🦔",
+        "rightEmojiCodepoint": "1f994",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 249
+      }
+    ],
+    "1f987": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f987.png",
+        "alt": "dove_of_peace-bat",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🦇",
+        "rightEmojiCodepoint": "1f987",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 250
+      }
+    ],
+    "1f989": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f989.png",
+        "alt": "dove_of_peace-owl",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🦉",
+        "rightEmojiCodepoint": "1f989",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 251
+      }
+    ],
+    "1f426": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f426.png",
+        "alt": "dove_of_peace-bird",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🐦",
+        "rightEmojiCodepoint": "1f426",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 252
+      }
+    ],
+    "1f414": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f414.png",
+        "alt": "dove_of_peace-chicken",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🐔",
+        "rightEmojiCodepoint": "1f414",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 253
+      }
+    ],
+    "1fabf": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1fabf.png",
+        "alt": "dove_of_peace-goose",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🪿",
+        "rightEmojiCodepoint": "1fabf",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 254
+      }
+    ],
+    "1f54a-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f54a-ufe0f.png",
+        "alt": "dove_of_peace-dove_of_peace",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 255
+      }
+    ],
+    "1f427": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f427.png",
+        "alt": "dove_of_peace-penguin",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 257
+      }
+    ],
+    "1f988": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f988.png",
+        "alt": "dove_of_peace-shark",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🦈",
+        "rightEmojiCodepoint": "1f988",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 258
+      }
+    ],
+    "1f433": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f433.png",
+        "alt": "dove_of_peace-whale",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🐳",
+        "rightEmojiCodepoint": "1f433",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 259
+      }
+    ],
+    "1f41f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f41f.png",
+        "alt": "dove_of_peace-fish",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🐟",
+        "rightEmojiCodepoint": "1f41f",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 260
+      }
+    ],
+    "1f419": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f419.png",
+        "alt": "dove_of_peace-octopus",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🐙",
+        "rightEmojiCodepoint": "1f419",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 263
+      }
+    ],
+    "1f982": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f982.png",
+        "alt": "dove_of_peace-scorpion",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🦂",
+        "rightEmojiCodepoint": "1f982",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 266
+      }
+    ],
+    "1f577-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f577-ufe0f.png",
+        "alt": "dove_of_peace-spider",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🕷️",
+        "rightEmojiCodepoint": "1f577-fe0f",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 267
+      }
+    ],
+    "1f40c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f40c.png",
+        "alt": "dove_of_peace-snail",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🐌",
+        "rightEmojiCodepoint": "1f40c",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 269
+      }
+    ],
+    "1f41d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f41d.png",
+        "alt": "dove_of_peace-bee",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🐝",
+        "rightEmojiCodepoint": "1f41d",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 273
+      }
+    ],
+    "1f353": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f353.png",
+        "alt": "dove_of_peace-strawberry",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🍓",
+        "rightEmojiCodepoint": "1f353",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 277
+      }
+    ],
+    "1f352": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f352.png",
+        "alt": "dove_of_peace-cherries",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🍒",
+        "rightEmojiCodepoint": "1f352",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 278
+      }
+    ],
+    "1f349": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f349.png",
+        "alt": "dove_of_peace-watermelon",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🍉",
+        "rightEmojiCodepoint": "1f349",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 280
+      }
+    ],
+    "1f34a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f34a.png",
+        "alt": "dove_of_peace-tangerine",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🍊",
+        "rightEmojiCodepoint": "1f34a",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 281
+      }
+    ],
+    "1f34d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f34d.png",
+        "alt": "dove_of_peace-pineapple",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🍍",
+        "rightEmojiCodepoint": "1f34d",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 283
+      }
+    ],
+    "1f34c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f34c.png",
+        "alt": "dove_of_peace-banana",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🍌",
+        "rightEmojiCodepoint": "1f34c",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 284
+      }
+    ],
+    "1f34b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f34b.png",
+        "alt": "dove_of_peace-lemon",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🍋",
+        "rightEmojiCodepoint": "1f34b",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 285
+      }
+    ],
+    "1f336-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f336-ufe0f.png",
+        "alt": "dove_of_peace-hot_pepper",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🌶️",
+        "rightEmojiCodepoint": "1f336-fe0f",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 294
+      }
+    ],
+    "1f951": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f951.png",
+        "alt": "dove_of_peace-avocado",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🥑",
+        "rightEmojiCodepoint": "1f951",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 305
+      }
+    ],
+    "1f35e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f35e.png",
+        "alt": "dove_of_peace-bread",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🍞",
+        "rightEmojiCodepoint": "1f35e",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 311
+      }
+    ],
+    "1f9c0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f9c0.png",
+        "alt": "dove_of_peace-cheese_wedge",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🧀",
+        "rightEmojiCodepoint": "1f9c0",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 318
+      }
+    ],
+    "1f32d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f32d.png",
+        "alt": "dove_of_peace-hotdog",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🌭",
+        "rightEmojiCodepoint": "1f32d",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 324
+      }
+    ],
+    "1f96b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250731/u1f96b/u1f96b_u1f54a-ufe0f.png",
+        "alt": "canned_food-dove_of_peace",
+        "leftEmoji": "🥫",
+        "leftEmojiCodepoint": "1f96b",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20250731",
+        "isLatest": true,
+        "gBoardOrder": 335
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230418/u1f96b/u1f96b_u1f54a-ufe0f.png",
+        "alt": "canned_food-dove_of_peace",
+        "leftEmoji": "🥫",
+        "leftEmojiCodepoint": "1f96b",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20230418",
+        "isLatest": false,
+        "gBoardOrder": 335
+      }
+    ],
+    "1f365": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f365/u1f365_u1f54a-ufe0f.png",
+        "alt": "fish_cake-dove_of_peace",
+        "leftEmoji": "🍥",
+        "leftEmojiCodepoint": "1f365",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 351
+      }
+    ],
+    "1f382": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f382.png",
+        "alt": "dove_of_peace-birthday",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🎂",
+        "rightEmojiCodepoint": "1f382",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 360
+      }
+    ],
+    "1f9c1": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f9c1.png",
+        "alt": "dove_of_peace-cupcake",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🧁",
+        "rightEmojiCodepoint": "1f9c1",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 361
+      }
+    ],
+    "1f36c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f36c.png",
+        "alt": "dove_of_peace-candy",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🍬",
+        "rightEmojiCodepoint": "1f36c",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 363
+      }
+    ],
+    "1f9ca": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f9ca/u1f9ca_u1f54a-ufe0f.png",
+        "alt": "ice_cube-dove_of_peace",
+        "leftEmoji": "🧊",
+        "leftEmojiCodepoint": "1f9ca",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 371
+      }
+    ],
+    "1f9c3": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f9c3/u1f9c3_u1f54a-ufe0f.png",
+        "alt": "beverage_box-dove_of_peace",
+        "leftEmoji": "🧃",
+        "leftEmojiCodepoint": "1f9c3",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 374
+      }
+    ],
+    "1f37d-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f37d-ufe0f.png",
+        "alt": "dove_of_peace-knife_fork_plate",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🍽️",
+        "rightEmojiCodepoint": "1f37d-fe0f",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 388
+      }
+    ],
+    "1f6d1": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f6d1/u1f6d1_u1f54a-ufe0f.png",
+        "alt": "octagonal_sign-dove_of_peace",
+        "leftEmoji": "🛑",
+        "leftEmojiCodepoint": "1f6d1",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 389
+      }
+    ],
+    "26fd": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240610/u26fd/u26fd_u1f54a-ufe0f.png",
+        "alt": "fuelpump-dove_of_peace",
+        "leftEmoji": "⛽",
+        "leftEmojiCodepoint": "26fd",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20240610",
+        "isLatest": true,
+        "gBoardOrder": 392
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u26fd/u26fd_u1f54a-ufe0f.png",
+        "alt": "fuelpump-dove_of_peace",
+        "leftEmoji": "⛽",
+        "leftEmojiCodepoint": "26fd",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20231113",
+        "isLatest": false,
+        "gBoardOrder": 392
+      }
+    ],
+    "1f6f8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231128/u1f6f8/u1f6f8_u1f54a-ufe0f.png",
+        "alt": "flying_saucer-dove_of_peace",
+        "leftEmoji": "🛸",
+        "leftEmojiCodepoint": "1f6f8",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20231128",
+        "isLatest": true,
+        "gBoardOrder": 411
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230418/u1f6f8/u1f6f8_u1f54a-ufe0f.png",
+        "alt": "flying_saucer-dove_of_peace",
+        "leftEmoji": "🛸",
+        "leftEmojiCodepoint": "1f6f8",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20230418",
+        "isLatest": false,
+        "gBoardOrder": 411
+      }
+    ],
+    "1f307": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f307.png",
+        "alt": "dove_of_peace-city_sunrise",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🌇",
+        "rightEmojiCodepoint": "1f307",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 426
+      }
+    ],
+    "1f388": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f388.png",
+        "alt": "dove_of_peace-balloon",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🎈",
+        "rightEmojiCodepoint": "1f388",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 430
+      }
+    ],
+    "1f381": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230127/u1f381/u1f381_u1f54a-ufe0f.png",
+        "alt": "gift-dove_of_peace",
+        "leftEmoji": "🎁",
+        "leftEmojiCodepoint": "1f381",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20230127",
+        "isLatest": true,
+        "gBoardOrder": 432
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220506/u1f381/u1f381_u1f54a-ufe0f.png",
+        "alt": "gift-dove_of_peace",
+        "leftEmoji": "🎁",
+        "leftEmojiCodepoint": "1f381",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20220506",
+        "isLatest": false,
+        "gBoardOrder": 432
+      }
+    ],
+    "1f386": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230418/u1f386/u1f386_u1f54a-ufe0f.png",
+        "alt": "fireworks-dove_of_peace",
+        "leftEmoji": "🎆",
+        "leftEmojiCodepoint": "1f386",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20230418",
+        "isLatest": true,
+        "gBoardOrder": 433
+      }
+    ],
+    "1f947": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f947/u1f947_u1f54a-ufe0f.png",
+        "alt": "first_place_medal-dove_of_peace",
+        "leftEmoji": "🥇",
+        "leftEmojiCodepoint": "1f947",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 437
+      }
+    ],
+    "1f948": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f948/u1f948_u1f54a-ufe0f.png",
+        "alt": "second_place_medal-dove_of_peace",
+        "leftEmoji": "🥈",
+        "leftEmojiCodepoint": "1f948",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 438
+      }
+    ],
+    "1f949": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f949/u1f949_u1f54a-ufe0f.png",
+        "alt": "third_place_medal-dove_of_peace",
+        "leftEmoji": "🥉",
+        "leftEmojiCodepoint": "1f949",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 439
+      }
+    ],
+    "1f3c6": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f3c6.png",
+        "alt": "dove_of_peace-trophy",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🏆",
+        "rightEmojiCodepoint": "1f3c6",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 442
+      }
+    ],
+    "26bd": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u26bd.png",
+        "alt": "dove_of_peace-soccer",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "⚽",
+        "rightEmojiCodepoint": "26bd",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 443
+      }
+    ],
+    "1f3c0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f3c0.png",
+        "alt": "dove_of_peace-basketball",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🏀",
+        "rightEmojiCodepoint": "1f3c0",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 446
+      }
+    ],
+    "1f3c8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f3c8.png",
+        "alt": "dove_of_peace-football",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🏈",
+        "rightEmojiCodepoint": "1f3c8",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 448
+      }
+    ],
+    "1f945": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230418/u1f945/u1f945_u1f54a-ufe0f.png",
+        "alt": "goal_net-dove_of_peace",
+        "leftEmoji": "🥅",
+        "leftEmojiCodepoint": "1f945",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20230418",
+        "isLatest": true,
+        "gBoardOrder": 451
+      }
+    ],
+    "1f3f8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230418/u1f3f8/u1f3f8_u1f54a-ufe0f.png",
+        "alt": "badminton_racquet_and_shuttlecock-dove_of_peace",
+        "leftEmoji": "🏸",
+        "leftEmojiCodepoint": "1f3f8",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20230418",
+        "isLatest": true,
+        "gBoardOrder": 452
+      }
+    ],
+    "1f3bf": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f3bf/u1f3bf_u1f54a-ufe0f.png",
+        "alt": "ski-dove_of_peace",
+        "leftEmoji": "🎿",
+        "leftEmojiCodepoint": "1f3bf",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 459
+      }
+    ],
+    "1f3a3": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f3a3/u1f3a3_u1f54a-ufe0f.png",
+        "alt": "fishing_pole_and_fish-dove_of_peace",
+        "leftEmoji": "🎣",
+        "leftEmojiCodepoint": "1f3a3",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 470
+      }
+    ],
+    "1f3b3": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f3b3/u1f3b3_u1f54a-ufe0f.png",
+        "alt": "bowling-dove_of_peace",
+        "leftEmoji": "🎳",
+        "leftEmojiCodepoint": "1f3b3",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 477
+      }
+    ],
+    "1f9e9": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9e9/u1f9e9_u1f54a-ufe0f.png",
+        "alt": "jigsaw-dove_of_peace",
+        "leftEmoji": "🧩",
+        "leftEmojiCodepoint": "1f9e9",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 480
+      }
+    ],
+    "1f3b0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230126/u1f3b0/u1f3b0_u1f54a-ufe0f.png",
+        "alt": "slot_machine-dove_of_peace",
+        "leftEmoji": "🎰",
+        "leftEmojiCodepoint": "1f3b0",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20230126",
+        "isLatest": true,
+        "gBoardOrder": 483
+      }
+    ],
+    "1f5bc-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f5bc-ufe0f/u1f5bc-ufe0f_u1f54a-ufe0f.png",
+        "alt": "frame_with_picture-dove_of_peace",
+        "leftEmoji": "🖼️",
+        "leftEmojiCodepoint": "1f5bc-fe0f",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 488
+      }
+    ],
+    "1f58d-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f58d-ufe0f/u1f58d-ufe0f_u1f54a-ufe0f.png",
+        "alt": "lower_left_crayon-dove_of_peace",
+        "leftEmoji": "🖍️",
+        "leftEmojiCodepoint": "1f58d-fe0f",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 491
+      }
+    ],
+    "1f3a7": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f3a7.png",
+        "alt": "dove_of_peace-headphones",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🎧",
+        "rightEmojiCodepoint": "1f3a7",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 507
+      }
+    ],
+    "1f3ac": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f3ac/u1f3ac_u1f54a-ufe0f.png",
+        "alt": "clapper-dove_of_peace",
+        "leftEmoji": "🎬",
+        "leftEmojiCodepoint": "1f3ac",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 515
+      }
+    ],
+    "1f39f-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f39f-ufe0f/u1f39f-ufe0f_u1f54a-ufe0f.png",
+        "alt": "admission_tickets-dove_of_peace",
+        "leftEmoji": "🎟️",
+        "leftEmojiCodepoint": "1f39f-fe0f",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 517
+      }
+    ],
+    "1f4df": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f4df/u1f4df_u1f54a-ufe0f.png",
+        "alt": "pager-dove_of_peace",
+        "leftEmoji": "📟",
+        "leftEmojiCodepoint": "1f4df",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 520
+      }
+    ],
+    "1f4e0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240610/u1f4e0/u1f4e0_u1f54a-ufe0f.png",
+        "alt": "fax-dove_of_peace",
+        "leftEmoji": "📠",
+        "leftEmojiCodepoint": "1f4e0",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20240610",
+        "isLatest": true,
+        "gBoardOrder": 521
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f4e0/u1f4e0_u1f54a-ufe0f.png",
+        "alt": "fax-dove_of_peace",
+        "leftEmoji": "📠",
+        "leftEmojiCodepoint": "1f4e0",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20240206",
+        "isLatest": false,
+        "gBoardOrder": 521
+      }
+    ],
+    "1f4be": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f4be/u1f4be_u1f54a-ufe0f.png",
+        "alt": "floppy_disk-dove_of_peace",
+        "leftEmoji": "💾",
+        "leftEmojiCodepoint": "1f4be",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 525
+      }
+    ],
+    "1f4bb": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f4bb/u1f4bb_u1f54a-ufe0f.png",
+        "alt": "computer-dove_of_peace",
+        "leftEmoji": "💻",
+        "leftEmojiCodepoint": "1f4bb",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 527
+      }
+    ],
+    "1f4a1": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230418/u1f4a1/u1f4a1_u1f54a-ufe0f.png",
+        "alt": "bulb-dove_of_peace",
+        "leftEmoji": "💡",
+        "leftEmojiCodepoint": "1f4a1",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20230418",
+        "isLatest": true,
+        "gBoardOrder": 533
+      }
+    ],
+    "1f451": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f451.png",
+        "alt": "dove_of_peace-crown",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "👑",
+        "rightEmojiCodepoint": "1f451",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 546
+      }
+    ],
+    "1f48e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f48e.png",
+        "alt": "dove_of_peace-gem",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "💎",
+        "rightEmojiCodepoint": "1f48e",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 550
+      }
+    ],
+    "1f5d1-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230418/u1f5d1-ufe0f/u1f5d1-ufe0f_u1f54a-ufe0f.png",
+        "alt": "wastebasket-dove_of_peace",
+        "leftEmoji": "🗑️",
+        "leftEmojiCodepoint": "1f5d1-fe0f",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20230418",
+        "isLatest": true,
+        "gBoardOrder": 567
+      }
+    ],
+    "1f4da": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f4da/u1f4da_u1f54a-ufe0f.png",
+        "alt": "books-dove_of_peace",
+        "leftEmoji": "📚",
+        "leftEmojiCodepoint": "1f4da",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 571
+      }
+    ],
+    "1f4f0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f4f0.png",
+        "alt": "dove_of_peace-newspaper",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "📰",
+        "rightEmojiCodepoint": "1f4f0",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 577
+      }
+    ],
+    "1f4e3": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f4e3/u1f4e3_u1f54a-ufe0f.png",
+        "alt": "mega-dove_of_peace",
+        "leftEmoji": "📣",
+        "leftEmojiCodepoint": "1f4e3",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 586
+      }
+    ],
+    "1f52e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230301/u1f52e/u1f52e_u1f54a-ufe0f.png",
+        "alt": "crystal_ball-dove_of_peace",
+        "leftEmoji": "🔮",
+        "leftEmojiCodepoint": "1f52e",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20230301",
+        "isLatest": true,
+        "gBoardOrder": 588
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220506/u1f52e/u1f52e_u1f54a-ufe0f.png",
+        "alt": "crystal_ball-dove_of_peace",
+        "leftEmoji": "🔮",
+        "leftEmojiCodepoint": "1f52e",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20220506",
+        "isLatest": false,
+        "gBoardOrder": 588
+      }
+    ],
+    "1f3fa": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f3fa/u1f3fa_u1f54a-ufe0f.png",
+        "alt": "amphora-dove_of_peace",
+        "leftEmoji": "🏺",
+        "leftEmojiCodepoint": "1f3fa",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 590
+      }
+    ],
+    "1faa4": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231128/u1faa4/u1faa4_u1f54a-ufe0f.png",
+        "alt": "mouse_trap-dove_of_peace",
+        "leftEmoji": "🪤",
+        "leftEmojiCodepoint": "1faa4",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20231128",
+        "isLatest": true,
+        "gBoardOrder": 591
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230418/u1faa4/u1faa4_u1f54a-ufe0f.png",
+        "alt": "mouse_trap-dove_of_peace",
+        "leftEmoji": "🪤",
+        "leftEmojiCodepoint": "1faa4",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20230418",
+        "isLatest": false,
+        "gBoardOrder": 591
+      }
+    ],
+    "26a0-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230418/u26a0-ufe0f/u26a0-ufe0f_u1f54a-ufe0f.png",
+        "alt": "warning-dove_of_peace",
+        "leftEmoji": "⚠️",
+        "leftEmojiCodepoint": "26a0-fe0f",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20230418",
+        "isLatest": true,
+        "gBoardOrder": 617
+      }
+    ],
+    "1f5ef-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230418/u1f5ef-ufe0f/u1f5ef-ufe0f_u1f54a-ufe0f.png",
+        "alt": "right_anger_bubble-dove_of_peace",
+        "leftEmoji": "🗯️",
+        "leftEmojiCodepoint": "1f5ef-fe0f",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20230418",
+        "isLatest": true,
+        "gBoardOrder": 641
+      }
+    ],
+    "1f4ac": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f4ac.png",
+        "alt": "dove_of_peace-speech_balloon",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "💬",
+        "rightEmojiCodepoint": "1f4ac",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 642
+      }
+    ],
+    "1f40d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f40d/u1f40d_u1f54a-ufe0f.png",
+        "alt": "snake-dove_of_peace",
+        "leftEmoji": "🐍",
+        "leftEmojiCodepoint": "1f40d",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 242
+      }
+    ],
+    "1f463": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f463/u1f463_u1f54a-ufe0f.png",
+        "alt": "footprints-dove_of_peace",
+        "leftEmoji": "👣",
+        "leftEmojiCodepoint": "1f463",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 157
+      }
+    ],
+    "26c5": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u26c5/u26c5_u1f54a-ufe0f.png",
+        "alt": "partly_sunny-dove_of_peace",
+        "leftEmoji": "⛅",
+        "leftEmojiCodepoint": "26c5",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 212
+      }
+    ],
+    "2604-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u2604-ufe0f/u2604-ufe0f_u1f54a-ufe0f.png",
+        "alt": "comet-dove_of_peace",
+        "leftEmoji": "☄️",
+        "leftEmojiCodepoint": "2604-fe0f",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 220
+      }
+    ],
+    "1f30c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f30c/u1f30c_u1f54a-ufe0f.png",
+        "alt": "milky_way-dove_of_peace",
+        "leftEmoji": "🌌",
+        "leftEmojiCodepoint": "1f30c",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 221
+      }
+    ],
+    "1f9a9": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241023/u1f9a9/u1f9a9_u1f54a-ufe0f.png",
+        "alt": "flamingo-dove_of_peace",
+        "leftEmoji": "🦩",
+        "leftEmojiCodepoint": "1f9a9",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20241023",
+        "isLatest": true,
+        "gBoardOrder": 256
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f9a9/u1f9a9_u1f54a-ufe0f.png",
+        "alt": "flamingo-dove_of_peace",
+        "leftEmoji": "🦩",
+        "leftEmojiCodepoint": "1f9a9",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20240530",
+        "isLatest": false,
+        "gBoardOrder": 256
+      }
+    ],
+    "1f960": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f960/u1f960_u1f54a-ufe0f.png",
+        "alt": "fortune_cookie-dove_of_peace",
+        "leftEmoji": "🥠",
+        "leftEmojiCodepoint": "1f960",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 353
+      }
+    ],
+    "1f6a8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6a8/u1f6a8_u1f54a-ufe0f.png",
+        "alt": "rotating_light-dove_of_peace",
+        "leftEmoji": "🚨",
+        "leftEmojiCodepoint": "1f6a8",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 391
+      }
+    ],
+    "1f69a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f69a/u1f69a_u1f54a-ufe0f.png",
+        "alt": "truck-dove_of_peace",
+        "leftEmoji": "🚚",
+        "leftEmojiCodepoint": "1f69a",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 401
+      }
+    ],
+    "1f3af": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f3af/u1f3af_u1f54a-ufe0f.png",
+        "alt": "dart-dove_of_peace",
+        "leftEmoji": "🎯",
+        "leftEmojiCodepoint": "1f3af",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 465
+      }
+    ],
+    "1f0cf": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f0cf/u1f0cf_u1f54a-ufe0f.png",
+        "alt": "black_joker-dove_of_peace",
+        "leftEmoji": "🃏",
+        "leftEmojiCodepoint": "1f0cf",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 486
+      }
+    ],
+    "1f39e-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f39e-ufe0f/u1f39e-ufe0f_u1f54a-ufe0f.png",
+        "alt": "film_frames-dove_of_peace",
+        "leftEmoji": "🎞️",
+        "leftEmojiCodepoint": "1f39e-fe0f",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 514
+      }
+    ],
+    "2696-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u2696-ufe0f/u2696-ufe0f_u1f54a-ufe0f.png",
+        "alt": "scales-dove_of_peace",
+        "leftEmoji": "⚖️",
+        "leftEmojiCodepoint": "2696-fe0f",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 530
+      }
+    ],
+    "1f6d2": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6d2/u1f6d2_u1f54a-ufe0f.png",
+        "alt": "shopping_trolley-dove_of_peace",
+        "leftEmoji": "🛒",
+        "leftEmojiCodepoint": "1f6d2",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 531
+      }
+    ],
+    "1f9fc": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f9fc/u1f9fc_u1f54a-ufe0f.png",
+        "alt": "soap-dove_of_peace",
+        "leftEmoji": "🧼",
+        "leftEmojiCodepoint": "1f9fc",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 537
+      }
+    ],
+    "1f455": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f455/u1f455_u1f54a-ufe0f.png",
+        "alt": "shirt-dove_of_peace",
+        "leftEmoji": "👕",
+        "leftEmojiCodepoint": "1f455",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 542
+      }
+    ],
+    "1f460": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f460/u1f460_u1f54a-ufe0f.png",
+        "alt": "high_heel-dove_of_peace",
+        "leftEmoji": "👠",
+        "leftEmojiCodepoint": "1f460",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 551
+      }
+    ],
+    "1f9f2": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f9f2/u1f9f2_u1f54a-ufe0f.png",
+        "alt": "magnet-dove_of_peace",
+        "leftEmoji": "🧲",
+        "leftEmojiCodepoint": "1f9f2",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 560
+      }
+    ],
+    "1f4c8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f4c8/u1f4c8_u1f54a-ufe0f.png",
+        "alt": "chart_with_upwards_trend-dove_of_peace",
+        "leftEmoji": "📈",
+        "leftEmojiCodepoint": "1f4c8",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 574
+      }
+    ],
+    "1f4c9": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f4c9/u1f4c9_u1f54a-ufe0f.png",
+        "alt": "chart_with_downwards_trend-dove_of_peace",
+        "leftEmoji": "📉",
+        "leftEmojiCodepoint": "1f4c9",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 575
+      }
+    ],
+    "2702-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u2702-ufe0f/u2702-ufe0f_u1f54a-ufe0f.png",
+        "alt": "scissors-dove_of_peace",
+        "leftEmoji": "✂️",
+        "leftEmojiCodepoint": "2702-fe0f",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 576
+      }
+    ],
+    "231a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u231a/u231a_u1f54a-ufe0f.png",
+        "alt": "watch-dove_of_peace",
+        "leftEmoji": "⌚",
+        "leftEmojiCodepoint": "231a",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 580
+      }
+    ],
+    "1f514": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f514/u1f514_u1f54a-ufe0f.png",
+        "alt": "bell-dove_of_peace",
+        "leftEmoji": "🔔",
+        "leftEmojiCodepoint": "1f514",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 585
+      }
+    ],
+    "1f3b6": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f3b6/u1f3b6_u1f54a-ufe0f.png",
+        "alt": "notes-dove_of_peace",
+        "leftEmoji": "🎶",
+        "leftEmojiCodepoint": "1f3b6",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 614
+      }
+    ],
+    "2622-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u2622-ufe0f/u2622-ufe0f_u1f54a-ufe0f.png",
+        "alt": "radioactive_sign-dove_of_peace",
+        "leftEmoji": "☢️",
+        "leftEmojiCodepoint": "2622-fe0f",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 615
+      }
+    ],
+    "1f5e3-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f5e3-ufe0f/u1f5e3-ufe0f_u1f54a-ufe0f.png",
+        "alt": "speaking_head_in_silhouette-dove_of_peace",
+        "leftEmoji": "🗣️",
+        "leftEmojiCodepoint": "1f5e3-fe0f",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 156
+      }
+    ],
+    "1f440": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f440/u1f440_u1f54a-ufe0f.png",
+        "alt": "eyes-dove_of_peace",
+        "leftEmoji": "👀",
+        "leftEmojiCodepoint": "1f440",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 166
+      }
+    ],
+    "1f32c-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f32c-ufe0f/u1f32c-ufe0f_u1f54a-ufe0f.png",
+        "alt": "wind_blowing_face-dove_of_peace",
+        "leftEmoji": "🌬️",
+        "leftEmojiCodepoint": "1f32c-fe0f",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 205
+      }
+    ],
+    "1f329-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f329-ufe0f/u1f329-ufe0f_u1f54a-ufe0f.png",
+        "alt": "lightning-dove_of_peace",
+        "leftEmoji": "🌩️",
+        "leftEmojiCodepoint": "1f329-fe0f",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 215
+      }
+    ],
+    "1f300": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f54a-ufe0f/u1f54a-ufe0f_u1f300.png",
+        "alt": "dove_of_peace-cyclone",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🌀",
+        "rightEmojiCodepoint": "1f300",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 206
+      }
+    ],
+    "1f3b1": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f54a-ufe0f/u1f54a-ufe0f_u1f3b1.png",
+        "alt": "dove_of_peace-8ball",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🎱",
+        "rightEmojiCodepoint": "1f3b1",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 475
+      }
+    ],
+    "264a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f54a-ufe0f/u1f54a-ufe0f_u264a.png",
+        "alt": "dove_of_peace-gemini",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "♊",
+        "rightEmojiCodepoint": "264a",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 596
+      }
+    ],
+    "264b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f54a-ufe0f/u1f54a-ufe0f_u264b.png",
+        "alt": "dove_of_peace-cancer",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "♋",
+        "rightEmojiCodepoint": "264b",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 597
+      }
+    ],
+    "264c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f54a-ufe0f/u1f54a-ufe0f_u264c.png",
+        "alt": "dove_of_peace-leo",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "♌",
+        "rightEmojiCodepoint": "264c",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 598
+      }
+    ],
+    "264d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f54a-ufe0f/u1f54a-ufe0f_u264d.png",
+        "alt": "dove_of_peace-virgo",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "♍",
+        "rightEmojiCodepoint": "264d",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 599
+      }
+    ],
+    "264e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f54a-ufe0f/u1f54a-ufe0f_u264e.png",
+        "alt": "dove_of_peace-libra",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "♎",
+        "rightEmojiCodepoint": "264e",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 600
+      }
+    ],
+    "264f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f54a-ufe0f/u1f54a-ufe0f_u264f.png",
+        "alt": "dove_of_peace-scorpius",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "♏",
+        "rightEmojiCodepoint": "264f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 601
+      }
+    ],
+    "26ce": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f54a-ufe0f/u1f54a-ufe0f_u26ce.png",
+        "alt": "dove_of_peace-ophiuchus",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "⛎",
+        "rightEmojiCodepoint": "26ce",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 606
+      }
+    ],
+    "2668-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f54a-ufe0f/u1f54a-ufe0f_u2668-ufe0f.png",
+        "alt": "dove_of_peace-hotsprings",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "♨️",
+        "rightEmojiCodepoint": "2668-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 611
+      }
+    ],
+    "2623-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f54a-ufe0f/u1f54a-ufe0f_u2623-ufe0f.png",
+        "alt": "dove_of_peace-biohazard_sign",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "☣️",
+        "rightEmojiCodepoint": "2623-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 616
+      }
+    ],
+    "1f199": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f54a-ufe0f/u1f54a-ufe0f_u1f199.png",
+        "alt": "dove_of_peace-up",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🆙",
+        "rightEmojiCodepoint": "1f199",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 622
+      }
+    ],
+    "a9-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f54a-ufe0f/u1f54a-ufe0f_ua9-ufe0f.png",
+        "alt": "dove_of_peace-copyright",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "©️",
+        "rightEmojiCodepoint": "a9-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 637
+      }
+    ],
+    "ae-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f54a-ufe0f/u1f54a-ufe0f_uae-ufe0f.png",
+        "alt": "dove_of_peace-registered",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "®️",
+        "rightEmojiCodepoint": "ae-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 638
+      }
+    ],
+    "2660-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f54a-ufe0f/u1f54a-ufe0f_u2660-ufe0f.png",
+        "alt": "dove_of_peace-spades",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "♠️",
+        "rightEmojiCodepoint": "2660-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 640
+      }
+    ],
+    "1f373": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f373/u1f373_u1f54a-ufe0f.png",
+        "alt": "fried_egg-dove_of_peace",
+        "leftEmoji": "🍳",
+        "leftEmojiCodepoint": "1f373",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 317
+      }
+    ],
+    "1f355": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f355/u1f355_u1f54a-ufe0f.png",
+        "alt": "pizza-dove_of_peace",
+        "leftEmoji": "🍕",
+        "leftEmojiCodepoint": "1f355",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 324
+      }
+    ],
+    "1f37e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f37e/u1f37e_u1f54a-ufe0f.png",
+        "alt": "champagne-dove_of_peace",
+        "leftEmoji": "🍾",
+        "leftEmojiCodepoint": "1f37e",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 382
+      }
+    ],
+    "1f6a6": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6a6/u1f6a6_u1f54a-ufe0f.png",
+        "alt": "vertical_traffic_light-dove_of_peace",
+        "leftEmoji": "🚦",
+        "leftEmojiCodepoint": "1f6a6",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 396
+      }
+    ],
+    "1f3e0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f3e0/u1f3e0_u1f54a-ufe0f.png",
+        "alt": "house-dove_of_peace",
+        "leftEmoji": "🏠",
+        "leftEmojiCodepoint": "1f3e0",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 424
+      }
+    ],
+    "1faa9": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1faa9/u1faa9_u1f54a-ufe0f.png",
+        "alt": "mirror_ball-dove_of_peace",
+        "leftEmoji": "🪩",
+        "leftEmojiCodepoint": "1faa9",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 435
+      }
+    ],
+    "1f3be": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f3be/u1f3be_u1f54a-ufe0f.png",
+        "alt": "tennis-dove_of_peace",
+        "leftEmoji": "🎾",
+        "leftEmojiCodepoint": "1f3be",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 450
+      }
+    ],
+    "1fa70": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1fa70/u1fa70_u1f54a-ufe0f.png",
+        "alt": "ballet_shoes-dove_of_peace",
+        "leftEmoji": "🩰",
+        "leftEmojiCodepoint": "1fa70",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 462
+      }
+    ],
+    "1f3a8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f3a8/u1f3a8_u1f54a-ufe0f.png",
+        "alt": "art-dove_of_peace",
+        "leftEmoji": "🎨",
+        "leftEmojiCodepoint": "1f3a8",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 489
+      }
+    ],
+    "1f4f1": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f4f1/u1f4f1_u1f54a-ufe0f.png",
+        "alt": "iphone-dove_of_peace",
+        "leftEmoji": "📱",
+        "leftEmojiCodepoint": "1f4f1",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 518
+      }
+    ],
+    "1f50b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f50b/u1f50b_u1f54a-ufe0f.png",
+        "alt": "battery-dove_of_peace",
+        "leftEmoji": "🔋",
+        "leftEmojiCodepoint": "1f50b",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 523
+      }
+    ],
+    "1faab": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1faab/u1faab_u1f54a-ufe0f.png",
+        "alt": "low_battery-dove_of_peace",
+        "leftEmoji": "🪫",
+        "leftEmojiCodepoint": "1faab",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 524
+      }
+    ],
+    "1f6cd-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6cd-ufe0f/u1f6cd-ufe0f_u1f54a-ufe0f.png",
+        "alt": "shopping_bags-dove_of_peace",
+        "leftEmoji": "🛍️",
+        "leftEmojiCodepoint": "1f6cd-fe0f",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 532
+      }
+    ],
+    "1f393": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f393/u1f393_u1f54a-ufe0f.png",
+        "alt": "mortar_board-dove_of_peace",
+        "leftEmoji": "🎓",
+        "leftEmojiCodepoint": "1f393",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 544
+      }
+    ],
+    "1f9ec": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f9ec/u1f9ec_u1f54a-ufe0f.png",
+        "alt": "dna-dove_of_peace",
+        "leftEmoji": "🧬",
+        "leftEmojiCodepoint": "1f9ec",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 557
+      }
+    ],
+    "26d3-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u26d3-ufe0f/u26d3-ufe0f_u1f54a-ufe0f.png",
+        "alt": "chains-dove_of_peace",
+        "leftEmoji": "⛓️",
+        "leftEmojiCodepoint": "26d3-fe0f",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 564
+      }
+    ],
+    "1f587-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f587-ufe0f/u1f587-ufe0f_u1f54a-ufe0f.png",
+        "alt": "linked_paperclips-dove_of_peace",
+        "leftEmoji": "🖇️",
+        "leftEmojiCodepoint": "1f587-fe0f",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 565
+      }
+    ],
+    "1f4e6": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f4e6/u1f4e6_u1f54a-ufe0f.png",
+        "alt": "package-dove_of_peace",
+        "leftEmoji": "📦",
+        "leftEmojiCodepoint": "1f4e6",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 578
+      }
+    ],
+    "23f0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u23f0/u23f0_u1f54a-ufe0f.png",
+        "alt": "alarm_clock-dove_of_peace",
+        "leftEmoji": "⏰",
+        "leftEmojiCodepoint": "23f0",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 584
+      }
+    ],
+    "2049-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u2049-ufe0f/u2049-ufe0f_u1f54a-ufe0f.png",
+        "alt": "interrobang-dove_of_peace",
+        "leftEmoji": "⁉️",
+        "leftEmojiCodepoint": "2049-fe0f",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 609
+      }
+    ],
+    "1f198": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f198/u1f198_u1f54a-ufe0f.png",
+        "alt": "sos-dove_of_peace",
+        "leftEmoji": "🆘",
+        "leftEmojiCodepoint": "1f198",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 610
+      }
+    ],
+    "267b-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u267b-ufe0f/u267b-ufe0f_u1f54a-ufe0f.png",
+        "alt": "recycle-dove_of_peace",
+        "leftEmoji": "♻️",
+        "leftEmojiCodepoint": "267b-fe0f",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 618
+      }
+    ],
+    "1f197": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f197/u1f197_u1f54a-ufe0f.png",
+        "alt": "ok-dove_of_peace",
+        "leftEmoji": "🆗",
+        "leftEmojiCodepoint": "1f197",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 623
+      }
+    ],
+    "1f192": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f192/u1f192_u1f54a-ufe0f.png",
+        "alt": "cool-dove_of_peace",
+        "leftEmoji": "🆒",
+        "leftEmojiCodepoint": "1f192",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 624
+      }
+    ],
+    "262f-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u262f-ufe0f/u262f-ufe0f_u1f54a-ufe0f.png",
+        "alt": "yin_yang-dove_of_peace",
+        "leftEmoji": "☯️",
+        "leftEmojiCodepoint": "262f-fe0f",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 628
+      }
+    ],
+    "267e-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u267e-ufe0f/u267e-ufe0f_u1f54a-ufe0f.png",
+        "alt": "infinity-dove_of_peace",
+        "leftEmoji": "♾️",
+        "leftEmojiCodepoint": "267e-fe0f",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 629
+      }
+    ],
+    "1f331": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f331/u1f331_u1f54a-ufe0f.png",
+        "alt": "seedling-dove_of_peace",
+        "leftEmoji": "🌱",
+        "leftEmojiCodepoint": "1f331",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 189
+      }
+    ],
+    "1f41e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f41e/u1f41e_u1f54a-ufe0f.png",
+        "alt": "ladybug-dove_of_peace",
+        "leftEmoji": "🐞",
+        "leftEmojiCodepoint": "1f41e",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 274
+      }
+    ],
+    "1f345": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f345/u1f345_u1f54a-ufe0f.png",
+        "alt": "tomato-dove_of_peace",
+        "leftEmoji": "🍅",
+        "leftEmojiCodepoint": "1f345",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 293
+      }
+    ],
+    "1f955": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f955/u1f955_u1f54a-ufe0f.png",
+        "alt": "carrot-dove_of_peace",
+        "leftEmoji": "🥕",
+        "leftEmojiCodepoint": "1f955",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 296
+      }
+    ],
+    "1f94a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f94a/u1f94a_u1f54a-ufe0f.png",
+        "alt": "boxing_glove-dove_of_peace",
+        "leftEmoji": "🥊",
+        "leftEmojiCodepoint": "1f94a",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 474
+      }
+    ],
+    "2699-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u2699-ufe0f/u2699-ufe0f_u1f54a-ufe0f.png",
+        "alt": "gear-dove_of_peace",
+        "leftEmoji": "⚙️",
+        "leftEmojiCodepoint": "2699-fe0f",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 563
+      }
+    ],
+    "1f5f3-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f5f3-ufe0f/u1f5f3-ufe0f_u1f54a-ufe0f.png",
+        "alt": "ballot_box_with_ballot-dove_of_peace",
+        "leftEmoji": "🗳️",
+        "leftEmojiCodepoint": "1f5f3-fe0f",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 579
+      }
+    ],
+    "1f508": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f508/u1f508_u1f54a-ufe0f.png",
+        "alt": "speaker-dove_of_peace",
+        "leftEmoji": "🔈",
+        "leftEmojiCodepoint": "1f508",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 613
+      }
+    ],
+    "1fae9": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1fae9/u1fae9_u1f54a-ufe0f.png",
+        "alt": "face_with_bags_under_eyes-dove_of_peace",
+        "leftEmoji": "🫩",
+        "leftEmojiCodepoint": "1fae9",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 96
+      }
+    ],
+    "1f64f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250430/u1f64f/u1f64f_u1f54a-ufe0f.png",
+        "alt": "pray-dove_of_peace",
+        "leftEmoji": "🙏",
+        "leftEmojiCodepoint": "1f64f",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20250430",
+        "isLatest": true,
+        "gBoardOrder": 170
+      }
+    ],
+    "1fac2": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250430/u1fac2/u1fac2_u1f54a-ufe0f.png",
+        "alt": "people_hugging-dove_of_peace",
+        "leftEmoji": "🫂",
+        "leftEmojiCodepoint": "1fac2",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20250430",
+        "isLatest": true,
+        "gBoardOrder": 153
+      }
+    ],
+    "1f98b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250430/u1f98b/u1f98b_u1f54a-ufe0f.png",
+        "alt": "butterfly-dove_of_peace",
+        "leftEmoji": "🦋",
+        "leftEmojiCodepoint": "1f98b",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20250430",
+        "isLatest": true,
+        "gBoardOrder": 275
+      }
+    ],
+    "1f3a2": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250430/u1f3a2/u1f3a2_u1f54a-ufe0f.png",
+        "alt": "roller_coaster-dove_of_peace",
+        "leftEmoji": "🎢",
+        "leftEmojiCodepoint": "1f3a2",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20250430",
+        "isLatest": true,
+        "gBoardOrder": 414
+      }
+    ],
+    "270f-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250430/u270f-ufe0f/u270f-ufe0f_u1f54a-ufe0f.png",
+        "alt": "pencil2-dove_of_peace",
+        "leftEmoji": "✏️",
+        "leftEmojiCodepoint": "270f-fe0f",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20250430",
+        "isLatest": true,
+        "gBoardOrder": 570
+      }
+    ],
+    "1f195": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250430/u1f195/u1f195_u1f54a-ufe0f.png",
+        "alt": "new-dove_of_peace",
+        "leftEmoji": "🆕",
+        "leftEmojiCodepoint": "1f195",
+        "rightEmoji": "🕊️",
+        "rightEmojiCodepoint": "1f54a-fe0f",
+        "date": "20250430",
+        "isLatest": true,
+        "gBoardOrder": 620
+      }
+    ]
+  }
+}

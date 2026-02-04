@@ -1,0 +1,5455 @@
+{
+  "alt": "motorway",
+  "emoji": "🛣️",
+  "emojiCodepoint": "1f6e3-fe0f",
+  "gBoardOrder": 430,
+  "keywords": [
+    "motorway",
+    "road",
+    "cupertino",
+    "interstate",
+    "highway"
+  ],
+  "category": "travel & places",
+  "subcategory": "transport-ground",
+  "combinations": {
+    "2615": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u2615.png",
+        "alt": "motorway-coffee",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "☕",
+        "rightEmojiCodepoint": "2615",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 378
+      }
+    ],
+    "2648": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u2648.png",
+        "alt": "motorway-aries",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "♈",
+        "rightEmojiCodepoint": "2648",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 594
+      }
+    ],
+    "2649": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u2649.png",
+        "alt": "motorway-taurus",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "♉",
+        "rightEmojiCodepoint": "2649",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 595
+      }
+    ],
+    "2650": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u2650.png",
+        "alt": "motorway-sagittarius",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "♐",
+        "rightEmojiCodepoint": "2650",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 602
+      }
+    ],
+    "2651": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u2651.png",
+        "alt": "motorway-capricorn",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "♑",
+        "rightEmojiCodepoint": "2651",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 603
+      }
+    ],
+    "2652": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u2652.png",
+        "alt": "motorway-aquarius",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "♒",
+        "rightEmojiCodepoint": "2652",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 604
+      }
+    ],
+    "2653": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u2653.png",
+        "alt": "motorway-pisces",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "♓",
+        "rightEmojiCodepoint": "2653",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 605
+      }
+    ],
+    "2693": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u2693.png",
+        "alt": "motorway-anchor",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "⚓",
+        "rightEmojiCodepoint": "2693",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 394
+      }
+    ],
+    "2705": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u2705.png",
+        "alt": "motorway-white_check_mark",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "✅",
+        "rightEmojiCodepoint": "2705",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 619
+      }
+    ],
+    "2753": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u2753.png",
+        "alt": "motorway-question",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "❓",
+        "rightEmojiCodepoint": "2753",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 608
+      }
+    ],
+    "2757": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u2757.png",
+        "alt": "motorway-exclamation",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "❗",
+        "rightEmojiCodepoint": "2757",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 607
+      }
+    ],
+    "1fa84": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1fa84/u1fa84_u1f6e3-ufe0f.png",
+        "alt": "magic_wand-motorway",
+        "leftEmoji": "🪄",
+        "leftEmojiCodepoint": "1fa84",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 0
+      }
+    ],
+    "1f618": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240214/u1f618/u1f618_u1f6e3-ufe0f.png",
+        "alt": "kissing_heart-motorway",
+        "leftEmoji": "😘",
+        "leftEmojiCodepoint": "1f618",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20240214",
+        "isLatest": true,
+        "gBoardOrder": 14
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f618/u1f618_u1f6e3-ufe0f.png",
+        "alt": "kissing_heart-motorway",
+        "leftEmoji": "😘",
+        "leftEmojiCodepoint": "1f618",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20230803",
+        "isLatest": false,
+        "gBoardOrder": 14
+      }
+    ],
+    "1f970": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f970.png",
+        "alt": "motorway-smiling_face_with_3_hearts",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🥰",
+        "rightEmojiCodepoint": "1f970",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 15
+      }
+    ],
+    "1f60d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f60d/u1f60d_u1f6e3-ufe0f.png",
+        "alt": "heart_eyes-motorway",
+        "leftEmoji": "😍",
+        "leftEmojiCodepoint": "1f60d",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 16
+      }
+    ],
+    "1f97a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f97a/u1f97a_u1f6e3-ufe0f.png",
+        "alt": "pleading_face-motorway",
+        "leftEmoji": "🥺",
+        "leftEmojiCodepoint": "1f97a",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 55
+      }
+    ],
+    "1f31c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f31c/u1f31c_u1f6e3-ufe0f.png",
+        "alt": "last_quarter_moon_with_face-motorway",
+        "leftEmoji": "🌜",
+        "leftEmojiCodepoint": "1f31c",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 86
+      }
+    ],
+    "1f60e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f60e/u1f60e_u1f6e3-ufe0f.png",
+        "alt": "sunglasses-motorway",
+        "leftEmoji": "😎",
+        "leftEmojiCodepoint": "1f60e",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 103
+      }
+    ],
+    "1f47b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f47b/u1f47b_u1f6e3-ufe0f.png",
+        "alt": "ghost-motorway",
+        "leftEmoji": "👻",
+        "leftEmojiCodepoint": "1f47b",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 108
+      }
+    ],
+    "1f916": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f916/u1f916_u1f6e3-ufe0f.png",
+        "alt": "robot_face-motorway",
+        "leftEmoji": "🤖",
+        "leftEmojiCodepoint": "1f916",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 112
+      }
+    ],
+    "1f31f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f31f/u1f31f_u1f6e3-ufe0f.png",
+        "alt": "star2-motorway",
+        "leftEmoji": "🌟",
+        "leftEmojiCodepoint": "1f31f",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 121
+      }
+    ],
+    "1f4a5": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f4a5/u1f4a5_u1f6e3-ufe0f.png",
+        "alt": "boom-motorway",
+        "leftEmoji": "💥",
+        "leftEmojiCodepoint": "1f4a5",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 122
+      }
+    ],
+    "1f4af": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f4af.png",
+        "alt": "motorway-100",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "💯",
+        "rightEmojiCodepoint": "1f4af",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 123
+      }
+    ],
+    "1f573-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f573-ufe0f/u1f573-ufe0f_u1f6e3-ufe0f.png",
+        "alt": "hole-motorway",
+        "leftEmoji": "🕳️",
+        "leftEmojiCodepoint": "1f573-fe0f",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 125
+      }
+    ],
+    "1f38a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f38a/u1f38a_u1f6e3-ufe0f.png",
+        "alt": "confetti_ball-motorway",
+        "leftEmoji": "🎊",
+        "leftEmojiCodepoint": "1f38a",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 126
+      }
+    ],
+    "2665-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f6e3-ufe0f/u1f6e3-ufe0f_u2665-ufe0f.png",
+        "alt": "motorway-hearts",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "♥️",
+        "rightEmojiCodepoint": "2665-fe0f",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 139
+      }
+    ],
+    "1f498": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f498/u1f498_u1f6e3-ufe0f.png",
+        "alt": "cupid-motorway",
+        "leftEmoji": "💘",
+        "leftEmojiCodepoint": "1f498",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 140
+      }
+    ],
+    "1f497": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f497/u1f497_u1f6e3-ufe0f.png",
+        "alt": "heartpulse-motorway",
+        "leftEmoji": "💗",
+        "leftEmojiCodepoint": "1f497",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 143
+      }
+    ],
+    "1f493": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f493/u1f493_u1f6e3-ufe0f.png",
+        "alt": "heartbeat-motorway",
+        "leftEmoji": "💓",
+        "leftEmojiCodepoint": "1f493",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 144
+      }
+    ],
+    "1f495": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f495/u1f495_u1f6e3-ufe0f.png",
+        "alt": "two_hearts-motorway",
+        "leftEmoji": "💕",
+        "leftEmojiCodepoint": "1f495",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 146
+      }
+    ],
+    "1f48c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f48c.png",
+        "alt": "motorway-love_letter",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "💌",
+        "rightEmojiCodepoint": "1f48c",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 147
+      }
+    ],
+    "2763-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u2763-ufe0f/u2763-ufe0f_u1f6e3-ufe0f.png",
+        "alt": "heavy_heart_exclamation_mark_ornament-motorway",
+        "leftEmoji": "❣️",
+        "leftEmojiCodepoint": "2763-fe0f",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 149
+      }
+    ],
+    "2764-fe0f-200d-1fa79": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240610/u2764-ufe0f-u200d-u1fa79/u2764-ufe0f-u200d-u1fa79_u1f6e3-ufe0f.png",
+        "alt": "mending_heart-motorway",
+        "leftEmoji": "❤️‍🩹",
+        "leftEmojiCodepoint": "2764-fe0f-200d-1fa79",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20240610",
+        "isLatest": true,
+        "gBoardOrder": 150
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u2764-ufe0f-u200d-u1fa79/u2764-ufe0f-u200d-u1fa79_u1f6e3-ufe0f.png",
+        "alt": "mending_heart-motorway",
+        "leftEmoji": "❤️‍🩹",
+        "leftEmojiCodepoint": "2764-fe0f-200d-1fa79",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20231113",
+        "isLatest": false,
+        "gBoardOrder": 150
+      }
+    ],
+    "1f48b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f48b/u1f48b_u1f6e3-ufe0f.png",
+        "alt": "kiss-motorway",
+        "leftEmoji": "💋",
+        "leftEmojiCodepoint": "1f48b",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 152
+      }
+    ],
+    "1fa78": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f6e3-ufe0f/u1f6e3-ufe0f_u1fa78.png",
+        "alt": "motorway-drop_of_blood",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🩸",
+        "rightEmojiCodepoint": "1fa78",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 161
+      }
+    ],
+    "1f441-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f441-ufe0f/u1f441-ufe0f_u1f6e3-ufe0f.png",
+        "alt": "eye-motorway",
+        "leftEmoji": "👁️",
+        "leftEmojiCodepoint": "1f441-fe0f",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 167
+      }
+    ],
+    "1fa82": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1fa82/u1fa82_u1f6e3-ufe0f.png",
+        "alt": "parachute-motorway",
+        "leftEmoji": "🪂",
+        "leftEmojiCodepoint": "1fa82",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 172
+      }
+    ],
+    "1f337": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f337/u1f337_u1f6e3-ufe0f.png",
+        "alt": "tulip-motorway",
+        "leftEmoji": "🌷",
+        "leftEmojiCodepoint": "1f337",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 177
+      }
+    ],
+    "1f4ae": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f4ae/u1f4ae_u1f6e3-ufe0f.png",
+        "alt": "white_flower-motorway",
+        "leftEmoji": "💮",
+        "leftEmojiCodepoint": "1f4ae",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 180
+      }
+    ],
+    "1f30a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f30a/u1f30a_u1f6e3-ufe0f.png",
+        "alt": "ocean-motorway",
+        "leftEmoji": "🌊",
+        "leftEmojiCodepoint": "1f30a",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 204
+      }
+    ],
+    "1f32a-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f32a-ufe0f/u1f32a-ufe0f_u1f6e3-ufe0f.png",
+        "alt": "tornado-motorway",
+        "leftEmoji": "🌪️",
+        "leftEmojiCodepoint": "1f32a-fe0f",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 207
+      }
+    ],
+    "1f30b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f30b/u1f30b_u1f6e3-ufe0f.png",
+        "alt": "volcano-motorway",
+        "leftEmoji": "🌋",
+        "leftEmojiCodepoint": "1f30b",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 208
+      }
+    ],
+    "1f304": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f304/u1f304_u1f6e3-ufe0f.png",
+        "alt": "sunrise_over_mountains-motorway",
+        "leftEmoji": "🌄",
+        "leftEmojiCodepoint": "1f304",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 211
+      }
+    ],
+    "1f327-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f327-ufe0f/u1f327-ufe0f_u1f6e3-ufe0f.png",
+        "alt": "rain_cloud-motorway",
+        "leftEmoji": "🌧️",
+        "leftEmojiCodepoint": "1f327-fe0f",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 214
+      }
+    ],
+    "1f984": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f984/u1f984_u1f6e3-ufe0f.png",
+        "alt": "unicorn_face-motorway",
+        "leftEmoji": "🦄",
+        "leftEmojiCodepoint": "1f984",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 240
+      }
+    ],
+    "1f96b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f96b/u1f96b_u1f6e3-ufe0f.png",
+        "alt": "canned_food-motorway",
+        "leftEmoji": "🥫",
+        "leftEmojiCodepoint": "1f96b",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 335
+      }
+    ],
+    "1f365": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f365/u1f365_u1f6e3-ufe0f.png",
+        "alt": "fish_cake-motorway",
+        "leftEmoji": "🍥",
+        "leftEmojiCodepoint": "1f365",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 351
+      }
+    ],
+    "1f36e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f36e.png",
+        "alt": "motorway-custard",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🍮",
+        "rightEmojiCodepoint": "1f36e",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 359
+      }
+    ],
+    "1f9ca": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f9ca/u1f9ca_u1f6e3-ufe0f.png",
+        "alt": "ice_cube-motorway",
+        "leftEmoji": "🧊",
+        "leftEmojiCodepoint": "1f9ca",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 371
+      }
+    ],
+    "1f9c3": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f9c3.png",
+        "alt": "motorway-beverage_box",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🧃",
+        "rightEmojiCodepoint": "1f9c3",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 374
+      }
+    ],
+    "1f37d-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f37d-ufe0f/u1f37d-ufe0f_u1f6e3-ufe0f.png",
+        "alt": "knife_fork_plate-motorway",
+        "leftEmoji": "🍽️",
+        "leftEmojiCodepoint": "1f37d-fe0f",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 388
+      }
+    ],
+    "1f6d1": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f6d1.png",
+        "alt": "motorway-octagonal_sign",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🛑",
+        "rightEmojiCodepoint": "1f6d1",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 389
+      }
+    ],
+    "26fd": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f6e3-ufe0f/u1f6e3-ufe0f_u26fd.png",
+        "alt": "motorway-fuelpump",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "⛽",
+        "rightEmojiCodepoint": "26fd",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 392
+      }
+    ],
+    "1f6f8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240214/u1f6f8/u1f6f8_u1f6e3-ufe0f.png",
+        "alt": "flying_saucer-motorway",
+        "leftEmoji": "🛸",
+        "leftEmojiCodepoint": "1f6f8",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20240214",
+        "isLatest": true,
+        "gBoardOrder": 411
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f6f8/u1f6f8_u1f6e3-ufe0f.png",
+        "alt": "flying_saucer-motorway",
+        "leftEmoji": "🛸",
+        "leftEmojiCodepoint": "1f6f8",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20230803",
+        "isLatest": false,
+        "gBoardOrder": 411
+      }
+    ],
+    "1f3a0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f3a0.png",
+        "alt": "motorway-carousel_horse",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🎠",
+        "rightEmojiCodepoint": "1f3a0",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 416
+      }
+    ],
+    "1f381": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f381/u1f381_u1f6e3-ufe0f.png",
+        "alt": "gift-motorway",
+        "leftEmoji": "🎁",
+        "leftEmojiCodepoint": "1f381",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 432
+      }
+    ],
+    "1f386": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f386/u1f386_u1f6e3-ufe0f.png",
+        "alt": "fireworks-motorway",
+        "leftEmoji": "🎆",
+        "leftEmojiCodepoint": "1f386",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 433
+      }
+    ],
+    "1f947": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f947/u1f947_u1f6e3-ufe0f.png",
+        "alt": "first_place_medal-motorway",
+        "leftEmoji": "🥇",
+        "leftEmojiCodepoint": "1f947",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 437
+      }
+    ],
+    "1f948": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f948/u1f948_u1f6e3-ufe0f.png",
+        "alt": "second_place_medal-motorway",
+        "leftEmoji": "🥈",
+        "leftEmojiCodepoint": "1f948",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 438
+      }
+    ],
+    "1f949": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f949/u1f949_u1f6e3-ufe0f.png",
+        "alt": "third_place_medal-motorway",
+        "leftEmoji": "🥉",
+        "leftEmojiCodepoint": "1f949",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 439
+      }
+    ],
+    "1f3c0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f3c0.png",
+        "alt": "motorway-basketball",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🏀",
+        "rightEmojiCodepoint": "1f3c0",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 446
+      }
+    ],
+    "1f945": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f945/u1f945_u1f6e3-ufe0f.png",
+        "alt": "goal_net-motorway",
+        "leftEmoji": "🥅",
+        "leftEmojiCodepoint": "1f945",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 451
+      }
+    ],
+    "1f3af": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f3af.png",
+        "alt": "motorway-dart",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🎯",
+        "rightEmojiCodepoint": "1f3af",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 465
+      }
+    ],
+    "1f3a3": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f3a3.png",
+        "alt": "motorway-fishing_pole_and_fish",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🎣",
+        "rightEmojiCodepoint": "1f3a3",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 470
+      }
+    ],
+    "1f3b1": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f3b1.png",
+        "alt": "motorway-8ball",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🎱",
+        "rightEmojiCodepoint": "1f3b1",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 475
+      }
+    ],
+    "1f3b3": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f3b3/u1f3b3_u1f6e3-ufe0f.png",
+        "alt": "bowling-motorway",
+        "leftEmoji": "🎳",
+        "leftEmojiCodepoint": "1f3b3",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 477
+      }
+    ],
+    "1f9e9": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9e9/u1f9e9_u1f6e3-ufe0f.png",
+        "alt": "jigsaw-motorway",
+        "leftEmoji": "🧩",
+        "leftEmojiCodepoint": "1f9e9",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 480
+      }
+    ],
+    "1f3ae": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f3ae.png",
+        "alt": "motorway-video_game",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🎮",
+        "rightEmojiCodepoint": "1f3ae",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 481
+      }
+    ],
+    "1f3b0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f3b0/u1f3b0_u1f6e3-ufe0f.png",
+        "alt": "slot_machine-motorway",
+        "leftEmoji": "🎰",
+        "leftEmojiCodepoint": "1f3b0",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 483
+      }
+    ],
+    "1f0cf": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f0cf.png",
+        "alt": "motorway-black_joker",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🃏",
+        "rightEmojiCodepoint": "1f0cf",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 486
+      }
+    ],
+    "1f5bc-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f5bc-ufe0f/u1f5bc-ufe0f_u1f6e3-ufe0f.png",
+        "alt": "frame_with_picture-motorway",
+        "leftEmoji": "🖼️",
+        "leftEmojiCodepoint": "1f5bc-fe0f",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 488
+      }
+    ],
+    "1f58d-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f58d-ufe0f/u1f58d-ufe0f_u1f6e3-ufe0f.png",
+        "alt": "lower_left_crayon-motorway",
+        "leftEmoji": "🖍️",
+        "leftEmojiCodepoint": "1f58d-fe0f",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 491
+      }
+    ],
+    "1f3a4": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f3a4.png",
+        "alt": "motorway-microphone",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🎤",
+        "rightEmojiCodepoint": "1f3a4",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 506
+      }
+    ],
+    "1f3a7": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f3a7.png",
+        "alt": "motorway-headphones",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🎧",
+        "rightEmojiCodepoint": "1f3a7",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 507
+      }
+    ],
+    "1f3ac": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f3ac.png",
+        "alt": "motorway-clapper",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🎬",
+        "rightEmojiCodepoint": "1f3ac",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 515
+      }
+    ],
+    "1f3ad": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f3ad.png",
+        "alt": "motorway-performing_arts",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🎭",
+        "rightEmojiCodepoint": "1f3ad",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 516
+      }
+    ],
+    "1f39f-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f39f-ufe0f/u1f39f-ufe0f_u1f6e3-ufe0f.png",
+        "alt": "admission_tickets-motorway",
+        "leftEmoji": "🎟️",
+        "leftEmojiCodepoint": "1f39f-fe0f",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 517
+      }
+    ],
+    "1f4df": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f4df/u1f4df_u1f6e3-ufe0f.png",
+        "alt": "pager-motorway",
+        "leftEmoji": "📟",
+        "leftEmojiCodepoint": "1f4df",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 520
+      }
+    ],
+    "1f4e0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240610/u1f4e0/u1f4e0_u1f6e3-ufe0f.png",
+        "alt": "fax-motorway",
+        "leftEmoji": "📠",
+        "leftEmojiCodepoint": "1f4e0",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20240610",
+        "isLatest": true,
+        "gBoardOrder": 521
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f4e0/u1f4e0_u1f6e3-ufe0f.png",
+        "alt": "fax-motorway",
+        "leftEmoji": "📠",
+        "leftEmojiCodepoint": "1f4e0",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20240206",
+        "isLatest": false,
+        "gBoardOrder": 521
+      }
+    ],
+    "1f4be": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f4be.png",
+        "alt": "motorway-floppy_disk",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "💾",
+        "rightEmojiCodepoint": "1f4be",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 525
+      }
+    ],
+    "1f4bb": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f4bb.png",
+        "alt": "motorway-computer",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "💻",
+        "rightEmojiCodepoint": "1f4bb",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 527
+      }
+    ],
+    "1f4a1": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f4a1/u1f4a1_u1f6e3-ufe0f.png",
+        "alt": "bulb-motorway",
+        "leftEmoji": "💡",
+        "leftEmojiCodepoint": "1f4a1",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 533
+      }
+    ],
+    "1f4f0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f4f0.png",
+        "alt": "motorway-newspaper",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "📰",
+        "rightEmojiCodepoint": "1f4f0",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 577
+      }
+    ],
+    "1f52e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f52e/u1f52e_u1f6e3-ufe0f.png",
+        "alt": "crystal_ball-motorway",
+        "leftEmoji": "🔮",
+        "leftEmojiCodepoint": "1f52e",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 588
+      }
+    ],
+    "1f3fa": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f3fa/u1f3fa_u1f6e3-ufe0f.png",
+        "alt": "amphora-motorway",
+        "leftEmoji": "🏺",
+        "leftEmojiCodepoint": "1f3fa",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 590
+      }
+    ],
+    "1faa4": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1faa4/u1faa4_u1f6e3-ufe0f.png",
+        "alt": "mouse_trap-motorway",
+        "leftEmoji": "🪤",
+        "leftEmojiCodepoint": "1faa4",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 591
+      }
+    ],
+    "1f3b6": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f3b6.png",
+        "alt": "motorway-notes",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🎶",
+        "rightEmojiCodepoint": "1f3b6",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 614
+      }
+    ],
+    "26a0-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u26a0-ufe0f/u26a0-ufe0f_u1f6e3-ufe0f.png",
+        "alt": "warning-motorway",
+        "leftEmoji": "⚠️",
+        "leftEmojiCodepoint": "26a0-fe0f",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 617
+      }
+    ],
+    "1f5ef-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f5ef-ufe0f/u1f5ef-ufe0f_u1f6e3-ufe0f.png",
+        "alt": "right_anger_bubble-motorway",
+        "leftEmoji": "🗯️",
+        "leftEmojiCodepoint": "1f5ef-fe0f",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 641
+      }
+    ],
+    "1f4ac": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f4ac.png",
+        "alt": "motorway-speech_balloon",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "💬",
+        "rightEmojiCodepoint": "1f4ac",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 642
+      }
+    ],
+    "1f643": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f643/u1f643_u1f6e3-ufe0f.png",
+        "alt": "upside_down_face-motorway",
+        "leftEmoji": "🙃",
+        "leftEmojiCodepoint": "1f643",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 19
+      }
+    ],
+    "1f525": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f525/u1f525_u1f6e3-ufe0f.png",
+        "alt": "fire-motorway",
+        "leftEmoji": "🔥",
+        "leftEmojiCodepoint": "1f525",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 118
+      }
+    ],
+    "1f463": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f463/u1f463_u1f6e3-ufe0f.png",
+        "alt": "footprints-motorway",
+        "leftEmoji": "👣",
+        "leftEmojiCodepoint": "1f463",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 157
+      }
+    ],
+    "1f960": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f960/u1f960_u1f6e3-ufe0f.png",
+        "alt": "fortune_cookie-motorway",
+        "leftEmoji": "🥠",
+        "leftEmojiCodepoint": "1f960",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 353
+      }
+    ],
+    "1f6a8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6a8/u1f6a8_u1f6e3-ufe0f.png",
+        "alt": "rotating_light-motorway",
+        "leftEmoji": "🚨",
+        "leftEmojiCodepoint": "1f6a8",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 391
+      }
+    ],
+    "1f69a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f69a/u1f69a_u1f6e3-ufe0f.png",
+        "alt": "truck-motorway",
+        "leftEmoji": "🚚",
+        "leftEmojiCodepoint": "1f69a",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 401
+      }
+    ],
+    "1f973": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241023/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f973.png",
+        "alt": "motorway-partying_face",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🥳",
+        "rightEmojiCodepoint": "1f973",
+        "date": "20241023",
+        "isLatest": true,
+        "gBoardOrder": 18
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f973.png",
+        "alt": "motorway-partying_face",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🥳",
+        "rightEmojiCodepoint": "1f973",
+        "date": "20240530",
+        "isLatest": false,
+        "gBoardOrder": 18
+      }
+    ],
+    "1f971": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241023/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f971.png",
+        "alt": "motorway-yawning_face",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🥱",
+        "rightEmojiCodepoint": "1f971",
+        "date": "20241023",
+        "isLatest": true,
+        "gBoardOrder": 42
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f971.png",
+        "alt": "motorway-yawning_face",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🥱",
+        "rightEmojiCodepoint": "1f971",
+        "date": "20240530",
+        "isLatest": false,
+        "gBoardOrder": 42
+      }
+    ],
+    "1f9d0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241023/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f9d0.png",
+        "alt": "motorway-face_with_monocle",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🧐",
+        "rightEmojiCodepoint": "1f9d0",
+        "date": "20241023",
+        "isLatest": true,
+        "gBoardOrder": 47
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f9d0.png",
+        "alt": "motorway-face_with_monocle",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🧐",
+        "rightEmojiCodepoint": "1f9d0",
+        "date": "20240530",
+        "isLatest": false,
+        "gBoardOrder": 47
+      }
+    ],
+    "2639-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241023/u1f6e3-ufe0f/u1f6e3-ufe0f_u2639-ufe0f.png",
+        "alt": "motorway-white_frowning_face",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "☹️",
+        "rightEmojiCodepoint": "2639-fe0f",
+        "date": "20241023",
+        "isLatest": true,
+        "gBoardOrder": 59
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u2639-ufe0f.png",
+        "alt": "motorway-white_frowning_face",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "☹️",
+        "rightEmojiCodepoint": "2639-fe0f",
+        "date": "20240530",
+        "isLatest": false,
+        "gBoardOrder": 59
+      }
+    ],
+    "1f976": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f976.png",
+        "alt": "motorway-cold_face",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🥶",
+        "rightEmojiCodepoint": "1f976",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 94
+      }
+    ],
+    "1f4a9": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f4a9.png",
+        "alt": "motorway-hankey",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "💩",
+        "rightEmojiCodepoint": "1f4a9",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 109
+      }
+    ],
+    "2b50": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u2b50.png",
+        "alt": "motorway-star",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "⭐",
+        "rightEmojiCodepoint": "2b50",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 120
+      }
+    ],
+    "1f494": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f494.png",
+        "alt": "motorway-broken_heart",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "💔",
+        "rightEmojiCodepoint": "1f494",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 151
+      }
+    ],
+    "1f3cd-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f3cd-ufe0f.png",
+        "alt": "motorway-racing_motorcycle",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🏍️",
+        "rightEmojiCodepoint": "1f3cd-fe0f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 399
+      }
+    ],
+    "1f3ce-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f3ce-ufe0f.png",
+        "alt": "motorway-racing_car",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🏎️",
+        "rightEmojiCodepoint": "1f3ce-fe0f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 404
+      }
+    ],
+    "2708-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u2708-ufe0f.png",
+        "alt": "motorway-airplane",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "✈️",
+        "rightEmojiCodepoint": "2708-fe0f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 413
+      }
+    ],
+    "1f5ff": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f5ff.png",
+        "alt": "motorway-moyai",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🗿",
+        "rightEmojiCodepoint": "1f5ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 419
+      }
+    ],
+    "1f3c6": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f3c6.png",
+        "alt": "motorway-trophy",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🏆",
+        "rightEmojiCodepoint": "1f3c6",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 442
+      }
+    ],
+    "1f3d0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f3d0.png",
+        "alt": "motorway-volleyball",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🏐",
+        "rightEmojiCodepoint": "1f3d0",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 447
+      }
+    ],
+    "1f3c8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f3c8.png",
+        "alt": "motorway-football",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🏈",
+        "rightEmojiCodepoint": "1f3c8",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 448
+      }
+    ],
+    "1f3c9": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f3c9.png",
+        "alt": "motorway-rugby_football",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🏉",
+        "rightEmojiCodepoint": "1f3c9",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 449
+      }
+    ],
+    "1f3cf": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f3cf.png",
+        "alt": "motorway-cricket_bat_and_ball",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🏏",
+        "rightEmojiCodepoint": "1f3cf",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 454
+      }
+    ],
+    "1f3d1": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f3d1.png",
+        "alt": "motorway-field_hockey_stick_and_ball",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🏑",
+        "rightEmojiCodepoint": "1f3d1",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 455
+      }
+    ],
+    "1f3d2": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f3d2.png",
+        "alt": "motorway-ice_hockey_stick_and_puck",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🏒",
+        "rightEmojiCodepoint": "1f3d2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 456
+      }
+    ],
+    "1f3d3": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f3d3.png",
+        "alt": "motorway-table_tennis_paddle_and_ball",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🏓",
+        "rightEmojiCodepoint": "1f3d3",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 476
+      }
+    ],
+    "1f004": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f004.png",
+        "alt": "motorway-mahjong",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🀄",
+        "rightEmojiCodepoint": "1f004",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 485
+      }
+    ],
+    "1f4f7": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f4f7.png",
+        "alt": "motorway-camera",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "📷",
+        "rightEmojiCodepoint": "1f4f7",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 487
+      }
+    ],
+    "1f4fa": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f4fa.png",
+        "alt": "motorway-tv",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "📺",
+        "rightEmojiCodepoint": "1f4fa",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 512
+      }
+    ],
+    "1f4bf": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f4bf.png",
+        "alt": "motorway-cd",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "💿",
+        "rightEmojiCodepoint": "1f4bf",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 526
+      }
+    ],
+    "1f6d2": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f6d2.png",
+        "alt": "motorway-shopping_trolley",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🛒",
+        "rightEmojiCodepoint": "1f6d2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 531
+      }
+    ],
+    "1f9f2": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f9f2.png",
+        "alt": "motorway-magnet",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🧲",
+        "rightEmojiCodepoint": "1f9f2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 560
+      }
+    ],
+    "1f4cf": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f4cf.png",
+        "alt": "motorway-straight_ruler",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "📏",
+        "rightEmojiCodepoint": "1f4cf",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 566
+      }
+    ],
+    "2712-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u2712-ufe0f.png",
+        "alt": "motorway-black_nib",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "✒️",
+        "rightEmojiCodepoint": "2712-fe0f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 569
+      }
+    ],
+    "270f-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u270f-ufe0f.png",
+        "alt": "motorway-pencil2",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "✏️",
+        "rightEmojiCodepoint": "270f-fe0f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 570
+      }
+    ],
+    "1f4ca": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f4ca.png",
+        "alt": "motorway-bar_chart",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "📊",
+        "rightEmojiCodepoint": "1f4ca",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 573
+      }
+    ],
+    "1f4c8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f4c8.png",
+        "alt": "motorway-chart_with_upwards_trend",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "📈",
+        "rightEmojiCodepoint": "1f4c8",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 574
+      }
+    ],
+    "1f4c9": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f4c9.png",
+        "alt": "motorway-chart_with_downwards_trend",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "📉",
+        "rightEmojiCodepoint": "1f4c9",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 575
+      }
+    ],
+    "1f514": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f514.png",
+        "alt": "motorway-bell",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🔔",
+        "rightEmojiCodepoint": "1f514",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 585
+      }
+    ],
+    "264a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u264a.png",
+        "alt": "motorway-gemini",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "♊",
+        "rightEmojiCodepoint": "264a",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 596
+      }
+    ],
+    "264b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u264b.png",
+        "alt": "motorway-cancer",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "♋",
+        "rightEmojiCodepoint": "264b",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 597
+      }
+    ],
+    "264c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u264c.png",
+        "alt": "motorway-leo",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "♌",
+        "rightEmojiCodepoint": "264c",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 598
+      }
+    ],
+    "264d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u264d.png",
+        "alt": "motorway-virgo",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "♍",
+        "rightEmojiCodepoint": "264d",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 599
+      }
+    ],
+    "264e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u264e.png",
+        "alt": "motorway-libra",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "♎",
+        "rightEmojiCodepoint": "264e",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 600
+      }
+    ],
+    "264f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u264f.png",
+        "alt": "motorway-scorpius",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "♏",
+        "rightEmojiCodepoint": "264f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 601
+      }
+    ],
+    "2049-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u2049-ufe0f.png",
+        "alt": "motorway-interrobang",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "⁉️",
+        "rightEmojiCodepoint": "2049-fe0f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 609
+      }
+    ],
+    "1f198": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f198.png",
+        "alt": "motorway-sos",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🆘",
+        "rightEmojiCodepoint": "1f198",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 610
+      }
+    ],
+    "1f4f4": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f4f4.png",
+        "alt": "motorway-mobile_phone_off",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "📴",
+        "rightEmojiCodepoint": "1f4f4",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 612
+      }
+    ],
+    "267b-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u267b-ufe0f.png",
+        "alt": "motorway-recycle",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "♻️",
+        "rightEmojiCodepoint": "267b-fe0f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 618
+      }
+    ],
+    "1f195": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250501/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f195.png",
+        "alt": "motorway-new",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🆕",
+        "rightEmojiCodepoint": "1f195",
+        "date": "20250501",
+        "isLatest": true,
+        "gBoardOrder": 620
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f195.png",
+        "alt": "motorway-new",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🆕",
+        "rightEmojiCodepoint": "1f195",
+        "date": "20240530",
+        "isLatest": false,
+        "gBoardOrder": 620
+      }
+    ],
+    "1f193": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250501/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f193.png",
+        "alt": "motorway-free",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🆓",
+        "rightEmojiCodepoint": "1f193",
+        "date": "20250501",
+        "isLatest": true,
+        "gBoardOrder": 621
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f193.png",
+        "alt": "motorway-free",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🆓",
+        "rightEmojiCodepoint": "1f193",
+        "date": "20240530",
+        "isLatest": false,
+        "gBoardOrder": 621
+      }
+    ],
+    "1f199": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f199.png",
+        "alt": "motorway-up",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🆙",
+        "rightEmojiCodepoint": "1f199",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 622
+      }
+    ],
+    "1f197": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f197.png",
+        "alt": "motorway-ok",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🆗",
+        "rightEmojiCodepoint": "1f197",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 623
+      }
+    ],
+    "1f192": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250501/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f192.png",
+        "alt": "motorway-cool",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🆒",
+        "rightEmojiCodepoint": "1f192",
+        "date": "20250501",
+        "isLatest": true,
+        "gBoardOrder": 624
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f192.png",
+        "alt": "motorway-cool",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🆒",
+        "rightEmojiCodepoint": "1f192",
+        "date": "20240530",
+        "isLatest": false,
+        "gBoardOrder": 624
+      }
+    ],
+    "262f-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_u262f-ufe0f.png",
+        "alt": "motorway-yin_yang",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "☯️",
+        "rightEmojiCodepoint": "262f-fe0f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 628
+      }
+    ],
+    "a9-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_ua9-ufe0f.png",
+        "alt": "motorway-copyright",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "©️",
+        "rightEmojiCodepoint": "a9-fe0f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 637
+      }
+    ],
+    "ae-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e3-ufe0f/u1f6e3-ufe0f_uae-ufe0f.png",
+        "alt": "motorway-registered",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "®️",
+        "rightEmojiCodepoint": "ae-fe0f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 638
+      }
+    ],
+    "1f39e-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f39e-ufe0f/u1f39e-ufe0f_u1f6e3-ufe0f.png",
+        "alt": "film_frames-motorway",
+        "leftEmoji": "🎞️",
+        "leftEmojiCodepoint": "1f39e-fe0f",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 514
+      }
+    ],
+    "1f455": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f455/u1f455_u1f6e3-ufe0f.png",
+        "alt": "shirt-motorway",
+        "leftEmoji": "👕",
+        "leftEmojiCodepoint": "1f455",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 542
+      }
+    ],
+    "2702-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u2702-ufe0f/u2702-ufe0f_u1f6e3-ufe0f.png",
+        "alt": "scissors-motorway",
+        "leftEmoji": "✂️",
+        "leftEmojiCodepoint": "2702-fe0f",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 576
+      }
+    ],
+    "231a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u231a/u231a_u1f6e3-ufe0f.png",
+        "alt": "watch-motorway",
+        "leftEmoji": "⌚",
+        "leftEmojiCodepoint": "231a",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 580
+      }
+    ],
+    "2622-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u2622-ufe0f/u2622-ufe0f_u1f6e3-ufe0f.png",
+        "alt": "radioactive_sign-motorway",
+        "leftEmoji": "☢️",
+        "leftEmojiCodepoint": "2622-fe0f",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 615
+      }
+    ],
+    "1f49d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f49d/u1f49d_u1f6e3-ufe0f.png",
+        "alt": "gift_heart-motorway",
+        "leftEmoji": "💝",
+        "leftEmojiCodepoint": "1f49d",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 141
+      }
+    ],
+    "1f496": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f496/u1f496_u1f6e3-ufe0f.png",
+        "alt": "sparkling_heart-motorway",
+        "leftEmoji": "💖",
+        "leftEmojiCodepoint": "1f496",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 142
+      }
+    ],
+    "1f5e3-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f5e3-ufe0f/u1f5e3-ufe0f_u1f6e3-ufe0f.png",
+        "alt": "speaking_head_in_silhouette-motorway",
+        "leftEmoji": "🗣️",
+        "leftEmojiCodepoint": "1f5e3-fe0f",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 156
+      }
+    ],
+    "1f440": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f440/u1f440_u1f6e3-ufe0f.png",
+        "alt": "eyes-motorway",
+        "leftEmoji": "👀",
+        "leftEmojiCodepoint": "1f440",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 166
+      }
+    ],
+    "1f33a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f33a/u1f33a_u1f6e3-ufe0f.png",
+        "alt": "hibiscus-motorway",
+        "leftEmoji": "🌺",
+        "leftEmojiCodepoint": "1f33a",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 176
+      }
+    ],
+    "1f32c-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f32c-ufe0f/u1f32c-ufe0f_u1f6e3-ufe0f.png",
+        "alt": "wind_blowing_face-motorway",
+        "leftEmoji": "🌬️",
+        "leftEmojiCodepoint": "1f32c-fe0f",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 205
+      }
+    ],
+    "1f300": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f300/u1f300_u1f6e3-ufe0f.png",
+        "alt": "cyclone-motorway",
+        "leftEmoji": "🌀",
+        "leftEmojiCodepoint": "1f300",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 206
+      }
+    ],
+    "1f99d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f99d/u1f99d_u1f6e3-ufe0f.png",
+        "alt": "raccoon-motorway",
+        "leftEmoji": "🦝",
+        "leftEmojiCodepoint": "1f99d",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 237
+      }
+    ],
+    "1f409": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f409/u1f409_u1f6e3-ufe0f.png",
+        "alt": "dragon-motorway",
+        "leftEmoji": "🐉",
+        "leftEmojiCodepoint": "1f409",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 241
+      }
+    ],
+    "1f600": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f600.png",
+        "alt": "motorway-grinning",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😀",
+        "rightEmojiCodepoint": "1f600",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 1
+      }
+    ],
+    "1f603": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f603.png",
+        "alt": "motorway-smiley",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😃",
+        "rightEmojiCodepoint": "1f603",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 2
+      }
+    ],
+    "1f604": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f604.png",
+        "alt": "motorway-smile",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😄",
+        "rightEmojiCodepoint": "1f604",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 3
+      }
+    ],
+    "1f601": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f601.png",
+        "alt": "motorway-grin",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😁",
+        "rightEmojiCodepoint": "1f601",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 4
+      }
+    ],
+    "1f606": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f606.png",
+        "alt": "motorway-laughing",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😆",
+        "rightEmojiCodepoint": "1f606",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 5
+      }
+    ],
+    "1f605": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f605.png",
+        "alt": "motorway-sweat_smile",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😅",
+        "rightEmojiCodepoint": "1f605",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 6
+      }
+    ],
+    "1f602": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f602.png",
+        "alt": "motorway-joy",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😂",
+        "rightEmojiCodepoint": "1f602",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 7
+      }
+    ],
+    "1f923": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f923.png",
+        "alt": "motorway-rolling_on_the_floor_laughing",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🤣",
+        "rightEmojiCodepoint": "1f923",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 8
+      }
+    ],
+    "1f62d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f62d.png",
+        "alt": "motorway-sob",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😭",
+        "rightEmojiCodepoint": "1f62d",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 9
+      }
+    ],
+    "1f609": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f609.png",
+        "alt": "motorway-wink",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😉",
+        "rightEmojiCodepoint": "1f609",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 10
+      }
+    ],
+    "1f617": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f617.png",
+        "alt": "motorway-kissing",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😗",
+        "rightEmojiCodepoint": "1f617",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 11
+      }
+    ],
+    "1f619": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f619.png",
+        "alt": "motorway-kissing_smiling_eyes",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😙",
+        "rightEmojiCodepoint": "1f619",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 12
+      }
+    ],
+    "1f61a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f61a.png",
+        "alt": "motorway-kissing_closed_eyes",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😚",
+        "rightEmojiCodepoint": "1f61a",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 13
+      }
+    ],
+    "1f929": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f929.png",
+        "alt": "motorway-star_struck",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🤩",
+        "rightEmojiCodepoint": "1f929",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 17
+      }
+    ],
+    "1f642": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f642.png",
+        "alt": "motorway-slightly_smiling_face",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🙂",
+        "rightEmojiCodepoint": "1f642",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 20
+      }
+    ],
+    "1f972": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f972.png",
+        "alt": "motorway-smiling_face_with_tear",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🥲",
+        "rightEmojiCodepoint": "1f972",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 21
+      }
+    ],
+    "1f979": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f979.png",
+        "alt": "motorway-face_holding_back_tears",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🥹",
+        "rightEmojiCodepoint": "1f979",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 22
+      }
+    ],
+    "1f60b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f60b.png",
+        "alt": "motorway-yum",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😋",
+        "rightEmojiCodepoint": "1f60b",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 23
+      }
+    ],
+    "1f61b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f61b.png",
+        "alt": "motorway-stuck_out_tongue",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😛",
+        "rightEmojiCodepoint": "1f61b",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 24
+      }
+    ],
+    "1f61d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f61d.png",
+        "alt": "motorway-stuck_out_tongue_closed_eyes",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😝",
+        "rightEmojiCodepoint": "1f61d",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 25
+      }
+    ],
+    "1f61c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f61c.png",
+        "alt": "motorway-stuck_out_tongue_winking_eye",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😜",
+        "rightEmojiCodepoint": "1f61c",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 26
+      }
+    ],
+    "1f92a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f92a.png",
+        "alt": "motorway-zany_face",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🤪",
+        "rightEmojiCodepoint": "1f92a",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 27
+      }
+    ],
+    "1f607": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f607.png",
+        "alt": "motorway-innocent",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😇",
+        "rightEmojiCodepoint": "1f607",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 28
+      }
+    ],
+    "1f60a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f60a.png",
+        "alt": "motorway-blush",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😊",
+        "rightEmojiCodepoint": "1f60a",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 29
+      }
+    ],
+    "263a-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u263a-ufe0f.png",
+        "alt": "motorway-relaxed",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "☺️",
+        "rightEmojiCodepoint": "263a-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 30
+      }
+    ],
+    "1f60f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f60f.png",
+        "alt": "motorway-smirk",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😏",
+        "rightEmojiCodepoint": "1f60f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 31
+      }
+    ],
+    "1f60c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f60c.png",
+        "alt": "motorway-relieved",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😌",
+        "rightEmojiCodepoint": "1f60c",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 32
+      }
+    ],
+    "1f614": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f614.png",
+        "alt": "motorway-pensive",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😔",
+        "rightEmojiCodepoint": "1f614",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 33
+      }
+    ],
+    "1f611": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f611.png",
+        "alt": "motorway-expressionless",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😑",
+        "rightEmojiCodepoint": "1f611",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 34
+      }
+    ],
+    "1f610": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f610.png",
+        "alt": "motorway-neutral_face",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😐",
+        "rightEmojiCodepoint": "1f610",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 35
+      }
+    ],
+    "1f636": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f636.png",
+        "alt": "motorway-no_mouth",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😶",
+        "rightEmojiCodepoint": "1f636",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 36
+      }
+    ],
+    "1fae1": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1fae1.png",
+        "alt": "motorway-saluting_face",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🫡",
+        "rightEmojiCodepoint": "1fae1",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 37
+      }
+    ],
+    "1f914": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f914.png",
+        "alt": "motorway-thinking_face",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🤔",
+        "rightEmojiCodepoint": "1f914",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 38
+      }
+    ],
+    "1f92b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f92b.png",
+        "alt": "motorway-shushing_face",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🤫",
+        "rightEmojiCodepoint": "1f92b",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 39
+      }
+    ],
+    "1fae2": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1fae2.png",
+        "alt": "motorway-face_with_open_eyes_and_hand_over_mouth",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🫢",
+        "rightEmojiCodepoint": "1fae2",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 40
+      }
+    ],
+    "1f92d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f92d.png",
+        "alt": "motorway-face_with_hand_over_mouth",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🤭",
+        "rightEmojiCodepoint": "1f92d",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 41
+      }
+    ],
+    "1f917": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f917.png",
+        "alt": "motorway-hugging_face",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🤗",
+        "rightEmojiCodepoint": "1f917",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 43
+      }
+    ],
+    "1fae3": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1fae3.png",
+        "alt": "motorway-face_with_peeking_eye",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🫣",
+        "rightEmojiCodepoint": "1fae3",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 44
+      }
+    ],
+    "1f631": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f631.png",
+        "alt": "motorway-scream",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😱",
+        "rightEmojiCodepoint": "1f631",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 45
+      }
+    ],
+    "1f928": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f928.png",
+        "alt": "motorway-face_with_raised_eyebrow",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🤨",
+        "rightEmojiCodepoint": "1f928",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 46
+      }
+    ],
+    "1f612": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f612.png",
+        "alt": "motorway-unamused",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😒",
+        "rightEmojiCodepoint": "1f612",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 48
+      }
+    ],
+    "1f644": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f644.png",
+        "alt": "motorway-face_with_rolling_eyes",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🙄",
+        "rightEmojiCodepoint": "1f644",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 49
+      }
+    ],
+    "1f62e-200d-1f4a8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f62e-u200d-u1f4a8.png",
+        "alt": "motorway-face_exhaling",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😮‍💨",
+        "rightEmojiCodepoint": "1f62e-200d-1f4a8",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 50
+      }
+    ],
+    "1f624": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f624.png",
+        "alt": "motorway-triumph",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😤",
+        "rightEmojiCodepoint": "1f624",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 51
+      }
+    ],
+    "1f620": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f620.png",
+        "alt": "motorway-angry",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😠",
+        "rightEmojiCodepoint": "1f620",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 52
+      }
+    ],
+    "1f621": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f621.png",
+        "alt": "motorway-rage",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😡",
+        "rightEmojiCodepoint": "1f621",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 53
+      }
+    ],
+    "1f92c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f92c.png",
+        "alt": "motorway-face_with_symbols_on_mouth",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🤬",
+        "rightEmojiCodepoint": "1f92c",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 54
+      }
+    ],
+    "1f61f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f61f.png",
+        "alt": "motorway-worried",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😟",
+        "rightEmojiCodepoint": "1f61f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 56
+      }
+    ],
+    "1f625": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f625.png",
+        "alt": "motorway-disappointed_relieved",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😥",
+        "rightEmojiCodepoint": "1f625",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 57
+      }
+    ],
+    "1f622": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f622.png",
+        "alt": "motorway-cry",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😢",
+        "rightEmojiCodepoint": "1f622",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 58
+      }
+    ],
+    "1f641": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f641.png",
+        "alt": "motorway-slightly_frowning_face",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🙁",
+        "rightEmojiCodepoint": "1f641",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 60
+      }
+    ],
+    "1fae4": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1fae4.png",
+        "alt": "motorway-face_with_diagonal_mouth",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🫤",
+        "rightEmojiCodepoint": "1fae4",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 61
+      }
+    ],
+    "1f615": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f615.png",
+        "alt": "motorway-confused",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😕",
+        "rightEmojiCodepoint": "1f615",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 62
+      }
+    ],
+    "1f910": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f910.png",
+        "alt": "motorway-zipper_mouth_face",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🤐",
+        "rightEmojiCodepoint": "1f910",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 63
+      }
+    ],
+    "1f630": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f630.png",
+        "alt": "motorway-cold_sweat",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😰",
+        "rightEmojiCodepoint": "1f630",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 64
+      }
+    ],
+    "1f628": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f628.png",
+        "alt": "motorway-fearful",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😨",
+        "rightEmojiCodepoint": "1f628",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 65
+      }
+    ],
+    "1f627": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f627.png",
+        "alt": "motorway-anguished",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😧",
+        "rightEmojiCodepoint": "1f627",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 66
+      }
+    ],
+    "1f626": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f626.png",
+        "alt": "motorway-frowning",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😦",
+        "rightEmojiCodepoint": "1f626",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 67
+      }
+    ],
+    "1f62e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f62e.png",
+        "alt": "motorway-open_mouth",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😮",
+        "rightEmojiCodepoint": "1f62e",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 68
+      }
+    ],
+    "1f62f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f62f.png",
+        "alt": "motorway-hushed",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😯",
+        "rightEmojiCodepoint": "1f62f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 69
+      }
+    ],
+    "1f632": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f632.png",
+        "alt": "motorway-astonished",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😲",
+        "rightEmojiCodepoint": "1f632",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 70
+      }
+    ],
+    "1f633": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f633.png",
+        "alt": "motorway-flushed",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😳",
+        "rightEmojiCodepoint": "1f633",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 71
+      }
+    ],
+    "1f92f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f92f.png",
+        "alt": "motorway-exploding_head",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🤯",
+        "rightEmojiCodepoint": "1f92f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 72
+      }
+    ],
+    "1f62c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f62c.png",
+        "alt": "motorway-grimacing",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😬",
+        "rightEmojiCodepoint": "1f62c",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 73
+      }
+    ],
+    "1f613": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f613.png",
+        "alt": "motorway-sweat",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😓",
+        "rightEmojiCodepoint": "1f613",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 74
+      }
+    ],
+    "1f61e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f61e.png",
+        "alt": "motorway-disappointed",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😞",
+        "rightEmojiCodepoint": "1f61e",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 75
+      }
+    ],
+    "1f616": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f616.png",
+        "alt": "motorway-confounded",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😖",
+        "rightEmojiCodepoint": "1f616",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 76
+      }
+    ],
+    "1f623": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f623.png",
+        "alt": "motorway-persevere",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😣",
+        "rightEmojiCodepoint": "1f623",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 77
+      }
+    ],
+    "1f629": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f629.png",
+        "alt": "motorway-weary",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😩",
+        "rightEmojiCodepoint": "1f629",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 78
+      }
+    ],
+    "1f62b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f62b.png",
+        "alt": "motorway-tired_face",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😫",
+        "rightEmojiCodepoint": "1f62b",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 79
+      }
+    ],
+    "1f635": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f635.png",
+        "alt": "motorway-dizzy_face",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😵",
+        "rightEmojiCodepoint": "1f635",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 80
+      }
+    ],
+    "1f634": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f634.png",
+        "alt": "motorway-sleeping",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😴",
+        "rightEmojiCodepoint": "1f634",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 82
+      }
+    ],
+    "1f62a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f62a.png",
+        "alt": "motorway-sleepy",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😪",
+        "rightEmojiCodepoint": "1f62a",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 83
+      }
+    ],
+    "1f924": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f924.png",
+        "alt": "motorway-drooling_face",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🤤",
+        "rightEmojiCodepoint": "1f924",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 84
+      }
+    ],
+    "1f636-200d-1f32b-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f636-u200d-u1f32b-ufe0f.png",
+        "alt": "motorway-face_in_clouds",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😶‍🌫️",
+        "rightEmojiCodepoint": "1f636-200d-1f32b-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 91
+      }
+    ],
+    "1f974": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f974.png",
+        "alt": "motorway-woozy_face",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🥴",
+        "rightEmojiCodepoint": "1f974",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 92
+      }
+    ],
+    "1f975": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f975.png",
+        "alt": "motorway-hot_face",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🥵",
+        "rightEmojiCodepoint": "1f975",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 93
+      }
+    ],
+    "1f922": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f922.png",
+        "alt": "motorway-nauseated_face",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🤢",
+        "rightEmojiCodepoint": "1f922",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 95
+      }
+    ],
+    "1f92e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f92e.png",
+        "alt": "motorway-face_vomiting",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🤮",
+        "rightEmojiCodepoint": "1f92e",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 96
+      }
+    ],
+    "1f927": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f927.png",
+        "alt": "motorway-sneezing_face",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🤧",
+        "rightEmojiCodepoint": "1f927",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 97
+      }
+    ],
+    "1f912": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f912.png",
+        "alt": "motorway-face_with_thermometer",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🤒",
+        "rightEmojiCodepoint": "1f912",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 98
+      }
+    ],
+    "1f915": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f915.png",
+        "alt": "motorway-face_with_head_bandage",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🤕",
+        "rightEmojiCodepoint": "1f915",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 99
+      }
+    ],
+    "1f637": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f637.png",
+        "alt": "motorway-mask",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😷",
+        "rightEmojiCodepoint": "1f637",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 100
+      }
+    ],
+    "1f920": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f920.png",
+        "alt": "motorway-face_with_cowboy_hat",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🤠",
+        "rightEmojiCodepoint": "1f920",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 101
+      }
+    ],
+    "1f911": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f911.png",
+        "alt": "motorway-money_mouth_face",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🤑",
+        "rightEmojiCodepoint": "1f911",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 102
+      }
+    ],
+    "1f913": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f913.png",
+        "alt": "motorway-nerd_face",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🤓",
+        "rightEmojiCodepoint": "1f913",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 104
+      }
+    ],
+    "1f978": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f978.png",
+        "alt": "motorway-disguised_face",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🥸",
+        "rightEmojiCodepoint": "1f978",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 105
+      }
+    ],
+    "1f925": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f925.png",
+        "alt": "motorway-lying_face",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🤥",
+        "rightEmojiCodepoint": "1f925",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 106
+      }
+    ],
+    "1f921": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f921.png",
+        "alt": "motorway-clown_face",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🤡",
+        "rightEmojiCodepoint": "1f921",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 107
+      }
+    ],
+    "1f47d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f47d.png",
+        "alt": "motorway-alien",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "👽",
+        "rightEmojiCodepoint": "1f47d",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 110
+      }
+    ],
+    "1f383": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f383.png",
+        "alt": "motorway-jack_o_lantern",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🎃",
+        "rightEmojiCodepoint": "1f383",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 115
+      }
+    ],
+    "1f608": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f608.png",
+        "alt": "motorway-smiling_imp",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "😈",
+        "rightEmojiCodepoint": "1f608",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 116
+      }
+    ],
+    "1f47f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f47f.png",
+        "alt": "motorway-imp",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "👿",
+        "rightEmojiCodepoint": "1f47f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 117
+      }
+    ],
+    "1f4ab": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f4ab.png",
+        "alt": "motorway-dizzy",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "💫",
+        "rightEmojiCodepoint": "1f4ab",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 119
+      }
+    ],
+    "2764-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u2764-ufe0f.png",
+        "alt": "motorway-heart",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "❤️",
+        "rightEmojiCodepoint": "2764-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 128
+      }
+    ],
+    "1f9e1": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f9e1.png",
+        "alt": "motorway-orange_heart",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🧡",
+        "rightEmojiCodepoint": "1f9e1",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 129
+      }
+    ],
+    "1f499": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f499.png",
+        "alt": "motorway-blue_heart",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "💙",
+        "rightEmojiCodepoint": "1f499",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 133
+      }
+    ],
+    "1f90e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f90e.png",
+        "alt": "motorway-brown_heart",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🤎",
+        "rightEmojiCodepoint": "1f90e",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 135
+      }
+    ],
+    "1f90d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f90d.png",
+        "alt": "motorway-white_heart",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🤍",
+        "rightEmojiCodepoint": "1f90d",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 138
+      }
+    ],
+    "1f9e0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f9e0.png",
+        "alt": "motorway-brain",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🧠",
+        "rightEmojiCodepoint": "1f9e0",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 158
+      }
+    ],
+    "1fae6": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1fae6.png",
+        "alt": "motorway-biting_lip",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🫦",
+        "rightEmojiCodepoint": "1fae6",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 169
+      }
+    ],
+    "1f339": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f339.png",
+        "alt": "motorway-rose",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🌹",
+        "rightEmojiCodepoint": "1f339",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 174
+      }
+    ],
+    "1f342": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f342.png",
+        "alt": "motorway-fallen_leaf",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🍂",
+        "rightEmojiCodepoint": "1f342",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 185
+      }
+    ],
+    "1f341": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f341.png",
+        "alt": "motorway-maple_leaf",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🍁",
+        "rightEmojiCodepoint": "1f341",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 186
+      }
+    ],
+    "1f33f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f33f.png",
+        "alt": "motorway-herb",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🌿",
+        "rightEmojiCodepoint": "1f33f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 190
+      }
+    ],
+    "1f343": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f343.png",
+        "alt": "motorway-leaves",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🍃",
+        "rightEmojiCodepoint": "1f343",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 191
+      }
+    ],
+    "1f340": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f340.png",
+        "alt": "motorway-four_leaf_clover",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🍀",
+        "rightEmojiCodepoint": "1f340",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 192
+      }
+    ],
+    "2601-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u2601-ufe0f.png",
+        "alt": "motorway-cloud",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "☁️",
+        "rightEmojiCodepoint": "2601-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 213
+      }
+    ],
+    "26a1": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u26a1.png",
+        "alt": "motorway-zap",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "⚡",
+        "rightEmojiCodepoint": "26a1",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 218
+      }
+    ],
+    "1f34e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f34e.png",
+        "alt": "motorway-apple",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🍎",
+        "rightEmojiCodepoint": "1f34e",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 279
+      }
+    ],
+    "1f34a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f34a.png",
+        "alt": "motorway-tangerine",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🍊",
+        "rightEmojiCodepoint": "1f34a",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 281
+      }
+    ],
+    "1f965": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f965.png",
+        "alt": "motorway-coconut",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🥥",
+        "rightEmojiCodepoint": "1f965",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 292
+      }
+    ],
+    "1fada": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1fada.png",
+        "alt": "motorway-ginger_root",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🫚",
+        "rightEmojiCodepoint": "1fada",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 295
+      }
+    ],
+    "1f966": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f966.png",
+        "alt": "motorway-broccoli",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🥦",
+        "rightEmojiCodepoint": "1f966",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 300
+      }
+    ],
+    "1fad1": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1fad1.png",
+        "alt": "motorway-bell_pepper",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🫑",
+        "rightEmojiCodepoint": "1fad1",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 304
+      }
+    ],
+    "1fad8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1fad8.png",
+        "alt": "motorway-beans",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🫘",
+        "rightEmojiCodepoint": "1fad8",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 308
+      }
+    ],
+    "1fad4": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1fad4.png",
+        "alt": "motorway-tamale",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🫔",
+        "rightEmojiCodepoint": "1fad4",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 328
+      }
+    ],
+    "1f959": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f959.png",
+        "alt": "motorway-stuffed_flatbread",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🥙",
+        "rightEmojiCodepoint": "1f959",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 331
+      }
+    ],
+    "1f958": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f958.png",
+        "alt": "motorway-shallow_pan_of_food",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🥘",
+        "rightEmojiCodepoint": "1f958",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 333
+      }
+    ],
+    "1f963": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f963.png",
+        "alt": "motorway-bowl_with_spoon",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🥣",
+        "rightEmojiCodepoint": "1f963",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 337
+      }
+    ],
+    "1f967": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f967.png",
+        "alt": "motorway-pie",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🥧",
+        "rightEmojiCodepoint": "1f967",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 357
+      }
+    ],
+    "1f36b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f36b.png",
+        "alt": "motorway-chocolate_bar",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🍫",
+        "rightEmojiCodepoint": "1f36b",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 364
+      }
+    ],
+    "1f9c8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f9c8.png",
+        "alt": "motorway-butter",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🧈",
+        "rightEmojiCodepoint": "1f9c8",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 369
+      }
+    ],
+    "1f375": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f375.png",
+        "alt": "motorway-tea",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🍵",
+        "rightEmojiCodepoint": "1f375",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 377
+      }
+    ],
+    "1f9c9": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f9c9.png",
+        "alt": "motorway-mate_drink",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🧉",
+        "rightEmojiCodepoint": "1f9c9",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 380
+      }
+    ],
+    "1fad7": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1fad7.png",
+        "alt": "motorway-pouring_liquid",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🫗",
+        "rightEmojiCodepoint": "1fad7",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 384
+      }
+    ],
+    "1f6a6": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f6a6.png",
+        "alt": "motorway-vertical_traffic_light",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🚦",
+        "rightEmojiCodepoint": "1f6a6",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 396
+      }
+    ],
+    "1f3a2": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f3a2.png",
+        "alt": "motorway-roller_coaster",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🎢",
+        "rightEmojiCodepoint": "1f3a2",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 414
+      }
+    ],
+    "1f3a1": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f3a1.png",
+        "alt": "motorway-ferris_wheel",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🎡",
+        "rightEmojiCodepoint": "1f3a1",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 415
+      }
+    ],
+    "1f3aa": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f3aa.png",
+        "alt": "motorway-circus_tent",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🎪",
+        "rightEmojiCodepoint": "1f3aa",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 417
+      }
+    ],
+    "1fa94": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1fa94.png",
+        "alt": "motorway-diya_lamp",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🪔",
+        "rightEmojiCodepoint": "1fa94",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 434
+      }
+    ],
+    "26bd": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u26bd.png",
+        "alt": "motorway-soccer",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "⚽",
+        "rightEmojiCodepoint": "26bd",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 443
+      }
+    ],
+    "26be": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u26be.png",
+        "alt": "motorway-baseball",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "⚾",
+        "rightEmojiCodepoint": "26be",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 444
+      }
+    ],
+    "1f94e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f94e.png",
+        "alt": "motorway-softball",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🥎",
+        "rightEmojiCodepoint": "1f94e",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 445
+      }
+    ],
+    "1f3be": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f3be.png",
+        "alt": "motorway-tennis",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🎾",
+        "rightEmojiCodepoint": "1f3be",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 450
+      }
+    ],
+    "26f8-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u26f8-ufe0f.png",
+        "alt": "motorway-ice_skate",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "⛸️",
+        "rightEmojiCodepoint": "26f8-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 460
+      }
+    ],
+    "265f-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u265f-ufe0f.png",
+        "alt": "motorway-chess_pawn",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "♟️",
+        "rightEmojiCodepoint": "265f-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 478
+      }
+    ],
+    "1f3b2": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f3b2.png",
+        "alt": "motorway-game_die",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🎲",
+        "rightEmojiCodepoint": "1f3b2",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 482
+      }
+    ],
+    "1f9f6": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f9f6.png",
+        "alt": "motorway-yarn",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🧶",
+        "rightEmojiCodepoint": "1f9f6",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 494
+      }
+    ],
+    "1f3b9": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f3b9.png",
+        "alt": "motorway-musical_keyboard",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🎹",
+        "rightEmojiCodepoint": "1f3b9",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 495
+      }
+    ],
+    "1f3b7": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f3b7.png",
+        "alt": "motorway-saxophone",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🎷",
+        "rightEmojiCodepoint": "1f3b7",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 496
+      }
+    ],
+    "1f3ba": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f3ba.png",
+        "alt": "motorway-trumpet",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🎺",
+        "rightEmojiCodepoint": "1f3ba",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 497
+      }
+    ],
+    "1f3b8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f3b8.png",
+        "alt": "motorway-guitar",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🎸",
+        "rightEmojiCodepoint": "1f3b8",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 498
+      }
+    ],
+    "1fa95": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1fa95.png",
+        "alt": "motorway-banjo",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🪕",
+        "rightEmojiCodepoint": "1fa95",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 499
+      }
+    ],
+    "1f3bb": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f3bb.png",
+        "alt": "motorway-violin",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🎻",
+        "rightEmojiCodepoint": "1f3bb",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 500
+      }
+    ],
+    "1fa97": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1fa97.png",
+        "alt": "motorway-accordion",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🪗",
+        "rightEmojiCodepoint": "1fa97",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 505
+      }
+    ],
+    "1f4f1": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f4f1.png",
+        "alt": "motorway-iphone",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "📱",
+        "rightEmojiCodepoint": "1f4f1",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 518
+      }
+    ],
+    "2696-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u2696-ufe0f.png",
+        "alt": "motorway-scales",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "⚖️",
+        "rightEmojiCodepoint": "2696-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 530
+      }
+    ],
+    "1f9fc": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f9fc.png",
+        "alt": "motorway-soap",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🧼",
+        "rightEmojiCodepoint": "1f9fc",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 537
+      }
+    ],
+    "1f460": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f460.png",
+        "alt": "motorway-high_heel",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "👠",
+        "rightEmojiCodepoint": "1f460",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 551
+      }
+    ],
+    "1f9ea": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f9ea.png",
+        "alt": "motorway-test_tube",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🧪",
+        "rightEmojiCodepoint": "1f9ea",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 554
+      }
+    ],
+    "1f9ec": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f9ec.png",
+        "alt": "motorway-dna",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🧬",
+        "rightEmojiCodepoint": "1f9ec",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 557
+      }
+    ],
+    "2699-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u2699-ufe0f.png",
+        "alt": "motorway-gear",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "⚙️",
+        "rightEmojiCodepoint": "2699-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 563
+      }
+    ],
+    "1f5d1-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f5d1-ufe0f.png",
+        "alt": "motorway-wastebasket",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🗑️",
+        "rightEmojiCodepoint": "1f5d1-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 567
+      }
+    ],
+    "231b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u231b.png",
+        "alt": "motorway-hourglass",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "⌛",
+        "rightEmojiCodepoint": "231b",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 582
+      }
+    ],
+    "23f3": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u23f3.png",
+        "alt": "motorway-hourglass_flowing_sand",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "⏳",
+        "rightEmojiCodepoint": "23f3",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 583
+      }
+    ],
+    "1f4e3": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f4e3.png",
+        "alt": "motorway-mega",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "📣",
+        "rightEmojiCodepoint": "1f4e3",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 586
+      }
+    ],
+    "1f9ff": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f9ff.png",
+        "alt": "motorway-nazar_amulet",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 589
+      }
+    ],
+    "26ce": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u26ce.png",
+        "alt": "motorway-ophiuchus",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "⛎",
+        "rightEmojiCodepoint": "26ce",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 606
+      }
+    ],
+    "2668-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u2668-ufe0f.png",
+        "alt": "motorway-hotsprings",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "♨️",
+        "rightEmojiCodepoint": "2668-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 611
+      }
+    ],
+    "262e-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u262e-ufe0f.png",
+        "alt": "motorway-peace_symbol",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "☮️",
+        "rightEmojiCodepoint": "262e-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 627
+      }
+    ],
+    "2660-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u2660-ufe0f.png",
+        "alt": "motorway-spades",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "♠️",
+        "rightEmojiCodepoint": "2660-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 640
+      }
+    ],
+    "1f388": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f388/u1f388_u1f6e3-ufe0f.png",
+        "alt": "balloon-motorway",
+        "leftEmoji": "🎈",
+        "leftEmojiCodepoint": "1f388",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 430
+      }
+    ],
+    "1f50b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f50b/u1f50b_u1f6e3-ufe0f.png",
+        "alt": "battery-motorway",
+        "leftEmoji": "🔋",
+        "leftEmojiCodepoint": "1f50b",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 523
+      }
+    ],
+    "1faab": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1faab/u1faab_u1f6e3-ufe0f.png",
+        "alt": "low_battery-motorway",
+        "leftEmoji": "🪫",
+        "leftEmojiCodepoint": "1faab",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 524
+      }
+    ],
+    "1f4e6": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f4e6/u1f4e6_u1f6e3-ufe0f.png",
+        "alt": "package-motorway",
+        "leftEmoji": "📦",
+        "leftEmojiCodepoint": "1f4e6",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 578
+      }
+    ],
+    "1f5f3-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f5f3-ufe0f/u1f5f3-ufe0f_u1f6e3-ufe0f.png",
+        "alt": "ballot_box_with_ballot-motorway",
+        "leftEmoji": "🗳️",
+        "leftEmojiCodepoint": "1f5f3-fe0f",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 579
+      }
+    ],
+    "267e-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u267e-ufe0f/u267e-ufe0f_u1f6e3-ufe0f.png",
+        "alt": "infinity-motorway",
+        "leftEmoji": "♾️",
+        "leftEmojiCodepoint": "267e-fe0f",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 629
+      }
+    ],
+    "1fae5": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1fae5/u1fae5_u1f6e3-ufe0f.png",
+        "alt": "dotted_line_face-motorway",
+        "leftEmoji": "🫥",
+        "leftEmojiCodepoint": "1fae5",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 81
+      }
+    ],
+    "1f49e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f49e/u1f49e_u1f6e3-ufe0f.png",
+        "alt": "revolving_hearts-motorway",
+        "leftEmoji": "💞",
+        "leftEmojiCodepoint": "1f49e",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 145
+      }
+    ],
+    "1f937": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f937/u1f937_u1f6e3-ufe0f.png",
+        "alt": "shrug-motorway",
+        "leftEmoji": "🤷",
+        "leftEmojiCodepoint": "1f937",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 171
+      }
+    ],
+    "1f940": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f940/u1f940_u1f6e3-ufe0f.png",
+        "alt": "wilted_flower-motorway",
+        "leftEmoji": "🥀",
+        "leftEmojiCodepoint": "1f940",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 175
+      }
+    ],
+    "1f308": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f308/u1f308_u1f6e3-ufe0f.png",
+        "alt": "rainbow-motorway",
+        "leftEmoji": "🌈",
+        "leftEmojiCodepoint": "1f308",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 219
+      }
+    ],
+    "1f410": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f410/u1f410_u1f6e3-ufe0f.png",
+        "alt": "goat-motorway",
+        "leftEmoji": "🐐",
+        "leftEmojiCodepoint": "1f410",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 245
+      }
+    ],
+    "1f99e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f99e/u1f99e_u1f6e3-ufe0f.png",
+        "alt": "lobster-motorway",
+        "leftEmoji": "🦞",
+        "leftEmojiCodepoint": "1f99e",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 261
+      }
+    ],
+    "1f31a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f31a.png",
+        "alt": "motorway-new_moon_with_face",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🌚",
+        "rightEmojiCodepoint": "1f31a",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 87
+      }
+    ],
+    "1f31d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f31d.png",
+        "alt": "motorway-full_moon_with_face",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🌝",
+        "rightEmojiCodepoint": "1f31d",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 88
+      }
+    ],
+    "1f47a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f47a.png",
+        "alt": "motorway-japanese_goblin",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "👺",
+        "rightEmojiCodepoint": "1f47a",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 114
+      }
+    ],
+    "1fae7": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1fae7.png",
+        "alt": "motorway-bubbles",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🫧",
+        "rightEmojiCodepoint": "1fae7",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 124
+      }
+    ],
+    "1fab7": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1fab7.png",
+        "alt": "motorway-lotus",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🪷",
+        "rightEmojiCodepoint": "1fab7",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 179
+      }
+    ],
+    "1f33b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f33b.png",
+        "alt": "motorway-sunflower",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🌻",
+        "rightEmojiCodepoint": "1f33b",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 183
+      }
+    ],
+    "1f331": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f331.png",
+        "alt": "motorway-seedling",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🌱",
+        "rightEmojiCodepoint": "1f331",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 189
+      }
+    ],
+    "1f333": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f333.png",
+        "alt": "motorway-deciduous_tree",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🌳",
+        "rightEmojiCodepoint": "1f333",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 196
+      }
+    ],
+    "1fab9": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1fab9.png",
+        "alt": "motorway-empty_nest",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🪹",
+        "rightEmojiCodepoint": "1fab9",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 198
+      }
+    ],
+    "1f3d6-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f3d6-ufe0f.png",
+        "alt": "motorway-beach_with_umbrella",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🏖️",
+        "rightEmojiCodepoint": "1f3d6-fe0f",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 210
+      }
+    ],
+    "26c5": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u26c5.png",
+        "alt": "motorway-partly_sunny",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "⛅",
+        "rightEmojiCodepoint": "26c5",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 212
+      }
+    ],
+    "1f329-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f329-ufe0f.png",
+        "alt": "motorway-lightning",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🌩️",
+        "rightEmojiCodepoint": "1f329-fe0f",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 215
+      }
+    ],
+    "2602-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u2602-ufe0f.png",
+        "alt": "motorway-umbrella",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "☂️",
+        "rightEmojiCodepoint": "2602-fe0f",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 217
+      }
+    ],
+    "2604-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u2604-ufe0f.png",
+        "alt": "motorway-comet",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "☄️",
+        "rightEmojiCodepoint": "2604-fe0f",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 220
+      }
+    ],
+    "1fa90": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1fa90.png",
+        "alt": "motorway-ringed_planet",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🪐",
+        "rightEmojiCodepoint": "1fa90",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 223
+      }
+    ],
+    "1fab8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1fab8.png",
+        "alt": "motorway-coral",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🪸",
+        "rightEmojiCodepoint": "1fab8",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 265
+      }
+    ],
+    "1f41a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f41a.png",
+        "alt": "motorway-shell",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🐚",
+        "rightEmojiCodepoint": "1f41a",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 268
+      }
+    ],
+    "1f40c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f40c.png",
+        "alt": "motorway-snail",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🐌",
+        "rightEmojiCodepoint": "1f40c",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 269
+      }
+    ],
+    "1fab2": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1fab2.png",
+        "alt": "motorway-beetle",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 271
+      }
+    ],
+    "1f348": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f348.png",
+        "alt": "motorway-melon",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🍈",
+        "rightEmojiCodepoint": "1f348",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 286
+      }
+    ],
+    "1fad2": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1fad2.png",
+        "alt": "motorway-olive",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🫒",
+        "rightEmojiCodepoint": "1fad2",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 289
+      }
+    ],
+    "1fad0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1fad0.png",
+        "alt": "motorway-blueberries",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🫐",
+        "rightEmojiCodepoint": "1fad0",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 290
+      }
+    ],
+    "1f347": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f347.png",
+        "alt": "motorway-grapes",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🍇",
+        "rightEmojiCodepoint": "1f347",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 291
+      }
+    ],
+    "1f360": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f360.png",
+        "alt": "motorway-sweet_potato",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🍠",
+        "rightEmojiCodepoint": "1f360",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 297
+      }
+    ],
+    "1f33d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f33d.png",
+        "alt": "motorway-corn",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🌽",
+        "rightEmojiCodepoint": "1f33d",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 299
+      }
+    ],
+    "1f330": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f330.png",
+        "alt": "motorway-chestnut",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🌰",
+        "rightEmojiCodepoint": "1f330",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 309
+      }
+    ],
+    "1f95c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f95c.png",
+        "alt": "motorway-peanuts",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🥜",
+        "rightEmojiCodepoint": "1f95c",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 310
+      }
+    ],
+    "1fad3": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1fad3.png",
+        "alt": "motorway-flatbread",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🫓",
+        "rightEmojiCodepoint": "1fad3",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 312
+      }
+    ],
+    "1f373": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f373.png",
+        "alt": "motorway-fried_egg",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🍳",
+        "rightEmojiCodepoint": "1f373",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 317
+      }
+    ],
+    "1f35f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f35f.png",
+        "alt": "motorway-fries",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🍟",
+        "rightEmojiCodepoint": "1f35f",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 327
+      }
+    ],
+    "1f32e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f32e.png",
+        "alt": "motorway-taco",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🌮",
+        "rightEmojiCodepoint": "1f32e",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 329
+      }
+    ],
+    "1f32f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f32f.png",
+        "alt": "motorway-burrito",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🌯",
+        "rightEmojiCodepoint": "1f32f",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 330
+      }
+    ],
+    "1f35d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f35d.png",
+        "alt": "motorway-spaghetti",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🍝",
+        "rightEmojiCodepoint": "1f35d",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 334
+      }
+    ],
+    "1fad5": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1fad5.png",
+        "alt": "motorway-fondue",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🫕",
+        "rightEmojiCodepoint": "1fad5",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 336
+      }
+    ],
+    "1f372": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f372.png",
+        "alt": "motorway-stew",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🍲",
+        "rightEmojiCodepoint": "1f372",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 339
+      }
+    ],
+    "1f35b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f35b.png",
+        "alt": "motorway-curry",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🍛",
+        "rightEmojiCodepoint": "1f35b",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 340
+      }
+    ],
+    "1f363": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f363.png",
+        "alt": "motorway-sushi",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🍣",
+        "rightEmojiCodepoint": "1f363",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 342
+      }
+    ],
+    "1f359": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f359.png",
+        "alt": "motorway-rice_ball",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🍙",
+        "rightEmojiCodepoint": "1f359",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 349
+      }
+    ],
+    "1f358": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f358.png",
+        "alt": "motorway-rice_cracker",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🍘",
+        "rightEmojiCodepoint": "1f358",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 350
+      }
+    ],
+    "1f368": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f368.png",
+        "alt": "motorway-ice_cream",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🍨",
+        "rightEmojiCodepoint": "1f368",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 355
+      }
+    ],
+    "1f366": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f366.png",
+        "alt": "motorway-icecream",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🍦",
+        "rightEmojiCodepoint": "1f366",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 356
+      }
+    ],
+    "1f370": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f370.png",
+        "alt": "motorway-cake",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🍰",
+        "rightEmojiCodepoint": "1f370",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 358
+      }
+    ],
+    "1f9c2": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f9c2.png",
+        "alt": "motorway-salt",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🧂",
+        "rightEmojiCodepoint": "1f9c2",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 368
+      }
+    ],
+    "1f3d5-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f3d5-ufe0f.png",
+        "alt": "motorway-camping",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🏕️",
+        "rightEmojiCodepoint": "1f3d5-fe0f",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 425
+      }
+    ],
+    "1f6e3-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f6e3-ufe0f.png",
+        "alt": "motorway-motorway",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 428
+      }
+    ],
+    "26f3": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u26f3.png",
+        "alt": "motorway-golf",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "⛳",
+        "rightEmojiCodepoint": "26f3",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 464
+      }
+    ],
+    "1fa83": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1fa83.png",
+        "alt": "motorway-boomerang",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🪃",
+        "rightEmojiCodepoint": "1fa83",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 468
+      }
+    ],
+    "1f3a8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f3a8.png",
+        "alt": "motorway-art",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🎨",
+        "rightEmojiCodepoint": "1f3a8",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 489
+      }
+    ],
+    "1faa1": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1faa1.png",
+        "alt": "motorway-sewing_needle",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🪡",
+        "rightEmojiCodepoint": "1faa1",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 492
+      }
+    ],
+    "1f9f5": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f9f5.png",
+        "alt": "motorway-thread",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🧵",
+        "rightEmojiCodepoint": "1f9f5",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 493
+      }
+    ],
+    "260e-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u260e-ufe0f.png",
+        "alt": "motorway-phone",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "☎️",
+        "rightEmojiCodepoint": "260e-fe0f",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 519
+      }
+    ],
+    "1f4b8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f4b8.png",
+        "alt": "motorway-money_with_wings",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "💸",
+        "rightEmojiCodepoint": "1f4b8",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 529
+      }
+    ],
+    "1f9e6": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f9e6.png",
+        "alt": "motorway-socks",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🧦",
+        "rightEmojiCodepoint": "1f9e6",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 541
+      }
+    ],
+    "1f6e0-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f6e0-ufe0f.png",
+        "alt": "motorway-hammer_and_wrench",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🛠️",
+        "rightEmojiCodepoint": "1f6e0-fe0f",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 561
+      }
+    ],
+    "26d3-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u26d3-ufe0f.png",
+        "alt": "motorway-chains",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "⛓️",
+        "rightEmojiCodepoint": "26d3-fe0f",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 564
+      }
+    ],
+    "1f5c3-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f5c3-ufe0f.png",
+        "alt": "motorway-card_file_box",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🗃️",
+        "rightEmojiCodepoint": "1f5c3-fe0f",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 572
+      }
+    ],
+    "1f94a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f94a/u1f94a_u1f6e3-ufe0f.png",
+        "alt": "boxing_glove-motorway",
+        "leftEmoji": "🥊",
+        "leftEmojiCodepoint": "1f94a",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 474
+      }
+    ],
+    "1f587-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f587-ufe0f/u1f587-ufe0f_u1f6e3-ufe0f.png",
+        "alt": "linked_paperclips-motorway",
+        "leftEmoji": "🖇️",
+        "leftEmojiCodepoint": "1f587-fe0f",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 565
+      }
+    ],
+    "1f50e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250430/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f50e.png",
+        "alt": "motorway-mag_right",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🔎",
+        "rightEmojiCodepoint": "1f50e",
+        "date": "20250430",
+        "isLatest": true,
+        "gBoardOrder": 587
+      }
+    ],
+    "1fae9": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1fae9.png",
+        "alt": "motorway-face_with_bags_under_eyes",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🫩",
+        "rightEmojiCodepoint": "1fae9",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 96
+      }
+    ],
+    "1faf5": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250430/u1faf5/u1faf5_u1f6e3-ufe0f.png",
+        "alt": "index_pointing_at_the_viewer-motorway",
+        "leftEmoji": "🫵",
+        "leftEmojiCodepoint": "1faf5",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20250430",
+        "isLatest": true,
+        "gBoardOrder": 171
+      }
+    ],
+    "1f44a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250430/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f44a.png",
+        "alt": "motorway-facepunch",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "👊",
+        "rightEmojiCodepoint": "1f44a",
+        "date": "20250430",
+        "isLatest": true,
+        "gBoardOrder": 167
+      }
+    ],
+    "1fac1": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250430/u1f6e3-ufe0f/u1f6e3-ufe0f_u1fac1.png",
+        "alt": "motorway-lungs",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🫁",
+        "rightEmojiCodepoint": "1fac1",
+        "date": "20250430",
+        "isLatest": true,
+        "gBoardOrder": 160
+      }
+    ],
+    "1f369": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250430/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f369.png",
+        "alt": "motorway-doughnut",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🍩",
+        "rightEmojiCodepoint": "1f369",
+        "date": "20250430",
+        "isLatest": true,
+        "gBoardOrder": 365
+      }
+    ],
+    "1f6df": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250430/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f6df.png",
+        "alt": "motorway-ring_buoy",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🛟",
+        "rightEmojiCodepoint": "1f6df",
+        "date": "20250430",
+        "isLatest": true,
+        "gBoardOrder": 393
+      }
+    ],
+    "1f3dd-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250430/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f3dd-ufe0f.png",
+        "alt": "motorway-desert_island",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🏝️",
+        "rightEmojiCodepoint": "1f3dd-fe0f",
+        "date": "20250430",
+        "isLatest": true,
+        "gBoardOrder": 427
+      }
+    ],
+    "1f380": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250430/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f380.png",
+        "alt": "motorway-ribbon",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🎀",
+        "rightEmojiCodepoint": "1f380",
+        "date": "20250430",
+        "isLatest": true,
+        "gBoardOrder": 431
+      }
+    ],
+    "1fa81": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250430/u1f6e3-ufe0f/u1f6e3-ufe0f_u1fa81.png",
+        "alt": "motorway-kite",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🪁",
+        "rightEmojiCodepoint": "1fa81",
+        "date": "20250430",
+        "isLatest": true,
+        "gBoardOrder": 469
+      }
+    ],
+    "1fa70": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250430/u1fa70/u1fa70_u1f6e3-ufe0f.png",
+        "alt": "ballet_shoes-motorway",
+        "leftEmoji": "🩰",
+        "leftEmojiCodepoint": "1fa70",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20250430",
+        "isLatest": true,
+        "gBoardOrder": 462
+      }
+    ],
+    "1fadc": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6e3-ufe0f/u1f6e3-ufe0f_u1fadc.png",
+        "alt": "motorway-root_vegetable",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🫜",
+        "rightEmojiCodepoint": "1fadc",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 311
+      }
+    ],
+    "1f642-200d-2195-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f642-u200d-u2195-ufe0f/u1f642-u200d-u2195-ufe0f_u1f6e3-ufe0f.png",
+        "alt": "head_shaking_vertically-motorway",
+        "leftEmoji": "🙂‍↕️",
+        "leftEmojiCodepoint": "1f642-200d-2195-fe0f",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 19
+      }
+    ],
+    "1f642-200d-2194-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f642-u200d-u2194-ufe0f/u1f642-u200d-u2194-ufe0f_u1f6e3-ufe0f.png",
+        "alt": "head_shaking_horizontally-motorway",
+        "leftEmoji": "🙂‍↔️",
+        "leftEmojiCodepoint": "1f642-200d-2194-fe0f",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 20
+      }
+    ],
+    "1f393": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20251029/u1f393/u1f393_u1f6e3-ufe0f.png",
+        "alt": "mortar_board-motorway",
+        "leftEmoji": "🎓",
+        "leftEmojiCodepoint": "1f393",
+        "rightEmoji": "🛣️",
+        "rightEmojiCodepoint": "1f6e3-fe0f",
+        "date": "20251029",
+        "isLatest": true,
+        "gBoardOrder": 533
+      }
+    ]
+  }
+}

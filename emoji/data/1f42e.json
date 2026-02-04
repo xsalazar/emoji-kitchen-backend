@@ -1,0 +1,5174 @@
+{
+  "alt": "cow",
+  "emoji": "🐮",
+  "emojiCodepoint": "1f42e",
+  "gBoardOrder": 241,
+  "keywords": [
+    "cow_face",
+    "beef",
+    "ox",
+    "animal",
+    "nature",
+    "moo",
+    "milk",
+    "happy",
+    "cow"
+  ],
+  "category": "animals & nature",
+  "subcategory": "animal-mammal",
+  "combinations": {
+    "2615": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u2615.png",
+        "alt": "cow-coffee",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "☕",
+        "rightEmojiCodepoint": "2615",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 378
+      }
+    ],
+    "2648": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f42e/u1f42e_u2648.png",
+        "alt": "cow-aries",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "♈",
+        "rightEmojiCodepoint": "2648",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 594
+      }
+    ],
+    "2649": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f42e/u1f42e_u2649.png",
+        "alt": "cow-taurus",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "♉",
+        "rightEmojiCodepoint": "2649",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 595
+      }
+    ],
+    "2650": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f42e/u1f42e_u2650.png",
+        "alt": "cow-sagittarius",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "♐",
+        "rightEmojiCodepoint": "2650",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 602
+      }
+    ],
+    "2651": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f42e/u1f42e_u2651.png",
+        "alt": "cow-capricorn",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "♑",
+        "rightEmojiCodepoint": "2651",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 603
+      }
+    ],
+    "2652": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f42e/u1f42e_u2652.png",
+        "alt": "cow-aquarius",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "♒",
+        "rightEmojiCodepoint": "2652",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 604
+      }
+    ],
+    "2653": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f42e/u1f42e_u2653.png",
+        "alt": "cow-pisces",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "♓",
+        "rightEmojiCodepoint": "2653",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 605
+      }
+    ],
+    "2705": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u2705/u2705_u1f42e.png",
+        "alt": "white_check_mark-cow",
+        "leftEmoji": "✅",
+        "leftEmojiCodepoint": "2705",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 619
+      }
+    ],
+    "2753": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u2753/u2753_u1f42e.png",
+        "alt": "question-cow",
+        "leftEmoji": "❓",
+        "leftEmojiCodepoint": "2753",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 608
+      }
+    ],
+    "2757": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u2757/u2757_u1f42e.png",
+        "alt": "exclamation-cow",
+        "leftEmoji": "❗",
+        "leftEmojiCodepoint": "2757",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 607
+      }
+    ],
+    "1fa84": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1fa84.png",
+        "alt": "cow-magic_wand",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🪄",
+        "rightEmojiCodepoint": "1fa84",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 0
+      }
+    ],
+    "1f600": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f600.png",
+        "alt": "cow-grinning",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😀",
+        "rightEmojiCodepoint": "1f600",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 1
+      }
+    ],
+    "1f603": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f603.png",
+        "alt": "cow-smiley",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😃",
+        "rightEmojiCodepoint": "1f603",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 2
+      }
+    ],
+    "1f604": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f604.png",
+        "alt": "cow-smile",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😄",
+        "rightEmojiCodepoint": "1f604",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 3
+      }
+    ],
+    "1f601": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f601.png",
+        "alt": "cow-grin",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😁",
+        "rightEmojiCodepoint": "1f601",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 4
+      }
+    ],
+    "1f606": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f606.png",
+        "alt": "cow-laughing",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😆",
+        "rightEmojiCodepoint": "1f606",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 5
+      }
+    ],
+    "1f605": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f605.png",
+        "alt": "cow-sweat_smile",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😅",
+        "rightEmojiCodepoint": "1f605",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 6
+      }
+    ],
+    "1f602": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f602.png",
+        "alt": "cow-joy",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😂",
+        "rightEmojiCodepoint": "1f602",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 7
+      }
+    ],
+    "1f923": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f923.png",
+        "alt": "cow-rolling_on_the_floor_laughing",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🤣",
+        "rightEmojiCodepoint": "1f923",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 8
+      }
+    ],
+    "1f62d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f62d.png",
+        "alt": "cow-sob",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😭",
+        "rightEmojiCodepoint": "1f62d",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 9
+      }
+    ],
+    "1f609": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f609.png",
+        "alt": "cow-wink",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😉",
+        "rightEmojiCodepoint": "1f609",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 10
+      }
+    ],
+    "1f617": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f617.png",
+        "alt": "cow-kissing",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😗",
+        "rightEmojiCodepoint": "1f617",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 11
+      }
+    ],
+    "1f619": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f619.png",
+        "alt": "cow-kissing_smiling_eyes",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😙",
+        "rightEmojiCodepoint": "1f619",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 12
+      }
+    ],
+    "1f61a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f61a.png",
+        "alt": "cow-kissing_closed_eyes",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😚",
+        "rightEmojiCodepoint": "1f61a",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 13
+      }
+    ],
+    "1f618": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f618.png",
+        "alt": "cow-kissing_heart",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😘",
+        "rightEmojiCodepoint": "1f618",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 14
+      }
+    ],
+    "1f970": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f970.png",
+        "alt": "cow-smiling_face_with_3_hearts",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🥰",
+        "rightEmojiCodepoint": "1f970",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 15
+      }
+    ],
+    "1f60d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f60d.png",
+        "alt": "cow-heart_eyes",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😍",
+        "rightEmojiCodepoint": "1f60d",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 16
+      }
+    ],
+    "1f929": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f929.png",
+        "alt": "cow-star_struck",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🤩",
+        "rightEmojiCodepoint": "1f929",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 17
+      }
+    ],
+    "1f973": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f973.png",
+        "alt": "cow-partying_face",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🥳",
+        "rightEmojiCodepoint": "1f973",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 18
+      }
+    ],
+    "1f643": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f643.png",
+        "alt": "cow-upside_down_face",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🙃",
+        "rightEmojiCodepoint": "1f643",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 19
+      }
+    ],
+    "1f642": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f642.png",
+        "alt": "cow-slightly_smiling_face",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🙂",
+        "rightEmojiCodepoint": "1f642",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 20
+      }
+    ],
+    "1f972": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f972.png",
+        "alt": "cow-smiling_face_with_tear",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🥲",
+        "rightEmojiCodepoint": "1f972",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 21
+      }
+    ],
+    "1f979": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f979.png",
+        "alt": "cow-face_holding_back_tears",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🥹",
+        "rightEmojiCodepoint": "1f979",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 22
+      }
+    ],
+    "1f60b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f60b.png",
+        "alt": "cow-yum",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😋",
+        "rightEmojiCodepoint": "1f60b",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 23
+      }
+    ],
+    "1f61b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f61b.png",
+        "alt": "cow-stuck_out_tongue",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😛",
+        "rightEmojiCodepoint": "1f61b",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 24
+      }
+    ],
+    "1f61d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f61d.png",
+        "alt": "cow-stuck_out_tongue_closed_eyes",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😝",
+        "rightEmojiCodepoint": "1f61d",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 25
+      }
+    ],
+    "1f61c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f61c.png",
+        "alt": "cow-stuck_out_tongue_winking_eye",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😜",
+        "rightEmojiCodepoint": "1f61c",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 26
+      }
+    ],
+    "1f92a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f92a.png",
+        "alt": "cow-zany_face",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🤪",
+        "rightEmojiCodepoint": "1f92a",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 27
+      }
+    ],
+    "1f607": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f607.png",
+        "alt": "cow-innocent",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😇",
+        "rightEmojiCodepoint": "1f607",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 28
+      }
+    ],
+    "1f60a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f60a.png",
+        "alt": "cow-blush",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😊",
+        "rightEmojiCodepoint": "1f60a",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 29
+      }
+    ],
+    "263a-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u263a-ufe0f.png",
+        "alt": "cow-relaxed",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "☺️",
+        "rightEmojiCodepoint": "263a-fe0f",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 30
+      }
+    ],
+    "1f60f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f60f.png",
+        "alt": "cow-smirk",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😏",
+        "rightEmojiCodepoint": "1f60f",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 31
+      }
+    ],
+    "1f60c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f60c.png",
+        "alt": "cow-relieved",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😌",
+        "rightEmojiCodepoint": "1f60c",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 32
+      }
+    ],
+    "1f614": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f614.png",
+        "alt": "cow-pensive",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😔",
+        "rightEmojiCodepoint": "1f614",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 33
+      }
+    ],
+    "1f611": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f611.png",
+        "alt": "cow-expressionless",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😑",
+        "rightEmojiCodepoint": "1f611",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 34
+      }
+    ],
+    "1f610": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f610.png",
+        "alt": "cow-neutral_face",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😐",
+        "rightEmojiCodepoint": "1f610",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 35
+      }
+    ],
+    "1f636": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f636.png",
+        "alt": "cow-no_mouth",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😶",
+        "rightEmojiCodepoint": "1f636",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 36
+      }
+    ],
+    "1fae1": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1fae1.png",
+        "alt": "cow-saluting_face",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🫡",
+        "rightEmojiCodepoint": "1fae1",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 37
+      }
+    ],
+    "1f914": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f914.png",
+        "alt": "cow-thinking_face",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🤔",
+        "rightEmojiCodepoint": "1f914",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 38
+      }
+    ],
+    "1f92b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f92b.png",
+        "alt": "cow-shushing_face",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🤫",
+        "rightEmojiCodepoint": "1f92b",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 39
+      }
+    ],
+    "1fae2": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1fae2.png",
+        "alt": "cow-face_with_open_eyes_and_hand_over_mouth",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🫢",
+        "rightEmojiCodepoint": "1fae2",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 40
+      }
+    ],
+    "1f92d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f92d.png",
+        "alt": "cow-face_with_hand_over_mouth",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🤭",
+        "rightEmojiCodepoint": "1f92d",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 41
+      }
+    ],
+    "1f971": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f971.png",
+        "alt": "cow-yawning_face",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🥱",
+        "rightEmojiCodepoint": "1f971",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 42
+      }
+    ],
+    "1f917": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f917.png",
+        "alt": "cow-hugging_face",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🤗",
+        "rightEmojiCodepoint": "1f917",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 43
+      }
+    ],
+    "1fae3": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1fae3.png",
+        "alt": "cow-face_with_peeking_eye",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🫣",
+        "rightEmojiCodepoint": "1fae3",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 44
+      }
+    ],
+    "1f631": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f631.png",
+        "alt": "cow-scream",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😱",
+        "rightEmojiCodepoint": "1f631",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 45
+      }
+    ],
+    "1f928": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f928.png",
+        "alt": "cow-face_with_raised_eyebrow",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🤨",
+        "rightEmojiCodepoint": "1f928",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 46
+      }
+    ],
+    "1f9d0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f9d0.png",
+        "alt": "cow-face_with_monocle",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🧐",
+        "rightEmojiCodepoint": "1f9d0",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 47
+      }
+    ],
+    "1f612": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f612.png",
+        "alt": "cow-unamused",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😒",
+        "rightEmojiCodepoint": "1f612",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 48
+      }
+    ],
+    "1f644": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f644.png",
+        "alt": "cow-face_with_rolling_eyes",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🙄",
+        "rightEmojiCodepoint": "1f644",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 49
+      }
+    ],
+    "1f62e-200d-1f4a8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f62e-u200d-u1f4a8.png",
+        "alt": "cow-face_exhaling",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😮‍💨",
+        "rightEmojiCodepoint": "1f62e-200d-1f4a8",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 50
+      }
+    ],
+    "1f624": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f624.png",
+        "alt": "cow-triumph",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😤",
+        "rightEmojiCodepoint": "1f624",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 51
+      }
+    ],
+    "1f620": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f620.png",
+        "alt": "cow-angry",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😠",
+        "rightEmojiCodepoint": "1f620",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 52
+      }
+    ],
+    "1f621": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f621.png",
+        "alt": "cow-rage",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😡",
+        "rightEmojiCodepoint": "1f621",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 53
+      }
+    ],
+    "1f92c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f92c.png",
+        "alt": "cow-face_with_symbols_on_mouth",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🤬",
+        "rightEmojiCodepoint": "1f92c",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 54
+      }
+    ],
+    "1f97a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f97a.png",
+        "alt": "cow-pleading_face",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🥺",
+        "rightEmojiCodepoint": "1f97a",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 55
+      }
+    ],
+    "1f61f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f61f.png",
+        "alt": "cow-worried",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😟",
+        "rightEmojiCodepoint": "1f61f",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 56
+      }
+    ],
+    "1f625": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f625.png",
+        "alt": "cow-disappointed_relieved",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😥",
+        "rightEmojiCodepoint": "1f625",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 57
+      }
+    ],
+    "1f622": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f622.png",
+        "alt": "cow-cry",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😢",
+        "rightEmojiCodepoint": "1f622",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 58
+      }
+    ],
+    "2639-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u2639-ufe0f.png",
+        "alt": "cow-white_frowning_face",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "☹️",
+        "rightEmojiCodepoint": "2639-fe0f",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 59
+      }
+    ],
+    "1f641": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f641.png",
+        "alt": "cow-slightly_frowning_face",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🙁",
+        "rightEmojiCodepoint": "1f641",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 60
+      }
+    ],
+    "1fae4": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1fae4.png",
+        "alt": "cow-face_with_diagonal_mouth",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🫤",
+        "rightEmojiCodepoint": "1fae4",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 61
+      }
+    ],
+    "1f615": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f615.png",
+        "alt": "cow-confused",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😕",
+        "rightEmojiCodepoint": "1f615",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 62
+      }
+    ],
+    "1f910": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f910.png",
+        "alt": "cow-zipper_mouth_face",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🤐",
+        "rightEmojiCodepoint": "1f910",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 63
+      }
+    ],
+    "1f630": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f630.png",
+        "alt": "cow-cold_sweat",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😰",
+        "rightEmojiCodepoint": "1f630",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 64
+      }
+    ],
+    "1f628": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f628.png",
+        "alt": "cow-fearful",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😨",
+        "rightEmojiCodepoint": "1f628",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 65
+      }
+    ],
+    "1f627": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f627.png",
+        "alt": "cow-anguished",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😧",
+        "rightEmojiCodepoint": "1f627",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 66
+      }
+    ],
+    "1f626": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f626.png",
+        "alt": "cow-frowning",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😦",
+        "rightEmojiCodepoint": "1f626",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 67
+      }
+    ],
+    "1f62e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f62e.png",
+        "alt": "cow-open_mouth",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😮",
+        "rightEmojiCodepoint": "1f62e",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 68
+      }
+    ],
+    "1f62f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f62f.png",
+        "alt": "cow-hushed",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😯",
+        "rightEmojiCodepoint": "1f62f",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 69
+      }
+    ],
+    "1f632": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f632.png",
+        "alt": "cow-astonished",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😲",
+        "rightEmojiCodepoint": "1f632",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 70
+      }
+    ],
+    "1f633": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f633.png",
+        "alt": "cow-flushed",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😳",
+        "rightEmojiCodepoint": "1f633",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 71
+      }
+    ],
+    "1f92f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f92f.png",
+        "alt": "cow-exploding_head",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🤯",
+        "rightEmojiCodepoint": "1f92f",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 72
+      }
+    ],
+    "1f62c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f62c.png",
+        "alt": "cow-grimacing",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😬",
+        "rightEmojiCodepoint": "1f62c",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 73
+      }
+    ],
+    "1f613": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f613.png",
+        "alt": "cow-sweat",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😓",
+        "rightEmojiCodepoint": "1f613",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 74
+      }
+    ],
+    "1f61e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f61e.png",
+        "alt": "cow-disappointed",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😞",
+        "rightEmojiCodepoint": "1f61e",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 75
+      }
+    ],
+    "1f616": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f616.png",
+        "alt": "cow-confounded",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😖",
+        "rightEmojiCodepoint": "1f616",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 76
+      }
+    ],
+    "1f623": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f623.png",
+        "alt": "cow-persevere",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😣",
+        "rightEmojiCodepoint": "1f623",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 77
+      }
+    ],
+    "1f629": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f629.png",
+        "alt": "cow-weary",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😩",
+        "rightEmojiCodepoint": "1f629",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 78
+      }
+    ],
+    "1f62b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f62b.png",
+        "alt": "cow-tired_face",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😫",
+        "rightEmojiCodepoint": "1f62b",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 79
+      }
+    ],
+    "1f635": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f635.png",
+        "alt": "cow-dizzy_face",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😵",
+        "rightEmojiCodepoint": "1f635",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 80
+      }
+    ],
+    "1fae5": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1fae5.png",
+        "alt": "cow-dotted_line_face",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🫥",
+        "rightEmojiCodepoint": "1fae5",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 81
+      }
+    ],
+    "1f634": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f634.png",
+        "alt": "cow-sleeping",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😴",
+        "rightEmojiCodepoint": "1f634",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 82
+      }
+    ],
+    "1f62a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f62a.png",
+        "alt": "cow-sleepy",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😪",
+        "rightEmojiCodepoint": "1f62a",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 83
+      }
+    ],
+    "1f924": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f924.png",
+        "alt": "cow-drooling_face",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🤤",
+        "rightEmojiCodepoint": "1f924",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 84
+      }
+    ],
+    "1f31c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f31c.png",
+        "alt": "cow-last_quarter_moon_with_face",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🌜",
+        "rightEmojiCodepoint": "1f31c",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 86
+      }
+    ],
+    "1f31e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f31e.png",
+        "alt": "cow-sun_with_face",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🌞",
+        "rightEmojiCodepoint": "1f31e",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 89
+      }
+    ],
+    "1fae0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1fae0.png",
+        "alt": "cow-melting_face",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🫠",
+        "rightEmojiCodepoint": "1fae0",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 90
+      }
+    ],
+    "1f636-200d-1f32b-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f636-u200d-u1f32b-ufe0f.png",
+        "alt": "cow-face_in_clouds",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😶‍🌫️",
+        "rightEmojiCodepoint": "1f636-200d-1f32b-fe0f",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 91
+      }
+    ],
+    "1f974": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f974.png",
+        "alt": "cow-woozy_face",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🥴",
+        "rightEmojiCodepoint": "1f974",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 92
+      }
+    ],
+    "1f975": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f975.png",
+        "alt": "cow-hot_face",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🥵",
+        "rightEmojiCodepoint": "1f975",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 93
+      }
+    ],
+    "1f976": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f976.png",
+        "alt": "cow-cold_face",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🥶",
+        "rightEmojiCodepoint": "1f976",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 94
+      }
+    ],
+    "1f922": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f922.png",
+        "alt": "cow-nauseated_face",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🤢",
+        "rightEmojiCodepoint": "1f922",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 95
+      }
+    ],
+    "1f92e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f92e.png",
+        "alt": "cow-face_vomiting",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🤮",
+        "rightEmojiCodepoint": "1f92e",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 96
+      }
+    ],
+    "1f927": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f927.png",
+        "alt": "cow-sneezing_face",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🤧",
+        "rightEmojiCodepoint": "1f927",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 97
+      }
+    ],
+    "1f912": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f912.png",
+        "alt": "cow-face_with_thermometer",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🤒",
+        "rightEmojiCodepoint": "1f912",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 98
+      }
+    ],
+    "1f915": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f915.png",
+        "alt": "cow-face_with_head_bandage",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🤕",
+        "rightEmojiCodepoint": "1f915",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 99
+      }
+    ],
+    "1f637": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f637.png",
+        "alt": "cow-mask",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😷",
+        "rightEmojiCodepoint": "1f637",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 100
+      }
+    ],
+    "1f920": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f920.png",
+        "alt": "cow-face_with_cowboy_hat",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🤠",
+        "rightEmojiCodepoint": "1f920",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 101
+      }
+    ],
+    "1f911": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f911.png",
+        "alt": "cow-money_mouth_face",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🤑",
+        "rightEmojiCodepoint": "1f911",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 102
+      }
+    ],
+    "1f60e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f60e.png",
+        "alt": "cow-sunglasses",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😎",
+        "rightEmojiCodepoint": "1f60e",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 103
+      }
+    ],
+    "1f913": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f913.png",
+        "alt": "cow-nerd_face",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🤓",
+        "rightEmojiCodepoint": "1f913",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 104
+      }
+    ],
+    "1f978": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f978.png",
+        "alt": "cow-disguised_face",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🥸",
+        "rightEmojiCodepoint": "1f978",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 105
+      }
+    ],
+    "1f925": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f925.png",
+        "alt": "cow-lying_face",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🤥",
+        "rightEmojiCodepoint": "1f925",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 106
+      }
+    ],
+    "1f921": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f921.png",
+        "alt": "cow-clown_face",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🤡",
+        "rightEmojiCodepoint": "1f921",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 107
+      }
+    ],
+    "1f47b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f47b.png",
+        "alt": "cow-ghost",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "👻",
+        "rightEmojiCodepoint": "1f47b",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 108
+      }
+    ],
+    "1f4a9": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f4a9.png",
+        "alt": "cow-hankey",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "💩",
+        "rightEmojiCodepoint": "1f4a9",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 109
+      }
+    ],
+    "1f47d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f47d.png",
+        "alt": "cow-alien",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "👽",
+        "rightEmojiCodepoint": "1f47d",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 110
+      }
+    ],
+    "1f47e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f47e/u1f47e_u1f42e.png",
+        "alt": "space_invader-cow",
+        "leftEmoji": "👾",
+        "leftEmojiCodepoint": "1f47e",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 111
+      }
+    ],
+    "1f916": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f916.png",
+        "alt": "cow-robot_face",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🤖",
+        "rightEmojiCodepoint": "1f916",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 112
+      }
+    ],
+    "1f383": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f383.png",
+        "alt": "cow-jack_o_lantern",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🎃",
+        "rightEmojiCodepoint": "1f383",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 115
+      }
+    ],
+    "1f608": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f608.png",
+        "alt": "cow-smiling_imp",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "😈",
+        "rightEmojiCodepoint": "1f608",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 116
+      }
+    ],
+    "1f47f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f47f.png",
+        "alt": "cow-imp",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "👿",
+        "rightEmojiCodepoint": "1f47f",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 117
+      }
+    ],
+    "1f525": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f525.png",
+        "alt": "cow-fire",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🔥",
+        "rightEmojiCodepoint": "1f525",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 118
+      }
+    ],
+    "1f4ab": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f4ab.png",
+        "alt": "cow-dizzy",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "💫",
+        "rightEmojiCodepoint": "1f4ab",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 119
+      }
+    ],
+    "2b50": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u2b50.png",
+        "alt": "cow-star",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "⭐",
+        "rightEmojiCodepoint": "2b50",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 120
+      }
+    ],
+    "1f31f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f31f.png",
+        "alt": "cow-star2",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🌟",
+        "rightEmojiCodepoint": "1f31f",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 121
+      }
+    ],
+    "1f4a5": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f4a5/u1f4a5_u1f42e.png",
+        "alt": "boom-cow",
+        "leftEmoji": "💥",
+        "leftEmojiCodepoint": "1f4a5",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 122
+      }
+    ],
+    "1f4af": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f4af.png",
+        "alt": "cow-100",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "💯",
+        "rightEmojiCodepoint": "1f4af",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 123
+      }
+    ],
+    "1f573-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f573-ufe0f.png",
+        "alt": "cow-hole",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🕳️",
+        "rightEmojiCodepoint": "1f573-fe0f",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 125
+      }
+    ],
+    "1f38a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f38a.png",
+        "alt": "cow-confetti_ball",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🎊",
+        "rightEmojiCodepoint": "1f38a",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 126
+      }
+    ],
+    "2665-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u2665-ufe0f.png",
+        "alt": "cow-hearts",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "♥️",
+        "rightEmojiCodepoint": "2665-fe0f",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 139
+      }
+    ],
+    "1f498": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f498.png",
+        "alt": "cow-cupid",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "💘",
+        "rightEmojiCodepoint": "1f498",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 140
+      }
+    ],
+    "1f49d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f49d.png",
+        "alt": "cow-gift_heart",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "💝",
+        "rightEmojiCodepoint": "1f49d",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 141
+      }
+    ],
+    "1f496": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f496/u1f496_u1f42e.png",
+        "alt": "sparkling_heart-cow",
+        "leftEmoji": "💖",
+        "leftEmojiCodepoint": "1f496",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 142
+      }
+    ],
+    "1f497": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f497.png",
+        "alt": "cow-heartpulse",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "💗",
+        "rightEmojiCodepoint": "1f497",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 143
+      }
+    ],
+    "1f493": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f493.png",
+        "alt": "cow-heartbeat",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "💓",
+        "rightEmojiCodepoint": "1f493",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 144
+      }
+    ],
+    "1f49e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f49e.png",
+        "alt": "cow-revolving_hearts",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "💞",
+        "rightEmojiCodepoint": "1f49e",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 145
+      }
+    ],
+    "1f495": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f495.png",
+        "alt": "cow-two_hearts",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "💕",
+        "rightEmojiCodepoint": "1f495",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 146
+      }
+    ],
+    "1f48c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f48c.png",
+        "alt": "cow-love_letter",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "💌",
+        "rightEmojiCodepoint": "1f48c",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 147
+      }
+    ],
+    "2763-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u2763-ufe0f.png",
+        "alt": "cow-heavy_heart_exclamation_mark_ornament",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "❣️",
+        "rightEmojiCodepoint": "2763-fe0f",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 149
+      }
+    ],
+    "2764-fe0f-200d-1fa79": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u2764-ufe0f-u200d-u1fa79.png",
+        "alt": "cow-mending_heart",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "❤️‍🩹",
+        "rightEmojiCodepoint": "2764-fe0f-200d-1fa79",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 150
+      }
+    ],
+    "1f494": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f494.png",
+        "alt": "cow-broken_heart",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "💔",
+        "rightEmojiCodepoint": "1f494",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 151
+      }
+    ],
+    "1f48b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f48b.png",
+        "alt": "cow-kiss",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "💋",
+        "rightEmojiCodepoint": "1f48b",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 152
+      }
+    ],
+    "1f9a0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f9a0.png",
+        "alt": "cow-microbe",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🦠",
+        "rightEmojiCodepoint": "1f9a0",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 162
+      }
+    ],
+    "1f480": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f480.png",
+        "alt": "cow-skull",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "💀",
+        "rightEmojiCodepoint": "1f480",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 165
+      }
+    ],
+    "1f441-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f441-ufe0f.png",
+        "alt": "cow-eye",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "👁️",
+        "rightEmojiCodepoint": "1f441-fe0f",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 167
+      }
+    ],
+    "1fae6": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1fae6.png",
+        "alt": "cow-biting_lip",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🫦",
+        "rightEmojiCodepoint": "1fae6",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 169
+      }
+    ],
+    "1f44d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f44d.png",
+        "alt": "cow-+1",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "👍",
+        "rightEmojiCodepoint": "1f44d",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 170
+      }
+    ],
+    "1f937": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f937.png",
+        "alt": "cow-shrug",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🤷",
+        "rightEmojiCodepoint": "1f937",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 171
+      }
+    ],
+    "1fa82": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1fa82/u1fa82_u1f42e.png",
+        "alt": "parachute-cow",
+        "leftEmoji": "🪂",
+        "leftEmojiCodepoint": "1fa82",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 172
+      }
+    ],
+    "1f490": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f490.png",
+        "alt": "cow-bouquet",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "💐",
+        "rightEmojiCodepoint": "1f490",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 173
+      }
+    ],
+    "1f339": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f339.png",
+        "alt": "cow-rose",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🌹",
+        "rightEmojiCodepoint": "1f339",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 174
+      }
+    ],
+    "1f337": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f337.png",
+        "alt": "cow-tulip",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🌷",
+        "rightEmojiCodepoint": "1f337",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 177
+      }
+    ],
+    "1f338": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f338.png",
+        "alt": "cow-cherry_blossom",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🌸",
+        "rightEmojiCodepoint": "1f338",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 178
+      }
+    ],
+    "1f4ae": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f4ae/u1f4ae_u1f42e.png",
+        "alt": "white_flower-cow",
+        "leftEmoji": "💮",
+        "leftEmojiCodepoint": "1f4ae",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 180
+      }
+    ],
+    "1f33c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f33c.png",
+        "alt": "cow-blossom",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🌼",
+        "rightEmojiCodepoint": "1f33c",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 184
+      }
+    ],
+    "1f344": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f344.png",
+        "alt": "cow-mushroom",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🍄",
+        "rightEmojiCodepoint": "1f344",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 187
+      }
+    ],
+    "1f335": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f335.png",
+        "alt": "cow-cactus",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🌵",
+        "rightEmojiCodepoint": "1f335",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 194
+      }
+    ],
+    "1f332": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f332.png",
+        "alt": "cow-evergreen_tree",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🌲",
+        "rightEmojiCodepoint": "1f332",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 197
+      }
+    ],
+    "1fab5": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1fab5.png",
+        "alt": "cow-wood",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🪵",
+        "rightEmojiCodepoint": "1fab5",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 201
+      }
+    ],
+    "1faa8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1faa8.png",
+        "alt": "cow-rock",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🪨",
+        "rightEmojiCodepoint": "1faa8",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 202
+      }
+    ],
+    "26c4": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u26c4.png",
+        "alt": "cow-snowman_without_snow",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "⛄",
+        "rightEmojiCodepoint": "26c4",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 203
+      }
+    ],
+    "1f30a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f30a.png",
+        "alt": "cow-ocean",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🌊",
+        "rightEmojiCodepoint": "1f30a",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 204
+      }
+    ],
+    "1f32a-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f32a-ufe0f.png",
+        "alt": "cow-tornado",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🌪️",
+        "rightEmojiCodepoint": "1f32a-fe0f",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 207
+      }
+    ],
+    "1f30b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f30b/u1f30b_u1f42e.png",
+        "alt": "volcano-cow",
+        "leftEmoji": "🌋",
+        "leftEmojiCodepoint": "1f30b",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 208
+      }
+    ],
+    "1f304": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f304/u1f304_u1f42e.png",
+        "alt": "sunrise_over_mountains-cow",
+        "leftEmoji": "🌄",
+        "leftEmojiCodepoint": "1f304",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 211
+      }
+    ],
+    "2601-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u2601-ufe0f.png",
+        "alt": "cow-cloud",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "☁️",
+        "rightEmojiCodepoint": "2601-fe0f",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 213
+      }
+    ],
+    "1f327-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f327-ufe0f.png",
+        "alt": "cow-rain_cloud",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🌧️",
+        "rightEmojiCodepoint": "1f327-fe0f",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 214
+      }
+    ],
+    "2602-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u2602-ufe0f/u2602-ufe0f_u1f42e.png",
+        "alt": "umbrella-cow",
+        "leftEmoji": "☂️",
+        "leftEmojiCodepoint": "2602-fe0f",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 217
+      }
+    ],
+    "1f308": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f308.png",
+        "alt": "cow-rainbow",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🌈",
+        "rightEmojiCodepoint": "1f308",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 219
+      }
+    ],
+    "1f30d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f30d.png",
+        "alt": "cow-earth_africa",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🌍",
+        "rightEmojiCodepoint": "1f30d",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 222
+      }
+    ],
+    "1f648": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f648.png",
+        "alt": "cow-see_no_evil",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🙈",
+        "rightEmojiCodepoint": "1f648",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 224
+      }
+    ],
+    "1f435": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f435.png",
+        "alt": "cow-monkey_face",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🐵",
+        "rightEmojiCodepoint": "1f435",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 225
+      }
+    ],
+    "1f981": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f981.png",
+        "alt": "cow-lion_face",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🦁",
+        "rightEmojiCodepoint": "1f981",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 226
+      }
+    ],
+    "1f42f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f42f.png",
+        "alt": "cow-tiger",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🐯",
+        "rightEmojiCodepoint": "1f42f",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 227
+      }
+    ],
+    "1f431": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f431.png",
+        "alt": "cow-cat",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🐱",
+        "rightEmojiCodepoint": "1f431",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 228
+      }
+    ],
+    "1f436": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f436.png",
+        "alt": "cow-dog",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🐶",
+        "rightEmojiCodepoint": "1f436",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 229
+      }
+    ],
+    "1f43a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f43a.png",
+        "alt": "cow-wolf",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🐺",
+        "rightEmojiCodepoint": "1f43a",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 230
+      }
+    ],
+    "1f43b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f43b.png",
+        "alt": "cow-bear",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🐻",
+        "rightEmojiCodepoint": "1f43b",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 231
+      }
+    ],
+    "1f428": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f428.png",
+        "alt": "cow-koala",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🐨",
+        "rightEmojiCodepoint": "1f428",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 232
+      }
+    ],
+    "1f43c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f43c.png",
+        "alt": "cow-panda_face",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🐼",
+        "rightEmojiCodepoint": "1f43c",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 233
+      }
+    ],
+    "1f42d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f42d.png",
+        "alt": "cow-mouse",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🐭",
+        "rightEmojiCodepoint": "1f42d",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 234
+      }
+    ],
+    "1f430": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f430.png",
+        "alt": "cow-rabbit",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🐰",
+        "rightEmojiCodepoint": "1f430",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 235
+      }
+    ],
+    "1f98a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f98a.png",
+        "alt": "cow-fox_face",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🦊",
+        "rightEmojiCodepoint": "1f98a",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 236
+      }
+    ],
+    "1f99d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f99d.png",
+        "alt": "cow-raccoon",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🦝",
+        "rightEmojiCodepoint": "1f99d",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 237
+      }
+    ],
+    "1f42e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f42e.png",
+        "alt": "cow-cow",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 238
+      }
+    ],
+    "1f437": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f437.png",
+        "alt": "cow-pig",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🐷",
+        "rightEmojiCodepoint": "1f437",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 239
+      }
+    ],
+    "1f984": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f984.png",
+        "alt": "cow-unicorn_face",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🦄",
+        "rightEmojiCodepoint": "1f984",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 240
+      }
+    ],
+    "1f422": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f422.png",
+        "alt": "cow-turtle",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🐢",
+        "rightEmojiCodepoint": "1f422",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 242
+      }
+    ],
+    "1f438": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f438.png",
+        "alt": "cow-frog",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🐸",
+        "rightEmojiCodepoint": "1f438",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 243
+      }
+    ],
+    "1f429": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f429.png",
+        "alt": "cow-poodle",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🐩",
+        "rightEmojiCodepoint": "1f429",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 244
+      }
+    ],
+    "1f410": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f410.png",
+        "alt": "cow-goat",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🐐",
+        "rightEmojiCodepoint": "1f410",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 245
+      }
+    ],
+    "1f98c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f98c.png",
+        "alt": "cow-deer",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🦌",
+        "rightEmojiCodepoint": "1f98c",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 246
+      }
+    ],
+    "1f999": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f999.png",
+        "alt": "cow-llama",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🦙",
+        "rightEmojiCodepoint": "1f999",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 247
+      }
+    ],
+    "1f9a5": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f9a5.png",
+        "alt": "cow-sloth",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 248
+      }
+    ],
+    "1f994": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f994.png",
+        "alt": "cow-hedgehog",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🦔",
+        "rightEmojiCodepoint": "1f994",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 249
+      }
+    ],
+    "1f987": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f987.png",
+        "alt": "cow-bat",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🦇",
+        "rightEmojiCodepoint": "1f987",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 250
+      }
+    ],
+    "1f989": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f989.png",
+        "alt": "cow-owl",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🦉",
+        "rightEmojiCodepoint": "1f989",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 251
+      }
+    ],
+    "1f426": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f426.png",
+        "alt": "cow-bird",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🐦",
+        "rightEmojiCodepoint": "1f426",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 252
+      }
+    ],
+    "1f414": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f414.png",
+        "alt": "cow-chicken",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🐔",
+        "rightEmojiCodepoint": "1f414",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 253
+      }
+    ],
+    "1fabf": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1fabf.png",
+        "alt": "cow-goose",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🪿",
+        "rightEmojiCodepoint": "1fabf",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 254
+      }
+    ],
+    "1f54a-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f42e.png",
+        "alt": "dove_of_peace-cow",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 255
+      }
+    ],
+    "1f427": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f427.png",
+        "alt": "cow-penguin",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 257
+      }
+    ],
+    "1f988": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f988.png",
+        "alt": "cow-shark",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🦈",
+        "rightEmojiCodepoint": "1f988",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 258
+      }
+    ],
+    "1f433": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f433.png",
+        "alt": "cow-whale",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🐳",
+        "rightEmojiCodepoint": "1f433",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 259
+      }
+    ],
+    "1f41f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f41f.png",
+        "alt": "cow-fish",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🐟",
+        "rightEmojiCodepoint": "1f41f",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 260
+      }
+    ],
+    "1f419": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f419.png",
+        "alt": "cow-octopus",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🐙",
+        "rightEmojiCodepoint": "1f419",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 263
+      }
+    ],
+    "1f982": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f982.png",
+        "alt": "cow-scorpion",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🦂",
+        "rightEmojiCodepoint": "1f982",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 266
+      }
+    ],
+    "1f577-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f577-ufe0f.png",
+        "alt": "cow-spider",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🕷️",
+        "rightEmojiCodepoint": "1f577-fe0f",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 267
+      }
+    ],
+    "1f40c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f40c.png",
+        "alt": "cow-snail",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🐌",
+        "rightEmojiCodepoint": "1f40c",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 269
+      }
+    ],
+    "1f41d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f41d.png",
+        "alt": "cow-bee",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🐝",
+        "rightEmojiCodepoint": "1f41d",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 273
+      }
+    ],
+    "1f353": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f353.png",
+        "alt": "cow-strawberry",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🍓",
+        "rightEmojiCodepoint": "1f353",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 277
+      }
+    ],
+    "1f352": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f352.png",
+        "alt": "cow-cherries",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🍒",
+        "rightEmojiCodepoint": "1f352",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 278
+      }
+    ],
+    "1f349": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f349.png",
+        "alt": "cow-watermelon",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🍉",
+        "rightEmojiCodepoint": "1f349",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 280
+      }
+    ],
+    "1f34a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f34a.png",
+        "alt": "cow-tangerine",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🍊",
+        "rightEmojiCodepoint": "1f34a",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 281
+      }
+    ],
+    "1f34d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f34d.png",
+        "alt": "cow-pineapple",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🍍",
+        "rightEmojiCodepoint": "1f34d",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 283
+      }
+    ],
+    "1f34c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f34c.png",
+        "alt": "cow-banana",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🍌",
+        "rightEmojiCodepoint": "1f34c",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 284
+      }
+    ],
+    "1f34b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f34b.png",
+        "alt": "cow-lemon",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🍋",
+        "rightEmojiCodepoint": "1f34b",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 285
+      }
+    ],
+    "1f336-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f336-ufe0f.png",
+        "alt": "cow-hot_pepper",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🌶️",
+        "rightEmojiCodepoint": "1f336-fe0f",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 294
+      }
+    ],
+    "1f951": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f951.png",
+        "alt": "cow-avocado",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🥑",
+        "rightEmojiCodepoint": "1f951",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 305
+      }
+    ],
+    "1f35e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f35e.png",
+        "alt": "cow-bread",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🍞",
+        "rightEmojiCodepoint": "1f35e",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 311
+      }
+    ],
+    "1f9c0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f9c0.png",
+        "alt": "cow-cheese_wedge",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🧀",
+        "rightEmojiCodepoint": "1f9c0",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 318
+      }
+    ],
+    "1f32d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f32d.png",
+        "alt": "cow-hotdog",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🌭",
+        "rightEmojiCodepoint": "1f32d",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 324
+      }
+    ],
+    "1f96b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250731/u1f96b/u1f96b_u1f42e.png",
+        "alt": "canned_food-cow",
+        "leftEmoji": "🥫",
+        "leftEmojiCodepoint": "1f96b",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20250731",
+        "isLatest": true,
+        "gBoardOrder": 335
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f96b/u1f96b_u1f42e.png",
+        "alt": "canned_food-cow",
+        "leftEmoji": "🥫",
+        "leftEmojiCodepoint": "1f96b",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20240206",
+        "isLatest": false,
+        "gBoardOrder": 335
+      }
+    ],
+    "1f365": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f365/u1f365_u1f42e.png",
+        "alt": "fish_cake-cow",
+        "leftEmoji": "🍥",
+        "leftEmojiCodepoint": "1f365",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 351
+      }
+    ],
+    "1f382": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f382.png",
+        "alt": "cow-birthday",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🎂",
+        "rightEmojiCodepoint": "1f382",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 360
+      }
+    ],
+    "1f9c1": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f9c1.png",
+        "alt": "cow-cupcake",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🧁",
+        "rightEmojiCodepoint": "1f9c1",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 361
+      }
+    ],
+    "1f36c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f36c.png",
+        "alt": "cow-candy",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🍬",
+        "rightEmojiCodepoint": "1f36c",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 363
+      }
+    ],
+    "1f9ca": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f9ca/u1f9ca_u1f42e.png",
+        "alt": "ice_cube-cow",
+        "leftEmoji": "🧊",
+        "leftEmojiCodepoint": "1f9ca",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 371
+      }
+    ],
+    "1f9c3": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f9c3/u1f9c3_u1f42e.png",
+        "alt": "beverage_box-cow",
+        "leftEmoji": "🧃",
+        "leftEmojiCodepoint": "1f9c3",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 374
+      }
+    ],
+    "1f37d-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f37d-ufe0f.png",
+        "alt": "cow-knife_fork_plate",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🍽️",
+        "rightEmojiCodepoint": "1f37d-fe0f",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 388
+      }
+    ],
+    "1f6d1": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f6d1/u1f6d1_u1f42e.png",
+        "alt": "octagonal_sign-cow",
+        "leftEmoji": "🛑",
+        "leftEmojiCodepoint": "1f6d1",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 389
+      }
+    ],
+    "26fd": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u26fd/u26fd_u1f42e.png",
+        "alt": "fuelpump-cow",
+        "leftEmoji": "⛽",
+        "leftEmojiCodepoint": "26fd",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 392
+      }
+    ],
+    "1f6f8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f6f8/u1f6f8_u1f42e.png",
+        "alt": "flying_saucer-cow",
+        "leftEmoji": "🛸",
+        "leftEmojiCodepoint": "1f6f8",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 411
+      }
+    ],
+    "1f307": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f307.png",
+        "alt": "cow-city_sunrise",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🌇",
+        "rightEmojiCodepoint": "1f307",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 426
+      }
+    ],
+    "1f388": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f388.png",
+        "alt": "cow-balloon",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🎈",
+        "rightEmojiCodepoint": "1f388",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 430
+      }
+    ],
+    "1f381": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f381.png",
+        "alt": "cow-gift",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🎁",
+        "rightEmojiCodepoint": "1f381",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 432
+      }
+    ],
+    "1f386": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f386/u1f386_u1f42e.png",
+        "alt": "fireworks-cow",
+        "leftEmoji": "🎆",
+        "leftEmojiCodepoint": "1f386",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 433
+      }
+    ],
+    "1f947": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f947/u1f947_u1f42e.png",
+        "alt": "first_place_medal-cow",
+        "leftEmoji": "🥇",
+        "leftEmojiCodepoint": "1f947",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 437
+      }
+    ],
+    "1f948": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f948/u1f948_u1f42e.png",
+        "alt": "second_place_medal-cow",
+        "leftEmoji": "🥈",
+        "leftEmojiCodepoint": "1f948",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 438
+      }
+    ],
+    "1f949": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f949/u1f949_u1f42e.png",
+        "alt": "third_place_medal-cow",
+        "leftEmoji": "🥉",
+        "leftEmojiCodepoint": "1f949",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 439
+      }
+    ],
+    "1f3c6": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f3c6.png",
+        "alt": "cow-trophy",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🏆",
+        "rightEmojiCodepoint": "1f3c6",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 442
+      }
+    ],
+    "26bd": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u26bd.png",
+        "alt": "cow-soccer",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "⚽",
+        "rightEmojiCodepoint": "26bd",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 443
+      }
+    ],
+    "1f3c0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f3c0.png",
+        "alt": "cow-basketball",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🏀",
+        "rightEmojiCodepoint": "1f3c0",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 446
+      }
+    ],
+    "1f3c8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f3c8/u1f3c8_u1f42e.png",
+        "alt": "football-cow",
+        "leftEmoji": "🏈",
+        "leftEmojiCodepoint": "1f3c8",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 448
+      }
+    ],
+    "1f945": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f945/u1f945_u1f42e.png",
+        "alt": "goal_net-cow",
+        "leftEmoji": "🥅",
+        "leftEmojiCodepoint": "1f945",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 451
+      }
+    ],
+    "1f3bf": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f3bf/u1f3bf_u1f42e.png",
+        "alt": "ski-cow",
+        "leftEmoji": "🎿",
+        "leftEmojiCodepoint": "1f3bf",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 459
+      }
+    ],
+    "1f3a3": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f3a3/u1f3a3_u1f42e.png",
+        "alt": "fishing_pole_and_fish-cow",
+        "leftEmoji": "🎣",
+        "leftEmojiCodepoint": "1f3a3",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 470
+      }
+    ],
+    "1f3b3": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f3b3/u1f3b3_u1f42e.png",
+        "alt": "bowling-cow",
+        "leftEmoji": "🎳",
+        "leftEmojiCodepoint": "1f3b3",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 477
+      }
+    ],
+    "1f9e9": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9e9/u1f9e9_u1f42e.png",
+        "alt": "jigsaw-cow",
+        "leftEmoji": "🧩",
+        "leftEmojiCodepoint": "1f9e9",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 480
+      }
+    ],
+    "1f3b0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f3b0/u1f3b0_u1f42e.png",
+        "alt": "slot_machine-cow",
+        "leftEmoji": "🎰",
+        "leftEmojiCodepoint": "1f3b0",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 483
+      }
+    ],
+    "1f5bc-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f5bc-ufe0f/u1f5bc-ufe0f_u1f42e.png",
+        "alt": "frame_with_picture-cow",
+        "leftEmoji": "🖼️",
+        "leftEmojiCodepoint": "1f5bc-fe0f",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 488
+      }
+    ],
+    "1f58d-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f58d-ufe0f/u1f58d-ufe0f_u1f42e.png",
+        "alt": "lower_left_crayon-cow",
+        "leftEmoji": "🖍️",
+        "leftEmojiCodepoint": "1f58d-fe0f",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 491
+      }
+    ],
+    "1f3a7": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f3a7.png",
+        "alt": "cow-headphones",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🎧",
+        "rightEmojiCodepoint": "1f3a7",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 507
+      }
+    ],
+    "1f3ac": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f3ac/u1f3ac_u1f42e.png",
+        "alt": "clapper-cow",
+        "leftEmoji": "🎬",
+        "leftEmojiCodepoint": "1f3ac",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 515
+      }
+    ],
+    "1f39f-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f39f-ufe0f/u1f39f-ufe0f_u1f42e.png",
+        "alt": "admission_tickets-cow",
+        "leftEmoji": "🎟️",
+        "leftEmojiCodepoint": "1f39f-fe0f",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 517
+      }
+    ],
+    "1f4df": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f4df/u1f4df_u1f42e.png",
+        "alt": "pager-cow",
+        "leftEmoji": "📟",
+        "leftEmojiCodepoint": "1f4df",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 520
+      }
+    ],
+    "1f4e0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240610/u1f4e0/u1f4e0_u1f42e.png",
+        "alt": "fax-cow",
+        "leftEmoji": "📠",
+        "leftEmojiCodepoint": "1f4e0",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20240610",
+        "isLatest": true,
+        "gBoardOrder": 521
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f4e0/u1f4e0_u1f42e.png",
+        "alt": "fax-cow",
+        "leftEmoji": "📠",
+        "leftEmojiCodepoint": "1f4e0",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20240206",
+        "isLatest": false,
+        "gBoardOrder": 521
+      }
+    ],
+    "1f4be": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f4be/u1f4be_u1f42e.png",
+        "alt": "floppy_disk-cow",
+        "leftEmoji": "💾",
+        "leftEmojiCodepoint": "1f4be",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 525
+      }
+    ],
+    "1f4bb": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f4bb/u1f4bb_u1f42e.png",
+        "alt": "computer-cow",
+        "leftEmoji": "💻",
+        "leftEmojiCodepoint": "1f4bb",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 527
+      }
+    ],
+    "1f4a1": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f4a1/u1f4a1_u1f42e.png",
+        "alt": "bulb-cow",
+        "leftEmoji": "💡",
+        "leftEmojiCodepoint": "1f4a1",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 533
+      }
+    ],
+    "1f451": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f451.png",
+        "alt": "cow-crown",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "👑",
+        "rightEmojiCodepoint": "1f451",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 546
+      }
+    ],
+    "1f48e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f48e.png",
+        "alt": "cow-gem",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "💎",
+        "rightEmojiCodepoint": "1f48e",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 550
+      }
+    ],
+    "1f4da": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f4da/u1f4da_u1f42e.png",
+        "alt": "books-cow",
+        "leftEmoji": "📚",
+        "leftEmojiCodepoint": "1f4da",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 571
+      }
+    ],
+    "1f4f0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f4f0.png",
+        "alt": "cow-newspaper",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "📰",
+        "rightEmojiCodepoint": "1f4f0",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 577
+      }
+    ],
+    "1f52e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f52e.png",
+        "alt": "cow-crystal_ball",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🔮",
+        "rightEmojiCodepoint": "1f52e",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 588
+      }
+    ],
+    "1f3fa": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f3fa/u1f3fa_u1f42e.png",
+        "alt": "amphora-cow",
+        "leftEmoji": "🏺",
+        "leftEmojiCodepoint": "1f3fa",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 590
+      }
+    ],
+    "1faa4": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1faa4/u1faa4_u1f42e.png",
+        "alt": "mouse_trap-cow",
+        "leftEmoji": "🪤",
+        "leftEmojiCodepoint": "1faa4",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 591
+      }
+    ],
+    "26a0-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u26a0-ufe0f/u26a0-ufe0f_u1f42e.png",
+        "alt": "warning-cow",
+        "leftEmoji": "⚠️",
+        "leftEmojiCodepoint": "26a0-fe0f",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 617
+      }
+    ],
+    "1f5ef-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f5ef-ufe0f/u1f5ef-ufe0f_u1f42e.png",
+        "alt": "right_anger_bubble-cow",
+        "leftEmoji": "🗯️",
+        "leftEmojiCodepoint": "1f5ef-fe0f",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 641
+      }
+    ],
+    "1f4ac": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f4ac/u1f4ac_u1f42e.png",
+        "alt": "speech_balloon-cow",
+        "leftEmoji": "💬",
+        "leftEmojiCodepoint": "1f4ac",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 642
+      }
+    ],
+    "1f40d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f40d/u1f40d_u1f42e.png",
+        "alt": "snake-cow",
+        "leftEmoji": "🐍",
+        "leftEmojiCodepoint": "1f40d",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 242
+      }
+    ],
+    "1f463": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f463/u1f463_u1f42e.png",
+        "alt": "footprints-cow",
+        "leftEmoji": "👣",
+        "leftEmojiCodepoint": "1f463",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 157
+      }
+    ],
+    "26c5": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u26c5/u26c5_u1f42e.png",
+        "alt": "partly_sunny-cow",
+        "leftEmoji": "⛅",
+        "leftEmojiCodepoint": "26c5",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 212
+      }
+    ],
+    "1f30c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f30c/u1f30c_u1f42e.png",
+        "alt": "milky_way-cow",
+        "leftEmoji": "🌌",
+        "leftEmojiCodepoint": "1f30c",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 221
+      }
+    ],
+    "1f9a9": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f9a9/u1f9a9_u1f42e.png",
+        "alt": "flamingo-cow",
+        "leftEmoji": "🦩",
+        "leftEmojiCodepoint": "1f9a9",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 256
+      }
+    ],
+    "1f960": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f960/u1f960_u1f42e.png",
+        "alt": "fortune_cookie-cow",
+        "leftEmoji": "🥠",
+        "leftEmojiCodepoint": "1f960",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 353
+      }
+    ],
+    "1f6a8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6a8/u1f6a8_u1f42e.png",
+        "alt": "rotating_light-cow",
+        "leftEmoji": "🚨",
+        "leftEmojiCodepoint": "1f6a8",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 391
+      }
+    ],
+    "1f6a6": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241023/u1f6a6/u1f6a6_u1f42e.png",
+        "alt": "vertical_traffic_light-cow",
+        "leftEmoji": "🚦",
+        "leftEmojiCodepoint": "1f6a6",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20241023",
+        "isLatest": true,
+        "gBoardOrder": 396
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6a6/u1f6a6_u1f42e.png",
+        "alt": "vertical_traffic_light-cow",
+        "leftEmoji": "🚦",
+        "leftEmojiCodepoint": "1f6a6",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20240530",
+        "isLatest": false,
+        "gBoardOrder": 396
+      }
+    ],
+    "1f69a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f69a/u1f69a_u1f42e.png",
+        "alt": "truck-cow",
+        "leftEmoji": "🚚",
+        "leftEmojiCodepoint": "1f69a",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 401
+      }
+    ],
+    "1faa9": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1faa9/u1faa9_u1f42e.png",
+        "alt": "mirror_ball-cow",
+        "leftEmoji": "🪩",
+        "leftEmojiCodepoint": "1faa9",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 435
+      }
+    ],
+    "1f3af": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f3af/u1f3af_u1f42e.png",
+        "alt": "dart-cow",
+        "leftEmoji": "🎯",
+        "leftEmojiCodepoint": "1f3af",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 465
+      }
+    ],
+    "1f0cf": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f0cf/u1f0cf_u1f42e.png",
+        "alt": "black_joker-cow",
+        "leftEmoji": "🃏",
+        "leftEmojiCodepoint": "1f0cf",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 486
+      }
+    ],
+    "1f39e-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f39e-ufe0f/u1f39e-ufe0f_u1f42e.png",
+        "alt": "film_frames-cow",
+        "leftEmoji": "🎞️",
+        "leftEmojiCodepoint": "1f39e-fe0f",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 514
+      }
+    ],
+    "2696-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u2696-ufe0f/u2696-ufe0f_u1f42e.png",
+        "alt": "scales-cow",
+        "leftEmoji": "⚖️",
+        "leftEmojiCodepoint": "2696-fe0f",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 530
+      }
+    ],
+    "1f455": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f455/u1f455_u1f42e.png",
+        "alt": "shirt-cow",
+        "leftEmoji": "👕",
+        "leftEmojiCodepoint": "1f455",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 542
+      }
+    ],
+    "1f460": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f460/u1f460_u1f42e.png",
+        "alt": "high_heel-cow",
+        "leftEmoji": "👠",
+        "leftEmojiCodepoint": "1f460",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 551
+      }
+    ],
+    "1f5d1-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f5d1-ufe0f/u1f5d1-ufe0f_u1f42e.png",
+        "alt": "wastebasket-cow",
+        "leftEmoji": "🗑️",
+        "leftEmojiCodepoint": "1f5d1-fe0f",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 567
+      }
+    ],
+    "1f4c8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f4c8/u1f4c8_u1f42e.png",
+        "alt": "chart_with_upwards_trend-cow",
+        "leftEmoji": "📈",
+        "leftEmojiCodepoint": "1f4c8",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 574
+      }
+    ],
+    "1f4c9": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f4c9/u1f4c9_u1f42e.png",
+        "alt": "chart_with_downwards_trend-cow",
+        "leftEmoji": "📉",
+        "leftEmojiCodepoint": "1f4c9",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 575
+      }
+    ],
+    "2702-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u2702-ufe0f/u2702-ufe0f_u1f42e.png",
+        "alt": "scissors-cow",
+        "leftEmoji": "✂️",
+        "leftEmojiCodepoint": "2702-fe0f",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 576
+      }
+    ],
+    "231a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u231a/u231a_u1f42e.png",
+        "alt": "watch-cow",
+        "leftEmoji": "⌚",
+        "leftEmojiCodepoint": "231a",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 580
+      }
+    ],
+    "1f514": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f514/u1f514_u1f42e.png",
+        "alt": "bell-cow",
+        "leftEmoji": "🔔",
+        "leftEmojiCodepoint": "1f514",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 585
+      }
+    ],
+    "1f3b6": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f3b6/u1f3b6_u1f42e.png",
+        "alt": "notes-cow",
+        "leftEmoji": "🎶",
+        "leftEmojiCodepoint": "1f3b6",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 614
+      }
+    ],
+    "2622-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u2622-ufe0f/u2622-ufe0f_u1f42e.png",
+        "alt": "radioactive_sign-cow",
+        "leftEmoji": "☢️",
+        "leftEmojiCodepoint": "2622-fe0f",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 615
+      }
+    ],
+    "1f5e3-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f5e3-ufe0f/u1f5e3-ufe0f_u1f42e.png",
+        "alt": "speaking_head_in_silhouette-cow",
+        "leftEmoji": "🗣️",
+        "leftEmojiCodepoint": "1f5e3-fe0f",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 156
+      }
+    ],
+    "1f440": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f440/u1f440_u1f42e.png",
+        "alt": "eyes-cow",
+        "leftEmoji": "👀",
+        "leftEmojiCodepoint": "1f440",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 166
+      }
+    ],
+    "1f33a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f33a/u1f33a_u1f42e.png",
+        "alt": "hibiscus-cow",
+        "leftEmoji": "🌺",
+        "leftEmojiCodepoint": "1f33a",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 176
+      }
+    ],
+    "1f32c-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f32c-ufe0f/u1f32c-ufe0f_u1f42e.png",
+        "alt": "wind_blowing_face-cow",
+        "leftEmoji": "🌬️",
+        "leftEmojiCodepoint": "1f32c-fe0f",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 205
+      }
+    ],
+    "1f300": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f300/u1f300_u1f42e.png",
+        "alt": "cyclone-cow",
+        "leftEmoji": "🌀",
+        "leftEmojiCodepoint": "1f300",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 206
+      }
+    ],
+    "1f329-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f329-ufe0f/u1f329-ufe0f_u1f42e.png",
+        "alt": "lightning-cow",
+        "leftEmoji": "🌩️",
+        "leftEmojiCodepoint": "1f329-fe0f",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 215
+      }
+    ],
+    "1f409": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f409/u1f409_u1f42e.png",
+        "alt": "dragon-cow",
+        "leftEmoji": "🐉",
+        "leftEmojiCodepoint": "1f409",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 241
+      }
+    ],
+    "1f373": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f373/u1f373_u1f42e.png",
+        "alt": "fried_egg-cow",
+        "leftEmoji": "🍳",
+        "leftEmojiCodepoint": "1f373",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 317
+      }
+    ],
+    "1f355": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f355/u1f355_u1f42e.png",
+        "alt": "pizza-cow",
+        "leftEmoji": "🍕",
+        "leftEmojiCodepoint": "1f355",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 324
+      }
+    ],
+    "1f69c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f69c/u1f69c_u1f42e.png",
+        "alt": "tractor-cow",
+        "leftEmoji": "🚜",
+        "leftEmojiCodepoint": "1f69c",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 403
+      }
+    ],
+    "2708-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u2708-ufe0f/u2708-ufe0f_u1f42e.png",
+        "alt": "airplane-cow",
+        "leftEmoji": "✈️",
+        "leftEmojiCodepoint": "2708-fe0f",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 413
+      }
+    ],
+    "1f3e0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f3e0/u1f3e0_u1f42e.png",
+        "alt": "house-cow",
+        "leftEmoji": "🏠",
+        "leftEmojiCodepoint": "1f3e0",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 424
+      }
+    ],
+    "1f3be": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f3be/u1f3be_u1f42e.png",
+        "alt": "tennis-cow",
+        "leftEmoji": "🎾",
+        "leftEmojiCodepoint": "1f3be",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 450
+      }
+    ],
+    "26f8-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u26f8-ufe0f/u26f8-ufe0f_u1f42e.png",
+        "alt": "ice_skate-cow",
+        "leftEmoji": "⛸️",
+        "leftEmojiCodepoint": "26f8-fe0f",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 460
+      }
+    ],
+    "1f94b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f94b/u1f94b_u1f42e.png",
+        "alt": "martial_arts_uniform-cow",
+        "leftEmoji": "🥋",
+        "leftEmojiCodepoint": "1f94b",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 473
+      }
+    ],
+    "1f3a8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f3a8/u1f3a8_u1f42e.png",
+        "alt": "art-cow",
+        "leftEmoji": "🎨",
+        "leftEmojiCodepoint": "1f3a8",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 489
+      }
+    ],
+    "1f3a4": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f3a4/u1f3a4_u1f42e.png",
+        "alt": "microphone-cow",
+        "leftEmoji": "🎤",
+        "leftEmojiCodepoint": "1f3a4",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 506
+      }
+    ],
+    "1f4f1": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f4f1/u1f4f1_u1f42e.png",
+        "alt": "iphone-cow",
+        "leftEmoji": "📱",
+        "leftEmojiCodepoint": "1f4f1",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 518
+      }
+    ],
+    "1f50b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f50b/u1f50b_u1f42e.png",
+        "alt": "battery-cow",
+        "leftEmoji": "🔋",
+        "leftEmojiCodepoint": "1f50b",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 523
+      }
+    ],
+    "1faab": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1faab/u1faab_u1f42e.png",
+        "alt": "low_battery-cow",
+        "leftEmoji": "🪫",
+        "leftEmojiCodepoint": "1faab",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 524
+      }
+    ],
+    "1f393": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f393/u1f393_u1f42e.png",
+        "alt": "mortar_board-cow",
+        "leftEmoji": "🎓",
+        "leftEmojiCodepoint": "1f393",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 544
+      }
+    ],
+    "1f9ea": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f9ea/u1f9ea_u1f42e.png",
+        "alt": "test_tube-cow",
+        "leftEmoji": "🧪",
+        "leftEmojiCodepoint": "1f9ea",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 554
+      }
+    ],
+    "1fa7a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1fa7a/u1fa7a_u1f42e.png",
+        "alt": "stethoscope-cow",
+        "leftEmoji": "🩺",
+        "leftEmojiCodepoint": "1fa7a",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 556
+      }
+    ],
+    "1f9ec": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f9ec/u1f9ec_u1f42e.png",
+        "alt": "dna-cow",
+        "leftEmoji": "🧬",
+        "leftEmojiCodepoint": "1f9ec",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 557
+      }
+    ],
+    "1f9f2": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f9f2/u1f9f2_u1f42e.png",
+        "alt": "magnet-cow",
+        "leftEmoji": "🧲",
+        "leftEmojiCodepoint": "1f9f2",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 560
+      }
+    ],
+    "1f6e0-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e0-ufe0f/u1f6e0-ufe0f_u1f42e.png",
+        "alt": "hammer_and_wrench-cow",
+        "leftEmoji": "🛠️",
+        "leftEmojiCodepoint": "1f6e0-fe0f",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 561
+      }
+    ],
+    "26d3-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u26d3-ufe0f/u26d3-ufe0f_u1f42e.png",
+        "alt": "chains-cow",
+        "leftEmoji": "⛓️",
+        "leftEmojiCodepoint": "26d3-fe0f",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 564
+      }
+    ],
+    "1f587-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f587-ufe0f/u1f587-ufe0f_u1f42e.png",
+        "alt": "linked_paperclips-cow",
+        "leftEmoji": "🖇️",
+        "leftEmojiCodepoint": "1f587-fe0f",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 565
+      }
+    ],
+    "1f4e6": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f4e6/u1f4e6_u1f42e.png",
+        "alt": "package-cow",
+        "leftEmoji": "📦",
+        "leftEmojiCodepoint": "1f4e6",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 578
+      }
+    ],
+    "23f0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u23f0/u23f0_u1f42e.png",
+        "alt": "alarm_clock-cow",
+        "leftEmoji": "⏰",
+        "leftEmojiCodepoint": "23f0",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 584
+      }
+    ],
+    "1f50e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f50e/u1f50e_u1f42e.png",
+        "alt": "mag_right-cow",
+        "leftEmoji": "🔎",
+        "leftEmojiCodepoint": "1f50e",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 587
+      }
+    ],
+    "1f198": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f198/u1f198_u1f42e.png",
+        "alt": "sos-cow",
+        "leftEmoji": "🆘",
+        "leftEmojiCodepoint": "1f198",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 610
+      }
+    ],
+    "2668-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u2668-ufe0f/u2668-ufe0f_u1f42e.png",
+        "alt": "hotsprings-cow",
+        "leftEmoji": "♨️",
+        "leftEmojiCodepoint": "2668-fe0f",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 611
+      }
+    ],
+    "267b-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250501/u267b-ufe0f/u267b-ufe0f_u1f42e.png",
+        "alt": "recycle-cow",
+        "leftEmoji": "♻️",
+        "leftEmojiCodepoint": "267b-fe0f",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20250501",
+        "isLatest": true,
+        "gBoardOrder": 618
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u267b-ufe0f/u267b-ufe0f_u1f42e.png",
+        "alt": "recycle-cow",
+        "leftEmoji": "♻️",
+        "leftEmojiCodepoint": "267b-fe0f",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20241021",
+        "isLatest": false,
+        "gBoardOrder": 618
+      }
+    ],
+    "1f199": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f199/u1f199_u1f42e.png",
+        "alt": "up-cow",
+        "leftEmoji": "🆙",
+        "leftEmojiCodepoint": "1f199",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 622
+      }
+    ],
+    "1f197": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f197/u1f197_u1f42e.png",
+        "alt": "ok-cow",
+        "leftEmoji": "🆗",
+        "leftEmojiCodepoint": "1f197",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 623
+      }
+    ],
+    "1f192": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f192/u1f192_u1f42e.png",
+        "alt": "cool-cow",
+        "leftEmoji": "🆒",
+        "leftEmojiCodepoint": "1f192",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 624
+      }
+    ],
+    "262f-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u262f-ufe0f/u262f-ufe0f_u1f42e.png",
+        "alt": "yin_yang-cow",
+        "leftEmoji": "☯️",
+        "leftEmojiCodepoint": "262f-fe0f",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 628
+      }
+    ],
+    "267e-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u267e-ufe0f/u267e-ufe0f_u1f42e.png",
+        "alt": "infinity-cow",
+        "leftEmoji": "♾️",
+        "leftEmojiCodepoint": "267e-fe0f",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 629
+      }
+    ],
+    "1f331": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f331/u1f331_u1f42e.png",
+        "alt": "seedling-cow",
+        "leftEmoji": "🌱",
+        "leftEmojiCodepoint": "1f331",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 189
+      }
+    ],
+    "1f31a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f42e/u1f42e_u1f31a.png",
+        "alt": "cow-new_moon_with_face",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🌚",
+        "rightEmojiCodepoint": "1f31a",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 87
+      }
+    ],
+    "1f31d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f42e/u1f42e_u1f31d.png",
+        "alt": "cow-full_moon_with_face",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🌝",
+        "rightEmojiCodepoint": "1f31d",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 88
+      }
+    ],
+    "1f47a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f42e/u1f42e_u1f47a.png",
+        "alt": "cow-japanese_goblin",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "👺",
+        "rightEmojiCodepoint": "1f47a",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 114
+      }
+    ],
+    "1f33b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f42e/u1f42e_u1f33b.png",
+        "alt": "cow-sunflower",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🌻",
+        "rightEmojiCodepoint": "1f33b",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 183
+      }
+    ],
+    "1f3d6-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f42e/u1f42e_u1f3d6-ufe0f.png",
+        "alt": "cow-beach_with_umbrella",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🏖️",
+        "rightEmojiCodepoint": "1f3d6-fe0f",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 210
+      }
+    ],
+    "1f4a7": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f42e/u1f42e_u1f4a7.png",
+        "alt": "cow-droplet",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "💧",
+        "rightEmojiCodepoint": "1f4a7",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 216
+      }
+    ],
+    "1fab8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f42e/u1f42e_u1fab8.png",
+        "alt": "cow-coral",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🪸",
+        "rightEmojiCodepoint": "1fab8",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 265
+      }
+    ],
+    "1f41a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f42e/u1f42e_u1f41a.png",
+        "alt": "cow-shell",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🐚",
+        "rightEmojiCodepoint": "1f41a",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 268
+      }
+    ],
+    "1fab2": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f42e/u1f42e_u1fab2.png",
+        "alt": "cow-beetle",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🪲",
+        "rightEmojiCodepoint": "1fab2",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 271
+      }
+    ],
+    "1f98b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250430/u1f98b/u1f98b_u1f42e.png",
+        "alt": "butterfly-cow",
+        "leftEmoji": "🦋",
+        "leftEmojiCodepoint": "1f98b",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20250430",
+        "isLatest": true,
+        "gBoardOrder": 275
+      }
+    ],
+    "1f697": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f42e/u1f42e_u1f697.png",
+        "alt": "cow-car",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🚗",
+        "rightEmojiCodepoint": "1f697",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 400
+      }
+    ],
+    "1f380": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f42e/u1f42e_u1f380.png",
+        "alt": "cow-ribbon",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🎀",
+        "rightEmojiCodepoint": "1f380",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 431
+      }
+    ],
+    "1f3d0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f42e/u1f42e_u1f3d0.png",
+        "alt": "cow-volleyball",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🏐",
+        "rightEmojiCodepoint": "1f3d0",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 447
+      }
+    ],
+    "1f3c9": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f42e/u1f42e_u1f3c9.png",
+        "alt": "cow-rugby_football",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🏉",
+        "rightEmojiCodepoint": "1f3c9",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 449
+      }
+    ],
+    "1fa81": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f42e/u1f42e_u1fa81.png",
+        "alt": "cow-kite",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🪁",
+        "rightEmojiCodepoint": "1fa81",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 469
+      }
+    ],
+    "1f3b9": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f42e/u1f42e_u1f3b9.png",
+        "alt": "cow-musical_keyboard",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🎹",
+        "rightEmojiCodepoint": "1f3b9",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 495
+      }
+    ],
+    "1f3b7": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f42e/u1f42e_u1f3b7.png",
+        "alt": "cow-saxophone",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🎷",
+        "rightEmojiCodepoint": "1f3b7",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 496
+      }
+    ],
+    "1f3ba": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f42e/u1f42e_u1f3ba.png",
+        "alt": "cow-trumpet",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🎺",
+        "rightEmojiCodepoint": "1f3ba",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 497
+      }
+    ],
+    "1fa98": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f42e/u1f42e_u1fa98.png",
+        "alt": "cow-long_drum",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🪘",
+        "rightEmojiCodepoint": "1fa98",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 501
+      }
+    ],
+    "1f941": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f42e/u1f42e_u1f941.png",
+        "alt": "cow-drum_with_drumsticks",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🥁",
+        "rightEmojiCodepoint": "1f941",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 502
+      }
+    ],
+    "1f6cb-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f42e/u1f42e_u1f6cb-ufe0f.png",
+        "alt": "cow-couch_and_lamp",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🛋️",
+        "rightEmojiCodepoint": "1f6cb-fe0f",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 535
+      }
+    ],
+    "1faad": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f42e/u1f42e_u1faad.png",
+        "alt": "cow-folding_hand_fan",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🪭",
+        "rightEmojiCodepoint": "1faad",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 547
+      }
+    ],
+    "1f52c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f42e/u1f42e_u1f52c.png",
+        "alt": "cow-microscope",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🔬",
+        "rightEmojiCodepoint": "1f52c",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 559
+      }
+    ],
+    "270f-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f42e/u1f42e_u270f-ufe0f.png",
+        "alt": "cow-pencil2",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "✏️",
+        "rightEmojiCodepoint": "270f-fe0f",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 570
+      }
+    ],
+    "1f512": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f42e/u1f42e_u1f512.png",
+        "alt": "cow-lock",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🔒",
+        "rightEmojiCodepoint": "1f512",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 593
+      }
+    ],
+    "264a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f42e/u1f42e_u264a.png",
+        "alt": "cow-gemini",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "♊",
+        "rightEmojiCodepoint": "264a",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 596
+      }
+    ],
+    "264b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f42e/u1f42e_u264b.png",
+        "alt": "cow-cancer",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "♋",
+        "rightEmojiCodepoint": "264b",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 597
+      }
+    ],
+    "264c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f42e/u1f42e_u264c.png",
+        "alt": "cow-leo",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "♌",
+        "rightEmojiCodepoint": "264c",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 598
+      }
+    ],
+    "264d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f42e/u1f42e_u264d.png",
+        "alt": "cow-virgo",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "♍",
+        "rightEmojiCodepoint": "264d",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 599
+      }
+    ],
+    "264e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f42e/u1f42e_u264e.png",
+        "alt": "cow-libra",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "♎",
+        "rightEmojiCodepoint": "264e",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 600
+      }
+    ],
+    "264f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f42e/u1f42e_u264f.png",
+        "alt": "cow-scorpius",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "♏",
+        "rightEmojiCodepoint": "264f",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 601
+      }
+    ],
+    "26ce": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f42e/u1f42e_u26ce.png",
+        "alt": "cow-ophiuchus",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "⛎",
+        "rightEmojiCodepoint": "26ce",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 606
+      }
+    ],
+    "1f4f4": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f42e/u1f42e_u1f4f4.png",
+        "alt": "cow-mobile_phone_off",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "📴",
+        "rightEmojiCodepoint": "1f4f4",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 612
+      }
+    ],
+    "2623-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f42e/u1f42e_u2623-ufe0f.png",
+        "alt": "cow-biohazard_sign",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "☣️",
+        "rightEmojiCodepoint": "2623-fe0f",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 616
+      }
+    ],
+    "1f195": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250430/u1f195/u1f195_u1f42e.png",
+        "alt": "new-cow",
+        "leftEmoji": "🆕",
+        "leftEmojiCodepoint": "1f195",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20250430",
+        "isLatest": true,
+        "gBoardOrder": 620
+      }
+    ],
+    "1f193": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f42e/u1f42e_u1f193.png",
+        "alt": "cow-free",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🆓",
+        "rightEmojiCodepoint": "1f193",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 621
+      }
+    ],
+    "a9-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f42e/u1f42e_ua9-ufe0f.png",
+        "alt": "cow-copyright",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "©️",
+        "rightEmojiCodepoint": "a9-fe0f",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 637
+      }
+    ],
+    "ae-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f42e/u1f42e_uae-ufe0f.png",
+        "alt": "cow-registered",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "®️",
+        "rightEmojiCodepoint": "ae-fe0f",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 638
+      }
+    ],
+    "2660-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f42e/u1f42e_u2660-ufe0f.png",
+        "alt": "cow-spades",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "♠️",
+        "rightEmojiCodepoint": "2660-fe0f",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 640
+      }
+    ],
+    "1f40e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f40e/u1f40e_u1f42e.png",
+        "alt": "racehorse-cow",
+        "leftEmoji": "🐎",
+        "leftEmojiCodepoint": "1f40e",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 245
+      }
+    ],
+    "1f980": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f980/u1f980_u1f42e.png",
+        "alt": "crab-cow",
+        "leftEmoji": "🦀",
+        "leftEmojiCodepoint": "1f980",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 262
+      }
+    ],
+    "1fab3": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1fab3/u1fab3_u1f42e.png",
+        "alt": "cockroach-cow",
+        "leftEmoji": "🪳",
+        "leftEmojiCodepoint": "1fab3",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 272
+      }
+    ],
+    "1f41e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f41e/u1f41e_u1f42e.png",
+        "alt": "ladybug-cow",
+        "leftEmoji": "🐞",
+        "leftEmojiCodepoint": "1f41e",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 274
+      }
+    ],
+    "1f345": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f345/u1f345_u1f42e.png",
+        "alt": "tomato-cow",
+        "leftEmoji": "🍅",
+        "leftEmojiCodepoint": "1f345",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 293
+      }
+    ],
+    "1f955": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f955/u1f955_u1f42e.png",
+        "alt": "carrot-cow",
+        "leftEmoji": "🥕",
+        "leftEmojiCodepoint": "1f955",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 296
+      }
+    ],
+    "1f94a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f94a/u1f94a_u1f42e.png",
+        "alt": "boxing_glove-cow",
+        "leftEmoji": "🥊",
+        "leftEmojiCodepoint": "1f94a",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 474
+      }
+    ],
+    "2699-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u2699-ufe0f/u2699-ufe0f_u1f42e.png",
+        "alt": "gear-cow",
+        "leftEmoji": "⚙️",
+        "leftEmojiCodepoint": "2699-fe0f",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 563
+      }
+    ],
+    "1f5f3-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f5f3-ufe0f/u1f5f3-ufe0f_u1f42e.png",
+        "alt": "ballot_box_with_ballot-cow",
+        "leftEmoji": "🗳️",
+        "leftEmojiCodepoint": "1f5f3-fe0f",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 579
+      }
+    ],
+    "1fae9": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1fae9/u1fae9_u1f42e.png",
+        "alt": "face_with_bags_under_eyes-cow",
+        "leftEmoji": "🫩",
+        "leftEmojiCodepoint": "1fae9",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 96
+      }
+    ],
+    "1f4aa": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250430/u1f4aa/u1f4aa_u1f42e.png",
+        "alt": "muscle-cow",
+        "leftEmoji": "💪",
+        "leftEmojiCodepoint": "1f4aa",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20250430",
+        "isLatest": true,
+        "gBoardOrder": 168
+      }
+    ],
+    "1f64f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250430/u1f64f/u1f64f_u1f42e.png",
+        "alt": "pray-cow",
+        "leftEmoji": "🙏",
+        "leftEmojiCodepoint": "1f64f",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20250430",
+        "isLatest": true,
+        "gBoardOrder": 170
+      }
+    ],
+    "1f3a2": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250430/u1f3a2/u1f3a2_u1f42e.png",
+        "alt": "roller_coaster-cow",
+        "leftEmoji": "🎢",
+        "leftEmojiCodepoint": "1f3a2",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20250430",
+        "isLatest": true,
+        "gBoardOrder": 414
+      }
+    ],
+    "1fa70": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250430/u1fa70/u1fa70_u1f42e.png",
+        "alt": "ballet_shoes-cow",
+        "leftEmoji": "🩰",
+        "leftEmojiCodepoint": "1fa70",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20250430",
+        "isLatest": true,
+        "gBoardOrder": 462
+      }
+    ],
+    "1f3ad": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250430/u1f3ad/u1f3ad_u1f42e.png",
+        "alt": "performing_arts-cow",
+        "leftEmoji": "🎭",
+        "leftEmojiCodepoint": "1f3ad",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20250430",
+        "isLatest": true,
+        "gBoardOrder": 516
+      }
+    ],
+    "2049-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250430/u2049-ufe0f/u2049-ufe0f_u1f42e.png",
+        "alt": "interrobang-cow",
+        "leftEmoji": "⁉️",
+        "leftEmojiCodepoint": "2049-fe0f",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20250430",
+        "isLatest": true,
+        "gBoardOrder": 609
+      }
+    ],
+    "1f953": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20251029/u1f953/u1f953_u1f42e.png",
+        "alt": "bacon-cow",
+        "leftEmoji": "🥓",
+        "leftEmojiCodepoint": "1f953",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20251029",
+        "isLatest": true,
+        "gBoardOrder": 325
+      }
+    ],
+    "1f4f7": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20251029/u1f4f7/u1f4f7_u1f42e.png",
+        "alt": "camera-cow",
+        "leftEmoji": "📷",
+        "leftEmojiCodepoint": "1f4f7",
+        "rightEmoji": "🐮",
+        "rightEmojiCodepoint": "1f42e",
+        "date": "20251029",
+        "isLatest": true,
+        "gBoardOrder": 483
+      }
+    ]
+  }
+}

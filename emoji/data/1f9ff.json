@@ -1,0 +1,5081 @@
+{
+  "alt": "nazar_amulet",
+  "emoji": "🧿",
+  "emojiCodepoint": "1f9ff",
+  "gBoardOrder": 573,
+  "keywords": [
+    "nazar_amulet",
+    "bead",
+    "charm",
+    "boncuğu",
+    "evil",
+    "eye",
+    "talisman"
+  ],
+  "category": "objects",
+  "subcategory": "other-object",
+  "combinations": {
+    "2648": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f9ff/u1f9ff_u2648.png",
+        "alt": "nazar_amulet-aries",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "♈",
+        "rightEmojiCodepoint": "2648",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 594
+      }
+    ],
+    "2649": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f9ff/u1f9ff_u2649.png",
+        "alt": "nazar_amulet-taurus",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "♉",
+        "rightEmojiCodepoint": "2649",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 595
+      }
+    ],
+    "2650": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f9ff/u1f9ff_u2650.png",
+        "alt": "nazar_amulet-sagittarius",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "♐",
+        "rightEmojiCodepoint": "2650",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 602
+      }
+    ],
+    "2651": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f9ff/u1f9ff_u2651.png",
+        "alt": "nazar_amulet-capricorn",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "♑",
+        "rightEmojiCodepoint": "2651",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 603
+      }
+    ],
+    "2652": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f9ff/u1f9ff_u2652.png",
+        "alt": "nazar_amulet-aquarius",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "♒",
+        "rightEmojiCodepoint": "2652",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 604
+      }
+    ],
+    "2653": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f9ff/u1f9ff_u2653.png",
+        "alt": "nazar_amulet-pisces",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "♓",
+        "rightEmojiCodepoint": "2653",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 605
+      }
+    ],
+    "2705": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u2705/u2705_u1f9ff.png",
+        "alt": "white_check_mark-nazar_amulet",
+        "leftEmoji": "✅",
+        "leftEmojiCodepoint": "2705",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 619
+      }
+    ],
+    "2753": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u2753/u2753_u1f9ff.png",
+        "alt": "question-nazar_amulet",
+        "leftEmoji": "❓",
+        "leftEmojiCodepoint": "2753",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 608
+      }
+    ],
+    "2757": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u2757/u2757_u1f9ff.png",
+        "alt": "exclamation-nazar_amulet",
+        "leftEmoji": "❗",
+        "leftEmojiCodepoint": "2757",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 607
+      }
+    ],
+    "1fa84": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230301/u1fa84/u1fa84_u1f9ff.png",
+        "alt": "magic_wand-nazar_amulet",
+        "leftEmoji": "🪄",
+        "leftEmojiCodepoint": "1fa84",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20230301",
+        "isLatest": true,
+        "gBoardOrder": 0
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220506/u1fa84/u1fa84_u1f9ff.png",
+        "alt": "magic_wand-nazar_amulet",
+        "leftEmoji": "🪄",
+        "leftEmojiCodepoint": "1fa84",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20220506",
+        "isLatest": false,
+        "gBoardOrder": 0
+      }
+    ],
+    "1f600": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f600.png",
+        "alt": "nazar_amulet-grinning",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "😀",
+        "rightEmojiCodepoint": "1f600",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 1
+      }
+    ],
+    "1f603": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f603.png",
+        "alt": "nazar_amulet-smiley",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "😃",
+        "rightEmojiCodepoint": "1f603",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 2
+      }
+    ],
+    "1f604": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f604.png",
+        "alt": "nazar_amulet-smile",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "😄",
+        "rightEmojiCodepoint": "1f604",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 3
+      }
+    ],
+    "1f601": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f601.png",
+        "alt": "nazar_amulet-grin",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "😁",
+        "rightEmojiCodepoint": "1f601",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 4
+      }
+    ],
+    "1f606": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f606.png",
+        "alt": "nazar_amulet-laughing",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "😆",
+        "rightEmojiCodepoint": "1f606",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 5
+      }
+    ],
+    "1f605": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f605.png",
+        "alt": "nazar_amulet-sweat_smile",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "😅",
+        "rightEmojiCodepoint": "1f605",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 6
+      }
+    ],
+    "1f602": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230301/u1f602/u1f602_u1f9ff.png",
+        "alt": "joy-nazar_amulet",
+        "leftEmoji": "😂",
+        "leftEmojiCodepoint": "1f602",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20230301",
+        "isLatest": true,
+        "gBoardOrder": 7
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220506/u1f602/u1f602_u1f9ff.png",
+        "alt": "joy-nazar_amulet",
+        "leftEmoji": "😂",
+        "leftEmojiCodepoint": "1f602",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20220506",
+        "isLatest": false,
+        "gBoardOrder": 7
+      }
+    ],
+    "1f609": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f609.png",
+        "alt": "nazar_amulet-wink",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "😉",
+        "rightEmojiCodepoint": "1f609",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 10
+      }
+    ],
+    "1f617": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f617.png",
+        "alt": "nazar_amulet-kissing",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "😗",
+        "rightEmojiCodepoint": "1f617",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 11
+      }
+    ],
+    "1f619": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f619.png",
+        "alt": "nazar_amulet-kissing_smiling_eyes",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "😙",
+        "rightEmojiCodepoint": "1f619",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 12
+      }
+    ],
+    "1f61a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f61a.png",
+        "alt": "nazar_amulet-kissing_closed_eyes",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "😚",
+        "rightEmojiCodepoint": "1f61a",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 13
+      }
+    ],
+    "1f618": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230301/u1f618/u1f618_u1f9ff.png",
+        "alt": "kissing_heart-nazar_amulet",
+        "leftEmoji": "😘",
+        "leftEmojiCodepoint": "1f618",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20230301",
+        "isLatest": true,
+        "gBoardOrder": 14
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220506/u1f618/u1f618_u1f9ff.png",
+        "alt": "kissing_heart-nazar_amulet",
+        "leftEmoji": "😘",
+        "leftEmojiCodepoint": "1f618",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20220506",
+        "isLatest": false,
+        "gBoardOrder": 14
+      }
+    ],
+    "1f970": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220506/u1f970/u1f970_u1f9ff.png",
+        "alt": "smiling_face_with_3_hearts-nazar_amulet",
+        "leftEmoji": "🥰",
+        "leftEmojiCodepoint": "1f970",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20220506",
+        "isLatest": true,
+        "gBoardOrder": 15
+      }
+    ],
+    "1f60d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220506/u1f60d/u1f60d_u1f9ff.png",
+        "alt": "heart_eyes-nazar_amulet",
+        "leftEmoji": "😍",
+        "leftEmojiCodepoint": "1f60d",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20220506",
+        "isLatest": true,
+        "gBoardOrder": 16
+      }
+    ],
+    "1f929": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f929.png",
+        "alt": "nazar_amulet-star_struck",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🤩",
+        "rightEmojiCodepoint": "1f929",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 17
+      }
+    ],
+    "1f643": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f643.png",
+        "alt": "nazar_amulet-upside_down_face",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🙃",
+        "rightEmojiCodepoint": "1f643",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 19
+      }
+    ],
+    "1f642": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f642.png",
+        "alt": "nazar_amulet-slightly_smiling_face",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🙂",
+        "rightEmojiCodepoint": "1f642",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 20
+      }
+    ],
+    "1f972": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f972.png",
+        "alt": "nazar_amulet-smiling_face_with_tear",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🥲",
+        "rightEmojiCodepoint": "1f972",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 21
+      }
+    ],
+    "1f60b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f60b.png",
+        "alt": "nazar_amulet-yum",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "😋",
+        "rightEmojiCodepoint": "1f60b",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 23
+      }
+    ],
+    "1f61b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f61b.png",
+        "alt": "nazar_amulet-stuck_out_tongue",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "😛",
+        "rightEmojiCodepoint": "1f61b",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 24
+      }
+    ],
+    "1f61d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f61d.png",
+        "alt": "nazar_amulet-stuck_out_tongue_closed_eyes",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "😝",
+        "rightEmojiCodepoint": "1f61d",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 25
+      }
+    ],
+    "1f60a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f60a.png",
+        "alt": "nazar_amulet-blush",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "😊",
+        "rightEmojiCodepoint": "1f60a",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 29
+      }
+    ],
+    "263a-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u263a-ufe0f.png",
+        "alt": "nazar_amulet-relaxed",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "☺️",
+        "rightEmojiCodepoint": "263a-fe0f",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 30
+      }
+    ],
+    "1f60f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f60f.png",
+        "alt": "nazar_amulet-smirk",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "😏",
+        "rightEmojiCodepoint": "1f60f",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 31
+      }
+    ],
+    "1f60c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f60c.png",
+        "alt": "nazar_amulet-relieved",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "😌",
+        "rightEmojiCodepoint": "1f60c",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 32
+      }
+    ],
+    "1f614": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230301/u1f614/u1f614_u1f9ff.png",
+        "alt": "pensive-nazar_amulet",
+        "leftEmoji": "😔",
+        "leftEmojiCodepoint": "1f614",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20230301",
+        "isLatest": true,
+        "gBoardOrder": 33
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220506/u1f614/u1f614_u1f9ff.png",
+        "alt": "pensive-nazar_amulet",
+        "leftEmoji": "😔",
+        "leftEmojiCodepoint": "1f614",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20220506",
+        "isLatest": false,
+        "gBoardOrder": 33
+      }
+    ],
+    "1f611": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f611.png",
+        "alt": "nazar_amulet-expressionless",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "😑",
+        "rightEmojiCodepoint": "1f611",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 34
+      }
+    ],
+    "1f610": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f610.png",
+        "alt": "nazar_amulet-neutral_face",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "😐",
+        "rightEmojiCodepoint": "1f610",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 35
+      }
+    ],
+    "1f636": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f636.png",
+        "alt": "nazar_amulet-no_mouth",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "😶",
+        "rightEmojiCodepoint": "1f636",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 36
+      }
+    ],
+    "1f928": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f928.png",
+        "alt": "nazar_amulet-face_with_raised_eyebrow",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🤨",
+        "rightEmojiCodepoint": "1f928",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 46
+      }
+    ],
+    "1f612": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f612.png",
+        "alt": "nazar_amulet-unamused",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "😒",
+        "rightEmojiCodepoint": "1f612",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 48
+      }
+    ],
+    "1f62e-200d-1f4a8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f62e-u200d-u1f4a8.png",
+        "alt": "nazar_amulet-face_exhaling",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "😮‍💨",
+        "rightEmojiCodepoint": "1f62e-200d-1f4a8",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 50
+      }
+    ],
+    "1f624": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f624.png",
+        "alt": "nazar_amulet-triumph",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "😤",
+        "rightEmojiCodepoint": "1f624",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 51
+      }
+    ],
+    "1f620": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f620.png",
+        "alt": "nazar_amulet-angry",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "😠",
+        "rightEmojiCodepoint": "1f620",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 52
+      }
+    ],
+    "1f97a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230301/u1f97a/u1f97a_u1f9ff.png",
+        "alt": "pleading_face-nazar_amulet",
+        "leftEmoji": "🥺",
+        "leftEmojiCodepoint": "1f97a",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20230301",
+        "isLatest": true,
+        "gBoardOrder": 55
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220506/u1f97a/u1f97a_u1f9ff.png",
+        "alt": "pleading_face-nazar_amulet",
+        "leftEmoji": "🥺",
+        "leftEmojiCodepoint": "1f97a",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20220506",
+        "isLatest": false,
+        "gBoardOrder": 55
+      }
+    ],
+    "1f61f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f61f.png",
+        "alt": "nazar_amulet-worried",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "😟",
+        "rightEmojiCodepoint": "1f61f",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 56
+      }
+    ],
+    "1f625": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f625.png",
+        "alt": "nazar_amulet-disappointed_relieved",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "😥",
+        "rightEmojiCodepoint": "1f625",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 57
+      }
+    ],
+    "1f622": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f622.png",
+        "alt": "nazar_amulet-cry",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "😢",
+        "rightEmojiCodepoint": "1f622",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 58
+      }
+    ],
+    "2639-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u2639-ufe0f.png",
+        "alt": "nazar_amulet-white_frowning_face",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "☹️",
+        "rightEmojiCodepoint": "2639-fe0f",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 59
+      }
+    ],
+    "1f641": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f641.png",
+        "alt": "nazar_amulet-slightly_frowning_face",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🙁",
+        "rightEmojiCodepoint": "1f641",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 60
+      }
+    ],
+    "1fae4": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1fae4.png",
+        "alt": "nazar_amulet-face_with_diagonal_mouth",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🫤",
+        "rightEmojiCodepoint": "1fae4",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 61
+      }
+    ],
+    "1f615": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f615.png",
+        "alt": "nazar_amulet-confused",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "😕",
+        "rightEmojiCodepoint": "1f615",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 62
+      }
+    ],
+    "1f910": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f910.png",
+        "alt": "nazar_amulet-zipper_mouth_face",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🤐",
+        "rightEmojiCodepoint": "1f910",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 63
+      }
+    ],
+    "1f627": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f627.png",
+        "alt": "nazar_amulet-anguished",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "😧",
+        "rightEmojiCodepoint": "1f627",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 66
+      }
+    ],
+    "1f626": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f626.png",
+        "alt": "nazar_amulet-frowning",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "😦",
+        "rightEmojiCodepoint": "1f626",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 67
+      }
+    ],
+    "1f62e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f62e.png",
+        "alt": "nazar_amulet-open_mouth",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "😮",
+        "rightEmojiCodepoint": "1f62e",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 68
+      }
+    ],
+    "1f62f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f62f.png",
+        "alt": "nazar_amulet-hushed",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "😯",
+        "rightEmojiCodepoint": "1f62f",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 69
+      }
+    ],
+    "1f632": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f632.png",
+        "alt": "nazar_amulet-astonished",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "😲",
+        "rightEmojiCodepoint": "1f632",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 70
+      }
+    ],
+    "1f62c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f62c.png",
+        "alt": "nazar_amulet-grimacing",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "😬",
+        "rightEmojiCodepoint": "1f62c",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 73
+      }
+    ],
+    "1f613": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f613.png",
+        "alt": "nazar_amulet-sweat",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "😓",
+        "rightEmojiCodepoint": "1f613",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 74
+      }
+    ],
+    "1f61e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f61e.png",
+        "alt": "nazar_amulet-disappointed",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "😞",
+        "rightEmojiCodepoint": "1f61e",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 75
+      }
+    ],
+    "1f616": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f616.png",
+        "alt": "nazar_amulet-confounded",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "😖",
+        "rightEmojiCodepoint": "1f616",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 76
+      }
+    ],
+    "1f623": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f623.png",
+        "alt": "nazar_amulet-persevere",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "😣",
+        "rightEmojiCodepoint": "1f623",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 77
+      }
+    ],
+    "1f629": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f629.png",
+        "alt": "nazar_amulet-weary",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "😩",
+        "rightEmojiCodepoint": "1f629",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 78
+      }
+    ],
+    "1f62b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f62b.png",
+        "alt": "nazar_amulet-tired_face",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "😫",
+        "rightEmojiCodepoint": "1f62b",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 79
+      }
+    ],
+    "1f635": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f635.png",
+        "alt": "nazar_amulet-dizzy_face",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "😵",
+        "rightEmojiCodepoint": "1f635",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 80
+      }
+    ],
+    "1f62a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f62a.png",
+        "alt": "nazar_amulet-sleepy",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "😪",
+        "rightEmojiCodepoint": "1f62a",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 83
+      }
+    ],
+    "1f31c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f31c/u1f31c_u1f9ff.png",
+        "alt": "last_quarter_moon_with_face-nazar_amulet",
+        "leftEmoji": "🌜",
+        "leftEmojiCodepoint": "1f31c",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 86
+      }
+    ],
+    "1f974": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f974.png",
+        "alt": "nazar_amulet-woozy_face",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🥴",
+        "rightEmojiCodepoint": "1f974",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 92
+      }
+    ],
+    "1f927": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f927.png",
+        "alt": "nazar_amulet-sneezing_face",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🤧",
+        "rightEmojiCodepoint": "1f927",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 97
+      }
+    ],
+    "1f912": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f912.png",
+        "alt": "nazar_amulet-face_with_thermometer",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🤒",
+        "rightEmojiCodepoint": "1f912",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 98
+      }
+    ],
+    "1f911": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f911.png",
+        "alt": "nazar_amulet-money_mouth_face",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🤑",
+        "rightEmojiCodepoint": "1f911",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 102
+      }
+    ],
+    "1f60e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220815/u1f60e/u1f60e_u1f9ff.png",
+        "alt": "sunglasses-nazar_amulet",
+        "leftEmoji": "😎",
+        "leftEmojiCodepoint": "1f60e",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20220815",
+        "isLatest": true,
+        "gBoardOrder": 103
+      }
+    ],
+    "1f913": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9ff/u1f9ff_u1f913.png",
+        "alt": "nazar_amulet-nerd_face",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🤓",
+        "rightEmojiCodepoint": "1f913",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 104
+      }
+    ],
+    "1f47b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220506/u1f47b/u1f47b_u1f9ff.png",
+        "alt": "ghost-nazar_amulet",
+        "leftEmoji": "👻",
+        "leftEmojiCodepoint": "1f47b",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20220506",
+        "isLatest": true,
+        "gBoardOrder": 108
+      }
+    ],
+    "1f916": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f916/u1f916_u1f9ff.png",
+        "alt": "robot_face-nazar_amulet",
+        "leftEmoji": "🤖",
+        "leftEmojiCodepoint": "1f916",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 112
+      }
+    ],
+    "1f525": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f525/u1f525_u1f9ff.png",
+        "alt": "fire-nazar_amulet",
+        "leftEmoji": "🔥",
+        "leftEmojiCodepoint": "1f525",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 118
+      }
+    ],
+    "2b50": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240610/u2b50/u2b50_u1f9ff.png",
+        "alt": "star-nazar_amulet",
+        "leftEmoji": "⭐",
+        "leftEmojiCodepoint": "2b50",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240610",
+        "isLatest": true,
+        "gBoardOrder": 120
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u2b50/u2b50_u1f9ff.png",
+        "alt": "star-nazar_amulet",
+        "leftEmoji": "⭐",
+        "leftEmojiCodepoint": "2b50",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20231113",
+        "isLatest": false,
+        "gBoardOrder": 120
+      }
+    ],
+    "1f31f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220506/u1f31f/u1f31f_u1f9ff.png",
+        "alt": "star2-nazar_amulet",
+        "leftEmoji": "🌟",
+        "leftEmojiCodepoint": "1f31f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20220506",
+        "isLatest": true,
+        "gBoardOrder": 121
+      }
+    ],
+    "1f4a5": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f4a5/u1f4a5_u1f9ff.png",
+        "alt": "boom-nazar_amulet",
+        "leftEmoji": "💥",
+        "leftEmojiCodepoint": "1f4a5",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 122
+      }
+    ],
+    "1f4af": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230818/u1f4af/u1f4af_u1f9ff.png",
+        "alt": "100-nazar_amulet",
+        "leftEmoji": "💯",
+        "leftEmojiCodepoint": "1f4af",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20230818",
+        "isLatest": true,
+        "gBoardOrder": 123
+      }
+    ],
+    "1f573-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f573-ufe0f/u1f573-ufe0f_u1f9ff.png",
+        "alt": "hole-nazar_amulet",
+        "leftEmoji": "🕳️",
+        "leftEmojiCodepoint": "1f573-fe0f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 125
+      }
+    ],
+    "1f38a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230127/u1f38a/u1f38a_u1f9ff.png",
+        "alt": "confetti_ball-nazar_amulet",
+        "leftEmoji": "🎊",
+        "leftEmojiCodepoint": "1f38a",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20230127",
+        "isLatest": true,
+        "gBoardOrder": 126
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220506/u1f38a/u1f38a_u1f9ff.png",
+        "alt": "confetti_ball-nazar_amulet",
+        "leftEmoji": "🎊",
+        "leftEmojiCodepoint": "1f38a",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20220506",
+        "isLatest": false,
+        "gBoardOrder": 126
+      }
+    ],
+    "2665-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220506/u2665-ufe0f/u2665-ufe0f_u1f9ff.png",
+        "alt": "hearts-nazar_amulet",
+        "leftEmoji": "♥️",
+        "leftEmojiCodepoint": "2665-fe0f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20220506",
+        "isLatest": true,
+        "gBoardOrder": 139
+      }
+    ],
+    "1f498": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220506/u1f498/u1f498_u1f9ff.png",
+        "alt": "cupid-nazar_amulet",
+        "leftEmoji": "💘",
+        "leftEmojiCodepoint": "1f498",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20220506",
+        "isLatest": true,
+        "gBoardOrder": 140
+      }
+    ],
+    "1f497": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f497/u1f497_u1f9ff.png",
+        "alt": "heartpulse-nazar_amulet",
+        "leftEmoji": "💗",
+        "leftEmojiCodepoint": "1f497",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 143
+      }
+    ],
+    "1f493": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220506/u1f493/u1f493_u1f9ff.png",
+        "alt": "heartbeat-nazar_amulet",
+        "leftEmoji": "💓",
+        "leftEmojiCodepoint": "1f493",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20220506",
+        "isLatest": true,
+        "gBoardOrder": 144
+      }
+    ],
+    "1f495": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220506/u1f495/u1f495_u1f9ff.png",
+        "alt": "two_hearts-nazar_amulet",
+        "leftEmoji": "💕",
+        "leftEmojiCodepoint": "1f495",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20220506",
+        "isLatest": true,
+        "gBoardOrder": 146
+      }
+    ],
+    "1f48c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f48c/u1f48c_u1f9ff.png",
+        "alt": "love_letter-nazar_amulet",
+        "leftEmoji": "💌",
+        "leftEmojiCodepoint": "1f48c",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 147
+      }
+    ],
+    "2763-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220506/u2763-ufe0f/u2763-ufe0f_u1f9ff.png",
+        "alt": "heavy_heart_exclamation_mark_ornament-nazar_amulet",
+        "leftEmoji": "❣️",
+        "leftEmojiCodepoint": "2763-fe0f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20220506",
+        "isLatest": true,
+        "gBoardOrder": 149
+      }
+    ],
+    "1f48b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220815/u1f48b/u1f48b_u1f9ff.png",
+        "alt": "kiss-nazar_amulet",
+        "leftEmoji": "💋",
+        "leftEmojiCodepoint": "1f48b",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20220815",
+        "isLatest": true,
+        "gBoardOrder": 152
+      }
+    ],
+    "1f441-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230418/u1f441-ufe0f/u1f441-ufe0f_u1f9ff.png",
+        "alt": "eye-nazar_amulet",
+        "leftEmoji": "👁️",
+        "leftEmojiCodepoint": "1f441-fe0f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20230418",
+        "isLatest": true,
+        "gBoardOrder": 167
+      }
+    ],
+    "1f44d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231128/u1f44d/u1f44d_u1f9ff.png",
+        "alt": "+1-nazar_amulet",
+        "leftEmoji": "👍",
+        "leftEmojiCodepoint": "1f44d",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20231128",
+        "isLatest": true,
+        "gBoardOrder": 170
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f44d/u1f44d_u1f9ff.png",
+        "alt": "+1-nazar_amulet",
+        "leftEmoji": "👍",
+        "leftEmojiCodepoint": "1f44d",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20230803",
+        "isLatest": false,
+        "gBoardOrder": 170
+      }
+    ],
+    "1f937": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220815/u1f937/u1f937_u1f9ff.png",
+        "alt": "shrug-nazar_amulet",
+        "leftEmoji": "🤷",
+        "leftEmojiCodepoint": "1f937",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20220815",
+        "isLatest": true,
+        "gBoardOrder": 171
+      }
+    ],
+    "1fa82": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1fa82/u1fa82_u1f9ff.png",
+        "alt": "parachute-nazar_amulet",
+        "leftEmoji": "🪂",
+        "leftEmojiCodepoint": "1fa82",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 172
+      }
+    ],
+    "1f337": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f337/u1f337_u1f9ff.png",
+        "alt": "tulip-nazar_amulet",
+        "leftEmoji": "🌷",
+        "leftEmojiCodepoint": "1f337",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 177
+      }
+    ],
+    "1f4ae": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f4ae/u1f4ae_u1f9ff.png",
+        "alt": "white_flower-nazar_amulet",
+        "leftEmoji": "💮",
+        "leftEmojiCodepoint": "1f4ae",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 180
+      }
+    ],
+    "1f30a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230418/u1f30a/u1f30a_u1f9ff.png",
+        "alt": "ocean-nazar_amulet",
+        "leftEmoji": "🌊",
+        "leftEmojiCodepoint": "1f30a",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20230418",
+        "isLatest": true,
+        "gBoardOrder": 204
+      }
+    ],
+    "1f32a-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f32a-ufe0f/u1f32a-ufe0f_u1f9ff.png",
+        "alt": "tornado-nazar_amulet",
+        "leftEmoji": "🌪️",
+        "leftEmojiCodepoint": "1f32a-fe0f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 207
+      }
+    ],
+    "1f30b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f30b/u1f30b_u1f9ff.png",
+        "alt": "volcano-nazar_amulet",
+        "leftEmoji": "🌋",
+        "leftEmojiCodepoint": "1f30b",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 208
+      }
+    ],
+    "1f304": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f304/u1f304_u1f9ff.png",
+        "alt": "sunrise_over_mountains-nazar_amulet",
+        "leftEmoji": "🌄",
+        "leftEmojiCodepoint": "1f304",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 211
+      }
+    ],
+    "2601-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231128/u2601-ufe0f/u2601-ufe0f_u1f9ff.png",
+        "alt": "cloud-nazar_amulet",
+        "leftEmoji": "☁️",
+        "leftEmojiCodepoint": "2601-fe0f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20231128",
+        "isLatest": true,
+        "gBoardOrder": 213
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220506/u2601-ufe0f/u2601-ufe0f_u1f9ff.png",
+        "alt": "cloud-nazar_amulet",
+        "leftEmoji": "☁️",
+        "leftEmojiCodepoint": "2601-fe0f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20220506",
+        "isLatest": false,
+        "gBoardOrder": 213
+      }
+    ],
+    "1f327-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20221101/u1f327-ufe0f/u1f327-ufe0f_u1f9ff.png",
+        "alt": "rain_cloud-nazar_amulet",
+        "leftEmoji": "🌧️",
+        "leftEmojiCodepoint": "1f327-fe0f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20221101",
+        "isLatest": true,
+        "gBoardOrder": 214
+      }
+    ],
+    "2602-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u2602-ufe0f/u2602-ufe0f_u1f9ff.png",
+        "alt": "umbrella-nazar_amulet",
+        "leftEmoji": "☂️",
+        "leftEmojiCodepoint": "2602-fe0f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 217
+      }
+    ],
+    "1f984": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f984/u1f984_u1f9ff.png",
+        "alt": "unicorn_face-nazar_amulet",
+        "leftEmoji": "🦄",
+        "leftEmojiCodepoint": "1f984",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 240
+      }
+    ],
+    "1f34c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240610/u1f34c/u1f34c_u1f9ff.png",
+        "alt": "banana-nazar_amulet",
+        "leftEmoji": "🍌",
+        "leftEmojiCodepoint": "1f34c",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240610",
+        "isLatest": true,
+        "gBoardOrder": 284
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f34c/u1f34c_u1f9ff.png",
+        "alt": "banana-nazar_amulet",
+        "leftEmoji": "🍌",
+        "leftEmojiCodepoint": "1f34c",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240206",
+        "isLatest": false,
+        "gBoardOrder": 284
+      }
+    ],
+    "1f365": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f365/u1f365_u1f9ff.png",
+        "alt": "fish_cake-nazar_amulet",
+        "leftEmoji": "🍥",
+        "leftEmojiCodepoint": "1f365",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 351
+      }
+    ],
+    "1f9ca": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f9ca/u1f9ca_u1f9ff.png",
+        "alt": "ice_cube-nazar_amulet",
+        "leftEmoji": "🧊",
+        "leftEmojiCodepoint": "1f9ca",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 371
+      }
+    ],
+    "1f9c3": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f9c3/u1f9c3_u1f9ff.png",
+        "alt": "beverage_box-nazar_amulet",
+        "leftEmoji": "🧃",
+        "leftEmojiCodepoint": "1f9c3",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 374
+      }
+    ],
+    "1f37d-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230418/u1f37d-ufe0f/u1f37d-ufe0f_u1f9ff.png",
+        "alt": "knife_fork_plate-nazar_amulet",
+        "leftEmoji": "🍽️",
+        "leftEmojiCodepoint": "1f37d-fe0f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20230418",
+        "isLatest": true,
+        "gBoardOrder": 388
+      }
+    ],
+    "1f6d1": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f6d1/u1f6d1_u1f9ff.png",
+        "alt": "octagonal_sign-nazar_amulet",
+        "leftEmoji": "🛑",
+        "leftEmojiCodepoint": "1f6d1",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 389
+      }
+    ],
+    "26fd": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u26fd/u26fd_u1f9ff.png",
+        "alt": "fuelpump-nazar_amulet",
+        "leftEmoji": "⛽",
+        "leftEmojiCodepoint": "26fd",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 392
+      }
+    ],
+    "1f6f8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230418/u1f6f8/u1f6f8_u1f9ff.png",
+        "alt": "flying_saucer-nazar_amulet",
+        "leftEmoji": "🛸",
+        "leftEmojiCodepoint": "1f6f8",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20230418",
+        "isLatest": true,
+        "gBoardOrder": 411
+      }
+    ],
+    "1f381": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220506/u1f381/u1f381_u1f9ff.png",
+        "alt": "gift-nazar_amulet",
+        "leftEmoji": "🎁",
+        "leftEmojiCodepoint": "1f381",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20220506",
+        "isLatest": true,
+        "gBoardOrder": 432
+      }
+    ],
+    "1f386": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230418/u1f386/u1f386_u1f9ff.png",
+        "alt": "fireworks-nazar_amulet",
+        "leftEmoji": "🎆",
+        "leftEmojiCodepoint": "1f386",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20230418",
+        "isLatest": true,
+        "gBoardOrder": 433
+      }
+    ],
+    "1f947": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f947/u1f947_u1f9ff.png",
+        "alt": "first_place_medal-nazar_amulet",
+        "leftEmoji": "🥇",
+        "leftEmojiCodepoint": "1f947",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 437
+      }
+    ],
+    "1f948": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f948/u1f948_u1f9ff.png",
+        "alt": "second_place_medal-nazar_amulet",
+        "leftEmoji": "🥈",
+        "leftEmojiCodepoint": "1f948",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 438
+      }
+    ],
+    "1f949": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f949/u1f949_u1f9ff.png",
+        "alt": "third_place_medal-nazar_amulet",
+        "leftEmoji": "🥉",
+        "leftEmojiCodepoint": "1f949",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 439
+      }
+    ],
+    "1f3c0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f3c0/u1f3c0_u1f9ff.png",
+        "alt": "basketball-nazar_amulet",
+        "leftEmoji": "🏀",
+        "leftEmojiCodepoint": "1f3c0",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 446
+      }
+    ],
+    "1f3c8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f3c8/u1f3c8_u1f9ff.png",
+        "alt": "football-nazar_amulet",
+        "leftEmoji": "🏈",
+        "leftEmojiCodepoint": "1f3c8",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 448
+      }
+    ],
+    "1f945": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230418/u1f945/u1f945_u1f9ff.png",
+        "alt": "goal_net-nazar_amulet",
+        "leftEmoji": "🥅",
+        "leftEmojiCodepoint": "1f945",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20230418",
+        "isLatest": true,
+        "gBoardOrder": 451
+      }
+    ],
+    "1f3f8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230418/u1f3f8/u1f3f8_u1f9ff.png",
+        "alt": "badminton_racquet_and_shuttlecock-nazar_amulet",
+        "leftEmoji": "🏸",
+        "leftEmojiCodepoint": "1f3f8",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20230418",
+        "isLatest": true,
+        "gBoardOrder": 452
+      }
+    ],
+    "1f3a3": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f3a3/u1f3a3_u1f9ff.png",
+        "alt": "fishing_pole_and_fish-nazar_amulet",
+        "leftEmoji": "🎣",
+        "leftEmojiCodepoint": "1f3a3",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 470
+      }
+    ],
+    "1f3b1": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f3b1/u1f3b1_u1f9ff.png",
+        "alt": "8ball-nazar_amulet",
+        "leftEmoji": "🎱",
+        "leftEmojiCodepoint": "1f3b1",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 475
+      }
+    ],
+    "1f3b3": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f3b3/u1f3b3_u1f9ff.png",
+        "alt": "bowling-nazar_amulet",
+        "leftEmoji": "🎳",
+        "leftEmojiCodepoint": "1f3b3",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 477
+      }
+    ],
+    "1f9e9": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9e9/u1f9e9_u1f9ff.png",
+        "alt": "jigsaw-nazar_amulet",
+        "leftEmoji": "🧩",
+        "leftEmojiCodepoint": "1f9e9",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 480
+      }
+    ],
+    "1f3b0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230126/u1f3b0/u1f3b0_u1f9ff.png",
+        "alt": "slot_machine-nazar_amulet",
+        "leftEmoji": "🎰",
+        "leftEmojiCodepoint": "1f3b0",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20230126",
+        "isLatest": true,
+        "gBoardOrder": 483
+      }
+    ],
+    "1f5bc-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f5bc-ufe0f/u1f5bc-ufe0f_u1f9ff.png",
+        "alt": "frame_with_picture-nazar_amulet",
+        "leftEmoji": "🖼️",
+        "leftEmojiCodepoint": "1f5bc-fe0f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 488
+      }
+    ],
+    "1f58d-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f58d-ufe0f/u1f58d-ufe0f_u1f9ff.png",
+        "alt": "lower_left_crayon-nazar_amulet",
+        "leftEmoji": "🖍️",
+        "leftEmojiCodepoint": "1f58d-fe0f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 491
+      }
+    ],
+    "1f3ac": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f3ac/u1f3ac_u1f9ff.png",
+        "alt": "clapper-nazar_amulet",
+        "leftEmoji": "🎬",
+        "leftEmojiCodepoint": "1f3ac",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 515
+      }
+    ],
+    "1f39f-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f39f-ufe0f/u1f39f-ufe0f_u1f9ff.png",
+        "alt": "admission_tickets-nazar_amulet",
+        "leftEmoji": "🎟️",
+        "leftEmojiCodepoint": "1f39f-fe0f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 517
+      }
+    ],
+    "1f4df": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f4df/u1f4df_u1f9ff.png",
+        "alt": "pager-nazar_amulet",
+        "leftEmoji": "📟",
+        "leftEmojiCodepoint": "1f4df",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 520
+      }
+    ],
+    "1f4e0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240610/u1f4e0/u1f4e0_u1f9ff.png",
+        "alt": "fax-nazar_amulet",
+        "leftEmoji": "📠",
+        "leftEmojiCodepoint": "1f4e0",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240610",
+        "isLatest": true,
+        "gBoardOrder": 521
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f4e0/u1f4e0_u1f9ff.png",
+        "alt": "fax-nazar_amulet",
+        "leftEmoji": "📠",
+        "leftEmojiCodepoint": "1f4e0",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240206",
+        "isLatest": false,
+        "gBoardOrder": 521
+      }
+    ],
+    "1f4be": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f4be/u1f4be_u1f9ff.png",
+        "alt": "floppy_disk-nazar_amulet",
+        "leftEmoji": "💾",
+        "leftEmojiCodepoint": "1f4be",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 525
+      }
+    ],
+    "1f4bb": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f4bb/u1f4bb_u1f9ff.png",
+        "alt": "computer-nazar_amulet",
+        "leftEmoji": "💻",
+        "leftEmojiCodepoint": "1f4bb",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 527
+      }
+    ],
+    "1f4a1": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230418/u1f4a1/u1f4a1_u1f9ff.png",
+        "alt": "bulb-nazar_amulet",
+        "leftEmoji": "💡",
+        "leftEmojiCodepoint": "1f4a1",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20230418",
+        "isLatest": true,
+        "gBoardOrder": 533
+      }
+    ],
+    "1f4f0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f4f0/u1f4f0_u1f9ff.png",
+        "alt": "newspaper-nazar_amulet",
+        "leftEmoji": "📰",
+        "leftEmojiCodepoint": "1f4f0",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 577
+      }
+    ],
+    "1f52e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220506/u1f52e/u1f52e_u1f9ff.png",
+        "alt": "crystal_ball-nazar_amulet",
+        "leftEmoji": "🔮",
+        "leftEmojiCodepoint": "1f52e",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20220506",
+        "isLatest": true,
+        "gBoardOrder": 588
+      }
+    ],
+    "1f3fa": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f3fa/u1f3fa_u1f9ff.png",
+        "alt": "amphora-nazar_amulet",
+        "leftEmoji": "🏺",
+        "leftEmojiCodepoint": "1f3fa",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 590
+      }
+    ],
+    "1faa4": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230418/u1faa4/u1faa4_u1f9ff.png",
+        "alt": "mouse_trap-nazar_amulet",
+        "leftEmoji": "🪤",
+        "leftEmojiCodepoint": "1faa4",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20230418",
+        "isLatest": true,
+        "gBoardOrder": 591
+      }
+    ],
+    "26a0-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230418/u26a0-ufe0f/u26a0-ufe0f_u1f9ff.png",
+        "alt": "warning-nazar_amulet",
+        "leftEmoji": "⚠️",
+        "leftEmojiCodepoint": "26a0-fe0f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20230418",
+        "isLatest": true,
+        "gBoardOrder": 617
+      }
+    ],
+    "267b-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u267b-ufe0f/u267b-ufe0f_u1f9ff.png",
+        "alt": "recycle-nazar_amulet",
+        "leftEmoji": "♻️",
+        "leftEmojiCodepoint": "267b-fe0f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 618
+      }
+    ],
+    "1f5ef-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230418/u1f5ef-ufe0f/u1f5ef-ufe0f_u1f9ff.png",
+        "alt": "right_anger_bubble-nazar_amulet",
+        "leftEmoji": "🗯️",
+        "leftEmojiCodepoint": "1f5ef-fe0f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20230418",
+        "isLatest": true,
+        "gBoardOrder": 641
+      }
+    ],
+    "1f4ac": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f4ac/u1f4ac_u1f9ff.png",
+        "alt": "speech_balloon-nazar_amulet",
+        "leftEmoji": "💬",
+        "leftEmojiCodepoint": "1f4ac",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 642
+      }
+    ],
+    "1f40d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f40d/u1f40d_u1f9ff.png",
+        "alt": "snake-nazar_amulet",
+        "leftEmoji": "🐍",
+        "leftEmojiCodepoint": "1f40d",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 242
+      }
+    ],
+    "1f40e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f40e/u1f40e_u1f9ff.png",
+        "alt": "racehorse-nazar_amulet",
+        "leftEmoji": "🐎",
+        "leftEmojiCodepoint": "1f40e",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 245
+      }
+    ],
+    "1f62d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f62d/u1f62d_u1f9ff.png",
+        "alt": "sob-nazar_amulet",
+        "leftEmoji": "😭",
+        "leftEmojiCodepoint": "1f62d",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 9
+      }
+    ],
+    "1f973": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f973/u1f973_u1f9ff.png",
+        "alt": "partying_face-nazar_amulet",
+        "leftEmoji": "🥳",
+        "leftEmojiCodepoint": "1f973",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 18
+      }
+    ],
+    "1f607": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f607/u1f607_u1f9ff.png",
+        "alt": "innocent-nazar_amulet",
+        "leftEmoji": "😇",
+        "leftEmojiCodepoint": "1f607",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 28
+      }
+    ],
+    "1f631": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f631/u1f631_u1f9ff.png",
+        "alt": "scream-nazar_amulet",
+        "leftEmoji": "😱",
+        "leftEmojiCodepoint": "1f631",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 45
+      }
+    ],
+    "1f621": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f621/u1f621_u1f9ff.png",
+        "alt": "rage-nazar_amulet",
+        "leftEmoji": "😡",
+        "leftEmojiCodepoint": "1f621",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 53
+      }
+    ],
+    "1f630": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f630/u1f630_u1f9ff.png",
+        "alt": "cold_sweat-nazar_amulet",
+        "leftEmoji": "😰",
+        "leftEmojiCodepoint": "1f630",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 64
+      }
+    ],
+    "1f628": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f628/u1f628_u1f9ff.png",
+        "alt": "fearful-nazar_amulet",
+        "leftEmoji": "😨",
+        "leftEmojiCodepoint": "1f628",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 65
+      }
+    ],
+    "1f92f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f92f/u1f92f_u1f9ff.png",
+        "alt": "exploding_head-nazar_amulet",
+        "leftEmoji": "🤯",
+        "leftEmojiCodepoint": "1f92f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 72
+      }
+    ],
+    "1f636-200d-1f32b-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f636-u200d-u1f32b-ufe0f/u1f636-u200d-u1f32b-ufe0f_u1f9ff.png",
+        "alt": "face_in_clouds-nazar_amulet",
+        "leftEmoji": "😶‍🌫️",
+        "leftEmojiCodepoint": "1f636-200d-1f32b-fe0f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 91
+      }
+    ],
+    "1f975": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f975/u1f975_u1f9ff.png",
+        "alt": "hot_face-nazar_amulet",
+        "leftEmoji": "🥵",
+        "leftEmojiCodepoint": "1f975",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 93
+      }
+    ],
+    "1f976": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f976/u1f976_u1f9ff.png",
+        "alt": "cold_face-nazar_amulet",
+        "leftEmoji": "🥶",
+        "leftEmojiCodepoint": "1f976",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 94
+      }
+    ],
+    "1f922": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f922/u1f922_u1f9ff.png",
+        "alt": "nauseated_face-nazar_amulet",
+        "leftEmoji": "🤢",
+        "leftEmojiCodepoint": "1f922",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 95
+      }
+    ],
+    "1f915": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f915/u1f915_u1f9ff.png",
+        "alt": "face_with_head_bandage-nazar_amulet",
+        "leftEmoji": "🤕",
+        "leftEmojiCodepoint": "1f915",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 99
+      }
+    ],
+    "1f637": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f637/u1f637_u1f9ff.png",
+        "alt": "mask-nazar_amulet",
+        "leftEmoji": "😷",
+        "leftEmojiCodepoint": "1f637",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 100
+      }
+    ],
+    "1f920": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f920/u1f920_u1f9ff.png",
+        "alt": "face_with_cowboy_hat-nazar_amulet",
+        "leftEmoji": "🤠",
+        "leftEmojiCodepoint": "1f920",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 101
+      }
+    ],
+    "1f925": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f925/u1f925_u1f9ff.png",
+        "alt": "lying_face-nazar_amulet",
+        "leftEmoji": "🤥",
+        "leftEmojiCodepoint": "1f925",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 106
+      }
+    ],
+    "1f921": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f921/u1f921_u1f9ff.png",
+        "alt": "clown_face-nazar_amulet",
+        "leftEmoji": "🤡",
+        "leftEmojiCodepoint": "1f921",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 107
+      }
+    ],
+    "1f608": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f608/u1f608_u1f9ff.png",
+        "alt": "smiling_imp-nazar_amulet",
+        "leftEmoji": "😈",
+        "leftEmojiCodepoint": "1f608",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 116
+      }
+    ],
+    "1f47f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f47f/u1f47f_u1f9ff.png",
+        "alt": "imp-nazar_amulet",
+        "leftEmoji": "👿",
+        "leftEmojiCodepoint": "1f47f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 117
+      }
+    ],
+    "1f49e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f49e/u1f49e_u1f9ff.png",
+        "alt": "revolving_hearts-nazar_amulet",
+        "leftEmoji": "💞",
+        "leftEmojiCodepoint": "1f49e",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 145
+      }
+    ],
+    "2764-fe0f-200d-1fa79": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u2764-ufe0f-u200d-u1fa79/u2764-ufe0f-u200d-u1fa79_u1f9ff.png",
+        "alt": "mending_heart-nazar_amulet",
+        "leftEmoji": "❤️‍🩹",
+        "leftEmojiCodepoint": "2764-fe0f-200d-1fa79",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 150
+      }
+    ],
+    "1f494": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f494/u1f494_u1f9ff.png",
+        "alt": "broken_heart-nazar_amulet",
+        "leftEmoji": "💔",
+        "leftEmojiCodepoint": "1f494",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 151
+      }
+    ],
+    "1f463": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f463/u1f463_u1f9ff.png",
+        "alt": "footprints-nazar_amulet",
+        "leftEmoji": "👣",
+        "leftEmojiCodepoint": "1f463",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 157
+      }
+    ],
+    "1fab7": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fab7/u1fab7_u1f9ff.png",
+        "alt": "lotus-nazar_amulet",
+        "leftEmoji": "🪷",
+        "leftEmojiCodepoint": "1fab7",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 179
+      }
+    ],
+    "26f0-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u26f0-ufe0f/u26f0-ufe0f_u1f9ff.png",
+        "alt": "mountain-nazar_amulet",
+        "leftEmoji": "⛰️",
+        "leftEmojiCodepoint": "26f0-fe0f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 199
+      }
+    ],
+    "26c5": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u26c5/u26c5_u1f9ff.png",
+        "alt": "partly_sunny-nazar_amulet",
+        "leftEmoji": "⛅",
+        "leftEmojiCodepoint": "26c5",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 212
+      }
+    ],
+    "2604-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u2604-ufe0f/u2604-ufe0f_u1f9ff.png",
+        "alt": "comet-nazar_amulet",
+        "leftEmoji": "☄️",
+        "leftEmojiCodepoint": "2604-fe0f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 220
+      }
+    ],
+    "1fa90": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fa90/u1fa90_u1f9ff.png",
+        "alt": "ringed_planet-nazar_amulet",
+        "leftEmoji": "🪐",
+        "leftEmojiCodepoint": "1fa90",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 223
+      }
+    ],
+    "1f409": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f409/u1f409_u1f9ff.png",
+        "alt": "dragon-nazar_amulet",
+        "leftEmoji": "🐉",
+        "leftEmojiCodepoint": "1f409",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 241
+      }
+    ],
+    "1f433": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f433/u1f433_u1f9ff.png",
+        "alt": "whale-nazar_amulet",
+        "leftEmoji": "🐳",
+        "leftEmojiCodepoint": "1f433",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 259
+      }
+    ],
+    "1f982": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f982/u1f982_u1f9ff.png",
+        "alt": "scorpion-nazar_amulet",
+        "leftEmoji": "🦂",
+        "leftEmojiCodepoint": "1f982",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 266
+      }
+    ],
+    "1f96b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f96b/u1f96b_u1f9ff.png",
+        "alt": "canned_food-nazar_amulet",
+        "leftEmoji": "🥫",
+        "leftEmojiCodepoint": "1f96b",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 335
+      }
+    ],
+    "1f960": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f960/u1f960_u1f9ff.png",
+        "alt": "fortune_cookie-nazar_amulet",
+        "leftEmoji": "🥠",
+        "leftEmojiCodepoint": "1f960",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 353
+      }
+    ],
+    "1f382": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f382/u1f382_u1f9ff.png",
+        "alt": "birthday-nazar_amulet",
+        "leftEmoji": "🎂",
+        "leftEmojiCodepoint": "1f382",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 360
+      }
+    ],
+    "1f37c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f37c/u1f37c_u1f9ff.png",
+        "alt": "baby_bottle-nazar_amulet",
+        "leftEmoji": "🍼",
+        "leftEmojiCodepoint": "1f37c",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 376
+      }
+    ],
+    "1f962": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f962/u1f962_u1f9ff.png",
+        "alt": "chopsticks-nazar_amulet",
+        "leftEmoji": "🥢",
+        "leftEmojiCodepoint": "1f962",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 387
+      }
+    ],
+    "1f6a8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6a8/u1f6a8_u1f9ff.png",
+        "alt": "rotating_light-nazar_amulet",
+        "leftEmoji": "🚨",
+        "leftEmojiCodepoint": "1f6a8",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 391
+      }
+    ],
+    "1f6a6": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6a6/u1f6a6_u1f9ff.png",
+        "alt": "vertical_traffic_light-nazar_amulet",
+        "leftEmoji": "🚦",
+        "leftEmojiCodepoint": "1f6a6",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 396
+      }
+    ],
+    "1f6b2": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6b2/u1f6b2_u1f9ff.png",
+        "alt": "bike-nazar_amulet",
+        "leftEmoji": "🚲",
+        "leftEmojiCodepoint": "1f6b2",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 398
+      }
+    ],
+    "1f69a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f69a/u1f69a_u1f9ff.png",
+        "alt": "truck-nazar_amulet",
+        "leftEmoji": "🚚",
+        "leftEmojiCodepoint": "1f69a",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 401
+      }
+    ],
+    "1f682": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f682/u1f682_u1f9ff.png",
+        "alt": "steam_locomotive-nazar_amulet",
+        "leftEmoji": "🚂",
+        "leftEmojiCodepoint": "1f682",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 407
+      }
+    ],
+    "1faa9": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1faa9/u1faa9_u1f9ff.png",
+        "alt": "mirror_ball-nazar_amulet",
+        "leftEmoji": "🪩",
+        "leftEmojiCodepoint": "1faa9",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 435
+      }
+    ],
+    "1f3c6": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f3c6/u1f3c6_u1f9ff.png",
+        "alt": "trophy-nazar_amulet",
+        "leftEmoji": "🏆",
+        "leftEmojiCodepoint": "1f3c6",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 442
+      }
+    ],
+    "26be": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u26be/u26be_u1f9ff.png",
+        "alt": "baseball-nazar_amulet",
+        "leftEmoji": "⚾",
+        "leftEmojiCodepoint": "26be",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 444
+      }
+    ],
+    "26f3": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u26f3/u26f3_u1f9ff.png",
+        "alt": "golf-nazar_amulet",
+        "leftEmoji": "⛳",
+        "leftEmojiCodepoint": "26f3",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 464
+      }
+    ],
+    "1f3af": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f3af/u1f3af_u1f9ff.png",
+        "alt": "dart-nazar_amulet",
+        "leftEmoji": "🎯",
+        "leftEmojiCodepoint": "1f3af",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 465
+      }
+    ],
+    "1f0cf": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f0cf/u1f0cf_u1f9ff.png",
+        "alt": "black_joker-nazar_amulet",
+        "leftEmoji": "🃏",
+        "leftEmojiCodepoint": "1f0cf",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 486
+      }
+    ],
+    "1f3a4": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f3a4/u1f3a4_u1f9ff.png",
+        "alt": "microphone-nazar_amulet",
+        "leftEmoji": "🎤",
+        "leftEmojiCodepoint": "1f3a4",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 506
+      }
+    ],
+    "1f3a7": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f3a7/u1f3a7_u1f9ff.png",
+        "alt": "headphones-nazar_amulet",
+        "leftEmoji": "🎧",
+        "leftEmojiCodepoint": "1f3a7",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 507
+      }
+    ],
+    "1f39e-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f39e-ufe0f/u1f39e-ufe0f_u1f9ff.png",
+        "alt": "film_frames-nazar_amulet",
+        "leftEmoji": "🎞️",
+        "leftEmojiCodepoint": "1f39e-fe0f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 514
+      }
+    ],
+    "2696-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u2696-ufe0f/u2696-ufe0f_u1f9ff.png",
+        "alt": "scales-nazar_amulet",
+        "leftEmoji": "⚖️",
+        "leftEmojiCodepoint": "2696-fe0f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 530
+      }
+    ],
+    "1f6d2": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6d2/u1f6d2_u1f9ff.png",
+        "alt": "shopping_trolley-nazar_amulet",
+        "leftEmoji": "🛒",
+        "leftEmojiCodepoint": "1f6d2",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 531
+      }
+    ],
+    "1f455": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f455/u1f455_u1f9ff.png",
+        "alt": "shirt-nazar_amulet",
+        "leftEmoji": "👕",
+        "leftEmojiCodepoint": "1f455",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 542
+      }
+    ],
+    "1f460": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f460/u1f460_u1f9ff.png",
+        "alt": "high_heel-nazar_amulet",
+        "leftEmoji": "👠",
+        "leftEmojiCodepoint": "1f460",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 551
+      }
+    ],
+    "1f45f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f45f/u1f45f_u1f9ff.png",
+        "alt": "athletic_shoe-nazar_amulet",
+        "leftEmoji": "👟",
+        "leftEmojiCodepoint": "1f45f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 552
+      }
+    ],
+    "1f9ea": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f9ea/u1f9ea_u1f9ff.png",
+        "alt": "test_tube-nazar_amulet",
+        "leftEmoji": "🧪",
+        "leftEmojiCodepoint": "1f9ea",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 554
+      }
+    ],
+    "1fa7a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1fa7a/u1fa7a_u1f9ff.png",
+        "alt": "stethoscope-nazar_amulet",
+        "leftEmoji": "🩺",
+        "leftEmojiCodepoint": "1fa7a",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 556
+      }
+    ],
+    "1f9f2": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f9f2/u1f9f2_u1f9ff.png",
+        "alt": "magnet-nazar_amulet",
+        "leftEmoji": "🧲",
+        "leftEmojiCodepoint": "1f9f2",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 560
+      }
+    ],
+    "1f6e0-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6e0-ufe0f/u1f6e0-ufe0f_u1f9ff.png",
+        "alt": "hammer_and_wrench-nazar_amulet",
+        "leftEmoji": "🛠️",
+        "leftEmojiCodepoint": "1f6e0-fe0f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 561
+      }
+    ],
+    "1f5d1-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f5d1-ufe0f/u1f5d1-ufe0f_u1f9ff.png",
+        "alt": "wastebasket-nazar_amulet",
+        "leftEmoji": "🗑️",
+        "leftEmojiCodepoint": "1f5d1-fe0f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 567
+      }
+    ],
+    "1f4da": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f4da/u1f4da_u1f9ff.png",
+        "alt": "books-nazar_amulet",
+        "leftEmoji": "📚",
+        "leftEmojiCodepoint": "1f4da",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 571
+      }
+    ],
+    "1f5c3-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f5c3-ufe0f/u1f5c3-ufe0f_u1f9ff.png",
+        "alt": "card_file_box-nazar_amulet",
+        "leftEmoji": "🗃️",
+        "leftEmojiCodepoint": "1f5c3-fe0f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 572
+      }
+    ],
+    "1f4c8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f4c8/u1f4c8_u1f9ff.png",
+        "alt": "chart_with_upwards_trend-nazar_amulet",
+        "leftEmoji": "📈",
+        "leftEmojiCodepoint": "1f4c8",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 574
+      }
+    ],
+    "1f4c9": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f4c9/u1f4c9_u1f9ff.png",
+        "alt": "chart_with_downwards_trend-nazar_amulet",
+        "leftEmoji": "📉",
+        "leftEmojiCodepoint": "1f4c9",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 575
+      }
+    ],
+    "2702-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u2702-ufe0f/u2702-ufe0f_u1f9ff.png",
+        "alt": "scissors-nazar_amulet",
+        "leftEmoji": "✂️",
+        "leftEmojiCodepoint": "2702-fe0f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 576
+      }
+    ],
+    "231a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u231a/u231a_u1f9ff.png",
+        "alt": "watch-nazar_amulet",
+        "leftEmoji": "⌚",
+        "leftEmojiCodepoint": "231a",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 580
+      }
+    ],
+    "1f514": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f514/u1f514_u1f9ff.png",
+        "alt": "bell-nazar_amulet",
+        "leftEmoji": "🔔",
+        "leftEmojiCodepoint": "1f514",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 585
+      }
+    ],
+    "1f50e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f50e/u1f50e_u1f9ff.png",
+        "alt": "mag_right-nazar_amulet",
+        "leftEmoji": "🔎",
+        "leftEmojiCodepoint": "1f50e",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 587
+      }
+    ],
+    "1f923": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f9ff/u1f9ff_u1f923.png",
+        "alt": "nazar_amulet-rolling_on_the_floor_laughing",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🤣",
+        "rightEmojiCodepoint": "1f923",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 8
+      }
+    ],
+    "1f979": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f9ff/u1f9ff_u1f979.png",
+        "alt": "nazar_amulet-face_holding_back_tears",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🥹",
+        "rightEmojiCodepoint": "1f979",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 22
+      }
+    ],
+    "1f61c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f9ff/u1f9ff_u1f61c.png",
+        "alt": "nazar_amulet-stuck_out_tongue_winking_eye",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "😜",
+        "rightEmojiCodepoint": "1f61c",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 26
+      }
+    ],
+    "1fae1": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f9ff/u1f9ff_u1fae1.png",
+        "alt": "nazar_amulet-saluting_face",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🫡",
+        "rightEmojiCodepoint": "1fae1",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 37
+      }
+    ],
+    "1f914": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f9ff/u1f9ff_u1f914.png",
+        "alt": "nazar_amulet-thinking_face",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🤔",
+        "rightEmojiCodepoint": "1f914",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 38
+      }
+    ],
+    "1f92b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f9ff/u1f9ff_u1f92b.png",
+        "alt": "nazar_amulet-shushing_face",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🤫",
+        "rightEmojiCodepoint": "1f92b",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 39
+      }
+    ],
+    "1fae2": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f9ff/u1f9ff_u1fae2.png",
+        "alt": "nazar_amulet-face_with_open_eyes_and_hand_over_mouth",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🫢",
+        "rightEmojiCodepoint": "1fae2",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 40
+      }
+    ],
+    "1f92d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f9ff/u1f9ff_u1f92d.png",
+        "alt": "nazar_amulet-face_with_hand_over_mouth",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🤭",
+        "rightEmojiCodepoint": "1f92d",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 41
+      }
+    ],
+    "1f971": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f9ff/u1f9ff_u1f971.png",
+        "alt": "nazar_amulet-yawning_face",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🥱",
+        "rightEmojiCodepoint": "1f971",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 42
+      }
+    ],
+    "1f917": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f9ff/u1f9ff_u1f917.png",
+        "alt": "nazar_amulet-hugging_face",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🤗",
+        "rightEmojiCodepoint": "1f917",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 43
+      }
+    ],
+    "1fae3": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f9ff/u1f9ff_u1fae3.png",
+        "alt": "nazar_amulet-face_with_peeking_eye",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🫣",
+        "rightEmojiCodepoint": "1fae3",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 44
+      }
+    ],
+    "1f9d0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f9ff/u1f9ff_u1f9d0.png",
+        "alt": "nazar_amulet-face_with_monocle",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🧐",
+        "rightEmojiCodepoint": "1f9d0",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 47
+      }
+    ],
+    "1f644": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f9ff/u1f9ff_u1f644.png",
+        "alt": "nazar_amulet-face_with_rolling_eyes",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🙄",
+        "rightEmojiCodepoint": "1f644",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 49
+      }
+    ],
+    "1f633": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f9ff/u1f9ff_u1f633.png",
+        "alt": "nazar_amulet-flushed",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "😳",
+        "rightEmojiCodepoint": "1f633",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 71
+      }
+    ],
+    "1f634": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f9ff/u1f9ff_u1f634.png",
+        "alt": "nazar_amulet-sleeping",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "😴",
+        "rightEmojiCodepoint": "1f634",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 82
+      }
+    ],
+    "1f924": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f9ff/u1f9ff_u1f924.png",
+        "alt": "nazar_amulet-drooling_face",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🤤",
+        "rightEmojiCodepoint": "1f924",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 84
+      }
+    ],
+    "1f92e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f9ff/u1f9ff_u1f92e.png",
+        "alt": "nazar_amulet-face_vomiting",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🤮",
+        "rightEmojiCodepoint": "1f92e",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 96
+      }
+    ],
+    "1f978": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f9ff/u1f9ff_u1f978.png",
+        "alt": "nazar_amulet-disguised_face",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🥸",
+        "rightEmojiCodepoint": "1f978",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 105
+      }
+    ],
+    "1fae6": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f9ff/u1f9ff_u1fae6.png",
+        "alt": "nazar_amulet-biting_lip",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🫦",
+        "rightEmojiCodepoint": "1fae6",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 169
+      }
+    ],
+    "2668-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u2668-ufe0f/u2668-ufe0f_u1f9ff.png",
+        "alt": "hotsprings-nazar_amulet",
+        "leftEmoji": "♨️",
+        "leftEmojiCodepoint": "2668-fe0f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 611
+      }
+    ],
+    "1f3b6": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f3b6/u1f3b6_u1f9ff.png",
+        "alt": "notes-nazar_amulet",
+        "leftEmoji": "🎶",
+        "leftEmojiCodepoint": "1f3b6",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 614
+      }
+    ],
+    "2622-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u2622-ufe0f/u2622-ufe0f_u1f9ff.png",
+        "alt": "radioactive_sign-nazar_amulet",
+        "leftEmoji": "☢️",
+        "leftEmojiCodepoint": "2622-fe0f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 615
+      }
+    ],
+    "1f92c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240715/u1f92c/u1f92c_u1f9ff.png",
+        "alt": "face_with_symbols_on_mouth-nazar_amulet",
+        "leftEmoji": "🤬",
+        "leftEmojiCodepoint": "1f92c",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20240715",
+        "isLatest": true,
+        "gBoardOrder": 54
+      }
+    ],
+    "1fae5": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1fae5/u1fae5_u1f9ff.png",
+        "alt": "dotted_line_face-nazar_amulet",
+        "leftEmoji": "🫥",
+        "leftEmojiCodepoint": "1fae5",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 81
+      }
+    ],
+    "1f4ab": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f4ab/u1f4ab_u1f9ff.png",
+        "alt": "dizzy-nazar_amulet",
+        "leftEmoji": "💫",
+        "leftEmojiCodepoint": "1f4ab",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 119
+      }
+    ],
+    "1f49d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f49d/u1f49d_u1f9ff.png",
+        "alt": "gift_heart-nazar_amulet",
+        "leftEmoji": "💝",
+        "leftEmojiCodepoint": "1f49d",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 141
+      }
+    ],
+    "1f496": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f496/u1f496_u1f9ff.png",
+        "alt": "sparkling_heart-nazar_amulet",
+        "leftEmoji": "💖",
+        "leftEmojiCodepoint": "1f496",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 142
+      }
+    ],
+    "1fac2": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1fac2/u1fac2_u1f9ff.png",
+        "alt": "people_hugging-nazar_amulet",
+        "leftEmoji": "🫂",
+        "leftEmojiCodepoint": "1fac2",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 153
+      }
+    ],
+    "1f5e3-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f5e3-ufe0f/u1f5e3-ufe0f_u1f9ff.png",
+        "alt": "speaking_head_in_silhouette-nazar_amulet",
+        "leftEmoji": "🗣️",
+        "leftEmojiCodepoint": "1f5e3-fe0f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 156
+      }
+    ],
+    "1f440": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f440/u1f440_u1f9ff.png",
+        "alt": "eyes-nazar_amulet",
+        "leftEmoji": "👀",
+        "leftEmojiCodepoint": "1f440",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 166
+      }
+    ],
+    "1f940": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f940/u1f940_u1f9ff.png",
+        "alt": "wilted_flower-nazar_amulet",
+        "leftEmoji": "🥀",
+        "leftEmojiCodepoint": "1f940",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 175
+      }
+    ],
+    "1f33a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f33a/u1f33a_u1f9ff.png",
+        "alt": "hibiscus-nazar_amulet",
+        "leftEmoji": "🌺",
+        "leftEmojiCodepoint": "1f33a",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 176
+      }
+    ],
+    "1f343": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f343/u1f343_u1f9ff.png",
+        "alt": "leaves-nazar_amulet",
+        "leftEmoji": "🍃",
+        "leftEmojiCodepoint": "1f343",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 191
+      }
+    ],
+    "1f333": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f333/u1f333_u1f9ff.png",
+        "alt": "deciduous_tree-nazar_amulet",
+        "leftEmoji": "🌳",
+        "leftEmojiCodepoint": "1f333",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 196
+      }
+    ],
+    "1f332": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f332/u1f332_u1f9ff.png",
+        "alt": "evergreen_tree-nazar_amulet",
+        "leftEmoji": "🌲",
+        "leftEmojiCodepoint": "1f332",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 197
+      }
+    ],
+    "1fab9": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1fab9/u1fab9_u1f9ff.png",
+        "alt": "empty_nest-nazar_amulet",
+        "leftEmoji": "🪹",
+        "leftEmojiCodepoint": "1fab9",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 198
+      }
+    ],
+    "1f32c-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f32c-ufe0f/u1f32c-ufe0f_u1f9ff.png",
+        "alt": "wind_blowing_face-nazar_amulet",
+        "leftEmoji": "🌬️",
+        "leftEmojiCodepoint": "1f32c-fe0f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 205
+      }
+    ],
+    "1f300": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f300/u1f300_u1f9ff.png",
+        "alt": "cyclone-nazar_amulet",
+        "leftEmoji": "🌀",
+        "leftEmojiCodepoint": "1f300",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 206
+      }
+    ],
+    "1f329-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f329-ufe0f/u1f329-ufe0f_u1f9ff.png",
+        "alt": "lightning-nazar_amulet",
+        "leftEmoji": "🌩️",
+        "leftEmojiCodepoint": "1f329-fe0f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 215
+      }
+    ],
+    "1f430": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f430/u1f430_u1f9ff.png",
+        "alt": "rabbit-nazar_amulet",
+        "leftEmoji": "🐰",
+        "leftEmojiCodepoint": "1f430",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 235
+      }
+    ],
+    "1f99d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f99d/u1f99d_u1f9ff.png",
+        "alt": "raccoon-nazar_amulet",
+        "leftEmoji": "🦝",
+        "leftEmojiCodepoint": "1f99d",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 237
+      }
+    ],
+    "1f429": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250501/u1f429/u1f429_u1f9ff.png",
+        "alt": "poodle-nazar_amulet",
+        "leftEmoji": "🐩",
+        "leftEmojiCodepoint": "1f429",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20250501",
+        "isLatest": true,
+        "gBoardOrder": 244
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f429/u1f429_u1f9ff.png",
+        "alt": "poodle-nazar_amulet",
+        "leftEmoji": "🐩",
+        "leftEmojiCodepoint": "1f429",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": false,
+        "gBoardOrder": 244
+      }
+    ],
+    "1f987": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f987/u1f987_u1f9ff.png",
+        "alt": "bat-nazar_amulet",
+        "leftEmoji": "🦇",
+        "leftEmojiCodepoint": "1f987",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 250
+      }
+    ],
+    "1f989": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f989/u1f989_u1f9ff.png",
+        "alt": "owl-nazar_amulet",
+        "leftEmoji": "🦉",
+        "leftEmojiCodepoint": "1f989",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 251
+      }
+    ],
+    "1f414": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f414/u1f414_u1f9ff.png",
+        "alt": "chicken-nazar_amulet",
+        "leftEmoji": "🐔",
+        "leftEmojiCodepoint": "1f414",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 253
+      }
+    ],
+    "1f9a9": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f9a9/u1f9a9_u1f9ff.png",
+        "alt": "flamingo-nazar_amulet",
+        "leftEmoji": "🦩",
+        "leftEmojiCodepoint": "1f9a9",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 256
+      }
+    ],
+    "1f988": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f988/u1f988_u1f9ff.png",
+        "alt": "shark-nazar_amulet",
+        "leftEmoji": "🦈",
+        "leftEmojiCodepoint": "1f988",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 258
+      }
+    ],
+    "1f41f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f41f/u1f41f_u1f9ff.png",
+        "alt": "fish-nazar_amulet",
+        "leftEmoji": "🐟",
+        "leftEmojiCodepoint": "1f41f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 260
+      }
+    ],
+    "1f980": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f980/u1f980_u1f9ff.png",
+        "alt": "crab-nazar_amulet",
+        "leftEmoji": "🦀",
+        "leftEmojiCodepoint": "1f980",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 262
+      }
+    ],
+    "1f419": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f419/u1f419_u1f9ff.png",
+        "alt": "octopus-nazar_amulet",
+        "leftEmoji": "🐙",
+        "leftEmojiCodepoint": "1f419",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 263
+      }
+    ],
+    "1fab3": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1fab3/u1fab3_u1f9ff.png",
+        "alt": "cockroach-nazar_amulet",
+        "leftEmoji": "🪳",
+        "leftEmojiCodepoint": "1fab3",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 272
+      }
+    ],
+    "1f352": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f352/u1f352_u1f9ff.png",
+        "alt": "cherries-nazar_amulet",
+        "leftEmoji": "🍒",
+        "leftEmojiCodepoint": "1f352",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 278
+      }
+    ],
+    "1f35e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f35e/u1f35e_u1f9ff.png",
+        "alt": "bread-nazar_amulet",
+        "leftEmoji": "🍞",
+        "leftEmojiCodepoint": "1f35e",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 311
+      }
+    ],
+    "1f373": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f373/u1f373_u1f9ff.png",
+        "alt": "fried_egg-nazar_amulet",
+        "leftEmoji": "🍳",
+        "leftEmojiCodepoint": "1f373",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 317
+      }
+    ],
+    "1f355": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f355/u1f355_u1f9ff.png",
+        "alt": "pizza-nazar_amulet",
+        "leftEmoji": "🍕",
+        "leftEmojiCodepoint": "1f355",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 324
+      }
+    ],
+    "1f9c2": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f9c2/u1f9c2_u1f9ff.png",
+        "alt": "salt-nazar_amulet",
+        "leftEmoji": "🧂",
+        "leftEmojiCodepoint": "1f9c2",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 368
+      }
+    ],
+    "1f37e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f37e/u1f37e_u1f9ff.png",
+        "alt": "champagne-nazar_amulet",
+        "leftEmoji": "🍾",
+        "leftEmojiCodepoint": "1f37e",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 382
+      }
+    ],
+    "1fad7": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1fad7/u1fad7_u1f9ff.png",
+        "alt": "pouring_liquid-nazar_amulet",
+        "leftEmoji": "🫗",
+        "leftEmojiCodepoint": "1fad7",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 384
+      }
+    ],
+    "1f6f4": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6f4/u1f6f4_u1f9ff.png",
+        "alt": "scooter-nazar_amulet",
+        "leftEmoji": "🛴",
+        "leftEmojiCodepoint": "1f6f4",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 397
+      }
+    ],
+    "1f69c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f69c/u1f69c_u1f9ff.png",
+        "alt": "tractor-nazar_amulet",
+        "leftEmoji": "🚜",
+        "leftEmojiCodepoint": "1f69c",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 403
+      }
+    ],
+    "2708-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u2708-ufe0f/u2708-ufe0f_u1f9ff.png",
+        "alt": "airplane-nazar_amulet",
+        "leftEmoji": "✈️",
+        "leftEmojiCodepoint": "2708-fe0f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 413
+      }
+    ],
+    "1f3a2": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f3a2/u1f3a2_u1f9ff.png",
+        "alt": "roller_coaster-nazar_amulet",
+        "leftEmoji": "🎢",
+        "leftEmojiCodepoint": "1f3a2",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 414
+      }
+    ],
+    "1f3a1": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f3a1/u1f3a1_u1f9ff.png",
+        "alt": "ferris_wheel-nazar_amulet",
+        "leftEmoji": "🎡",
+        "leftEmojiCodepoint": "1f3a1",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 415
+      }
+    ],
+    "1f6e3-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e3-ufe0f/u1f6e3-ufe0f_u1f9ff.png",
+        "alt": "motorway-nazar_amulet",
+        "leftEmoji": "🛣️",
+        "leftEmojiCodepoint": "1f6e3-fe0f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 428
+      }
+    ],
+    "1f9f3": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f9f3/u1f9f3_u1f9ff.png",
+        "alt": "luggage-nazar_amulet",
+        "leftEmoji": "🧳",
+        "leftEmojiCodepoint": "1f9f3",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 429
+      }
+    ],
+    "1f388": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f388/u1f388_u1f9ff.png",
+        "alt": "balloon-nazar_amulet",
+        "leftEmoji": "🎈",
+        "leftEmojiCodepoint": "1f388",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 430
+      }
+    ],
+    "26bd": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u26bd/u26bd_u1f9ff.png",
+        "alt": "soccer-nazar_amulet",
+        "leftEmoji": "⚽",
+        "leftEmojiCodepoint": "26bd",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 443
+      }
+    ],
+    "1f94e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f94e/u1f94e_u1f9ff.png",
+        "alt": "softball-nazar_amulet",
+        "leftEmoji": "🥎",
+        "leftEmojiCodepoint": "1f94e",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 445
+      }
+    ],
+    "1f3be": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f3be/u1f3be_u1f9ff.png",
+        "alt": "tennis-nazar_amulet",
+        "leftEmoji": "🎾",
+        "leftEmojiCodepoint": "1f3be",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 450
+      }
+    ],
+    "26f8-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u26f8-ufe0f/u26f8-ufe0f_u1f9ff.png",
+        "alt": "ice_skate-nazar_amulet",
+        "leftEmoji": "⛸️",
+        "leftEmojiCodepoint": "26f8-fe0f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 460
+      }
+    ],
+    "1f6fc": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6fc/u1f6fc_u1f9ff.png",
+        "alt": "roller_skate-nazar_amulet",
+        "leftEmoji": "🛼",
+        "leftEmojiCodepoint": "1f6fc",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 461
+      }
+    ],
+    "1fa70": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1fa70/u1fa70_u1f9ff.png",
+        "alt": "ballet_shoes-nazar_amulet",
+        "leftEmoji": "🩰",
+        "leftEmojiCodepoint": "1fa70",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 462
+      }
+    ],
+    "1fa83": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1fa83/u1fa83_u1f9ff.png",
+        "alt": "boomerang-nazar_amulet",
+        "leftEmoji": "🪃",
+        "leftEmojiCodepoint": "1fa83",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 468
+      }
+    ],
+    "1f94b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f94b/u1f94b_u1f9ff.png",
+        "alt": "martial_arts_uniform-nazar_amulet",
+        "leftEmoji": "🥋",
+        "leftEmojiCodepoint": "1f94b",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 473
+      }
+    ],
+    "1f3a8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f3a8/u1f3a8_u1f9ff.png",
+        "alt": "art-nazar_amulet",
+        "leftEmoji": "🎨",
+        "leftEmojiCodepoint": "1f3a8",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 489
+      }
+    ],
+    "1f4f1": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f4f1/u1f4f1_u1f9ff.png",
+        "alt": "iphone-nazar_amulet",
+        "leftEmoji": "📱",
+        "leftEmojiCodepoint": "1f4f1",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 518
+      }
+    ],
+    "1f50b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f50b/u1f50b_u1f9ff.png",
+        "alt": "battery-nazar_amulet",
+        "leftEmoji": "🔋",
+        "leftEmojiCodepoint": "1f50b",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 523
+      }
+    ],
+    "1faab": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1faab/u1faab_u1f9ff.png",
+        "alt": "low_battery-nazar_amulet",
+        "leftEmoji": "🪫",
+        "leftEmojiCodepoint": "1faab",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 524
+      }
+    ],
+    "1f6cd-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6cd-ufe0f/u1f6cd-ufe0f_u1f9ff.png",
+        "alt": "shopping_bags-nazar_amulet",
+        "leftEmoji": "🛍️",
+        "leftEmojiCodepoint": "1f6cd-fe0f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 532
+      }
+    ],
+    "1f9e6": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f9e6/u1f9e6_u1f9ff.png",
+        "alt": "socks-nazar_amulet",
+        "leftEmoji": "🧦",
+        "leftEmojiCodepoint": "1f9e6",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 541
+      }
+    ],
+    "1f393": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f393/u1f393_u1f9ff.png",
+        "alt": "mortar_board-nazar_amulet",
+        "leftEmoji": "🎓",
+        "leftEmojiCodepoint": "1f393",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 544
+      }
+    ],
+    "1f451": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f451/u1f451_u1f9ff.png",
+        "alt": "crown-nazar_amulet",
+        "leftEmoji": "👑",
+        "leftEmojiCodepoint": "1f451",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 546
+      }
+    ],
+    "1faad": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1faad/u1faad_u1f9ff.png",
+        "alt": "folding_hand_fan-nazar_amulet",
+        "leftEmoji": "🪭",
+        "leftEmojiCodepoint": "1faad",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 547
+      }
+    ],
+    "1f9ec": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f9ec/u1f9ec_u1f9ff.png",
+        "alt": "dna-nazar_amulet",
+        "leftEmoji": "🧬",
+        "leftEmojiCodepoint": "1f9ec",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 557
+      }
+    ],
+    "26d3-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u26d3-ufe0f/u26d3-ufe0f_u1f9ff.png",
+        "alt": "chains-nazar_amulet",
+        "leftEmoji": "⛓️",
+        "leftEmojiCodepoint": "26d3-fe0f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 564
+      }
+    ],
+    "1f4e6": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f4e6/u1f4e6_u1f9ff.png",
+        "alt": "package-nazar_amulet",
+        "leftEmoji": "📦",
+        "leftEmojiCodepoint": "1f4e6",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 578
+      }
+    ],
+    "1f5f3-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f5f3-ufe0f/u1f5f3-ufe0f_u1f9ff.png",
+        "alt": "ballot_box_with_ballot-nazar_amulet",
+        "leftEmoji": "🗳️",
+        "leftEmojiCodepoint": "1f5f3-fe0f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 579
+      }
+    ],
+    "23f0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u23f0/u23f0_u1f9ff.png",
+        "alt": "alarm_clock-nazar_amulet",
+        "leftEmoji": "⏰",
+        "leftEmojiCodepoint": "23f0",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 584
+      }
+    ],
+    "2049-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u2049-ufe0f/u2049-ufe0f_u1f9ff.png",
+        "alt": "interrobang-nazar_amulet",
+        "leftEmoji": "⁉️",
+        "leftEmojiCodepoint": "2049-fe0f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 609
+      }
+    ],
+    "1f198": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f198/u1f198_u1f9ff.png",
+        "alt": "sos-nazar_amulet",
+        "leftEmoji": "🆘",
+        "leftEmojiCodepoint": "1f198",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 610
+      }
+    ],
+    "1f4f4": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f4f4/u1f4f4_u1f9ff.png",
+        "alt": "mobile_phone_off-nazar_amulet",
+        "leftEmoji": "📴",
+        "leftEmojiCodepoint": "1f4f4",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 612
+      }
+    ],
+    "1f195": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f195/u1f195_u1f9ff.png",
+        "alt": "new-nazar_amulet",
+        "leftEmoji": "🆕",
+        "leftEmojiCodepoint": "1f195",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 620
+      }
+    ],
+    "1f193": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f193/u1f193_u1f9ff.png",
+        "alt": "free-nazar_amulet",
+        "leftEmoji": "🆓",
+        "leftEmojiCodepoint": "1f193",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 621
+      }
+    ],
+    "1f199": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f199/u1f199_u1f9ff.png",
+        "alt": "up-nazar_amulet",
+        "leftEmoji": "🆙",
+        "leftEmojiCodepoint": "1f199",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 622
+      }
+    ],
+    "1f197": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f197/u1f197_u1f9ff.png",
+        "alt": "ok-nazar_amulet",
+        "leftEmoji": "🆗",
+        "leftEmojiCodepoint": "1f197",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 623
+      }
+    ],
+    "1f192": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f192/u1f192_u1f9ff.png",
+        "alt": "cool-nazar_amulet",
+        "leftEmoji": "🆒",
+        "leftEmojiCodepoint": "1f192",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 624
+      }
+    ],
+    "262e-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u262e-ufe0f/u262e-ufe0f_u1f9ff.png",
+        "alt": "peace_symbol-nazar_amulet",
+        "leftEmoji": "☮️",
+        "leftEmojiCodepoint": "262e-fe0f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 627
+      }
+    ],
+    "262f-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u262f-ufe0f/u262f-ufe0f_u1f9ff.png",
+        "alt": "yin_yang-nazar_amulet",
+        "leftEmoji": "☯️",
+        "leftEmojiCodepoint": "262f-fe0f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 628
+      }
+    ],
+    "267e-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u267e-ufe0f/u267e-ufe0f_u1f9ff.png",
+        "alt": "infinity-nazar_amulet",
+        "leftEmoji": "♾️",
+        "leftEmojiCodepoint": "267e-fe0f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 629
+      }
+    ],
+    "1f383": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f383/u1f383_u1f9ff.png",
+        "alt": "jack_o_lantern-nazar_amulet",
+        "leftEmoji": "🎃",
+        "leftEmojiCodepoint": "1f383",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 115
+      }
+    ],
+    "1f33c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f33c/u1f33c_u1f9ff.png",
+        "alt": "blossom-nazar_amulet",
+        "leftEmoji": "🌼",
+        "leftEmojiCodepoint": "1f33c",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 184
+      }
+    ],
+    "1f342": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f342/u1f342_u1f9ff.png",
+        "alt": "fallen_leaf-nazar_amulet",
+        "leftEmoji": "🍂",
+        "leftEmojiCodepoint": "1f342",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 185
+      }
+    ],
+    "1f331": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f331/u1f331_u1f9ff.png",
+        "alt": "seedling-nazar_amulet",
+        "leftEmoji": "🌱",
+        "leftEmojiCodepoint": "1f331",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 189
+      }
+    ],
+    "1f410": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f410/u1f410_u1f9ff.png",
+        "alt": "goat-nazar_amulet",
+        "leftEmoji": "🐐",
+        "leftEmojiCodepoint": "1f410",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 245
+      }
+    ],
+    "1f99e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f99e/u1f99e_u1f9ff.png",
+        "alt": "lobster-nazar_amulet",
+        "leftEmoji": "🦞",
+        "leftEmojiCodepoint": "1f99e",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 261
+      }
+    ],
+    "1f577-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f577-ufe0f/u1f577-ufe0f_u1f9ff.png",
+        "alt": "spider-nazar_amulet",
+        "leftEmoji": "🕷️",
+        "leftEmojiCodepoint": "1f577-fe0f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 267
+      }
+    ],
+    "1fad5": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1fad5/u1fad5_u1f9ff.png",
+        "alt": "fondue-nazar_amulet",
+        "leftEmoji": "🫕",
+        "leftEmojiCodepoint": "1fad5",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 336
+      }
+    ],
+    "1f362": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f362/u1f362_u1f9ff.png",
+        "alt": "oden-nazar_amulet",
+        "leftEmoji": "🍢",
+        "leftEmojiCodepoint": "1f362",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 348
+      }
+    ],
+    "1f361": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f361/u1f361_u1f9ff.png",
+        "alt": "dango-nazar_amulet",
+        "leftEmoji": "🍡",
+        "leftEmojiCodepoint": "1f361",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 352
+      }
+    ],
+    "1f695": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f695/u1f695_u1f9ff.png",
+        "alt": "taxi-nazar_amulet",
+        "leftEmoji": "🚕",
+        "leftEmojiCodepoint": "1f695",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 405
+      }
+    ],
+    "1f3d1": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f3d1/u1f3d1_u1f9ff.png",
+        "alt": "field_hockey_stick_and_ball-nazar_amulet",
+        "leftEmoji": "🏑",
+        "leftEmojiCodepoint": "1f3d1",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 455
+      }
+    ],
+    "1f6f9": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f6f9/u1f6f9_u1f9ff.png",
+        "alt": "skateboard-nazar_amulet",
+        "leftEmoji": "🛹",
+        "leftEmojiCodepoint": "1f6f9",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 463
+      }
+    ],
+    "1f94a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f94a/u1f94a_u1f9ff.png",
+        "alt": "boxing_glove-nazar_amulet",
+        "leftEmoji": "🥊",
+        "leftEmojiCodepoint": "1f94a",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 474
+      }
+    ],
+    "1f587-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f587-ufe0f/u1f587-ufe0f_u1f9ff.png",
+        "alt": "linked_paperclips-nazar_amulet",
+        "leftEmoji": "🖇️",
+        "leftEmojiCodepoint": "1f587-fe0f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 565
+      }
+    ],
+    "1f92a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f9ff/u1f9ff_u1f92a.png",
+        "alt": "nazar_amulet-zany_face",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🤪",
+        "rightEmojiCodepoint": "1f92a",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 27
+      }
+    ],
+    "1f31a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f9ff/u1f9ff_u1f31a.png",
+        "alt": "nazar_amulet-new_moon_with_face",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🌚",
+        "rightEmojiCodepoint": "1f31a",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 87
+      }
+    ],
+    "1f31d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f9ff/u1f9ff_u1f31d.png",
+        "alt": "nazar_amulet-full_moon_with_face",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🌝",
+        "rightEmojiCodepoint": "1f31d",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 88
+      }
+    ],
+    "1f31e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f9ff/u1f9ff_u1f31e.png",
+        "alt": "nazar_amulet-sun_with_face",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🌞",
+        "rightEmojiCodepoint": "1f31e",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 89
+      }
+    ],
+    "1f4a9": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f9ff/u1f9ff_u1f4a9.png",
+        "alt": "nazar_amulet-hankey",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "💩",
+        "rightEmojiCodepoint": "1f4a9",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 109
+      }
+    ],
+    "1f47a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f9ff/u1f9ff_u1f47a.png",
+        "alt": "nazar_amulet-japanese_goblin",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "👺",
+        "rightEmojiCodepoint": "1f47a",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 114
+      }
+    ],
+    "1fa78": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f9ff/u1f9ff_u1fa78.png",
+        "alt": "nazar_amulet-drop_of_blood",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🩸",
+        "rightEmojiCodepoint": "1fa78",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 161
+      }
+    ],
+    "1f480": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f9ff/u1f9ff_u1f480.png",
+        "alt": "nazar_amulet-skull",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "💀",
+        "rightEmojiCodepoint": "1f480",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 165
+      }
+    ],
+    "1f339": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f9ff/u1f9ff_u1f339.png",
+        "alt": "nazar_amulet-rose",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🌹",
+        "rightEmojiCodepoint": "1f339",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 174
+      }
+    ],
+    "1f3f5-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f9ff/u1f9ff_u1f3f5-ufe0f.png",
+        "alt": "nazar_amulet-rosette",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🏵️",
+        "rightEmojiCodepoint": "1f3f5-fe0f",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 181
+      }
+    ],
+    "1f33b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250731/u1f9ff/u1f9ff_u1f33b.png",
+        "alt": "nazar_amulet-sunflower",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🌻",
+        "rightEmojiCodepoint": "1f33b",
+        "date": "20250731",
+        "isLatest": true,
+        "gBoardOrder": 183
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f9ff/u1f9ff_u1f33b.png",
+        "alt": "nazar_amulet-sunflower",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🌻",
+        "rightEmojiCodepoint": "1f33b",
+        "date": "20250130",
+        "isLatest": false,
+        "gBoardOrder": 183
+      }
+    ],
+    "1f30d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250731/u1f9ff/u1f9ff_u1f30d.png",
+        "alt": "nazar_amulet-earth_africa",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🌍",
+        "rightEmojiCodepoint": "1f30d",
+        "date": "20250731",
+        "isLatest": true,
+        "gBoardOrder": 222
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f9ff/u1f9ff_u1f30d.png",
+        "alt": "nazar_amulet-earth_africa",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🌍",
+        "rightEmojiCodepoint": "1f30d",
+        "date": "20250130",
+        "isLatest": false,
+        "gBoardOrder": 222
+      }
+    ],
+    "1f96d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f9ff/u1f9ff_u1f96d.png",
+        "alt": "nazar_amulet-mango",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🥭",
+        "rightEmojiCodepoint": "1f96d",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 282
+      }
+    ],
+    "1f9c5": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250731/u1f9ff/u1f9ff_u1f9c5.png",
+        "alt": "nazar_amulet-onion",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🧅",
+        "rightEmojiCodepoint": "1f9c5",
+        "date": "20250731",
+        "isLatest": true,
+        "gBoardOrder": 298
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f9ff/u1f9ff_u1f9c5.png",
+        "alt": "nazar_amulet-onion",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🧅",
+        "rightEmojiCodepoint": "1f9c5",
+        "date": "20250130",
+        "isLatest": false,
+        "gBoardOrder": 298
+      }
+    ],
+    "1f9c4": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f9ff/u1f9ff_u1f9c4.png",
+        "alt": "nazar_amulet-garlic",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🧄",
+        "rightEmojiCodepoint": "1f9c4",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 306
+      }
+    ],
+    "1f330": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f9ff/u1f9ff_u1f330.png",
+        "alt": "nazar_amulet-chestnut",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🌰",
+        "rightEmojiCodepoint": "1f330",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 309
+      }
+    ],
+    "1f9c7": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f9ff/u1f9ff_u1f9c7.png",
+        "alt": "nazar_amulet-waffle",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🧇",
+        "rightEmojiCodepoint": "1f9c7",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 315
+      }
+    ],
+    "1f35f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250731/u1f9ff/u1f9ff_u1f35f.png",
+        "alt": "nazar_amulet-fries",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🍟",
+        "rightEmojiCodepoint": "1f35f",
+        "date": "20250731",
+        "isLatest": true,
+        "gBoardOrder": 327
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f9ff/u1f9ff_u1f35f.png",
+        "alt": "nazar_amulet-fries",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🍟",
+        "rightEmojiCodepoint": "1f35f",
+        "date": "20250130",
+        "isLatest": false,
+        "gBoardOrder": 327
+      }
+    ],
+    "1f363": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f9ff/u1f9ff_u1f363.png",
+        "alt": "nazar_amulet-sushi",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🍣",
+        "rightEmojiCodepoint": "1f363",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 342
+      }
+    ],
+    "1f364": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f9ff/u1f9ff_u1f364.png",
+        "alt": "nazar_amulet-fried_shrimp",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🍤",
+        "rightEmojiCodepoint": "1f364",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 343
+      }
+    ],
+    "1f358": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f9ff/u1f9ff_u1f358.png",
+        "alt": "nazar_amulet-rice_cracker",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🍘",
+        "rightEmojiCodepoint": "1f358",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 350
+      }
+    ],
+    "1f36c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250731/u1f9ff/u1f9ff_u1f36c.png",
+        "alt": "nazar_amulet-candy",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🍬",
+        "rightEmojiCodepoint": "1f36c",
+        "date": "20250731",
+        "isLatest": true,
+        "gBoardOrder": 363
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f9ff/u1f9ff_u1f36c.png",
+        "alt": "nazar_amulet-candy",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🍬",
+        "rightEmojiCodepoint": "1f36c",
+        "date": "20250130",
+        "isLatest": false,
+        "gBoardOrder": 363
+      }
+    ],
+    "1f6df": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f9ff/u1f9ff_u1f6df.png",
+        "alt": "nazar_amulet-ring_buoy",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🛟",
+        "rightEmojiCodepoint": "1f6df",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 393
+      }
+    ],
+    "1f6f6": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f9ff/u1f9ff_u1f6f6.png",
+        "alt": "nazar_amulet-canoe",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🛶",
+        "rightEmojiCodepoint": "1f6f6",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 408
+      }
+    ],
+    "1f3d0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f9ff/u1f9ff_u1f3d0.png",
+        "alt": "nazar_amulet-volleyball",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🏐",
+        "rightEmojiCodepoint": "1f3d0",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 447
+      }
+    ],
+    "265f-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f9ff/u1f9ff_u265f-ufe0f.png",
+        "alt": "nazar_amulet-chess_pawn",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "♟️",
+        "rightEmojiCodepoint": "265f-fe0f",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 478
+      }
+    ],
+    "1f3b2": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f9ff/u1f9ff_u1f3b2.png",
+        "alt": "nazar_amulet-game_die",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🎲",
+        "rightEmojiCodepoint": "1f3b2",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 482
+      }
+    ],
+    "1f4bf": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f9ff/u1f9ff_u1f4bf.png",
+        "alt": "nazar_amulet-cd",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "💿",
+        "rightEmojiCodepoint": "1f4bf",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 526
+      }
+    ],
+    "264a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f9ff/u1f9ff_u264a.png",
+        "alt": "nazar_amulet-gemini",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "♊",
+        "rightEmojiCodepoint": "264a",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 596
+      }
+    ],
+    "264b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f9ff/u1f9ff_u264b.png",
+        "alt": "nazar_amulet-cancer",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "♋",
+        "rightEmojiCodepoint": "264b",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 597
+      }
+    ],
+    "264c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f9ff/u1f9ff_u264c.png",
+        "alt": "nazar_amulet-leo",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "♌",
+        "rightEmojiCodepoint": "264c",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 598
+      }
+    ],
+    "264d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f9ff/u1f9ff_u264d.png",
+        "alt": "nazar_amulet-virgo",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "♍",
+        "rightEmojiCodepoint": "264d",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 599
+      }
+    ],
+    "264e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f9ff/u1f9ff_u264e.png",
+        "alt": "nazar_amulet-libra",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "♎",
+        "rightEmojiCodepoint": "264e",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 600
+      }
+    ],
+    "264f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f9ff/u1f9ff_u264f.png",
+        "alt": "nazar_amulet-scorpius",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "♏",
+        "rightEmojiCodepoint": "264f",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 601
+      }
+    ],
+    "2623-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f9ff/u1f9ff_u2623-ufe0f.png",
+        "alt": "nazar_amulet-biohazard_sign",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "☣️",
+        "rightEmojiCodepoint": "2623-fe0f",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 616
+      }
+    ],
+    "a9-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f9ff/u1f9ff_ua9-ufe0f.png",
+        "alt": "nazar_amulet-copyright",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "©️",
+        "rightEmojiCodepoint": "a9-fe0f",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 637
+      }
+    ],
+    "ae-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f9ff/u1f9ff_uae-ufe0f.png",
+        "alt": "nazar_amulet-registered",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "®️",
+        "rightEmojiCodepoint": "ae-fe0f",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 638
+      }
+    ],
+    "2660-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f9ff/u1f9ff_u2660-ufe0f.png",
+        "alt": "nazar_amulet-spades",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "♠️",
+        "rightEmojiCodepoint": "2660-fe0f",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 640
+      }
+    ],
+    "1fae9": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1fae9/u1fae9_u1f9ff.png",
+        "alt": "face_with_bags_under_eyes-nazar_amulet",
+        "leftEmoji": "🫩",
+        "leftEmojiCodepoint": "1fae9",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 96
+      }
+    ],
+    "1f44a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250430/u1f44a/u1f44a_u1f9ff.png",
+        "alt": "facepunch-nazar_amulet",
+        "leftEmoji": "👊",
+        "leftEmojiCodepoint": "1f44a",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20250430",
+        "isLatest": true,
+        "gBoardOrder": 167
+      }
+    ],
+    "1f64c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250430/u1f64c/u1f64c_u1f9ff.png",
+        "alt": "raised_hands-nazar_amulet",
+        "leftEmoji": "🙌",
+        "leftEmojiCodepoint": "1f64c",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20250430",
+        "isLatest": true,
+        "gBoardOrder": 169
+      }
+    ],
+    "1f64f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250430/u1f64f/u1f64f_u1f9ff.png",
+        "alt": "pray-nazar_amulet",
+        "leftEmoji": "🙏",
+        "leftEmojiCodepoint": "1f64f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20250430",
+        "isLatest": true,
+        "gBoardOrder": 170
+      }
+    ],
+    "1faf5": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250430/u1f9ff/u1f9ff_u1faf5.png",
+        "alt": "nazar_amulet-index_pointing_at_the_viewer",
+        "leftEmoji": "🧿",
+        "leftEmojiCodepoint": "1f9ff",
+        "rightEmoji": "🫵",
+        "rightEmojiCodepoint": "1faf5",
+        "date": "20250430",
+        "isLatest": true,
+        "gBoardOrder": 171
+      }
+    ],
+    "1f4f7": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250430/u1f4f7/u1f4f7_u1f9ff.png",
+        "alt": "camera-nazar_amulet",
+        "leftEmoji": "📷",
+        "leftEmojiCodepoint": "1f4f7",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20250430",
+        "isLatest": true,
+        "gBoardOrder": 487
+      }
+    ],
+    "1f642-200d-2195-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f642-u200d-u2195-ufe0f/u1f642-u200d-u2195-ufe0f_u1f9ff.png",
+        "alt": "head_shaking_vertically-nazar_amulet",
+        "leftEmoji": "🙂‍↕️",
+        "leftEmojiCodepoint": "1f642-200d-2195-fe0f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 19
+      }
+    ],
+    "1f642-200d-2194-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f642-u200d-u2194-ufe0f/u1f642-u200d-u2194-ufe0f_u1f9ff.png",
+        "alt": "head_shaking_horizontally-nazar_amulet",
+        "leftEmoji": "🙂‍↔️",
+        "leftEmojiCodepoint": "1f642-200d-2194-fe0f",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 20
+      }
+    ],
+    "1f48e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20251029/u1f48e/u1f48e_u1f9ff.png",
+        "alt": "gem-nazar_amulet",
+        "leftEmoji": "💎",
+        "leftEmojiCodepoint": "1f48e",
+        "rightEmoji": "🧿",
+        "rightEmojiCodepoint": "1f9ff",
+        "date": "20251029",
+        "isLatest": true,
+        "gBoardOrder": 538
+      }
+    ]
+  }
+}

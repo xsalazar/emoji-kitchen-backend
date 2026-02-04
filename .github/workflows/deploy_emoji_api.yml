@@ -1,0 +1,59 @@
+name: Deploy Emoji API
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "emoji/**"
+  workflow_dispatch:
+
+jobs:
+  job:
+    name: Deploy Emoji API
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository 📦
+        uses: actions/checkout@v6
+
+      - name: Configure AWS Credentials 🔑
+        uses: aws-actions/configure-aws-credentials@v5
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: us-west-2
+
+      - name: Setup Terraform 🏗
+        uses: hashicorp/setup-terraform@v3.1.2
+        with:
+          terraform_version: 1.10.2
+          terraform_wrapper: false # Necessary to access output
+
+      - name: Terraform Init ✨
+        id: init
+        run: terraform init -upgrade
+        working-directory: ./terraform
+
+      - name: Save Lambda function name to Environment Variables 💾
+        run: echo "LAMBDA_FUNCTION_NAME=$(terraform output -raw emoji_api_lambda_function)" >> $GITHUB_ENV
+        working-directory: ./terraform
+
+      - name: Setup Node 🏗
+        uses: actions/setup-node@v6
+        with:
+          node-version: "22"
+
+      - name: Install packages 📀
+        run: npm ci
+        working-directory: ./emoji
+
+      - name: Create Deployment Package 🎁
+        run: zip -r lambda.zip .
+        working-directory: ./emoji
+
+      - name: Deploy Lambda Function 🚀
+        env:
+          LAMBDA_FUNCTION_NAME: ${{ env.LAMBDA_FUNCTION_NAME }}
+        run: aws lambda update-function-code --function-name $LAMBDA_FUNCTION_NAME --zip-file fileb://lambda.zip
+        working-directory: ./emoji

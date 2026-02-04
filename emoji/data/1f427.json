@@ -1,0 +1,4663 @@
+{
+  "alt": "penguin",
+  "emoji": "🐧",
+  "emojiCodepoint": "1f427",
+  "gBoardOrder": 262,
+  "keywords": [
+    "penguin",
+    "animal",
+    "nature",
+    "bird"
+  ],
+  "category": "animals & nature",
+  "subcategory": "animal-bird",
+  "combinations": {
+    "2615": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u2615.png",
+        "alt": "penguin-coffee",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "☕",
+        "rightEmojiCodepoint": "2615",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 378
+      }
+    ],
+    "2705": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u2705/u2705_u1f427.png",
+        "alt": "white_check_mark-penguin",
+        "leftEmoji": "✅",
+        "leftEmojiCodepoint": "2705",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 619
+      }
+    ],
+    "2753": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u2753/u2753_u1f427.png",
+        "alt": "question-penguin",
+        "leftEmoji": "❓",
+        "leftEmojiCodepoint": "2753",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 608
+      }
+    ],
+    "2757": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u2757/u2757_u1f427.png",
+        "alt": "exclamation-penguin",
+        "leftEmoji": "❗",
+        "leftEmojiCodepoint": "2757",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 607
+      }
+    ],
+    "1fa84": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1fa84.png",
+        "alt": "penguin-magic_wand",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🪄",
+        "rightEmojiCodepoint": "1fa84",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 0
+      }
+    ],
+    "1f600": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f600.png",
+        "alt": "penguin-grinning",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😀",
+        "rightEmojiCodepoint": "1f600",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 1
+      }
+    ],
+    "1f603": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f603.png",
+        "alt": "penguin-smiley",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😃",
+        "rightEmojiCodepoint": "1f603",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 2
+      }
+    ],
+    "1f604": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f604.png",
+        "alt": "penguin-smile",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😄",
+        "rightEmojiCodepoint": "1f604",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 3
+      }
+    ],
+    "1f601": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f601.png",
+        "alt": "penguin-grin",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😁",
+        "rightEmojiCodepoint": "1f601",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 4
+      }
+    ],
+    "1f606": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f606.png",
+        "alt": "penguin-laughing",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😆",
+        "rightEmojiCodepoint": "1f606",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 5
+      }
+    ],
+    "1f605": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f605.png",
+        "alt": "penguin-sweat_smile",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😅",
+        "rightEmojiCodepoint": "1f605",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 6
+      }
+    ],
+    "1f602": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f602.png",
+        "alt": "penguin-joy",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😂",
+        "rightEmojiCodepoint": "1f602",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 7
+      }
+    ],
+    "1f923": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f923.png",
+        "alt": "penguin-rolling_on_the_floor_laughing",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🤣",
+        "rightEmojiCodepoint": "1f923",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 8
+      }
+    ],
+    "1f62d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f62d.png",
+        "alt": "penguin-sob",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😭",
+        "rightEmojiCodepoint": "1f62d",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 9
+      }
+    ],
+    "1f609": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f609.png",
+        "alt": "penguin-wink",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😉",
+        "rightEmojiCodepoint": "1f609",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 10
+      }
+    ],
+    "1f617": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f617.png",
+        "alt": "penguin-kissing",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😗",
+        "rightEmojiCodepoint": "1f617",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 11
+      }
+    ],
+    "1f619": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f619.png",
+        "alt": "penguin-kissing_smiling_eyes",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😙",
+        "rightEmojiCodepoint": "1f619",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 12
+      }
+    ],
+    "1f61a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f61a.png",
+        "alt": "penguin-kissing_closed_eyes",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😚",
+        "rightEmojiCodepoint": "1f61a",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 13
+      }
+    ],
+    "1f618": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f618.png",
+        "alt": "penguin-kissing_heart",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😘",
+        "rightEmojiCodepoint": "1f618",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 14
+      }
+    ],
+    "1f970": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f970.png",
+        "alt": "penguin-smiling_face_with_3_hearts",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🥰",
+        "rightEmojiCodepoint": "1f970",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 15
+      }
+    ],
+    "1f60d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f60d.png",
+        "alt": "penguin-heart_eyes",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😍",
+        "rightEmojiCodepoint": "1f60d",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 16
+      }
+    ],
+    "1f929": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f929.png",
+        "alt": "penguin-star_struck",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🤩",
+        "rightEmojiCodepoint": "1f929",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 17
+      }
+    ],
+    "1f973": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f973.png",
+        "alt": "penguin-partying_face",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🥳",
+        "rightEmojiCodepoint": "1f973",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 18
+      }
+    ],
+    "1f643": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f643.png",
+        "alt": "penguin-upside_down_face",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🙃",
+        "rightEmojiCodepoint": "1f643",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 19
+      }
+    ],
+    "1f642": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f642.png",
+        "alt": "penguin-slightly_smiling_face",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🙂",
+        "rightEmojiCodepoint": "1f642",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 20
+      }
+    ],
+    "1f972": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f972.png",
+        "alt": "penguin-smiling_face_with_tear",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🥲",
+        "rightEmojiCodepoint": "1f972",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 21
+      }
+    ],
+    "1f979": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f979/u1f979_u1f427.png",
+        "alt": "face_holding_back_tears-penguin",
+        "leftEmoji": "🥹",
+        "leftEmojiCodepoint": "1f979",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 22
+      }
+    ],
+    "1f60b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f60b.png",
+        "alt": "penguin-yum",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😋",
+        "rightEmojiCodepoint": "1f60b",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 23
+      }
+    ],
+    "1f61b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f61b.png",
+        "alt": "penguin-stuck_out_tongue",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😛",
+        "rightEmojiCodepoint": "1f61b",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 24
+      }
+    ],
+    "1f61d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f61d.png",
+        "alt": "penguin-stuck_out_tongue_closed_eyes",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😝",
+        "rightEmojiCodepoint": "1f61d",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 25
+      }
+    ],
+    "1f61c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f61c.png",
+        "alt": "penguin-stuck_out_tongue_winking_eye",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😜",
+        "rightEmojiCodepoint": "1f61c",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 26
+      }
+    ],
+    "1f92a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f92a.png",
+        "alt": "penguin-zany_face",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🤪",
+        "rightEmojiCodepoint": "1f92a",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 27
+      }
+    ],
+    "1f607": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f607.png",
+        "alt": "penguin-innocent",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😇",
+        "rightEmojiCodepoint": "1f607",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 28
+      }
+    ],
+    "1f60a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f60a.png",
+        "alt": "penguin-blush",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😊",
+        "rightEmojiCodepoint": "1f60a",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 29
+      }
+    ],
+    "263a-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u263a-ufe0f.png",
+        "alt": "penguin-relaxed",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "☺️",
+        "rightEmojiCodepoint": "263a-fe0f",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 30
+      }
+    ],
+    "1f60f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f60f.png",
+        "alt": "penguin-smirk",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😏",
+        "rightEmojiCodepoint": "1f60f",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 31
+      }
+    ],
+    "1f60c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f60c.png",
+        "alt": "penguin-relieved",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😌",
+        "rightEmojiCodepoint": "1f60c",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 32
+      }
+    ],
+    "1f614": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f614.png",
+        "alt": "penguin-pensive",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😔",
+        "rightEmojiCodepoint": "1f614",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 33
+      }
+    ],
+    "1f611": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f611.png",
+        "alt": "penguin-expressionless",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😑",
+        "rightEmojiCodepoint": "1f611",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 34
+      }
+    ],
+    "1f610": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f610.png",
+        "alt": "penguin-neutral_face",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😐",
+        "rightEmojiCodepoint": "1f610",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 35
+      }
+    ],
+    "1f636": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f636.png",
+        "alt": "penguin-no_mouth",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😶",
+        "rightEmojiCodepoint": "1f636",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 36
+      }
+    ],
+    "1fae1": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1fae1/u1fae1_u1f427.png",
+        "alt": "saluting_face-penguin",
+        "leftEmoji": "🫡",
+        "leftEmojiCodepoint": "1fae1",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 37
+      }
+    ],
+    "1f914": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f914.png",
+        "alt": "penguin-thinking_face",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🤔",
+        "rightEmojiCodepoint": "1f914",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 38
+      }
+    ],
+    "1f92b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f92b.png",
+        "alt": "penguin-shushing_face",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🤫",
+        "rightEmojiCodepoint": "1f92b",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 39
+      }
+    ],
+    "1fae2": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1fae2/u1fae2_u1f427.png",
+        "alt": "face_with_open_eyes_and_hand_over_mouth-penguin",
+        "leftEmoji": "🫢",
+        "leftEmojiCodepoint": "1fae2",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 40
+      }
+    ],
+    "1f92d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f92d.png",
+        "alt": "penguin-face_with_hand_over_mouth",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🤭",
+        "rightEmojiCodepoint": "1f92d",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 41
+      }
+    ],
+    "1f971": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f971.png",
+        "alt": "penguin-yawning_face",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🥱",
+        "rightEmojiCodepoint": "1f971",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 42
+      }
+    ],
+    "1f917": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f917.png",
+        "alt": "penguin-hugging_face",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🤗",
+        "rightEmojiCodepoint": "1f917",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 43
+      }
+    ],
+    "1fae3": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1fae3/u1fae3_u1f427.png",
+        "alt": "face_with_peeking_eye-penguin",
+        "leftEmoji": "🫣",
+        "leftEmojiCodepoint": "1fae3",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 44
+      }
+    ],
+    "1f631": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f631.png",
+        "alt": "penguin-scream",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😱",
+        "rightEmojiCodepoint": "1f631",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 45
+      }
+    ],
+    "1f928": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f928.png",
+        "alt": "penguin-face_with_raised_eyebrow",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🤨",
+        "rightEmojiCodepoint": "1f928",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 46
+      }
+    ],
+    "1f9d0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f9d0.png",
+        "alt": "penguin-face_with_monocle",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🧐",
+        "rightEmojiCodepoint": "1f9d0",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 47
+      }
+    ],
+    "1f612": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f612.png",
+        "alt": "penguin-unamused",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😒",
+        "rightEmojiCodepoint": "1f612",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 48
+      }
+    ],
+    "1f644": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f644.png",
+        "alt": "penguin-face_with_rolling_eyes",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🙄",
+        "rightEmojiCodepoint": "1f644",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 49
+      }
+    ],
+    "1f62e-200d-1f4a8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f62e-u200d-u1f4a8.png",
+        "alt": "penguin-face_exhaling",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😮‍💨",
+        "rightEmojiCodepoint": "1f62e-200d-1f4a8",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 50
+      }
+    ],
+    "1f624": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f624.png",
+        "alt": "penguin-triumph",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😤",
+        "rightEmojiCodepoint": "1f624",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 51
+      }
+    ],
+    "1f620": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f620.png",
+        "alt": "penguin-angry",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😠",
+        "rightEmojiCodepoint": "1f620",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 52
+      }
+    ],
+    "1f621": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f621.png",
+        "alt": "penguin-rage",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😡",
+        "rightEmojiCodepoint": "1f621",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 53
+      }
+    ],
+    "1f92c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f92c.png",
+        "alt": "penguin-face_with_symbols_on_mouth",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🤬",
+        "rightEmojiCodepoint": "1f92c",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 54
+      }
+    ],
+    "1f97a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f97a.png",
+        "alt": "penguin-pleading_face",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🥺",
+        "rightEmojiCodepoint": "1f97a",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 55
+      }
+    ],
+    "1f61f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f61f.png",
+        "alt": "penguin-worried",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😟",
+        "rightEmojiCodepoint": "1f61f",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 56
+      }
+    ],
+    "1f625": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f625.png",
+        "alt": "penguin-disappointed_relieved",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😥",
+        "rightEmojiCodepoint": "1f625",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 57
+      }
+    ],
+    "1f622": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f622.png",
+        "alt": "penguin-cry",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😢",
+        "rightEmojiCodepoint": "1f622",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 58
+      }
+    ],
+    "2639-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u2639-ufe0f.png",
+        "alt": "penguin-white_frowning_face",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "☹️",
+        "rightEmojiCodepoint": "2639-fe0f",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 59
+      }
+    ],
+    "1f641": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f641.png",
+        "alt": "penguin-slightly_frowning_face",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🙁",
+        "rightEmojiCodepoint": "1f641",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 60
+      }
+    ],
+    "1fae4": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1fae4/u1fae4_u1f427.png",
+        "alt": "face_with_diagonal_mouth-penguin",
+        "leftEmoji": "🫤",
+        "leftEmojiCodepoint": "1fae4",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 61
+      }
+    ],
+    "1f615": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f615.png",
+        "alt": "penguin-confused",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😕",
+        "rightEmojiCodepoint": "1f615",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 62
+      }
+    ],
+    "1f910": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f910.png",
+        "alt": "penguin-zipper_mouth_face",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🤐",
+        "rightEmojiCodepoint": "1f910",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 63
+      }
+    ],
+    "1f630": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f630.png",
+        "alt": "penguin-cold_sweat",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😰",
+        "rightEmojiCodepoint": "1f630",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 64
+      }
+    ],
+    "1f628": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f628.png",
+        "alt": "penguin-fearful",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😨",
+        "rightEmojiCodepoint": "1f628",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 65
+      }
+    ],
+    "1f627": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f627.png",
+        "alt": "penguin-anguished",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😧",
+        "rightEmojiCodepoint": "1f627",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 66
+      }
+    ],
+    "1f626": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f626.png",
+        "alt": "penguin-frowning",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😦",
+        "rightEmojiCodepoint": "1f626",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 67
+      }
+    ],
+    "1f62e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f62e.png",
+        "alt": "penguin-open_mouth",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😮",
+        "rightEmojiCodepoint": "1f62e",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 68
+      }
+    ],
+    "1f62f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f62f.png",
+        "alt": "penguin-hushed",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😯",
+        "rightEmojiCodepoint": "1f62f",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 69
+      }
+    ],
+    "1f632": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f632.png",
+        "alt": "penguin-astonished",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😲",
+        "rightEmojiCodepoint": "1f632",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 70
+      }
+    ],
+    "1f633": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f633.png",
+        "alt": "penguin-flushed",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😳",
+        "rightEmojiCodepoint": "1f633",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 71
+      }
+    ],
+    "1f92f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f92f.png",
+        "alt": "penguin-exploding_head",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🤯",
+        "rightEmojiCodepoint": "1f92f",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 72
+      }
+    ],
+    "1f62c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f62c.png",
+        "alt": "penguin-grimacing",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😬",
+        "rightEmojiCodepoint": "1f62c",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 73
+      }
+    ],
+    "1f613": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f613.png",
+        "alt": "penguin-sweat",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😓",
+        "rightEmojiCodepoint": "1f613",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 74
+      }
+    ],
+    "1f61e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f61e.png",
+        "alt": "penguin-disappointed",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😞",
+        "rightEmojiCodepoint": "1f61e",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 75
+      }
+    ],
+    "1f616": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f616.png",
+        "alt": "penguin-confounded",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😖",
+        "rightEmojiCodepoint": "1f616",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 76
+      }
+    ],
+    "1f623": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f623.png",
+        "alt": "penguin-persevere",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😣",
+        "rightEmojiCodepoint": "1f623",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 77
+      }
+    ],
+    "1f629": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f629.png",
+        "alt": "penguin-weary",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😩",
+        "rightEmojiCodepoint": "1f629",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 78
+      }
+    ],
+    "1f62b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f62b.png",
+        "alt": "penguin-tired_face",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😫",
+        "rightEmojiCodepoint": "1f62b",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 79
+      }
+    ],
+    "1f635": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f635.png",
+        "alt": "penguin-dizzy_face",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😵",
+        "rightEmojiCodepoint": "1f635",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 80
+      }
+    ],
+    "1fae5": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1fae5/u1fae5_u1f427.png",
+        "alt": "dotted_line_face-penguin",
+        "leftEmoji": "🫥",
+        "leftEmojiCodepoint": "1fae5",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 81
+      }
+    ],
+    "1f634": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f634.png",
+        "alt": "penguin-sleeping",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😴",
+        "rightEmojiCodepoint": "1f634",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 82
+      }
+    ],
+    "1f62a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f62a.png",
+        "alt": "penguin-sleepy",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😪",
+        "rightEmojiCodepoint": "1f62a",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 83
+      }
+    ],
+    "1f924": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f924.png",
+        "alt": "penguin-drooling_face",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🤤",
+        "rightEmojiCodepoint": "1f924",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 84
+      }
+    ],
+    "1f31c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f31c.png",
+        "alt": "penguin-last_quarter_moon_with_face",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🌜",
+        "rightEmojiCodepoint": "1f31c",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 86
+      }
+    ],
+    "1f31e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f31e.png",
+        "alt": "penguin-sun_with_face",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🌞",
+        "rightEmojiCodepoint": "1f31e",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 89
+      }
+    ],
+    "1fae0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1fae0/u1fae0_u1f427.png",
+        "alt": "melting_face-penguin",
+        "leftEmoji": "🫠",
+        "leftEmojiCodepoint": "1fae0",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 90
+      }
+    ],
+    "1f636-200d-1f32b-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f636-u200d-u1f32b-ufe0f.png",
+        "alt": "penguin-face_in_clouds",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😶‍🌫️",
+        "rightEmojiCodepoint": "1f636-200d-1f32b-fe0f",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 91
+      }
+    ],
+    "1f974": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f974.png",
+        "alt": "penguin-woozy_face",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🥴",
+        "rightEmojiCodepoint": "1f974",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 92
+      }
+    ],
+    "1f975": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f975.png",
+        "alt": "penguin-hot_face",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🥵",
+        "rightEmojiCodepoint": "1f975",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 93
+      }
+    ],
+    "1f976": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f976.png",
+        "alt": "penguin-cold_face",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🥶",
+        "rightEmojiCodepoint": "1f976",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 94
+      }
+    ],
+    "1f922": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f922.png",
+        "alt": "penguin-nauseated_face",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🤢",
+        "rightEmojiCodepoint": "1f922",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 95
+      }
+    ],
+    "1f92e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f92e.png",
+        "alt": "penguin-face_vomiting",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🤮",
+        "rightEmojiCodepoint": "1f92e",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 96
+      }
+    ],
+    "1f927": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f927.png",
+        "alt": "penguin-sneezing_face",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🤧",
+        "rightEmojiCodepoint": "1f927",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 97
+      }
+    ],
+    "1f912": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f912.png",
+        "alt": "penguin-face_with_thermometer",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🤒",
+        "rightEmojiCodepoint": "1f912",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 98
+      }
+    ],
+    "1f915": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f915.png",
+        "alt": "penguin-face_with_head_bandage",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🤕",
+        "rightEmojiCodepoint": "1f915",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 99
+      }
+    ],
+    "1f637": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f637.png",
+        "alt": "penguin-mask",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😷",
+        "rightEmojiCodepoint": "1f637",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 100
+      }
+    ],
+    "1f920": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f920.png",
+        "alt": "penguin-face_with_cowboy_hat",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🤠",
+        "rightEmojiCodepoint": "1f920",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 101
+      }
+    ],
+    "1f911": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f911.png",
+        "alt": "penguin-money_mouth_face",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🤑",
+        "rightEmojiCodepoint": "1f911",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 102
+      }
+    ],
+    "1f60e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f60e.png",
+        "alt": "penguin-sunglasses",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😎",
+        "rightEmojiCodepoint": "1f60e",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 103
+      }
+    ],
+    "1f913": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f913.png",
+        "alt": "penguin-nerd_face",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🤓",
+        "rightEmojiCodepoint": "1f913",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 104
+      }
+    ],
+    "1f978": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f978.png",
+        "alt": "penguin-disguised_face",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🥸",
+        "rightEmojiCodepoint": "1f978",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 105
+      }
+    ],
+    "1f925": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f925.png",
+        "alt": "penguin-lying_face",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🤥",
+        "rightEmojiCodepoint": "1f925",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 106
+      }
+    ],
+    "1f921": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f921.png",
+        "alt": "penguin-clown_face",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🤡",
+        "rightEmojiCodepoint": "1f921",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 107
+      }
+    ],
+    "1f47b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f47b.png",
+        "alt": "penguin-ghost",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "👻",
+        "rightEmojiCodepoint": "1f47b",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 108
+      }
+    ],
+    "1f4a9": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f4a9.png",
+        "alt": "penguin-hankey",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "💩",
+        "rightEmojiCodepoint": "1f4a9",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 109
+      }
+    ],
+    "1f47d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f47d.png",
+        "alt": "penguin-alien",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "👽",
+        "rightEmojiCodepoint": "1f47d",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 110
+      }
+    ],
+    "1f47e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f47e/u1f47e_u1f427.png",
+        "alt": "space_invader-penguin",
+        "leftEmoji": "👾",
+        "leftEmojiCodepoint": "1f47e",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 111
+      }
+    ],
+    "1f916": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f916.png",
+        "alt": "penguin-robot_face",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🤖",
+        "rightEmojiCodepoint": "1f916",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 112
+      }
+    ],
+    "1f383": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f383.png",
+        "alt": "penguin-jack_o_lantern",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🎃",
+        "rightEmojiCodepoint": "1f383",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 115
+      }
+    ],
+    "1f608": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f608.png",
+        "alt": "penguin-smiling_imp",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "😈",
+        "rightEmojiCodepoint": "1f608",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 116
+      }
+    ],
+    "1f47f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f47f.png",
+        "alt": "penguin-imp",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "👿",
+        "rightEmojiCodepoint": "1f47f",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 117
+      }
+    ],
+    "1f525": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f525.png",
+        "alt": "penguin-fire",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🔥",
+        "rightEmojiCodepoint": "1f525",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 118
+      }
+    ],
+    "1f4ab": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f4ab.png",
+        "alt": "penguin-dizzy",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "💫",
+        "rightEmojiCodepoint": "1f4ab",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 119
+      }
+    ],
+    "2b50": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u2b50.png",
+        "alt": "penguin-star",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "⭐",
+        "rightEmojiCodepoint": "2b50",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 120
+      }
+    ],
+    "1f31f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f31f.png",
+        "alt": "penguin-star2",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🌟",
+        "rightEmojiCodepoint": "1f31f",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 121
+      }
+    ],
+    "1f4a5": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f4a5/u1f4a5_u1f427.png",
+        "alt": "boom-penguin",
+        "leftEmoji": "💥",
+        "leftEmojiCodepoint": "1f4a5",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 122
+      }
+    ],
+    "1f4af": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f4af.png",
+        "alt": "penguin-100",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "💯",
+        "rightEmojiCodepoint": "1f4af",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 123
+      }
+    ],
+    "1f573-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f573-ufe0f.png",
+        "alt": "penguin-hole",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🕳️",
+        "rightEmojiCodepoint": "1f573-fe0f",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 125
+      }
+    ],
+    "1f38a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f38a.png",
+        "alt": "penguin-confetti_ball",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🎊",
+        "rightEmojiCodepoint": "1f38a",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 126
+      }
+    ],
+    "2665-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u2665-ufe0f.png",
+        "alt": "penguin-hearts",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "♥️",
+        "rightEmojiCodepoint": "2665-fe0f",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 139
+      }
+    ],
+    "1f498": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f498.png",
+        "alt": "penguin-cupid",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "💘",
+        "rightEmojiCodepoint": "1f498",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 140
+      }
+    ],
+    "1f49d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f49d.png",
+        "alt": "penguin-gift_heart",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "💝",
+        "rightEmojiCodepoint": "1f49d",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 141
+      }
+    ],
+    "1f496": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f496.png",
+        "alt": "penguin-sparkling_heart",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "💖",
+        "rightEmojiCodepoint": "1f496",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 142
+      }
+    ],
+    "1f497": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f497.png",
+        "alt": "penguin-heartpulse",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "💗",
+        "rightEmojiCodepoint": "1f497",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 143
+      }
+    ],
+    "1f493": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f493.png",
+        "alt": "penguin-heartbeat",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "💓",
+        "rightEmojiCodepoint": "1f493",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 144
+      }
+    ],
+    "1f49e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f49e.png",
+        "alt": "penguin-revolving_hearts",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "💞",
+        "rightEmojiCodepoint": "1f49e",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 145
+      }
+    ],
+    "1f495": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f495.png",
+        "alt": "penguin-two_hearts",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "💕",
+        "rightEmojiCodepoint": "1f495",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 146
+      }
+    ],
+    "1f48c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f48c.png",
+        "alt": "penguin-love_letter",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "💌",
+        "rightEmojiCodepoint": "1f48c",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 147
+      }
+    ],
+    "2763-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u2763-ufe0f.png",
+        "alt": "penguin-heavy_heart_exclamation_mark_ornament",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "❣️",
+        "rightEmojiCodepoint": "2763-fe0f",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 149
+      }
+    ],
+    "2764-fe0f-200d-1fa79": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u2764-ufe0f-u200d-u1fa79.png",
+        "alt": "penguin-mending_heart",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "❤️‍🩹",
+        "rightEmojiCodepoint": "2764-fe0f-200d-1fa79",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 150
+      }
+    ],
+    "1f494": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f494.png",
+        "alt": "penguin-broken_heart",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "💔",
+        "rightEmojiCodepoint": "1f494",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 151
+      }
+    ],
+    "1f48b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f48b.png",
+        "alt": "penguin-kiss",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "💋",
+        "rightEmojiCodepoint": "1f48b",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 152
+      }
+    ],
+    "1f9a0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f9a0.png",
+        "alt": "penguin-microbe",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🦠",
+        "rightEmojiCodepoint": "1f9a0",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 162
+      }
+    ],
+    "1f480": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f480.png",
+        "alt": "penguin-skull",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "💀",
+        "rightEmojiCodepoint": "1f480",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 165
+      }
+    ],
+    "1f441-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f441-ufe0f.png",
+        "alt": "penguin-eye",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "👁️",
+        "rightEmojiCodepoint": "1f441-fe0f",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 167
+      }
+    ],
+    "1fae6": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220203/u1fae6/u1fae6_u1f427.png",
+        "alt": "biting_lip-penguin",
+        "leftEmoji": "🫦",
+        "leftEmojiCodepoint": "1fae6",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20220203",
+        "isLatest": true,
+        "gBoardOrder": 169
+      }
+    ],
+    "1f44d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231128/u1f44d/u1f44d_u1f427.png",
+        "alt": "+1-penguin",
+        "leftEmoji": "👍",
+        "leftEmojiCodepoint": "1f44d",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20231128",
+        "isLatest": true,
+        "gBoardOrder": 170
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230216/u1f44d/u1f44d_u1f427.png",
+        "alt": "+1-penguin",
+        "leftEmoji": "👍",
+        "leftEmojiCodepoint": "1f44d",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20230216",
+        "isLatest": false,
+        "gBoardOrder": 170
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220815/u1f44d/u1f44d_u1f427.png",
+        "alt": "+1-penguin",
+        "leftEmoji": "👍",
+        "leftEmojiCodepoint": "1f44d",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20220815",
+        "isLatest": false,
+        "gBoardOrder": 170
+      }
+    ],
+    "1f937": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230216/u1f427/u1f427_u1f937.png",
+        "alt": "penguin-shrug",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🤷",
+        "rightEmojiCodepoint": "1f937",
+        "date": "20230216",
+        "isLatest": true,
+        "gBoardOrder": 171
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f937.png",
+        "alt": "penguin-shrug",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🤷",
+        "rightEmojiCodepoint": "1f937",
+        "date": "20211115",
+        "isLatest": false,
+        "gBoardOrder": 171
+      }
+    ],
+    "1fa82": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1fa82/u1fa82_u1f427.png",
+        "alt": "parachute-penguin",
+        "leftEmoji": "🪂",
+        "leftEmojiCodepoint": "1fa82",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 172
+      }
+    ],
+    "1f490": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f490.png",
+        "alt": "penguin-bouquet",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "💐",
+        "rightEmojiCodepoint": "1f490",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 173
+      }
+    ],
+    "1f339": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f339.png",
+        "alt": "penguin-rose",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🌹",
+        "rightEmojiCodepoint": "1f339",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 174
+      }
+    ],
+    "1f337": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f337.png",
+        "alt": "penguin-tulip",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🌷",
+        "rightEmojiCodepoint": "1f337",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 177
+      }
+    ],
+    "1f338": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f338.png",
+        "alt": "penguin-cherry_blossom",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🌸",
+        "rightEmojiCodepoint": "1f338",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 178
+      }
+    ],
+    "1f4ae": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f4ae/u1f4ae_u1f427.png",
+        "alt": "white_flower-penguin",
+        "leftEmoji": "💮",
+        "leftEmojiCodepoint": "1f4ae",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 180
+      }
+    ],
+    "1f33c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f33c.png",
+        "alt": "penguin-blossom",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🌼",
+        "rightEmojiCodepoint": "1f33c",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 184
+      }
+    ],
+    "1f344": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220406/u1f344/u1f344_u1f427.png",
+        "alt": "mushroom-penguin",
+        "leftEmoji": "🍄",
+        "leftEmojiCodepoint": "1f344",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20220406",
+        "isLatest": true,
+        "gBoardOrder": 187
+      }
+    ],
+    "1f335": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f335.png",
+        "alt": "penguin-cactus",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🌵",
+        "rightEmojiCodepoint": "1f335",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 194
+      }
+    ],
+    "1f332": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f332.png",
+        "alt": "penguin-evergreen_tree",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🌲",
+        "rightEmojiCodepoint": "1f332",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 197
+      }
+    ],
+    "1fab5": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1fab5/u1fab5_u1f427.png",
+        "alt": "wood-penguin",
+        "leftEmoji": "🪵",
+        "leftEmojiCodepoint": "1fab5",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 201
+      }
+    ],
+    "1faa8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220406/u1faa8/u1faa8_u1f427.png",
+        "alt": "rock-penguin",
+        "leftEmoji": "🪨",
+        "leftEmojiCodepoint": "1faa8",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20220406",
+        "isLatest": true,
+        "gBoardOrder": 202
+      }
+    ],
+    "26c4": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u26c4.png",
+        "alt": "penguin-snowman_without_snow",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "⛄",
+        "rightEmojiCodepoint": "26c4",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 203
+      }
+    ],
+    "1f30a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230418/u1f30a/u1f30a_u1f427.png",
+        "alt": "ocean-penguin",
+        "leftEmoji": "🌊",
+        "leftEmojiCodepoint": "1f30a",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20230418",
+        "isLatest": true,
+        "gBoardOrder": 204
+      }
+    ],
+    "1f32a-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f32a-ufe0f.png",
+        "alt": "penguin-tornado",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🌪️",
+        "rightEmojiCodepoint": "1f32a-fe0f",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 207
+      }
+    ],
+    "1f30b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f30b/u1f30b_u1f427.png",
+        "alt": "volcano-penguin",
+        "leftEmoji": "🌋",
+        "leftEmojiCodepoint": "1f30b",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 208
+      }
+    ],
+    "1f304": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f304/u1f304_u1f427.png",
+        "alt": "sunrise_over_mountains-penguin",
+        "leftEmoji": "🌄",
+        "leftEmojiCodepoint": "1f304",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 211
+      }
+    ],
+    "2601-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20221107/u1f427/u1f427_u2601-ufe0f.png",
+        "alt": "penguin-cloud",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "☁️",
+        "rightEmojiCodepoint": "2601-fe0f",
+        "date": "20221107",
+        "isLatest": true,
+        "gBoardOrder": 213
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u2601-ufe0f.png",
+        "alt": "penguin-cloud",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "☁️",
+        "rightEmojiCodepoint": "2601-fe0f",
+        "date": "20211115",
+        "isLatest": false,
+        "gBoardOrder": 213
+      }
+    ],
+    "1f327-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20221101/u1f327-ufe0f/u1f327-ufe0f_u1f427.png",
+        "alt": "rain_cloud-penguin",
+        "leftEmoji": "🌧️",
+        "leftEmojiCodepoint": "1f327-fe0f",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20221101",
+        "isLatest": true,
+        "gBoardOrder": 214
+      }
+    ],
+    "2602-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u2602-ufe0f/u2602-ufe0f_u1f427.png",
+        "alt": "umbrella-penguin",
+        "leftEmoji": "☂️",
+        "leftEmojiCodepoint": "2602-fe0f",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 217
+      }
+    ],
+    "1f308": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f308.png",
+        "alt": "penguin-rainbow",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🌈",
+        "rightEmojiCodepoint": "1f308",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 219
+      }
+    ],
+    "1f30d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f30d.png",
+        "alt": "penguin-earth_africa",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🌍",
+        "rightEmojiCodepoint": "1f30d",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 222
+      }
+    ],
+    "1f648": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f648.png",
+        "alt": "penguin-see_no_evil",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🙈",
+        "rightEmojiCodepoint": "1f648",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 224
+      }
+    ],
+    "1f435": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f435.png",
+        "alt": "penguin-monkey_face",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🐵",
+        "rightEmojiCodepoint": "1f435",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 225
+      }
+    ],
+    "1f981": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f981.png",
+        "alt": "penguin-lion_face",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🦁",
+        "rightEmojiCodepoint": "1f981",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 226
+      }
+    ],
+    "1f42f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220110/u1f42f/u1f42f_u1f427.png",
+        "alt": "tiger-penguin",
+        "leftEmoji": "🐯",
+        "leftEmojiCodepoint": "1f42f",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20220110",
+        "isLatest": true,
+        "gBoardOrder": 227
+      }
+    ],
+    "1f431": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f431.png",
+        "alt": "penguin-cat",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🐱",
+        "rightEmojiCodepoint": "1f431",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 228
+      }
+    ],
+    "1f436": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f436.png",
+        "alt": "penguin-dog",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🐶",
+        "rightEmojiCodepoint": "1f436",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 229
+      }
+    ],
+    "1f43a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20221101/u1f43a/u1f43a_u1f427.png",
+        "alt": "wolf-penguin",
+        "leftEmoji": "🐺",
+        "leftEmojiCodepoint": "1f43a",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20221101",
+        "isLatest": true,
+        "gBoardOrder": 230
+      }
+    ],
+    "1f43b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f43b.png",
+        "alt": "penguin-bear",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🐻",
+        "rightEmojiCodepoint": "1f43b",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 231
+      }
+    ],
+    "1f428": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f428.png",
+        "alt": "penguin-koala",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🐨",
+        "rightEmojiCodepoint": "1f428",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 232
+      }
+    ],
+    "1f43c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f43c.png",
+        "alt": "penguin-panda_face",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🐼",
+        "rightEmojiCodepoint": "1f43c",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 233
+      }
+    ],
+    "1f42d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f42d.png",
+        "alt": "penguin-mouse",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🐭",
+        "rightEmojiCodepoint": "1f42d",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 234
+      }
+    ],
+    "1f430": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f430.png",
+        "alt": "penguin-rabbit",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🐰",
+        "rightEmojiCodepoint": "1f430",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 235
+      }
+    ],
+    "1f98a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20221101/u1f98a/u1f98a_u1f427.png",
+        "alt": "fox_face-penguin",
+        "leftEmoji": "🦊",
+        "leftEmojiCodepoint": "1f98a",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20221101",
+        "isLatest": true,
+        "gBoardOrder": 236
+      }
+    ],
+    "1f99d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f99d/u1f99d_u1f427.png",
+        "alt": "raccoon-penguin",
+        "leftEmoji": "🦝",
+        "leftEmojiCodepoint": "1f99d",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 237
+      }
+    ],
+    "1f42e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f42e/u1f42e_u1f427.png",
+        "alt": "cow-penguin",
+        "leftEmoji": "🐮",
+        "leftEmojiCodepoint": "1f42e",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 238
+      }
+    ],
+    "1f437": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f437.png",
+        "alt": "penguin-pig",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🐷",
+        "rightEmojiCodepoint": "1f437",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 239
+      }
+    ],
+    "1f984": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f984.png",
+        "alt": "penguin-unicorn_face",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🦄",
+        "rightEmojiCodepoint": "1f984",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 240
+      }
+    ],
+    "1f422": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f422.png",
+        "alt": "penguin-turtle",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🐢",
+        "rightEmojiCodepoint": "1f422",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 242
+      }
+    ],
+    "1f438": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230803/u1f438/u1f438_u1f427.png",
+        "alt": "frog-penguin",
+        "leftEmoji": "🐸",
+        "leftEmojiCodepoint": "1f438",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20230803",
+        "isLatest": true,
+        "gBoardOrder": 243
+      }
+    ],
+    "1f429": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f429.png",
+        "alt": "penguin-poodle",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🐩",
+        "rightEmojiCodepoint": "1f429",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 244
+      }
+    ],
+    "1f410": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f410.png",
+        "alt": "penguin-goat",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🐐",
+        "rightEmojiCodepoint": "1f410",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 245
+      }
+    ],
+    "1f98c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f98c.png",
+        "alt": "penguin-deer",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🦌",
+        "rightEmojiCodepoint": "1f98c",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 246
+      }
+    ],
+    "1f999": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f999.png",
+        "alt": "penguin-llama",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🦙",
+        "rightEmojiCodepoint": "1f999",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 247
+      }
+    ],
+    "1f9a5": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f9a5.png",
+        "alt": "penguin-sloth",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🦥",
+        "rightEmojiCodepoint": "1f9a5",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 248
+      }
+    ],
+    "1f994": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f994.png",
+        "alt": "penguin-hedgehog",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🦔",
+        "rightEmojiCodepoint": "1f994",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 249
+      }
+    ],
+    "1f987": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f987.png",
+        "alt": "penguin-bat",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🦇",
+        "rightEmojiCodepoint": "1f987",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 250
+      }
+    ],
+    "1f989": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f989.png",
+        "alt": "penguin-owl",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🦉",
+        "rightEmojiCodepoint": "1f989",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 251
+      }
+    ],
+    "1f426": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f426.png",
+        "alt": "penguin-bird",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🐦",
+        "rightEmojiCodepoint": "1f426",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 252
+      }
+    ],
+    "1f414": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230126/u1f414/u1f414_u1f427.png",
+        "alt": "chicken-penguin",
+        "leftEmoji": "🐔",
+        "leftEmojiCodepoint": "1f414",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20230126",
+        "isLatest": true,
+        "gBoardOrder": 253
+      }
+    ],
+    "1fabf": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20221101/u1fabf/u1fabf_u1f427.png",
+        "alt": "goose-penguin",
+        "leftEmoji": "🪿",
+        "leftEmojiCodepoint": "1fabf",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20221101",
+        "isLatest": true,
+        "gBoardOrder": 254
+      }
+    ],
+    "1f54a-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f54a-ufe0f/u1f54a-ufe0f_u1f427.png",
+        "alt": "dove_of_peace-penguin",
+        "leftEmoji": "🕊️",
+        "leftEmojiCodepoint": "1f54a-fe0f",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 255
+      }
+    ],
+    "1f427": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f427.png",
+        "alt": "penguin-penguin",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 257
+      }
+    ],
+    "1f988": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230418/u1f988/u1f988_u1f427.png",
+        "alt": "shark-penguin",
+        "leftEmoji": "🦈",
+        "leftEmojiCodepoint": "1f988",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20230418",
+        "isLatest": true,
+        "gBoardOrder": 258
+      }
+    ],
+    "1f433": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230418/u1f433/u1f433_u1f427.png",
+        "alt": "whale-penguin",
+        "leftEmoji": "🐳",
+        "leftEmojiCodepoint": "1f433",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20230418",
+        "isLatest": true,
+        "gBoardOrder": 259
+      }
+    ],
+    "1f41f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f41f.png",
+        "alt": "penguin-fish",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🐟",
+        "rightEmojiCodepoint": "1f41f",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 260
+      }
+    ],
+    "1f419": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f419.png",
+        "alt": "penguin-octopus",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🐙",
+        "rightEmojiCodepoint": "1f419",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 263
+      }
+    ],
+    "1f982": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f982.png",
+        "alt": "penguin-scorpion",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🦂",
+        "rightEmojiCodepoint": "1f982",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 266
+      }
+    ],
+    "1f577-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f577-ufe0f.png",
+        "alt": "penguin-spider",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🕷️",
+        "rightEmojiCodepoint": "1f577-fe0f",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 267
+      }
+    ],
+    "1f40c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f40c.png",
+        "alt": "penguin-snail",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🐌",
+        "rightEmojiCodepoint": "1f40c",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 269
+      }
+    ],
+    "1f41d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f41d.png",
+        "alt": "penguin-bee",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🐝",
+        "rightEmojiCodepoint": "1f41d",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 273
+      }
+    ],
+    "1f353": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f353.png",
+        "alt": "penguin-strawberry",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🍓",
+        "rightEmojiCodepoint": "1f353",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 277
+      }
+    ],
+    "1f352": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220406/u1f352/u1f352_u1f427.png",
+        "alt": "cherries-penguin",
+        "leftEmoji": "🍒",
+        "leftEmojiCodepoint": "1f352",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20220406",
+        "isLatest": true,
+        "gBoardOrder": 278
+      }
+    ],
+    "1f349": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230821/u1f349/u1f349_u1f427.png",
+        "alt": "watermelon-penguin",
+        "leftEmoji": "🍉",
+        "leftEmojiCodepoint": "1f349",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20230821",
+        "isLatest": true,
+        "gBoardOrder": 280
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220406/u1f349/u1f349_u1f427.png",
+        "alt": "watermelon-penguin",
+        "leftEmoji": "🍉",
+        "leftEmojiCodepoint": "1f349",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20220406",
+        "isLatest": false,
+        "gBoardOrder": 280
+      }
+    ],
+    "1f34a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f34a/u1f34a_u1f427.png",
+        "alt": "tangerine-penguin",
+        "leftEmoji": "🍊",
+        "leftEmojiCodepoint": "1f34a",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 281
+      }
+    ],
+    "1f34d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f34d.png",
+        "alt": "penguin-pineapple",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🍍",
+        "rightEmojiCodepoint": "1f34d",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 283
+      }
+    ],
+    "1f34c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250731/u1f34c/u1f34c_u1f427.png",
+        "alt": "banana-penguin",
+        "leftEmoji": "🍌",
+        "leftEmojiCodepoint": "1f34c",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20250731",
+        "isLatest": true,
+        "gBoardOrder": 284
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f34c/u1f34c_u1f427.png",
+        "alt": "banana-penguin",
+        "leftEmoji": "🍌",
+        "leftEmojiCodepoint": "1f34c",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20211115",
+        "isLatest": false,
+        "gBoardOrder": 284
+      }
+    ],
+    "1f34b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f34b.png",
+        "alt": "penguin-lemon",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🍋",
+        "rightEmojiCodepoint": "1f34b",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 285
+      }
+    ],
+    "1f336-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f336-ufe0f.png",
+        "alt": "penguin-hot_pepper",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🌶️",
+        "rightEmojiCodepoint": "1f336-fe0f",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 294
+      }
+    ],
+    "1f951": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f951.png",
+        "alt": "penguin-avocado",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🥑",
+        "rightEmojiCodepoint": "1f951",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 305
+      }
+    ],
+    "1f35e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f35e.png",
+        "alt": "penguin-bread",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🍞",
+        "rightEmojiCodepoint": "1f35e",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 311
+      }
+    ],
+    "1f9c0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f9c0.png",
+        "alt": "penguin-cheese_wedge",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🧀",
+        "rightEmojiCodepoint": "1f9c0",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 318
+      }
+    ],
+    "1f32d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f32d.png",
+        "alt": "penguin-hotdog",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🌭",
+        "rightEmojiCodepoint": "1f32d",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 324
+      }
+    ],
+    "1f365": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f365/u1f365_u1f427.png",
+        "alt": "fish_cake-penguin",
+        "leftEmoji": "🍥",
+        "leftEmojiCodepoint": "1f365",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 351
+      }
+    ],
+    "1f382": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f382.png",
+        "alt": "penguin-birthday",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🎂",
+        "rightEmojiCodepoint": "1f382",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 360
+      }
+    ],
+    "1f9c1": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f9c1.png",
+        "alt": "penguin-cupcake",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🧁",
+        "rightEmojiCodepoint": "1f9c1",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 361
+      }
+    ],
+    "1f36c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20221101/u1f36c/u1f36c_u1f427.png",
+        "alt": "candy-penguin",
+        "leftEmoji": "🍬",
+        "leftEmojiCodepoint": "1f36c",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20221101",
+        "isLatest": true,
+        "gBoardOrder": 363
+      }
+    ],
+    "1f9ca": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f9ca/u1f9ca_u1f427.png",
+        "alt": "ice_cube-penguin",
+        "leftEmoji": "🧊",
+        "leftEmojiCodepoint": "1f9ca",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 371
+      }
+    ],
+    "1f9c3": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f9c3/u1f9c3_u1f427.png",
+        "alt": "beverage_box-penguin",
+        "leftEmoji": "🧃",
+        "leftEmojiCodepoint": "1f9c3",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 374
+      }
+    ],
+    "1f37d-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f37d-ufe0f.png",
+        "alt": "penguin-knife_fork_plate",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🍽️",
+        "rightEmojiCodepoint": "1f37d-fe0f",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 388
+      }
+    ],
+    "1f6d1": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f6d1/u1f6d1_u1f427.png",
+        "alt": "octagonal_sign-penguin",
+        "leftEmoji": "🛑",
+        "leftEmojiCodepoint": "1f6d1",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 389
+      }
+    ],
+    "26fd": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u26fd/u26fd_u1f427.png",
+        "alt": "fuelpump-penguin",
+        "leftEmoji": "⛽",
+        "leftEmojiCodepoint": "26fd",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 392
+      }
+    ],
+    "1f6f8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f6f8/u1f6f8_u1f427.png",
+        "alt": "flying_saucer-penguin",
+        "leftEmoji": "🛸",
+        "leftEmojiCodepoint": "1f6f8",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 411
+      }
+    ],
+    "1f307": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f307.png",
+        "alt": "penguin-city_sunrise",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🌇",
+        "rightEmojiCodepoint": "1f307",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 426
+      }
+    ],
+    "1f388": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f388.png",
+        "alt": "penguin-balloon",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🎈",
+        "rightEmojiCodepoint": "1f388",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 430
+      }
+    ],
+    "1f381": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f381/u1f381_u1f427.png",
+        "alt": "gift-penguin",
+        "leftEmoji": "🎁",
+        "leftEmojiCodepoint": "1f381",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 432
+      }
+    ],
+    "1f386": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f386/u1f386_u1f427.png",
+        "alt": "fireworks-penguin",
+        "leftEmoji": "🎆",
+        "leftEmojiCodepoint": "1f386",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 433
+      }
+    ],
+    "1f947": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f947/u1f947_u1f427.png",
+        "alt": "first_place_medal-penguin",
+        "leftEmoji": "🥇",
+        "leftEmojiCodepoint": "1f947",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 437
+      }
+    ],
+    "1f948": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f948/u1f948_u1f427.png",
+        "alt": "second_place_medal-penguin",
+        "leftEmoji": "🥈",
+        "leftEmojiCodepoint": "1f948",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 438
+      }
+    ],
+    "1f949": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f949/u1f949_u1f427.png",
+        "alt": "third_place_medal-penguin",
+        "leftEmoji": "🥉",
+        "leftEmojiCodepoint": "1f949",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 439
+      }
+    ],
+    "1f3c6": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240610/u1f3c6/u1f3c6_u1f427.png",
+        "alt": "trophy-penguin",
+        "leftEmoji": "🏆",
+        "leftEmojiCodepoint": "1f3c6",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20240610",
+        "isLatest": true,
+        "gBoardOrder": 442
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f3c6/u1f3c6_u1f427.png",
+        "alt": "trophy-penguin",
+        "leftEmoji": "🏆",
+        "leftEmojiCodepoint": "1f3c6",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20211115",
+        "isLatest": false,
+        "gBoardOrder": 442
+      }
+    ],
+    "26bd": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20220406/u26bd/u26bd_u1f427.png",
+        "alt": "soccer-penguin",
+        "leftEmoji": "⚽",
+        "leftEmojiCodepoint": "26bd",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20220406",
+        "isLatest": true,
+        "gBoardOrder": 443
+      }
+    ],
+    "1f3c0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20230126/u1f3c0/u1f3c0_u1f427.png",
+        "alt": "basketball-penguin",
+        "leftEmoji": "🏀",
+        "leftEmojiCodepoint": "1f3c0",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20230126",
+        "isLatest": true,
+        "gBoardOrder": 446
+      }
+    ],
+    "1f3c8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f3c8/u1f3c8_u1f427.png",
+        "alt": "football-penguin",
+        "leftEmoji": "🏈",
+        "leftEmojiCodepoint": "1f3c8",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 448
+      }
+    ],
+    "1f945": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f945/u1f945_u1f427.png",
+        "alt": "goal_net-penguin",
+        "leftEmoji": "🥅",
+        "leftEmojiCodepoint": "1f945",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 451
+      }
+    ],
+    "1f3bf": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f3bf/u1f3bf_u1f427.png",
+        "alt": "ski-penguin",
+        "leftEmoji": "🎿",
+        "leftEmojiCodepoint": "1f3bf",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 459
+      }
+    ],
+    "1f3a3": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f3a3/u1f3a3_u1f427.png",
+        "alt": "fishing_pole_and_fish-penguin",
+        "leftEmoji": "🎣",
+        "leftEmojiCodepoint": "1f3a3",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 470
+      }
+    ],
+    "1f3b3": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f3b3/u1f3b3_u1f427.png",
+        "alt": "bowling-penguin",
+        "leftEmoji": "🎳",
+        "leftEmojiCodepoint": "1f3b3",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 477
+      }
+    ],
+    "1f9e9": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f9e9/u1f9e9_u1f427.png",
+        "alt": "jigsaw-penguin",
+        "leftEmoji": "🧩",
+        "leftEmojiCodepoint": "1f9e9",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 480
+      }
+    ],
+    "1f3b0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f3b0/u1f3b0_u1f427.png",
+        "alt": "slot_machine-penguin",
+        "leftEmoji": "🎰",
+        "leftEmojiCodepoint": "1f3b0",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 483
+      }
+    ],
+    "1f5bc-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f5bc-ufe0f/u1f5bc-ufe0f_u1f427.png",
+        "alt": "frame_with_picture-penguin",
+        "leftEmoji": "🖼️",
+        "leftEmojiCodepoint": "1f5bc-fe0f",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 488
+      }
+    ],
+    "1f58d-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f58d-ufe0f/u1f58d-ufe0f_u1f427.png",
+        "alt": "lower_left_crayon-penguin",
+        "leftEmoji": "🖍️",
+        "leftEmojiCodepoint": "1f58d-fe0f",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 491
+      }
+    ],
+    "1f3a7": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f3a7.png",
+        "alt": "penguin-headphones",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🎧",
+        "rightEmojiCodepoint": "1f3a7",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 507
+      }
+    ],
+    "1f3ac": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f3ac/u1f3ac_u1f427.png",
+        "alt": "clapper-penguin",
+        "leftEmoji": "🎬",
+        "leftEmojiCodepoint": "1f3ac",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 515
+      }
+    ],
+    "1f39f-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f39f-ufe0f/u1f39f-ufe0f_u1f427.png",
+        "alt": "admission_tickets-penguin",
+        "leftEmoji": "🎟️",
+        "leftEmojiCodepoint": "1f39f-fe0f",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 517
+      }
+    ],
+    "1f4df": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f4df/u1f4df_u1f427.png",
+        "alt": "pager-penguin",
+        "leftEmoji": "📟",
+        "leftEmojiCodepoint": "1f4df",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 520
+      }
+    ],
+    "1f4e0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240610/u1f4e0/u1f4e0_u1f427.png",
+        "alt": "fax-penguin",
+        "leftEmoji": "📠",
+        "leftEmojiCodepoint": "1f4e0",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20240610",
+        "isLatest": true,
+        "gBoardOrder": 521
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f4e0/u1f4e0_u1f427.png",
+        "alt": "fax-penguin",
+        "leftEmoji": "📠",
+        "leftEmojiCodepoint": "1f4e0",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20240206",
+        "isLatest": false,
+        "gBoardOrder": 521
+      }
+    ],
+    "1f4be": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f4be/u1f4be_u1f427.png",
+        "alt": "floppy_disk-penguin",
+        "leftEmoji": "💾",
+        "leftEmojiCodepoint": "1f4be",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 525
+      }
+    ],
+    "1f4bb": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f4bb/u1f4bb_u1f427.png",
+        "alt": "computer-penguin",
+        "leftEmoji": "💻",
+        "leftEmojiCodepoint": "1f4bb",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 527
+      }
+    ],
+    "1f4a1": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f4a1/u1f4a1_u1f427.png",
+        "alt": "bulb-penguin",
+        "leftEmoji": "💡",
+        "leftEmojiCodepoint": "1f4a1",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 533
+      }
+    ],
+    "1f451": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f451.png",
+        "alt": "penguin-crown",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "👑",
+        "rightEmojiCodepoint": "1f451",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 546
+      }
+    ],
+    "1f48e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f48e.png",
+        "alt": "penguin-gem",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "💎",
+        "rightEmojiCodepoint": "1f48e",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 550
+      }
+    ],
+    "1f4da": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f4da/u1f4da_u1f427.png",
+        "alt": "books-penguin",
+        "leftEmoji": "📚",
+        "leftEmojiCodepoint": "1f4da",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 571
+      }
+    ],
+    "1f4f0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1f4f0/u1f4f0_u1f427.png",
+        "alt": "newspaper-penguin",
+        "leftEmoji": "📰",
+        "leftEmojiCodepoint": "1f4f0",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 577
+      }
+    ],
+    "1f52e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20211115/u1f427/u1f427_u1f52e.png",
+        "alt": "penguin-crystal_ball",
+        "leftEmoji": "🐧",
+        "leftEmojiCodepoint": "1f427",
+        "rightEmoji": "🔮",
+        "rightEmojiCodepoint": "1f52e",
+        "date": "20211115",
+        "isLatest": true,
+        "gBoardOrder": 588
+      }
+    ],
+    "1f3fa": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f3fa/u1f3fa_u1f427.png",
+        "alt": "amphora-penguin",
+        "leftEmoji": "🏺",
+        "leftEmojiCodepoint": "1f3fa",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 590
+      }
+    ],
+    "1faa4": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u1faa4/u1faa4_u1f427.png",
+        "alt": "mouse_trap-penguin",
+        "leftEmoji": "🪤",
+        "leftEmojiCodepoint": "1faa4",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 591
+      }
+    ],
+    "26a0-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20231113/u26a0-ufe0f/u26a0-ufe0f_u1f427.png",
+        "alt": "warning-penguin",
+        "leftEmoji": "⚠️",
+        "leftEmojiCodepoint": "26a0-fe0f",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20231113",
+        "isLatest": true,
+        "gBoardOrder": 617
+      }
+    ],
+    "1f5ef-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f5ef-ufe0f/u1f5ef-ufe0f_u1f427.png",
+        "alt": "right_anger_bubble-penguin",
+        "leftEmoji": "🗯️",
+        "leftEmojiCodepoint": "1f5ef-fe0f",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 641
+      }
+    ],
+    "1f4ac": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240206/u1f4ac/u1f4ac_u1f427.png",
+        "alt": "speech_balloon-penguin",
+        "leftEmoji": "💬",
+        "leftEmojiCodepoint": "1f4ac",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20240206",
+        "isLatest": true,
+        "gBoardOrder": 642
+      }
+    ],
+    "1f40d": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f40d/u1f40d_u1f427.png",
+        "alt": "snake-penguin",
+        "leftEmoji": "🐍",
+        "leftEmojiCodepoint": "1f40d",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 242
+      }
+    ],
+    "1f463": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f463/u1f463_u1f427.png",
+        "alt": "footprints-penguin",
+        "leftEmoji": "👣",
+        "leftEmojiCodepoint": "1f463",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 157
+      }
+    ],
+    "26c5": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u26c5/u26c5_u1f427.png",
+        "alt": "partly_sunny-penguin",
+        "leftEmoji": "⛅",
+        "leftEmojiCodepoint": "26c5",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 212
+      }
+    ],
+    "1f30c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f30c/u1f30c_u1f427.png",
+        "alt": "milky_way-penguin",
+        "leftEmoji": "🌌",
+        "leftEmojiCodepoint": "1f30c",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 221
+      }
+    ],
+    "1f409": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f409/u1f409_u1f427.png",
+        "alt": "dragon-penguin",
+        "leftEmoji": "🐉",
+        "leftEmojiCodepoint": "1f409",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 241
+      }
+    ],
+    "1f96b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250731/u1f96b/u1f96b_u1f427.png",
+        "alt": "canned_food-penguin",
+        "leftEmoji": "🥫",
+        "leftEmojiCodepoint": "1f96b",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20250731",
+        "isLatest": true,
+        "gBoardOrder": 335
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f96b/u1f96b_u1f427.png",
+        "alt": "canned_food-penguin",
+        "leftEmoji": "🥫",
+        "leftEmojiCodepoint": "1f96b",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20240530",
+        "isLatest": false,
+        "gBoardOrder": 335
+      }
+    ],
+    "1f960": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f960/u1f960_u1f427.png",
+        "alt": "fortune_cookie-penguin",
+        "leftEmoji": "🥠",
+        "leftEmojiCodepoint": "1f960",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 353
+      }
+    ],
+    "1f6a8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6a8/u1f6a8_u1f427.png",
+        "alt": "rotating_light-penguin",
+        "leftEmoji": "🚨",
+        "leftEmojiCodepoint": "1f6a8",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 391
+      }
+    ],
+    "1f6a6": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241023/u1f6a6/u1f6a6_u1f427.png",
+        "alt": "vertical_traffic_light-penguin",
+        "leftEmoji": "🚦",
+        "leftEmojiCodepoint": "1f6a6",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20241023",
+        "isLatest": true,
+        "gBoardOrder": 396
+      },
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f6a6/u1f6a6_u1f427.png",
+        "alt": "vertical_traffic_light-penguin",
+        "leftEmoji": "🚦",
+        "leftEmojiCodepoint": "1f6a6",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20240530",
+        "isLatest": false,
+        "gBoardOrder": 396
+      }
+    ],
+    "1f69a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f69a/u1f69a_u1f427.png",
+        "alt": "truck-penguin",
+        "leftEmoji": "🚚",
+        "leftEmojiCodepoint": "1f69a",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 401
+      }
+    ],
+    "26f3": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u26f3/u26f3_u1f427.png",
+        "alt": "golf-penguin",
+        "leftEmoji": "⛳",
+        "leftEmojiCodepoint": "26f3",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 464
+      }
+    ],
+    "1f3af": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f3af/u1f3af_u1f427.png",
+        "alt": "dart-penguin",
+        "leftEmoji": "🎯",
+        "leftEmojiCodepoint": "1f3af",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 465
+      }
+    ],
+    "1f0cf": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f0cf/u1f0cf_u1f427.png",
+        "alt": "black_joker-penguin",
+        "leftEmoji": "🃏",
+        "leftEmojiCodepoint": "1f0cf",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 486
+      }
+    ],
+    "1f39e-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f39e-ufe0f/u1f39e-ufe0f_u1f427.png",
+        "alt": "film_frames-penguin",
+        "leftEmoji": "🎞️",
+        "leftEmojiCodepoint": "1f39e-fe0f",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 514
+      }
+    ],
+    "1f455": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f455/u1f455_u1f427.png",
+        "alt": "shirt-penguin",
+        "leftEmoji": "👕",
+        "leftEmojiCodepoint": "1f455",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 542
+      }
+    ],
+    "1f460": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f460/u1f460_u1f427.png",
+        "alt": "high_heel-penguin",
+        "leftEmoji": "👠",
+        "leftEmojiCodepoint": "1f460",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 551
+      }
+    ],
+    "1f5d1-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f5d1-ufe0f/u1f5d1-ufe0f_u1f427.png",
+        "alt": "wastebasket-penguin",
+        "leftEmoji": "🗑️",
+        "leftEmojiCodepoint": "1f5d1-fe0f",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 567
+      }
+    ],
+    "1f4c8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f4c8/u1f4c8_u1f427.png",
+        "alt": "chart_with_upwards_trend-penguin",
+        "leftEmoji": "📈",
+        "leftEmojiCodepoint": "1f4c8",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 574
+      }
+    ],
+    "1f4c9": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f4c9/u1f4c9_u1f427.png",
+        "alt": "chart_with_downwards_trend-penguin",
+        "leftEmoji": "📉",
+        "leftEmojiCodepoint": "1f4c9",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 575
+      }
+    ],
+    "2702-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u2702-ufe0f/u2702-ufe0f_u1f427.png",
+        "alt": "scissors-penguin",
+        "leftEmoji": "✂️",
+        "leftEmojiCodepoint": "2702-fe0f",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 576
+      }
+    ],
+    "231a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u231a/u231a_u1f427.png",
+        "alt": "watch-penguin",
+        "leftEmoji": "⌚",
+        "leftEmojiCodepoint": "231a",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 580
+      }
+    ],
+    "1f514": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f514/u1f514_u1f427.png",
+        "alt": "bell-penguin",
+        "leftEmoji": "🔔",
+        "leftEmojiCodepoint": "1f514",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 585
+      }
+    ],
+    "1f3b6": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u1f3b6/u1f3b6_u1f427.png",
+        "alt": "notes-penguin",
+        "leftEmoji": "🎶",
+        "leftEmojiCodepoint": "1f3b6",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 614
+      }
+    ],
+    "2622-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20240530/u2622-ufe0f/u2622-ufe0f_u1f427.png",
+        "alt": "radioactive_sign-penguin",
+        "leftEmoji": "☢️",
+        "leftEmojiCodepoint": "2622-fe0f",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20240530",
+        "isLatest": true,
+        "gBoardOrder": 615
+      }
+    ],
+    "1f5e3-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f5e3-ufe0f/u1f5e3-ufe0f_u1f427.png",
+        "alt": "speaking_head_in_silhouette-penguin",
+        "leftEmoji": "🗣️",
+        "leftEmojiCodepoint": "1f5e3-fe0f",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 156
+      }
+    ],
+    "1f440": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f440/u1f440_u1f427.png",
+        "alt": "eyes-penguin",
+        "leftEmoji": "👀",
+        "leftEmojiCodepoint": "1f440",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 166
+      }
+    ],
+    "1f33a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f33a/u1f33a_u1f427.png",
+        "alt": "hibiscus-penguin",
+        "leftEmoji": "🌺",
+        "leftEmojiCodepoint": "1f33a",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 176
+      }
+    ],
+    "1f32c-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f32c-ufe0f/u1f32c-ufe0f_u1f427.png",
+        "alt": "wind_blowing_face-penguin",
+        "leftEmoji": "🌬️",
+        "leftEmojiCodepoint": "1f32c-fe0f",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 205
+      }
+    ],
+    "1f300": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f300/u1f300_u1f427.png",
+        "alt": "cyclone-penguin",
+        "leftEmoji": "🌀",
+        "leftEmojiCodepoint": "1f300",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 206
+      }
+    ],
+    "1f329-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f329-ufe0f/u1f329-ufe0f_u1f427.png",
+        "alt": "lightning-penguin",
+        "leftEmoji": "🌩️",
+        "leftEmojiCodepoint": "1f329-fe0f",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 215
+      }
+    ],
+    "1f9a9": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f9a9/u1f9a9_u1f427.png",
+        "alt": "flamingo-penguin",
+        "leftEmoji": "🦩",
+        "leftEmojiCodepoint": "1f9a9",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 256
+      }
+    ],
+    "1f355": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f355/u1f355_u1f427.png",
+        "alt": "pizza-penguin",
+        "leftEmoji": "🍕",
+        "leftEmojiCodepoint": "1f355",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 324
+      }
+    ],
+    "1f3a2": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f3a2/u1f3a2_u1f427.png",
+        "alt": "roller_coaster-penguin",
+        "leftEmoji": "🎢",
+        "leftEmojiCodepoint": "1f3a2",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 414
+      }
+    ],
+    "1f3e0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f3e0/u1f3e0_u1f427.png",
+        "alt": "house-penguin",
+        "leftEmoji": "🏠",
+        "leftEmojiCodepoint": "1f3e0",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 424
+      }
+    ],
+    "26be": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u26be/u26be_u1f427.png",
+        "alt": "baseball-penguin",
+        "leftEmoji": "⚾",
+        "leftEmojiCodepoint": "26be",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 444
+      }
+    ],
+    "1f3be": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f3be/u1f3be_u1f427.png",
+        "alt": "tennis-penguin",
+        "leftEmoji": "🎾",
+        "leftEmojiCodepoint": "1f3be",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 450
+      }
+    ],
+    "1f3a8": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f3a8/u1f3a8_u1f427.png",
+        "alt": "art-penguin",
+        "leftEmoji": "🎨",
+        "leftEmojiCodepoint": "1f3a8",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 489
+      }
+    ],
+    "1f3a4": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f3a4/u1f3a4_u1f427.png",
+        "alt": "microphone-penguin",
+        "leftEmoji": "🎤",
+        "leftEmojiCodepoint": "1f3a4",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 506
+      }
+    ],
+    "1f50b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f50b/u1f50b_u1f427.png",
+        "alt": "battery-penguin",
+        "leftEmoji": "🔋",
+        "leftEmojiCodepoint": "1f50b",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 523
+      }
+    ],
+    "1faab": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1faab/u1faab_u1f427.png",
+        "alt": "low_battery-penguin",
+        "leftEmoji": "🪫",
+        "leftEmojiCodepoint": "1faab",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 524
+      }
+    ],
+    "2696-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u2696-ufe0f/u2696-ufe0f_u1f427.png",
+        "alt": "scales-penguin",
+        "leftEmoji": "⚖️",
+        "leftEmojiCodepoint": "2696-fe0f",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 530
+      }
+    ],
+    "1f9ea": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f9ea/u1f9ea_u1f427.png",
+        "alt": "test_tube-penguin",
+        "leftEmoji": "🧪",
+        "leftEmojiCodepoint": "1f9ea",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 554
+      }
+    ],
+    "1fa7a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1fa7a/u1fa7a_u1f427.png",
+        "alt": "stethoscope-penguin",
+        "leftEmoji": "🩺",
+        "leftEmojiCodepoint": "1fa7a",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 556
+      }
+    ],
+    "1f9ec": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f9ec/u1f9ec_u1f427.png",
+        "alt": "dna-penguin",
+        "leftEmoji": "🧬",
+        "leftEmojiCodepoint": "1f9ec",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 557
+      }
+    ],
+    "1f9f2": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f9f2/u1f9f2_u1f427.png",
+        "alt": "magnet-penguin",
+        "leftEmoji": "🧲",
+        "leftEmojiCodepoint": "1f9f2",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 560
+      }
+    ],
+    "1f6e0-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f6e0-ufe0f/u1f6e0-ufe0f_u1f427.png",
+        "alt": "hammer_and_wrench-penguin",
+        "leftEmoji": "🛠️",
+        "leftEmojiCodepoint": "1f6e0-fe0f",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 561
+      }
+    ],
+    "26d3-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u26d3-ufe0f/u26d3-ufe0f_u1f427.png",
+        "alt": "chains-penguin",
+        "leftEmoji": "⛓️",
+        "leftEmojiCodepoint": "26d3-fe0f",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 564
+      }
+    ],
+    "1f587-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f587-ufe0f/u1f587-ufe0f_u1f427.png",
+        "alt": "linked_paperclips-penguin",
+        "leftEmoji": "🖇️",
+        "leftEmojiCodepoint": "1f587-fe0f",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 565
+      }
+    ],
+    "1f4e6": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f4e6/u1f4e6_u1f427.png",
+        "alt": "package-penguin",
+        "leftEmoji": "📦",
+        "leftEmojiCodepoint": "1f4e6",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 578
+      }
+    ],
+    "1f5f3-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f5f3-ufe0f/u1f5f3-ufe0f_u1f427.png",
+        "alt": "ballot_box_with_ballot-penguin",
+        "leftEmoji": "🗳️",
+        "leftEmojiCodepoint": "1f5f3-fe0f",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 579
+      }
+    ],
+    "23f0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u23f0/u23f0_u1f427.png",
+        "alt": "alarm_clock-penguin",
+        "leftEmoji": "⏰",
+        "leftEmojiCodepoint": "23f0",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 584
+      }
+    ],
+    "1f198": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f198/u1f198_u1f427.png",
+        "alt": "sos-penguin",
+        "leftEmoji": "🆘",
+        "leftEmojiCodepoint": "1f198",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 610
+      }
+    ],
+    "2668-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u2668-ufe0f/u2668-ufe0f_u1f427.png",
+        "alt": "hotsprings-penguin",
+        "leftEmoji": "♨️",
+        "leftEmojiCodepoint": "2668-fe0f",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 611
+      }
+    ],
+    "267b-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u267b-ufe0f/u267b-ufe0f_u1f427.png",
+        "alt": "recycle-penguin",
+        "leftEmoji": "♻️",
+        "leftEmojiCodepoint": "267b-fe0f",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 618
+      }
+    ],
+    "1f195": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f195/u1f195_u1f427.png",
+        "alt": "new-penguin",
+        "leftEmoji": "🆕",
+        "leftEmojiCodepoint": "1f195",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 620
+      }
+    ],
+    "1f193": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f193/u1f193_u1f427.png",
+        "alt": "free-penguin",
+        "leftEmoji": "🆓",
+        "leftEmojiCodepoint": "1f193",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 621
+      }
+    ],
+    "1f199": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f199/u1f199_u1f427.png",
+        "alt": "up-penguin",
+        "leftEmoji": "🆙",
+        "leftEmojiCodepoint": "1f199",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 622
+      }
+    ],
+    "1f197": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u1f197/u1f197_u1f427.png",
+        "alt": "ok-penguin",
+        "leftEmoji": "🆗",
+        "leftEmojiCodepoint": "1f197",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 623
+      }
+    ],
+    "262f-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u262f-ufe0f/u262f-ufe0f_u1f427.png",
+        "alt": "yin_yang-penguin",
+        "leftEmoji": "☯️",
+        "leftEmojiCodepoint": "262f-fe0f",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 628
+      }
+    ],
+    "267e-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20241021/u267e-ufe0f/u267e-ufe0f_u1f427.png",
+        "alt": "infinity-penguin",
+        "leftEmoji": "♾️",
+        "leftEmojiCodepoint": "267e-fe0f",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20241021",
+        "isLatest": true,
+        "gBoardOrder": 629
+      }
+    ],
+    "1f331": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f331/u1f331_u1f427.png",
+        "alt": "seedling-penguin",
+        "leftEmoji": "🌱",
+        "leftEmojiCodepoint": "1f331",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 189
+      }
+    ],
+    "1f41e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f41e/u1f41e_u1f427.png",
+        "alt": "ladybug-penguin",
+        "leftEmoji": "🐞",
+        "leftEmojiCodepoint": "1f41e",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 274
+      }
+    ],
+    "1f345": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f345/u1f345_u1f427.png",
+        "alt": "tomato-penguin",
+        "leftEmoji": "🍅",
+        "leftEmojiCodepoint": "1f345",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 293
+      }
+    ],
+    "1f373": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f373/u1f373_u1f427.png",
+        "alt": "fried_egg-penguin",
+        "leftEmoji": "🍳",
+        "leftEmojiCodepoint": "1f373",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 317
+      }
+    ],
+    "1f94e": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f94e/u1f94e_u1f427.png",
+        "alt": "softball-penguin",
+        "leftEmoji": "🥎",
+        "leftEmojiCodepoint": "1f94e",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 445
+      }
+    ],
+    "1f3d0": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f3d0/u1f3d0_u1f427.png",
+        "alt": "volleyball-penguin",
+        "leftEmoji": "🏐",
+        "leftEmojiCodepoint": "1f3d0",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 447
+      }
+    ],
+    "1f94a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f94a/u1f94a_u1f427.png",
+        "alt": "boxing_glove-penguin",
+        "leftEmoji": "🥊",
+        "leftEmojiCodepoint": "1f94a",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 474
+      }
+    ],
+    "1f4f1": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f4f1/u1f4f1_u1f427.png",
+        "alt": "iphone-penguin",
+        "leftEmoji": "📱",
+        "leftEmojiCodepoint": "1f4f1",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 518
+      }
+    ],
+    "1f393": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f393/u1f393_u1f427.png",
+        "alt": "mortar_board-penguin",
+        "leftEmoji": "🎓",
+        "leftEmojiCodepoint": "1f393",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 544
+      }
+    ],
+    "2699-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u2699-ufe0f/u2699-ufe0f_u1f427.png",
+        "alt": "gear-penguin",
+        "leftEmoji": "⚙️",
+        "leftEmojiCodepoint": "2699-fe0f",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 563
+      }
+    ],
+    "1f4f4": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1f4f4/u1f4f4_u1f427.png",
+        "alt": "mobile_phone_off-penguin",
+        "leftEmoji": "📴",
+        "leftEmojiCodepoint": "1f4f4",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 612
+      }
+    ],
+    "2623-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u2623-ufe0f/u2623-ufe0f_u1f427.png",
+        "alt": "biohazard_sign-penguin",
+        "leftEmoji": "☣️",
+        "leftEmojiCodepoint": "2623-fe0f",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 616
+      }
+    ],
+    "1fae9": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250130/u1fae9/u1fae9_u1f427.png",
+        "alt": "face_with_bags_under_eyes-penguin",
+        "leftEmoji": "🫩",
+        "leftEmojiCodepoint": "1fae9",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20250130",
+        "isLatest": true,
+        "gBoardOrder": 96
+      }
+    ],
+    "1f44a": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250430/u1f44a/u1f44a_u1f427.png",
+        "alt": "facepunch-penguin",
+        "leftEmoji": "👊",
+        "leftEmojiCodepoint": "1f44a",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20250430",
+        "isLatest": true,
+        "gBoardOrder": 167
+      }
+    ],
+    "1f4aa": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250430/u1f4aa/u1f4aa_u1f427.png",
+        "alt": "muscle-penguin",
+        "leftEmoji": "💪",
+        "leftEmojiCodepoint": "1f4aa",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20250430",
+        "isLatest": true,
+        "gBoardOrder": 168
+      }
+    ],
+    "1f64c": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250430/u1f64c/u1f64c_u1f427.png",
+        "alt": "raised_hands-penguin",
+        "leftEmoji": "🙌",
+        "leftEmojiCodepoint": "1f64c",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20250430",
+        "isLatest": true,
+        "gBoardOrder": 169
+      }
+    ],
+    "1f64f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250430/u1f64f/u1f64f_u1f427.png",
+        "alt": "pray-penguin",
+        "leftEmoji": "🙏",
+        "leftEmojiCodepoint": "1f64f",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20250430",
+        "isLatest": true,
+        "gBoardOrder": 170
+      }
+    ],
+    "1faf5": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250430/u1faf5/u1faf5_u1f427.png",
+        "alt": "index_pointing_at_the_viewer-penguin",
+        "leftEmoji": "🫵",
+        "leftEmojiCodepoint": "1faf5",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20250430",
+        "isLatest": true,
+        "gBoardOrder": 171
+      }
+    ],
+    "1fac2": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250430/u1fac2/u1fac2_u1f427.png",
+        "alt": "people_hugging-penguin",
+        "leftEmoji": "🫂",
+        "leftEmojiCodepoint": "1fac2",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20250430",
+        "isLatest": true,
+        "gBoardOrder": 153
+      }
+    ],
+    "1f98b": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250430/u1f98b/u1f98b_u1f427.png",
+        "alt": "butterfly-penguin",
+        "leftEmoji": "🦋",
+        "leftEmojiCodepoint": "1f98b",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20250430",
+        "isLatest": true,
+        "gBoardOrder": 275
+      }
+    ],
+    "2049-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20250430/u2049-ufe0f/u2049-ufe0f_u1f427.png",
+        "alt": "interrobang-penguin",
+        "leftEmoji": "⁉️",
+        "leftEmojiCodepoint": "2049-fe0f",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20250430",
+        "isLatest": true,
+        "gBoardOrder": 609
+      }
+    ],
+    "1f3de-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20251029/u1f3de-ufe0f/u1f3de-ufe0f_u1f427.png",
+        "alt": "national_park-penguin",
+        "leftEmoji": "🏞️",
+        "leftEmojiCodepoint": "1f3de-fe0f",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20251029",
+        "isLatest": true,
+        "gBoardOrder": 212
+      }
+    ],
+    "1f3d6-fe0f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20251029/u1f3d6-ufe0f/u1f3d6-ufe0f_u1f427.png",
+        "alt": "beach_with_umbrella-penguin",
+        "leftEmoji": "🏖️",
+        "leftEmojiCodepoint": "1f3d6-fe0f",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20251029",
+        "isLatest": true,
+        "gBoardOrder": 213
+      }
+    ],
+    "1f37f": [
+      {
+        "gStaticUrl": "https://www.gstatic.com/android/keyboard/emojikitchen/20251029/u1f37f/u1f37f_u1f427.png",
+        "alt": "popcorn-penguin",
+        "leftEmoji": "🍿",
+        "leftEmojiCodepoint": "1f37f",
+        "rightEmoji": "🐧",
+        "rightEmojiCodepoint": "1f427",
+        "date": "20251029",
+        "isLatest": true,
+        "gBoardOrder": 376
+      }
+    ]
+  }
+}
