@@ -1,7 +1,7 @@
 // We need the specific us-east-1 cert for CloudFront
 data "aws_acm_certificate" "cloudfront_acm_cert" {
   provider = aws.us-east-1
-  domain   = "backend.emojikitchen.dev"
+  domain   = "*.emojikitchen.dev"
 }
 
 resource "aws_cloudfront_distribution" "instance" {
