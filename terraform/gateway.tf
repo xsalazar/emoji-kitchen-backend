@@ -1,7 +1,11 @@
+locals {
+  api_gateway_origin_id = "emoji-kitchen-api-gateway-origin-id"
+}
+
 resource "aws_apigatewayv2_api" "instance" {
   name                         = "emoji-kitchen-api-gateway"
   protocol_type                = "HTTP"
-  disable_execute_api_endpoint = true
+  disable_execute_api_endpoint = false // required for CloudFront to call this directly
 
   cors_configuration {
     allow_origins = ["https://emojikitchen.dev"]
