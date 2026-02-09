@@ -23,11 +23,12 @@ resource "aws_cloudfront_distribution" "instance" {
 
   // Default to forward to API Gateway
   default_cache_behavior {
-    allowed_methods        = ["GET", "HEAD"] // lol
-    cache_policy_id        = aws_cloudfront_cache_policy.instance.id
-    cached_methods         = ["GET", "HEAD"]
-    target_origin_id       = local.api_gateway_origin_id
-    viewer_protocol_policy = "allow-all"
+    allowed_methods            = ["GET", "HEAD"] // lol
+    cache_policy_id            = aws_cloudfront_cache_policy.instance.id
+    cached_methods             = ["GET", "HEAD"]
+    response_headers_policy_id = aws_cloudfront_response_headers_policy.instance.id
+    target_origin_id           = local.api_gateway_origin_id
+    viewer_protocol_policy     = "allow-all"
   }
 
   restrictions {
@@ -81,7 +82,7 @@ resource "aws_cloudfront_response_headers_policy" "instance" {
     }
 
     access_control_allow_origins {
-      items = ["backend.emojikitchen.dev"]
+      items = ["emojikitchen.dev"]
     }
   }
 }
