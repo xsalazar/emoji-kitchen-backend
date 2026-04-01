@@ -22,16 +22,6 @@ provider "aws" {
   }
 }
 
-provider "aws" {
-  region = "us-east-1"
-  alias  = "us-east-1"
-  default_tags {
-    tags = {
-      CreatedBy = "terraform"
-    }
-  }
-}
-
 output "lambda_function" {
   value = aws_lambda_function.instance.function_name
 }
