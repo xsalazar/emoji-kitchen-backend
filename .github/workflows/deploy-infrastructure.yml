@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  Bootstrap:
+  deploy-infrastructure:
     name: Deploy Infrastructure
     runs-on: ubuntu-latest
 

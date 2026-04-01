@@ -3,7 +3,7 @@ terraform {
   required_providers {
     aws = {
       source  = "hashicorp/aws"
-      version = "~> 5.81.0"
+      version = "~> 6.34.0"
     }
   }
   backend "s3" {
@@ -34,16 +34,4 @@ provider "aws" {
 
 output "lambda_function" {
   value = aws_lambda_function.instance.function_name
-}
-
-output "search_api_lambda_function" {
-  value = aws_lambda_function.search_api.function_name
-}
-
-output "supported_emoji_api_lambda_function" {
-  value = aws_lambda_function.supported_emoji_api.function_name
-}
-
-output "emoji_api_lambda_function" {
-  value = aws_lambda_function.emoji_api.function_name
 }
