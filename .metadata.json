@@ -1,0 +1,7 @@
+{
+  "dependabot": true,
+  "devContainers": true,
+  "nodeVersion": 24,
+  "terraformVersion": "1.10.2",
+  "terraformAwsVersion": "6.34.0"
+}
